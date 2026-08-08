@@ -15,6 +15,8 @@ const state = {
 
 const $ = (id) => document.getElementById(id);
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const EMOJI_RE = /[\u{1F000}-\u{1FAFF}\u{2600}-\u{27BF}\u{2190}-\u{21FF}\u{FE0F}]/gu;
+const deEmoji = (s) => String(s ?? "").replace(EMOJI_RE, "");
 
 const ROLE_LABEL = { AI: "AI", SWE: "SWE", IT: "IT", other: "Lain" };
 const TYPE_LABEL = { full: "Full-time", intern: "Magang", contract: "Kontrak", part: "Part-time" };
@@ -35,7 +37,6 @@ async function load() {
     $("resultText").textContent = "Gagal memuat data: " + e.message;
     return;
   }
-  // populate source dropdown
   const sources = [...new Set(state.jobs.map((j) => j.source))].sort();
   const sel = $("fSource");
   sources.forEach((s) => {
@@ -44,7 +45,7 @@ async function load() {
     o.textContent = s;
     sel.appendChild(o);
   });
-  $("totalCount").textContent = state.jobs.length + " lowongan";
+  $("totalCount").textContent = state.jobs.length;
   render();
 }
 
@@ -68,7 +69,6 @@ function matches(j) {
 function score(j) {
   if (state.sort === "title") return 0;
   if (state.sort === "salary") return j.salary ? 1 : 0;
-  // relevance: keyword hits in title/company weigh more
   if (state.q) {
     const q = state.q.toLowerCase();
     const title = j.title.toLowerCase();
@@ -79,7 +79,6 @@ function score(j) {
     if ((j.description || "").toLowerCase().includes(q)) s += 1;
     return s;
   }
-  // default: AI/SWE/IT prioritized, then salary, then foreign last
   let s = 0;
   if (j.role === "AI") s += 3;
   else if (j.role === "SWE") s += 2;
@@ -106,17 +105,22 @@ function render() {
 
   for (const j of list) {
     const n = tpl.content.cloneNode(true);
-    n.querySelector(".role-badge").textContent = ROLE_LABEL[j.role] || "Lain";
-    n.querySelector(".role-badge").classList.add(j.role || "other");
+    n.querySelector(".role-label").textContent = ROLE_LABEL[j.role] || "Lain";
     n.querySelector(".card-source").textContent = j.source;
-    n.querySelector(".card-title").textContent = j.title;
-    n.querySelector(".meta-company").textContent = j.company || "—";
-    const loc = j.location || "Lokasi tak tercantum";
+    n.querySelector(".card-title").textContent = deEmoji(j.title);
+    n.querySelector(".meta-company").textContent = deEmoji(j.company || "Perusahaan tak tercantum");
+    const loc = deEmoji(j.location || "Lokasi tak tercantum");
     n.querySelector(".meta-loc").textContent = loc;
-    const sal = n.querySelector(".salary-row");
-    if (j.salary) sal.textContent = "💰 " + j.salary; else sal.remove();
 
-    const desc = stripHtml(j.description);
+    const sal = n.querySelector(".salary-row");
+    if (j.salary) {
+      sal.textContent = deEmoji(j.salary);
+    } else {
+      sal.classList.add("none");
+      sal.textContent = "gaji tak dicantumkan";
+    }
+
+    const desc = deEmoji(stripHtml(j.description));
     const dEl = n.querySelector(".card-desc");
     if (desc) dEl.textContent = desc; else dEl.remove();
 
@@ -124,32 +128,22 @@ function render() {
     (j.tags || []).slice(0, 5).forEach((t) => {
       const s = document.createElement("span");
       s.className = "tag";
-      s.textContent = t;
+      s.textContent = deEmoji(t);
       tagWrap.appendChild(s);
     });
     if (!(j.tags || []).length) tagWrap.remove();
 
     const btn = n.querySelector(".btn-apply");
     btn.href = j.url || "#";
-    if (!j.url) btn.removeEventListener;
 
-    const chips = n.querySelector(".card-chips");
+    const chips = n.querySelector(".card-meta-chip");
     if (j.remote_ok) {
-      const c = document.createElement("span");
-      c.className = "mini-chip remote";
-      c.textContent = "Remote";
-      chips.appendChild(c);
+      chips.appendChild(Object.assign(document.createElement("span"), { textContent: "Remote" }));
     } else if (j.is_foreign) {
-      const c = document.createElement("span");
-      c.className = "mini-chip foreign";
-      c.textContent = "Luar negeri";
-      chips.appendChild(c);
+      chips.appendChild(Object.assign(document.createElement("span"), { textContent: "Luar negeri" }));
     }
     if (j.job_type && j.job_type !== "full") {
-      const c = document.createElement("span");
-      c.className = "mini-chip";
-      c.textContent = TYPE_LABEL[j.job_type] || j.job_type;
-      chips.appendChild(c);
+      chips.appendChild(Object.assign(document.createElement("span"), { textContent: TYPE_LABEL[j.job_type] || j.job_type }));
     }
     if (!chips.children.length) chips.remove();
 
@@ -157,7 +151,6 @@ function render() {
   }
 }
 
-// wire up controls
 $("q").addEventListener("input", (e) => { state.q = e.target.value.trim(); render(); });
 
 document.querySelectorAll("#roleChips .chip").forEach((c) => {
@@ -183,7 +176,7 @@ $("fSalary").addEventListener("change", (e) => { state.salaryOnly = e.target.che
 $("fSource").addEventListener("change", (e) => { state.source = e.target.value; render(); });
 $("sort").addEventListener("change", (e) => { state.sort = e.target.value; render(); });
 
-$("resetFilters").addEventListener("click", () => {
+function resetFilters() {
   state.q = ""; state.roles.clear(); state.types.clear();
   state.remote = state.foreign = state.local = state.salaryOnly = false;
   state.source = ""; state.sort = "relevance";
@@ -193,9 +186,10 @@ $("resetFilters").addEventListener("click", () => {
   $("fSource").value = "";
   $("sort").value = "relevance";
   render();
-});
+}
+$("resetFilters").addEventListener("click", resetFilters);
+$("emptyReset").addEventListener("click", resetFilters);
 
-// mobile drawer
 $("openFilters").addEventListener("click", () => { $("sidebar").classList.add("open"); $("mask").classList.add("show"); });
 $("filtersClose").addEventListener("click", closeDrawer);
 $("mask").addEventListener("click", closeDrawer);

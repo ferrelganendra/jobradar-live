@@ -3,36 +3,31 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>JobRadar.ID — Radar Lowongan Kerja</title>
+<title>JobRadar — Radar Lowongan Kerja</title>
 <link rel="stylesheet" href="style.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
 <header class="topbar">
-  <div class="brand">
-    <span class="brand-mark">◈</span>
-    <span class="brand-name">Job<span>Radar</span>.ID</span>
-  </div>
+  <div class="brand">JobRadar</div>
   <div class="topbar-right">
-    <span class="live-badge"><span class="dot"></span> Live</span>
-    <span id="totalCount" class="total-count">0 lowongan</span>
+    <span class="live-count"><span id="totalCount">0</span> lowongan</span>
   </div>
 </header>
 
 <div class="layout">
   <aside class="sidebar" id="sidebar">
     <button class="filters-close" id="filtersClose" aria-label="Tutup filter">&times;</button>
-    <div class="filters-head">Filter</div>
 
     <div class="filter-group">
-      <label class="filter-label">Cari</label>
-      <input type="search" id="q" class="input" placeholder="Judul, perusahaan, skill…" autocomplete="off">
+      <label class="filter-label" for="q">Cari</label>
+      <input type="search" id="q" class="input" placeholder="Judul, perusahaan, skill" autocomplete="off">
     </div>
 
     <div class="filter-group">
-      <label class="filter-label">Kategori</label>
+      <span class="filter-label">Kategori</span>
       <div class="chips" id="roleChips">
         <button class="chip" data-role="AI">AI</button>
         <button class="chip" data-role="SWE">SWE</button>
@@ -42,7 +37,7 @@
     </div>
 
     <div class="filter-group">
-      <label class="filter-label">Tipe</label>
+      <span class="filter-label">Tipe</span>
       <div class="chips" id="typeChips">
         <button class="chip" data-type="full">Full</button>
         <button class="chip" data-type="intern">Magang</button>
@@ -52,26 +47,26 @@
     </div>
 
     <div class="filter-group">
-      <label class="filter-label">Lokasi</label>
-      <label class="check"><input type="checkbox" id="fRemote"><span>Remote / WFH</span></label>
+      <span class="filter-label">Lokasi</span>
+      <label class="check"><input type="checkbox" id="fRemote"><span>Remote</span></label>
       <label class="check"><input type="checkbox" id="fForeign"><span>Luar negeri</span></label>
       <label class="check"><input type="checkbox" id="fLocal"><span>Indonesia</span></label>
     </div>
 
     <div class="filter-group">
-      <label class="filter-label">Gaji tercantum</label>
-      <label class="check"><input type="checkbox" id="fSalary"><span>Yang ada gajinya aja</span></label>
+      <span class="filter-label">Gaji</span>
+      <label class="check"><input type="checkbox" id="fSalary"><span>Gaji tercantum</span></label>
     </div>
 
     <div class="filter-group">
-      <label class="filter-label">Sumber</label>
+      <label class="filter-label" for="fSource">Sumber</label>
       <select id="fSource" class="input">
         <option value="">Semua sumber</option>
       </select>
     </div>
 
     <div class="filter-group">
-      <label class="filter-label">Urutkan</label>
+      <label class="filter-label" for="sort">Urutkan</label>
       <select id="sort" class="input">
         <option value="relevance">Relevansi</option>
         <option value="salary">Gaji dulu</option>
@@ -86,22 +81,26 @@
 
   <main class="main">
     <div class="results-bar">
-      <button class="btn-filter" id="openFilters">☰ Filter</button>
+      <button class="btn-filter" id="openFilters">Filter</button>
       <span id="resultText">Memuat…</span>
     </div>
     <div id="cards" class="cards"></div>
     <div id="empty" class="empty" hidden>
-      <div class="empty-icon">◌</div>
-      <p><b>Tidak ada hasil</b></p>
+      <p class="empty-label">Tidak ada hasil</p>
       <p class="muted">Coba ubah atau reset filter.</p>
+      <button class="empty-reset" id="emptyReset">Reset filter</button>
     </div>
   </main>
 </div>
 
+<footer class="footer">
+  <span>JobRadar · data dikumpulkan otomatis dari berbagai sumber lowongan</span>
+</footer>
+
 <template id="cardTpl">
   <article class="card">
     <div class="card-top">
-      <span class="role-badge"></span>
+      <span class="role-label"></span>
       <span class="card-source"></span>
     </div>
     <h3 class="card-title"></h3>
@@ -113,8 +112,8 @@
     <p class="card-desc"></p>
     <div class="card-tags"></div>
     <div class="card-foot">
-      <a class="btn-apply" target="_blank" rel="noopener">Lihat &amp; Lamar ↗</a>
-      <div class="card-chips"></div>
+      <a class="btn-apply" target="_blank" rel="noopener">Lihat &amp; Lamar</a>
+      <div class="card-meta-chip"></div>
     </div>
   </article>
 </template>
