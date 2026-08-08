@@ -106,9 +106,10 @@ def main() -> None:
             lines.append(f"<b>{icon} {group_name}</b>")
             for j in group:
                 loc = j.get("location") or "—"
+                sal = f"💰 {j['salary']}  " if j.get("salary") else ""
                 lines.append(
                     f"• <b>{j['title'][:50]}</b> — {j['company'][:25]}\n"
-                    f"  {tag(j)}{loc[:40]} · <a href=\"{j['url']}\">buka</a>"
+                    f"  {tag(j)}{sal}{loc[:40]} · <a href=\"{j['url']}\">buka</a>"
                 )
             lines.append("")
 

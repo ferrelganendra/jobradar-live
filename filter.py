@@ -38,9 +38,37 @@ def _clean_location(loc) -> str:
     return s
 
 
+def _extract_salary(job: dict) -> str:
+    """Pull salary from description/requirements if not already populated. Returns formatted string."""
+    if job.get("salary"):
+        return str(job["salary"])
+    text = " ".join([
+        job.get("description", ""), job.get("requirements", ""),
+        job.get("title", ""), job.get("location", ""), str(job.get("tags", "")),
+    ])
+    if not text:
+        return ""
+    # Rp 5-8 juta / Rp5.000.000 - Rp8.000.000 / Rp 12 jt
+    m = re.search(r"Rp\s?([\d.,]+[\s\-to–]+[\d.,]+\s?(juta|jt|j|rb|ribu|k)?|[\d.,]+\s?(juta|jt|j)\b)", text, re.I)
+    if m:
+        return "Rp " + re.sub(r"\s+", " ", m.group(1)).strip()
+    # USD/EUR/GBP: $120k / $80k-$120k / €70k / £50k / $30,000 / €60,000-€90,000
+    # only accept ranges, 'k'/'K', or comma-separated amounts (>=1000) — avoids grabbing stray years/IDs
+    m = re.search(r"([$€£])\s?(\d[\d,.]*(?:k|K)?)(?:\s?[-–]\s?([$€£]?\s?\d[\d,.]*(?:k|K)?))?\s?(/yr|/year|per year|per annum)?", text)
+    if m and (m.group(3) or "k" in m.group(2).lower() or "," in m.group(2)):
+        cur = {"$": "USD", "€": "EUR", "£": "GBP"}[m.group(1)]
+        amt = re.sub(r"\s+", "", m.group(2))
+        if m.group(3):
+            amt += "-" + re.sub(r"\s+", "", m.group(3))
+        return f"{cur} {amt} {m.group(4) or ''}".rstrip()
+    return ""
+
+
 def classify(job: dict) -> dict:
     """Return job with added: is_it, role (AI/SWE/IT), is_remote, id_city."""
     job["location"] = _clean_location(job.get("location", ""))
+    if not job.get("salary"):
+        job["salary"] = _extract_salary(job)
     tags = job.get("tags", [])
     if isinstance(tags, list):
         tags = " ".join(tags)
