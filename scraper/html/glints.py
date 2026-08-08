@@ -1,13 +1,44 @@
 """Glints job board (SPA, Playwright render)."""
 from bs4 import BeautifulSoup
+import re
 from ..renderer import render
 from ..base import BaseScraper
 
 URL = "https://glints.com/id/opportunities/jobs/explore?keyword=AI%20Engineer&countryName=INDONESIA&page=1"
 
+# boilerplate to strip from detail page text
+SKIP = ["Lowongan Kerja", "PERUSAHAAN", "Blog", "Unduh App Glints", "bahasa"]
+
 
 class GlintsScraper(BaseScraper):
     source = "glints"
+
+    def fetch_detail(self, url: str) -> dict:
+        """Render job detail page, extract description/salary/location."""
+        try:
+            html = render(url, wait_for="body", wait_ms=6000)
+        except Exception:
+            return {}
+        soup = BeautifulSoup(html, "lxml")
+        text = soup.get_text("\n", strip=True)
+        # salary: look for Rp xx or xxjt
+        salary = ""
+        m = re.search(r"Rp\s?[\d.,]+(?:\s?-\s?[\d.,]+)?\s?(?:jt|juta|rb|ribu)?", text) or \
+            re.search(r"[\d.,]+\s?-\s?[\d.,]+\s?jt", text)
+        if m:
+            salary = m.group(0)
+        # location: look for known city words
+        loc = ""
+        for city in ["Jakarta", "Bandung", "Surabaya", "Yogyakarta", "Tangsel",
+                     "Tangerang", "Bekasi", "Depok", "Semarang", "Malang", "Medan"]:
+            if city in text:
+                loc = city
+                break
+        return {
+            "description": text[:3000],
+            "salary": salary,
+            "location": loc,
+        }
 
     def fetch_jobs(self) -> list[dict]:
         html = render(URL, wait_for="a[href*='/opportunities/jobs']")

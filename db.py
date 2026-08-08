@@ -15,6 +15,9 @@ CREATE TABLE IF NOT EXISTS jobs (
     salary TEXT,
     tags TEXT,
     remote INTEGER,
+    description TEXT DEFAULT '',
+    requirements TEXT DEFAULT '',
+    benefits TEXT DEFAULT '',
     created_at TEXT DEFAULT (datetime('now'))
 );
 """
@@ -24,6 +27,14 @@ def connect() -> sqlite3.Connection:
     conn = sqlite3.connect(DB_PATH)
     conn.execute(SCHEMA)
     return conn
+
+
+def existing_urls(source: str) -> set:
+    """Return set of canonical URLs already in DB for a source."""
+    conn = connect()
+    rows = conn.execute("SELECT url FROM jobs WHERE source=?", (source,)).fetchall()
+    conn.close()
+    return {r[0] for r in rows}
 
 
 def upsert_jobs(jobs: list[dict]) -> tuple[int, int, list[dict]]:
@@ -36,11 +47,13 @@ def upsert_jobs(jobs: list[dict]) -> tuple[int, int, list[dict]]:
         url = j["url"].split("?")[0]
         try:
             conn.execute(
-                """INSERT INTO jobs (source, title, company, location, url, salary, tags, remote)
-                   VALUES (?,?,?,?,?,?,?,?)""",
+                """INSERT INTO jobs (source, title, company, location, url, salary, tags, remote, description, requirements, benefits)
+                   VALUES (?,?,?,?,?,?,?,?,?,?,?)""",
                 (j["source"], j["title"], j["company"], j["location"],
                  url, j.get("salary", ""), ",".join(j.get("tags", [])),
-                 1 if j.get("remote") else 0),
+                 1 if j.get("remote") else 0,
+                 j.get("description", ""), j.get("requirements", ""),
+                 j.get("benefits", "")),
             )
             added += 1
             new_jobs.append(j)

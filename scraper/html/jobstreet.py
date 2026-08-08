@@ -10,6 +10,30 @@ URL = "https://www.jobstreet.co.id/jobs?keywords=AI%20Engineer"
 class JobstreetScraper(BaseScraper):
     source = "jobstreet"
 
+    def fetch_detail(self, url: str) -> dict:
+        """Render job detail page, extract description/salary/location."""
+        try:
+            html = render(url, wait_for="body", wait_ms=6000)
+        except Exception:
+            return {}
+        soup = BeautifulSoup(html, "lxml")
+        text = soup.get_text("\n", strip=True)
+        salary = ""
+        m = re.search(r"Rp\s?[\d.,]+(?:\s*[-–]\s*[\d.,]+)?", text)
+        if m:
+            salary = m.group(0)
+        loc = ""
+        for city in ["Jakarta", "Bandung", "Surabaya", "Yogyakarta", "Tangsel",
+                     "Tangerang", "Bekasi", "Depok", "Semarang", "Malang", "Medan"]:
+            if city in text:
+                loc = city
+                break
+        return {
+            "description": text[:3000],
+            "salary": salary,
+            "location": loc,
+        }
+
     def fetch_jobs(self) -> list[dict]:
         html = render(URL, wait_for="body", wait_ms=8000)
         soup = BeautifulSoup(html, "lxml")

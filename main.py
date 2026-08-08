@@ -14,8 +14,11 @@ from scraper.html.wwr import WWRScraper
 from scraper.html.glints import GlintsScraper
 from scraper.html.jobstreet import JobstreetScraper
 from filter import filter_jobs
-from db import upsert_jobs
+from db import upsert_jobs, existing_urls
 from notifier import send
+
+# scrapers that can fetch rich detail from a per-job page
+DETAIL_SOURCES = {"glints": None, "jobstreet": None}  # filled after import
 
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "out")
 # (class, enabled) — WWR disabled (selector broken), Kalibrr login-wall
@@ -40,9 +43,29 @@ def run() -> tuple[list[dict], dict]:
     return all_jobs, counts
 
 
+def enrich_details(jobs: list[dict]) -> list[dict]:
+    """For new jobs from detail-capable sources, fetch description/salary/location."""
+    for cls, enabled in ALL_SCRAPERS:
+        if not enabled or not hasattr(cls, "fetch_detail"):
+            continue
+        scraper = cls()
+        known = existing_urls(cls.source)
+        for j in jobs:
+            if j["source"] != cls.source:
+                continue
+            path = j["url"].split("?")[0]
+            if path in known:
+                continue  # already scraped detail before
+            det = scraper.fetch_detail(j["url"])
+            if det:
+                j.update(det)
+    return jobs
+
+
 def main() -> None:
     os.makedirs(OUT, exist_ok=True)
     raw_jobs, counts = run()
+    raw_jobs = enrich_details(raw_jobs)
     classified = filter_jobs(raw_jobs)
     total, added, new_jobs = upsert_jobs(classified)
 
