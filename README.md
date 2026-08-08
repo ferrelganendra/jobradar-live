@@ -4,7 +4,7 @@ Aggregator lowongan kerja Indonesia + remote, fokus **AI Engineer / Machine Lear
 
 ## Fitur
 
-- **6 sumber** aktif: Remotive, Arbeitnow, RemoteOK, Jobicy, HN Who's Hiring, Glints (playwright)
+- **7 sumber** aktif: Remotive, Arbeitnow, RemoteOK, Jobicy, HN Who's Hiring, Glints, JobStreet (playwright)
 - **Filter target** — klasifikasi otomatis per job: `role` (AI / SWE / other), `remote_ok`, `id_city`
 - **Dedup anti-spam** — normalisasi URL (strip query param) + UNIQUE constraint
 - **SQLite** — riwayat job, ga dobel
@@ -19,7 +19,7 @@ loker-agg/
 │   ├── base.py            # fetch + UA rotation + retry/backoff
 │   ├── renderer.py        # Playwright SPA renderer (Glints)
 │   ├── api/               # API legal: remotive, arbeitnow, remoteok, jobicy, hn
-│   └── html/              # HTML: glints (playwright), wwr (selector broken)
+│   └── html/              # HTML: glints, jobstreet (playwright), wwr (broken)
 ├── filter.py              # keyword classifier AI/SWE/remote/kota
 ├── db.py                  # SQLite + dedup
 ├── notifier.py            # Telegram send
@@ -43,8 +43,8 @@ python main.py
 ## Catatan sumber
 
 - **API legal**: Remotive, Arbeitnow, RemoteOK, Jobicy, HN — 0 risiko
-- **Scrape abu-abu**: Glints (robots longgar, butuh playwright)
-- **Skip**: Kalibrr (login-wall), WWR (selector rusak), LinkedIn/JobStreet/Indeed (ToS melarang)
+- **Scrape abu-abu**: Glints, JobStreet (robots longgar / listing accessible, butuh playwright)
+- **Skip**: Kalibrr (login-wall), WWR (selector rusak), LinkedIn/Indeed (ToS melarang)
 
 ## Roadmap
 

@@ -12,6 +12,7 @@ from scraper.api.jobicy import JobicyScraper
 from scraper.api.hn import HNScraper
 from scraper.html.wwr import WWRScraper
 from scraper.html.glints import GlintsScraper
+from scraper.html.jobstreet import JobstreetScraper
 from filter import filter_jobs
 from db import upsert_jobs
 from notifier import send
@@ -21,7 +22,7 @@ OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "out")
 ALL_SCRAPERS = [
     (RemotiveScraper, True), (ArbeitnowScraper, True), (RemoteOKScraper, True),
     (JobicyScraper, True), (HNScraper, True), (WWRScraper, False),
-    (GlintsScraper, True),
+    (GlintsScraper, True), (JobstreetScraper, True),
 ]
 
 
