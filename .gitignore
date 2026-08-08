@@ -1,0 +1,11 @@
+# secrets
+.env
+# runtime
+loker.db
+out/
+__pycache__/
+*.pyc
+.venv/
+# scratch
+_*.txt
+_*.json
