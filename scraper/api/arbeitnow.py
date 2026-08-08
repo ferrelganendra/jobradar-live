@@ -11,7 +11,12 @@ class ArbeitnowScraper(BaseScraper):
         r = fetch(API)
         data = r.json().get("data", [])
         jobs = []
+        seen = set()
         for j in data:
+            url = j.get("url", "") or f"{j.get('title','')}-{jobs}"
+            if url in seen:
+                continue
+            seen.add(url)
             jobs.append({
                 "source": self.source,
                 "title": j.get("title", "").strip(),
