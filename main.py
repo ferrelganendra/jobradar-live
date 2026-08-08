@@ -14,7 +14,7 @@ from scraper.html.wwr import WWRScraper
 from scraper.html.glints import GlintsScraper
 from scraper.html.jobstreet import JobstreetScraper
 from filter import filter_jobs
-from db import upsert_jobs, existing_urls
+from db import upsert_jobs, existing_urls, fix_placeholder_titles
 from notifier import send
 
 # scrapers that can fetch rich detail from a per-job page
@@ -68,6 +68,7 @@ def main() -> None:
     raw_jobs = enrich_details(raw_jobs)
     classified = filter_jobs(raw_jobs)
     total, added, new_jobs = upsert_jobs(classified)
+    fixed = fix_placeholder_titles(raw_jobs)
 
     with open(os.path.join(OUT, "jobs.json"), "w") as f:
         json.dump(classified, f, indent=2, ensure_ascii=False)
@@ -75,7 +76,7 @@ def main() -> None:
     targets = [j for j in classified if j["is_target"]]
     print(f"per-source: {counts}")
     print(f"raw: {len(raw_jobs)} | classified: {len(classified)} | target(AI/SWE): {len(targets)}")
-    print(f"DB total: {total} rows | new added this run: {added}")
+    print(f"DB total: {total} rows | new added this run: {added} | titles fixed: {fixed}")
 
     # Telegram: notify only NEW target jobs (AI/SWE) actually added this run
     new_targets = [j for j in new_jobs if j.get("is_target")]

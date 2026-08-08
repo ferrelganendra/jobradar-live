@@ -50,18 +50,24 @@ class GlintsScraper(BaseScraper):
             if "/opportunities/jobs/" not in href or href in seen:
                 continue
             seen.add(href)
-            title_el = a.select_one(".job-title, [class*='title']")
-            comp_el = a.select_one(".company, [class*='company']")
-            loc_el = a.select_one(".job-location, [class*='location']")
+            title = a.get_text(strip=True)
+            # salary: sibling span of the h2 (e.g. 'Rp 6-8jt')
+            salary = ""
+            h2 = a.parent
+            if h2:
+                for sib in h2.find_next_siblings():
+                    if sib.name == "span":
+                        salary = sib.get_text(strip=True)
+                        break
             url = href if href.startswith("http") else "https://glints.com" + href
             jobs.append({
                 "source": self.source,
-                "title": title_el.get_text(strip=True) if title_el else "?",
-                "company": comp_el.get_text(strip=True) if comp_el else "",
-                "location": loc_el.get_text(strip=True) if loc_el else "",
+                "title": title,
+                "company": "",
+                "location": "",
                 "url": url,
-                "salary": "",
+                "salary": salary,
                 "tags": [],
-                "remote": "remote" in url.lower() or (loc_el and "remote" in loc_el.get_text().lower()),
+                "remote": "remote" in (title + " " + salary).lower(),
             })
         return jobs

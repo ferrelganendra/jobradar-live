@@ -37,6 +37,26 @@ def existing_urls(source: str) -> set:
     return {r[0] for r in rows}
 
 
+def fix_placeholder_titles(jobs: list[dict]) -> int:
+    """Update rows whose title is '?' with the fresh scraped title. Returns updated."""
+    conn = connect()
+    updated = 0
+    for j in jobs:
+        if j.get("title") and j["title"] != "?":
+            url = j["url"].split("?")[0]
+            cur = conn.execute(
+                "SELECT COUNT(*) FROM jobs WHERE url=? AND title='?'", (url,)
+            ).fetchone()[0]
+            if cur:
+                conn.execute(
+                    "UPDATE jobs SET title=? WHERE url=?", (j["title"], url)
+                )
+                updated += 1
+    conn.commit()
+    conn.close()
+    return updated
+
+
 def upsert_jobs(jobs: list[dict]) -> tuple[int, int, list[dict]]:
     """Insert new jobs, skip duplicates. Returns (total_rows, new_added, new_jobs)."""
     conn = connect()
