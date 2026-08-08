@@ -78,7 +78,8 @@ def upsert_jobs(jobs: list[dict]) -> tuple[int, int, list[dict]]:
             added += 1
             new_jobs.append(j)
         except sqlite3.IntegrityError:
-            pass  # duplicate (source,url)
+            # duplicate (source,url): refresh location (may have been noise earlier)
+            conn.execute("UPDATE jobs SET location=? WHERE url=?", (j.get("location", ""), url))
     conn.commit()
     total = conn.execute("SELECT COUNT(*) FROM jobs").fetchone()[0]
     conn.close()

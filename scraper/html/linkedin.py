@@ -31,8 +31,10 @@ class LinkedinScraper(BaseScraper):
             comp_el = li.select_one(".base-search-card__subtitle")
             meta_el = li.select_one(".base-search-card__metadata")
             meta = meta_el.get_text(" ", strip=True) if meta_el else ""
-            # remove 'Be an early applicant' / 'X ago' noise from location
-            loc = re.sub(r"(Be an early applicant|ago|today|week|day|hour)", "", meta, flags=re.I).strip().strip(",").strip()
+            # remove trailing time-ago ("2 s", "5 m", "1 w") and applicant noise
+            loc = re.sub(r"\s*\b\d+\s?[smhdwy]\b\s*", " ", meta, flags=re.I)
+            loc = re.sub(r"(Be an early applicant|Actively Hiring|\b\d+\s?(years?|weeks?|months?|days?|hours?|minutes?|seconds?)\s?ago)", "", loc, flags=re.I)
+            loc = re.sub(r"\s+", " ", loc).strip().strip(",").strip()
             jobs.append({
                 "source": self.source,
                 "title": a.get_text(strip=True),

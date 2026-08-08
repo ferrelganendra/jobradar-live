@@ -27,8 +27,20 @@ ID_CITIES = ["jakarta", "tangsel", "tangerang", "bekasi", "depok", "bandung",
 REMOTE_WORDS = ["remote", "work from home", "wfh", "hybrid", "fully remote"]
 
 
+def _clean_location(loc) -> str:
+    """Strip trailing time-ago / applicant / hiring noise from a location string."""
+    if not loc:
+        return ""
+    s = str(loc)
+    s = re.sub(r"\s*\b\d+\s?[smhdwy]\b\s*", " ", s, flags=re.I)
+    s = re.sub(r"(Be an early applicant|Actively Hiring|\b\d+\s?(years?|weeks?|months?|days?|hours?|minutes?|seconds?)\s?ago)", "", s, flags=re.I)
+    s = re.sub(r"\s+", " ", s).strip().strip(",").strip()
+    return s
+
+
 def classify(job: dict) -> dict:
     """Return job with added: is_it, role (AI/SWE/IT), is_remote, id_city."""
+    job["location"] = _clean_location(job.get("location", ""))
     tags = job.get("tags", [])
     if isinstance(tags, list):
         tags = " ".join(tags)
