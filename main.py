@@ -79,19 +79,36 @@ def main() -> None:
     print(f"raw: {len(raw_jobs)} | classified: {len(classified)} | IT: {len(targets)}")
     print(f"DB total: {total} rows | new added this run: {added} | titles fixed: {fixed}")
 
-    # Telegram: notify all NEW IT jobs, tagged by role (AI/SWE/IT)
+    # Telegram: notify ALL new IT jobs, tagged role + remote/type/foreign labels
     new_it = [j for j in new_jobs if j.get("is_it")]
     if new_it:
         role_icon = {"AI": "🤖", "SWE": "💻", "IT": "🖥"}
         ai_n = sum(1 for j in new_it if j.get("role") == "AI")
         swe_n = sum(1 for j in new_it if j.get("role") == "SWE")
-        lines = [f"🔔 {len(new_it)} loker IT baru (AI {ai_n} / SWE {swe_n} / IT {len(new_it)-ai_n-swe_n})"] + [
-            f"{role_icon.get(j.get('role'),'•')} {j['title'][:55]} — {j['company'][:25]}\n  {j['location'][:35]}\n  {j['url']}"
-            for j in new_it[:10]
-        ]
-        if len(new_it) > 10:
-            lines.append(f"…+{len(new_it)-10} lagi")
-        send("\n".join(lines))
+        type_icon = {"intern": "🎓", "contract": "📄", "part": "⏱", "full": "🕐"}
+        lines = [f"🔔 {len(new_it)} loker IT baru (AI {ai_n} / SWE {swe_n} / IT {len(new_it)-ai_n-swe_n})"]
+        for j in new_it:
+            t = j.get("job_type", "full")
+            tag = type_icon.get(t, "🕐")
+            if j.get("remote_ok"):
+                tag += "🌍"
+            elif j.get("is_foreign"):
+                tag += "🌐"
+            title = j["title"][:55]
+            lines.append(
+                f"{role_icon.get(j.get('role'),'•')} {tag} {title}\n"
+                f"  {j['company'][:25]} • {j['location'][:35]}\n"
+                f"  {j['url']}"
+            )
+        # Telegram hard limit ~4096 chars; batch ~12 jobs per message
+        batch = []
+        for l in lines:
+            batch.append(l)
+            if sum(len(x) for x in batch) > 3500:
+                send("\n".join(batch))
+                batch = []
+        if batch:
+            send("\n".join(batch))
 
 
 if __name__ == "__main__":

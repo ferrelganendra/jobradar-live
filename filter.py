@@ -41,10 +41,19 @@ def classify(job: dict) -> dict:
     it = ai or swe or any(k in text for k in OTHER_IT_KEYWORDS)
     remote = any(k in text for k in REMOTE_WORDS) or bool(job.get("remote"))
     id_city = next((c for c in ID_CITIES if c in text), None)
+    # job type: intern / contract / part-time / full-time (default)
+    jt = ("intern" if any(k in text for k in ["intern", "magang", "trainee", "internship"])
+          else "contract" if any(k in text for k in ["contract", "kontrak", "freelance", "project-based"])
+          else "part" if any(k in text for k in ["part-time", "paruh waktu"])
+          else "full")
+    # is_foreign: no ID city mention AND not remote
+    foreign = (not id_city) and "indonesia" not in text and "jakarta" not in text and "remote" not in text
     job["is_it"] = it
     job["role"] = "AI" if ai else ("SWE" if swe else ("IT" if it else "other"))
     job["remote_ok"] = remote
     job["id_city"] = id_city
+    job["job_type"] = jt
+    job["is_foreign"] = foreign
     return job
 
 

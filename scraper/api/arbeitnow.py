@@ -16,7 +16,7 @@ class ArbeitnowScraper(BaseScraper):
                 "source": self.source,
                 "title": j.get("title", "").strip(),
                 "company": j.get("company_name", ""),
-                "location": ", ".join(j.get("location", [])),
+                "location": j.get("location", "") if isinstance(j.get("location"), str) else ", ".join(j.get("location", [])),
                 "url": j.get("url", ""),
                 "salary": j.get("salary", ""),
                 "tags": j.get("tags", []),
