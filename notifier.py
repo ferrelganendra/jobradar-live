@@ -38,11 +38,14 @@ def get_chat_id() -> Optional[str]:
     return None
 
 
-def send(text: str, chat_id: Optional[str] = None) -> bool:
+def send(text: str, chat_id: Optional[str] = None, parse_mode: str = "") -> bool:
     env = _load_env()
     cid = chat_id or env.get("TELEGRAM_CHAT_ID")
     if not cid:
         return False
     url = f"https://api.telegram.org/bot{env['TELEGRAM_BOT_TOKEN']}/sendMessage"
-    r = requests.post(url, json={"chat_id": cid, "text": text[:4000]}, timeout=15)
+    payload = {"chat_id": cid, "text": text[:4000]}
+    if parse_mode:
+        payload["parse_mode"] = parse_mode
+    r = requests.post(url, json=payload, timeout=15)
     return r.status_code == 200

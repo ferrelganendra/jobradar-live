@@ -79,36 +79,48 @@ def main() -> None:
     print(f"raw: {len(raw_jobs)} | classified: {len(classified)} | IT: {len(targets)}")
     print(f"DB total: {total} rows | new added this run: {added} | titles fixed: {fixed}")
 
-    # Telegram: notify ALL new IT jobs, tagged role + remote/type/foreign labels
+    # Telegram: notify all NEW IT jobs, grouped by role, clean format
     new_it = [j for j in new_jobs if j.get("is_it")]
     if new_it:
-        role_icon = {"AI": "🤖", "SWE": "💻", "IT": "🖥"}
-        ai_n = sum(1 for j in new_it if j.get("role") == "AI")
-        swe_n = sum(1 for j in new_it if j.get("role") == "SWE")
-        type_icon = {"intern": "🎓", "contract": "📄", "part": "⏱", "full": "🕐"}
-        lines = [f"🔔 {len(new_it)} loker IT baru (AI {ai_n} / SWE {swe_n} / IT {len(new_it)-ai_n-swe_n})"]
-        for j in new_it:
-            t = j.get("job_type", "full")
-            tag = type_icon.get(t, "🕐")
+        ai = [j for j in new_it if j.get("role") == "AI"]
+        swe = [j for j in new_it if j.get("role") == "SWE"]
+        it = [j for j in new_it if j.get("role") == "IT"]
+        header = f"<b>Loker IT baru: {len(new_it)}</b>  (AI {len(ai)} · SWE {len(swe)} · IT {len(it)})"
+        lines = [header, ""]
+
+        def tag(j):
+            t = []
             if j.get("remote_ok"):
-                tag += "🌍"
+                t.append("Remote")
             elif j.get("is_foreign"):
-                tag += "🌐"
-            title = j["title"][:55]
-            lines.append(
-                f"{role_icon.get(j.get('role'),'•')} {tag} {title}\n"
-                f"  {j['company'][:25]} • {j['location'][:35]}\n"
-                f"  {j['url']}"
-            )
-        # Telegram hard limit ~4096 chars; batch ~12 jobs per message
+                t.append("Luar")
+            if j.get("job_type") == "intern":
+                t.append("Magang")
+            elif j.get("job_type") == "contract":
+                t.append("Kontrak")
+            return ("[" + " · ".join(t) + "] ") if t else ""
+
+        for group_name, group, icon in (("AI", ai, "🤖"), ("SWE", swe, "💻"), ("IT", it, "🖥")):
+            if not group:
+                continue
+            lines.append(f"<b>{icon} {group_name}</b>")
+            for j in group:
+                loc = j.get("location") or "—"
+                lines.append(
+                    f"• <b>{j['title'][:50]}</b> — {j['company'][:25]}\n"
+                    f"  {tag(j)}{loc[:40]} · <a href=\"{j['url']}\">buka</a>"
+                )
+            lines.append("")
+
+        # Telegram ~4096 char limit; batch
         batch = []
         for l in lines:
             batch.append(l)
             if sum(len(x) for x in batch) > 3500:
-                send("\n".join(batch))
+                send("\n".join(batch), parse_mode="HTML")
                 batch = []
         if batch:
-            send("\n".join(batch))
+            send("\n".join(batch), parse_mode="HTML")
 
 
 if __name__ == "__main__":
