@@ -3,23 +3,40 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>JobRadar — Radar Lowongan Kerja</title>
+<title>JobRadar — Laporan Pasar Kerja</title>
 <link rel="stylesheet" href="style.css">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
-<header class="topbar">
-  <div class="brand">JobRadar</div>
-  <div class="topbar-right">
-    <span class="live-count"><span id="totalCount">0</span> lowongan</span>
+
+<div class="ticker mono" id="ticker">
+  <span><span class="dot">●</span> LIVE</span><span class="sep">·</span>
+  <span><span id="totalCount">0</span> LOWONGAN</span><span class="sep">·</span>
+  <span><span id="tRemote">0</span> REMOTE</span><span class="sep">·</span>
+  <span><span id="tLocal">0</span> INDONESIA</span><span class="sep">·</span>
+  <span><span id="tAI">0</span> AI</span><span class="sep">·</span>
+  <span><span id="tSW">0</span> SWE</span><span class="sep">·</span>
+  <span><span id="tSalary">0</span> DENGAN GAJI</span><span class="sep">·</span>
+  <span><span id="tSource">0</span> SUMBER</span>
+</div>
+
+<header class="sitehead">
+  <div class="wordmark mono">
+    <div class="brand serif">JobRadar</div>
+  </div>
+  <div>
+    <div class="brand-sub">Laporan pasar kerja — Indonesia + Remote</div>
+    <div class="chapter" id="chapter"></div>
   </div>
 </header>
 
 <div class="layout">
   <aside class="sidebar" id="sidebar">
     <button class="filters-close" id="filtersClose" aria-label="Tutup filter">&times;</button>
+
+    <div class="sidebar-head">
+      <div class="h serif">Filter</div>
+      <div class="s">Pilih sinyal</div>
+    </div>
 
     <div class="filter-group">
       <label class="filter-label" for="q">Cari</label>
@@ -86,15 +103,16 @@
     </div>
     <div id="cards" class="cards"></div>
     <div id="empty" class="empty" hidden>
-      <p class="empty-label">Tidak ada hasil</p>
-      <p class="muted">Coba ubah atau reset filter.</p>
+      <p class="empty-title serif">Tidak ada sinyal</p>
+      <p class="empty-line">Tidak ada lowongan yang cocok dengan filter saat ini.</p>
       <button class="empty-reset" id="emptyReset">Reset filter</button>
     </div>
   </main>
 </div>
 
 <footer class="footer">
-  <span>JobRadar · data dikumpulkan otomatis dari berbagai sumber lowongan</span>
+  <span>JobRadar · data digabung dari berbagai sumber lowongan</span>
+  <span>Diperbarui otomatis</span>
 </footer>
 
 <template id="cardTpl">
@@ -103,17 +121,17 @@
       <span class="role-label"></span>
       <span class="card-source"></span>
     </div>
-    <h3 class="card-title"></h3>
+    <h3 class="meta-company"></h3>
+    <h2 class="card-title"></h2>
     <div class="card-meta">
-      <span class="meta-company"></span>
       <span class="meta-loc"></span>
     </div>
     <div class="salary-row"></div>
     <p class="card-desc"></p>
     <div class="card-tags"></div>
     <div class="card-foot">
-      <a class="btn-apply" target="_blank" rel="noopener">Lihat &amp; Lamar</a>
       <div class="card-meta-chip"></div>
+      <a class="btn-apply" target="_blank" rel="noopener">Lihat &amp; Lamar</a>
     </div>
   </article>
 </template>

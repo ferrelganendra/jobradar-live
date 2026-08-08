@@ -1,95 +1,101 @@
-# JobRadar — Design Specification (AUTHORITATIVE)
+# JOBRADAR — DESIGN SPEC (v2, FRESH — NEW IDENTITY)
 
-Pelaksana (OpenCode) WAJIB mengikuti spec ini persis. Desainer (agent utama) sudah menetapkan palet dari portfolio milik user. Jangan "memperbaiki" atau "menambah" gaya sendiri.
+Pelaksana (OpenCode) WAJIB ikut persis. Ini konsep baru, BUKAN copy portfolio, BUKAN AI-template.
+Konsep: **job market sebagai laporan pasar live + radar**. Hangat, editorial, tenang, tapi teknos.
 
-## 1. Source of truth (baca dulu)
-Palet diambil dari `/Users/ferrelganendra/Portfolio/styles/global.css:root`. Ikuti nilai persis.
+## KONSEP INTI
+Bayangkan "harian pasar tenaga kerja" cetak yang modern: kertas hangat, judul serif editorial besar,
+data bernada ticker mono, aksen warna sinyal oranye. New, warm, human, characteristic.
+JANGAN dark, JANGAN gradient glow, JANGAN badge warna-warni mencolok, JANGAN emoji.
 
-## 2. Design tokens (WAJIB dipakai, bukan nekat)
-
+## 1. DESIGN TOKENS (WAJIB)
 ```css
 :root {
   color-scheme: light;
-  --bg: #E5E4E2;            /* abu-abu hangat, TERANG — bukan dark */
-  --bg-soft: #F1F0EE;
-  --ink: #0A0A0A;           /* hampir hitam */
-  --muted: rgba(10, 10, 10, 0.72);
-  --faint: rgba(10, 10, 10, 0.65);
-  --line: rgba(10, 10, 10, 0.12);        /* border tipis */
-  --line-strong: rgba(10, 10, 10, 0.22); /* border tegas */
-  --surface: rgba(255, 255, 255, 0.75);  /* kartu semi-transparan */
-  --surface-strong: #ffffff;
-  --accent: #3f5666;        /* biru-abu kalem — AKAR DESAIN */
-  --accent-bright: #8ca3b5;
-  --radius: 12px;
-  --shadow: 0 24px 60px rgba(10, 10, 10, 0.08);
+  /* warm paper — BUKAN abu-abu porto, BUKAN putih murni */
+  --paper: #F4F0E9;
+  --paper-2: #ECE7DD;        /* kartu / area sidebar lebih dalam */
+  --card: #FBF9F5;           /* kartu job — kekuningan hangat */
+  --ink: #1A1917;            /* near-black hangat (bukan #0A0A0A dingin) */
+  --muted: #6B675F;          /* abu-hangat untuk teks sekunder */
+  --faint: #938E84;          /* sangat redup utk micro */
+  --line: #D8D2C6;           /* hairline border (hangat) */
+  --line-strong: #B9B2A4;
+  --accent: #E4572E;         /* vermillion radar — AKAR, energik */
+  --accent-deep: #C74622;    /* hover */
+  --radius: 6px;             /* sengaja TIPIS, bukan rounded-3xl */
+  --shadow: 0 1px 0 rgba(26,25,23,.04), 0 12px 30px rgba(26,25,23,.06);
 }
 ```
 
-Font:
-- **Heading**: `Clash Display` (font-weight 500-700, `letter-spacing: -0.04em`). Local `@font-face` dari `/fonts/clash-display-*.woff2` — SALIN file font-nya ke `web/fonts/`.
-- **Body**: `Inter`, system-ui, sans-serif.
+Font (Google Fonts CDN — OK karena site online):
+- **Display / Judul**: `Fraunces` (serif editorial, weight 500-700, opsional italic) — letter-spacing -0.02em
+- **Data / Meta / Label**: `Space Mono` (mono technos) — untuk angka, source, meta, ticker
+- **Body**: `Inter` (baca nyaman)
 
-## 3. Prinsip (NON-NEGOTIABLE)
-- **TERANG**. `--bg: #E5E4E2` di latar. JANGAN dark, JANGAN gelap, JANGAN glow.
-- **FLAT**. No gradient membara, no backdrop-blur yang mencolok, no shadow drama. Shadow cuma `--shadow` sekali di kartu.
-- **TENANG / RESTRAINED**. Ini anti-AI-slop. Tidak ada:
-  - ❌ emoji di UI (💰, 🤖, dll) — HAPUS
-  - ❌ badge/pill warna-warni mencolok (hijau/ungu/merah) — role jadi teks
-  - ❌ gradient button
+## 2. PRINSIP (NON-OPTIONAL)
+- Hangat & terang. Paper bg.
+- Tenang editorial: banyak whitespace, typography-led.
+- Mono dipakai utk "signal" (angka, meta, ticker, source, tag, label) — bikin teknos.
+- Serif dipakai utk judul/perusahaan — bikin manusiawi & berkarakter.
+- Border hairline `var(--line)` sebagai pemisah (bukan shadow).
+- LARANG KERAS:
+  - ❌ dark bg / gelap / glow / gradient membara
+  - ❌ badge pill berwarna merah/hijau/ungu mencolok
+  - ❌ emoji di UI (💰🤖🔥 dll)
   - ❌ rounded-3xl / radius besar
-  - ❌ blur panel
   - ❌ shadow-2xl
-  - ❌ trust bar / "kebanggaan" / hero overlay
-- **TIPOGRAFIS / EDITORIAL**. Micro-label uppercase (`font-size: .62-.74rem; letter-spacing: .16em; font-weight: 700; text-transform: uppercase; color: var(--muted)`). Judul Clash Display besar italic-free, letter-spacing -0.04em.
-- **Border tipis** `var(--line)` / `var(--line-strong)` sebagai pemisah, bukan shadow.
+  - ❌ font sans generik doang (Inter sbg body OK, TAPI judul harus Fraunces)
 
-## 4. Layout
-- **Header top**: brand "JobRadar" (Clash Display, weight 700) kiri; kanan micro-label "LIVE · 499 lowongan" (uppercase, tabular-nums). Border-bottom 1px `var(--line)`.
-- **Grid 2 kolom**: sidebar filter (left, `--bg-soft`, border-right `--line`) + daftar kartu (right, bg `--bg`).
-  Sidebar sticky, `width: 280px`.
-- **Responsive**: mobile → sidebar jadi drawer (slide-in, fixed), header menu button.
-- **Footer**: sekali, micro-label, perihal data & sumber.
+## 3. LAYOUT
+1. **LIVE TICKER** (paling atas, satu garis, bg `--ink` teks `--paper`):
+   teks mono uppercase berjalan/statis berisi sinyal agregat:
+   `● LIVE • {total} LOWONGAN • {remote} REMOTE • {id} INDONESIA • {ai} AI • {sw} SWE • {gaji} DENGAN GAJI • 8 SUMBER {…ticker…}`
+   Format mono, spacer `·`. (Kalau scroll animasi terlalu ribet, render statis = tetap OK; jangan paksa animasi spam.)
+2. **Header kedua** (transparan di atas paper): brand kiri
+   `JOBRADAR` (Fraunces 700, besar, ink) + sub-label mono kecil `LAPORAN PASAR KERJA — INDONESIA + REMOTE`.
+   Chapter mono tebal accent kecil: `EDISI {tanggal} · {total} LOWONGAN`.
+3. **Grid**: sidebar filter (kiri, `--paper-2`, border-right `--line`) + daftar kartu (kanan, paper).
+   Sidebar sticky 280px. Responsive → drawer mobile.
+4. **Footer**: hairline top, mono micro, credit data + sumber + "diperbarui otomatis".
 
-## 5. Kartu job
-- `background: var(--surface)`; `border: 1px solid var(--line)`; `border-radius: var(--radius)`; transition border-color/background.
-- **ℹ️ Role BUKAN badge warna.** Role (AI/SWE/IT/other) tampil sebagai **micro-label** di atas judul: `font-size: .68rem; letter-spacing: .12em; text-transform: uppercase; color: var(--accent);`. Emoji dilarang.
-- **Judul**: Clash Display, weight 600, `font-size: 1.05rem`, `letter-spacing: -0.02em`, `color: var(--ink)`. Max 2 baris.
-- **Baris meta** (perusahaan · lokasi): `color: var(--muted)`, body font, `font-size: .88rem`. Pemisah `·`.
-- **Gaji**: body font, `font-weight: 600`, `color: var(--ink)`, `font-variant-numeric: tabular-nums`. TANPA emoji 💰. Kalau kosong → SISIPKAN label "gaji tak dicantumkan" `color: var(--faint)` italic.
-- **Deskripsi**: `color: var(--muted)`, `font-size: .85rem`, clamp 2 baris.
-- **Tags**: chip border `var(--line-strong)`, `background: transparent`, `font-size: .68rem`, `letter-spacing: .06em`, uppercase. Tanpa emoji.
-- **Tombol**: "Lihat & Lamar" → pill `border-radius: 999px`, `background: var(--ink)`, `color: var(--bg)`, `font-weight: 700`, `font-size: .86rem`, hover `background: #fff` + border ink. (sama dgn `.button-primary` di porto)
-- **Meta footer kartu**: remote/foreign/tipe → micro-label uppercase `var(--muted)`, dipisah `·`. No colored chip.
+## 4. KARTU JOB
+- bg `--card`, border 1px `--line`, radius 6px, padding 18-20px. Hover: border `--accent`/`--line-strong`, shadow halus.
+- **Perusahaan** = mono micro-label uppercase accent `JOBRADAR`-esque? NO — perusahaan pakai **Fraunces**, ukuran ~1.1rem, ink, kiri atas. Bukan badge.
+- **Judul** = Fraunces 600/700, `font-size 1.15rem`, letter-spacing -0.02em, ink, max 2 baris.
+- **Role** = mono micro-label UPUPPERCASE, `color: var(--accent)`, `letter-spacing .08em`, `font-size .68rem` — TANPA bg warna, TANPA pill. (AI/SWE/IT/LAIN)
+- **Meta baris** = mono, `font-size .72rem`, `color: var(--muted)`, dipisah ` · `: `PERUSAHAAN·LOKASI`. Kalau kosong → `TAK TERCANTUM` faint.
+- **Gaji** = mono, weight 700, `color: var(--ink)`, `font-variant-numeric: tabular-nums`. Jika kosong → `gaji tak dicantumkan` italic faint mono .72rem.
+- **Deskripsi** = body Inter, `.85rem`, `color: var(--muted)`, clamp 2 baris.
+- **Tag** = mono micro `.66rem` `letter-spacing .04em`, border `--line`, bg transparent, uppercase. Tanpa emoji.
+- **Footer kartu** = kiri: label mono `.68rem` `--muted` utk remote/tipe (`REMOTE · MAGANG · KONTRAK · LUAR NEGERI`), dipisah `·`. Kanan: tombol.
+- **Tombol** "Lihat & Lamar" = bg `--accent`, teks `--paper`, mono? NO — body Inter 700 `.86rem`, radius 6px, padding .7rem 1.1rem. Hover bg `--accent-deep`. Garis oranye, bukan pill ramai.
 
-## 6. Filter sidebar
-- **Judul grup**: micro-label uppercase `var(--faint)`.
-- Input search: `background: var(--surface)`, `border: 1px solid var(--line-strong)`, radius 8px, focus border `--accent`.
-- Role chips: pill `border: 1px solid var(--line-strong)`, `background: transparent`, uppercase micro (*bukan* pill berwarna). Active: `background: var(--ink)`, `color: var(--bg)`.
-- Checkbox: native, `accent-color: var(--accent)`.
-- Select: sama dgn input.
-- Reset: link/button teks `var(--muted)`, hover `var(--ink)`, underline.
+## 5. SIDEBAR FILTER
+- Judul grup: mono micro `.66rem`, `letter-spacing .12em`, uppercase, `--faint`.
+- Search: bg `--card`, border `--line-strong`, radius 6px, font Inter .88rem, focus border `--accent`.
+- Role chips: mono micro uppercase, border `--line-strong`, bg transparent, radius 999px (pill OK utk chip filter — ini kontrol, bukan kartu). Active → bg `--ink`, teks `--paper`.
+- Checkbox: `accent-color: var(--accent)`.
+- Select: bg card, border line-strong, Inter.
+- Reset: link teks `--muted` hover `--ink`, underline.
+- Sidebar heading atas: `FILTER` (Fraunces 600), sub mono `PILIH SINYAL`.
 
-## 7. Empty state
-- Tengah, micro-label "TIDAK ADA HASIL" `var(--faint)` + satu kalimat `var(--muted)` + link reset `var(--accent)` underline.
+## 6. EMPTY STATE
+- Tengah: `TIDAK ADA SINYAL` (Fraunces 600, ink, besar) + satu baris mono faint + link reset accent underline. Jangan genit.
 
-## 8. Fitur (dari app.js yang sudah ada)
-- Load `data/jobs.json` via fetch.
-- Filter: keyword (title/company/desc/location/tags), role (AI/SWE/IT/other multi), tipe (full/intern/contract/part), remote-only, foreign-only, local-Indonesia, salary-only, source (dropdown), sort (relevance/salary/title).
-- Result count live di header.
-- Empty state.
-- Reset filter.
-- Mobile drawer.
-- **HAPUS semua emoji** dari tampilan (termasuk 💰 di gaji).
+## 7. FITUR (pertahankan dari app.js lama)
+Load `data/jobs.json` via fetch. Filter: keyword (title/company/desc/loc/tags), role multiselect (AI/SWE/IT/LAIN), tipe (full/intern/contract/part), remote, foreign, indonesia, salary-only, source dropdown, sort (relevance/salary/title). Result count live. Empty state. Reset. Mobile drawer.
+**Hapus SEMUA emoji** dari tampilan (termasuk 💰 di gaji — dihapus; gaji jadi teks biasa).
 
-## 9. File
-Ganti isi: `web/index.html`, `web/style.css`, `web/app.js`. Data `web/data/jobs.json` JANGAN diubah.
+## 8. FILE
+Overwrite `web/index.html`, `web/style.css`, `web/app.js`. JANGAN ubah `web/data/jobs.json`.
+Font via Google Fonts CDN `@import` di CSS: Fraunces 500;600;700 + Space Mono 400;700 + Inter 400;600;700.
 
-## 10. Verifikasi lu (OpenCode)
-Setelah selesai, buka `web/index.html` via `python3 -m http.server` dan pastikan:
-- Latar `#E5E4E2` terang
-- Tidak ada emoji, tidak ada badge warna mencolok, tidak ada dark
-- Role = micro-label accent, bukan badge
-- Gaji tanpa 💰
-- Filter jalan
-Laporkan apa yang kamu test.
+## 9. VERIFIKASI (OpenCode)
+Buka lewat `python3 -m http.server` dari `web/`:
+- bg `#F4F0E9` hangat, bukan dark, bukan abu porto
+- judul kartu = Fraunces; meta/gaji/tag = Space Mono
+- role = mono accent uppercase, tanpa bg/pill
+- gaji tanpa emoji
+- filter & sort jalan, count live
+Laporkan file + hasil.

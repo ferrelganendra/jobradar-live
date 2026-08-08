@@ -23,8 +23,11 @@ const TYPE_LABEL = { full: "Full-time", intern: "Magang", contract: "Kontrak", p
 
 function stripHtml(h) {
   if (!h) return "";
+  // Data arrives doubly-encoded (&lt;p&gt;); decode HTML entities first so innerHTML parses as markup.
   const d = document.createElement("div");
-  d.innerHTML = h;
+  const dec = document.createElement("textarea");
+  dec.innerHTML = h; // textarea parse: HTML entities become their characters
+  d.innerHTML = dec.value;
   return (d.textContent || "").replace(/\s+/g, " ").trim();
 }
 
@@ -46,8 +49,8 @@ async function load() {
     sel.appendChild(o);
   });
   $("totalCount").textContent = state.jobs.length;
-  render();
-}
+  updateSignals();
+  render();}
 
 function matches(j) {
   const t = (j.title + " " + j.company + " " + j.location + " " + (j.description || "") + " " + (j.tags || []).join(" ")).toLowerCase();
@@ -175,6 +178,26 @@ $("fLocal").addEventListener("change", (e) => { state.local = e.target.checked; 
 $("fSalary").addEventListener("change", (e) => { state.salaryOnly = e.target.checked; render(); });
 $("fSource").addEventListener("change", (e) => { state.source = e.target.value; render(); });
 $("sort").addEventListener("change", (e) => { state.sort = e.target.value; render(); });
+
+// ── LIVE TICKER + CHAPTER ─────────────────────────────
+function updateSignals() {
+  const J = state.jobs;
+  const num = (n) => n.toLocaleString("id-ID");
+  const set = (id, v) => { const el = $(id); if (el) el.textContent = v; };
+  set("totalCount", num(J.length));
+  set("tRemote", num(J.filter((j) => j.remote_ok).length));
+  set("tLocal", num(J.filter((j) => !j.is_foreign).length));
+  set("tAI", num(J.filter((j) => j.role === "AI").length));
+  set("tSW", num(J.filter((j) => j.role === "SWE").length));
+  set("tSalary", num(J.filter((j) => j.salary).length));
+  set("tSource", num(new Set(J.map((j) => j.source)).size));
+  const now = new Date();
+  const date = now
+    .toLocaleDateString("id-ID", { weekday: "short", day: "2-digit", month: "short", year: "numeric" })
+    .toUpperCase();
+  const ch = $("chapter");
+  if (ch) ch.textContent = "Edisi " + date + " · " + num(J.length) + " lowongan";
+}
 
 function resetFilters() {
   state.q = ""; state.roles.clear(); state.types.clear();
