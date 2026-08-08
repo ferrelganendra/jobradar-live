@@ -22,7 +22,12 @@ OTHER_IT_KEYWORDS = ["qa", "quality assurance", "tester", "software tester",
 # Indonesia cities (any mention => keep)
 ID_CITIES = ["jakarta", "tangsel", "tangerang", "bekasi", "depok", "bandung",
              "surabaya", "yogyakarta", "jogja", "semarang", "malang", "medan",
-             "balikpapan", "makassar", "denpasar", "bali", "solo", "batam"]
+             "balikpapan", "makassar", "denpasar", "bali", "solo", "batam",
+             "surakarta", "pekanbaru", "padang", "palembang", "manado",
+             "pontianak", "samarinda", "cilegon", "sidoarjo", "bogor",
+             "sleman", "bantul", "klaten", "karawang", "cilacap", "jambi",
+             "aceh", "lampung", "banten", "jatim", "jabar", "jawa barat",
+             "jawa timur", "jawa tengah", "sulawesi", "sumatera", "kalimantan", "riau"]
 
 REMOTE_WORDS = ["remote", "work from home", "wfh", "hybrid", "fully remote"]
 
@@ -88,6 +93,9 @@ def classify(job: dict) -> dict:
           else "full")
     # is_foreign: no ID city mention AND not remote
     foreign = (not id_city) and "indonesia" not in text and "jakarta" not in text and "remote" not in text
+    # Glints only lists Indonesia jobs; a blank location there is real Indonesian, not foreign
+    if job.get("source") == "glints" and not id_city:
+        foreign = False
     job["is_it"] = it
     job["role"] = "AI" if ai else ("SWE" if swe else ("IT" if it else "other"))
     job["remote_ok"] = remote

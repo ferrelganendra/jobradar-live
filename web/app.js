@@ -31,6 +31,27 @@ function stripHtml(h) {
   return (d.textContent || "").replace(/\s+/g, " ").trim();
 }
 
+/* Cut scraped descriptions at common footer/marketing noise. */
+const DESC_CUT = [
+  "Tentang Perusahaan", "About the Company", "Lihat Lebih Banyak", "Lamar Sekarang",
+  "Tips Aman Cari Kerja", "Loker ini dikelola", "Dapatkan notifikasi loker",
+  "Lowongan Lainnya Untukmu", "Scan kode QR", "Galeri Perusahaan", "Why join us",
+  "Perusahaan Premium", "Laporkan Lowongan Ini", "Apply now", "Share this job",
+  "Interview process", "About Us", "About us", "Beware of scammers", "Gaji dan benefit",
+];
+function cleanDesc(s) {
+  if (!s) return "";
+  let t = s;
+  for (const k of DESC_CUT) {
+    const idx = t.indexOf(k);
+    if (idx > 0) t = t.slice(0, idx);
+  }
+  t = t.replace(/\s+/g, " ").trim();
+  // first 200 chars of real substance after title/company echo
+  const words = t.split(" ");
+  return words.slice(0, 60).join(" ");
+}
+
 async function load() {
   try {
     const res = await fetch("data/jobs.json");
@@ -114,12 +135,17 @@ function render() {
     const coEl = n.querySelector(".meta-company");
     const co = j.company?.trim();
     if (co) {
-      coEl.textContent = deEmoji(co);
+      coEl.textContent = deEmoji(co).replace(/\bPt\.?\s/g, "PT ").replace(/\bpt\.?\s/g, "PT ");
     } else {
       coEl.remove(); /* no company → skip the line, title stands alone */
     }
-    const loc = deEmoji(j.location || "Lokasi tak tercantum");
-    n.querySelector(".meta-loc").textContent = loc;
+    const locRaw = deEmoji(j.location || "");
+    const locEl = n.querySelector(".meta-loc");
+    if (locRaw.trim()) {
+      locEl.textContent = locRaw.trim();
+    } else {
+      locEl.remove(); /* no location → skip the line */
+    }
 
     const sal = n.querySelector(".salary-row");
     if (j.salary) {
@@ -129,7 +155,7 @@ function render() {
       sal.textContent = "gaji tak dicantumkan";
     }
 
-    const desc = deEmoji(stripHtml(j.description));
+    const desc = cleanDesc(deEmoji(stripHtml(j.description)));
     const dEl = n.querySelector(".card-desc");
     if (desc) dEl.textContent = desc; else dEl.remove();
 

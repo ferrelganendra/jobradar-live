@@ -43,15 +43,18 @@ class GlintsScraper(BaseScraper):
             re.search(r"[\d.,]+\s?-\s?[\d.,]+\s?jt", text)
         if m:
             salary = m.group(0)
-        # location: look for known city words
+        # location: Glints text has breadcrumb 'Lokasi / {provinsi} / {kota} / {title}'
         loc = ""
-        for city in ["Jakarta", "Bandung", "Surabaya", "Yogyakarta", "Tangsel",
-                     "Tangerang", "Bekasi", "Depok", "Semarang", "Malang", "Medan"]:
-            if city in text:
-                loc = city
-                break
+        lm = re.search(r"Lokasi\s*/\s*[^/]+/\s*([^/]+)", text, re.I)
+        if lm:
+            loc = lm.group(1).strip()
+        # description: drop boilerplate header, keep from 'Deskripsi pekerjaan'
+        desc = text
+        dm = re.search(r"Deskripsi\s+pekerjaan\s*(.+)", text, re.I | re.S)
+        if dm:
+            desc = dm.group(1).strip()
         return {
-            "description": text[:3000],
+            "description": desc[:3000],
             "salary": salary,
             "location": loc,
             "company": extract_company(text, title),

@@ -78,8 +78,9 @@ def upsert_jobs(jobs: list[dict]) -> tuple[int, int, list[dict]]:
             added += 1
             new_jobs.append(j)
         except sqlite3.IntegrityError:
-            # duplicate (source,url): refresh location; only fill salary if we found one
-            conn.execute("UPDATE jobs SET location=? WHERE url=?", (j.get("location", ""), url))
+            # duplicate (source,url): refresh location/salary only if the fresh value is non-empty
+            if j.get("location"):
+                conn.execute("UPDATE jobs SET location=? WHERE url=?", (j["location"], url))
             if j.get("salary"):
                 conn.execute("UPDATE jobs SET salary=? WHERE url=?", (j["salary"], url))
     conn.commit()
@@ -99,9 +100,48 @@ def all_rows() -> list[dict]:
     for src, title, co, loc, url, sal, tags, remote, desc, req, ben in rows:
         out.append({
             "source": src, "title": title, "company": co, "location": loc,
-            "url": url, "salary": "",  # re-extract from description each dump (regex improved over time)
+            "url": url, "salary": sal or "",  # keep DB salary (Glints/others set it); classify() fills gaps later
             "tags": [t for t in (tags or "").split(",") if t],
             "remote": bool(remote), "description": desc or "",
             "requirements": req or "", "benefits": ben or "",
         })
     return out
+
+
+def backfill_glints_from_desc() -> int:
+    """Strip Glints boilerplate desc + extract location from stored description."""
+    import re
+    conn = connect()
+    rows = conn.execute(
+        "SELECT id, location, description FROM jobs WHERE source='glints'"
+    ).fetchall()
+    n = 0
+    for rid, loc, desc in rows:
+        if not desc:
+            continue
+        changed = False
+        new_loc = loc
+        new_desc = desc
+        # location from breadcrumb 'Lokasi / {prov} / {kota}'
+        if not (loc or "").strip():
+            lm = re.search(r"Lokasi\s*:\s*[^/]+/\s*([^/]+)", desc, re.I) or \
+                 re.search(r"Lokasi\s*/\s*[^/]+/\s*([^/]+)", desc, re.I)
+            if lm:
+                new_loc = lm.group(1).strip()
+                changed = True
+        # strip boilerplate: drop everything up to 'Deskripsi pekerjaan'
+        dm = re.search(r"Deskripsi\s+pekerjaan\s*(.+)", desc, re.I | re.S)
+        if dm:
+            stripped = dm.group(1).strip()
+            if stripped and stripped != new_desc:
+                new_desc = stripped
+                changed = True
+        if changed:
+            conn.execute(
+                "UPDATE jobs SET location=?, description=? WHERE id=?",
+                (new_loc, new_desc[:3000], rid),
+            )
+            n += 1
+    conn.commit()
+    conn.close()
+    return n
