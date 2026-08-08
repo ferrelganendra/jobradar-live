@@ -86,3 +86,22 @@ def upsert_jobs(jobs: list[dict]) -> tuple[int, int, list[dict]]:
     total = conn.execute("SELECT COUNT(*) FROM jobs").fetchone()[0]
     conn.close()
     return total, added, new_jobs
+
+
+def all_rows() -> list[dict]:
+    """Read all deduplicated jobs from DB, each as a dict keyed like a scraped job."""
+    conn = connect()
+    rows = conn.execute(
+        "SELECT source,title,company,location,url,salary,tags,remote,description,requirements,benefits FROM jobs"
+    ).fetchall()
+    conn.close()
+    out = []
+    for src, title, co, loc, url, sal, tags, remote, desc, req, ben in rows:
+        out.append({
+            "source": src, "title": title, "company": co, "location": loc,
+            "url": url, "salary": "",  # re-extract from description each dump (regex improved over time)
+            "tags": [t for t in (tags or "").split(",") if t],
+            "remote": bool(remote), "description": desc or "",
+            "requirements": req or "", "benefits": ben or "",
+        })
+    return out

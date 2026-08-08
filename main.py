@@ -14,8 +14,8 @@ from scraper.html.wwr import WWRScraper
 from scraper.html.glints import GlintsScraper
 from scraper.html.jobstreet import JobstreetScraper
 from scraper.html.linkedin import LinkedinScraper
-from filter import filter_jobs
-from db import upsert_jobs, existing_urls, fix_placeholder_titles
+from filter import filter_jobs, classify
+from db import upsert_jobs, existing_urls, fix_placeholder_titles, all_rows
 from notifier import send
 
 # scrapers that can fetch rich detail from a per-job page
@@ -71,8 +71,10 @@ def main() -> None:
     total, added, new_jobs = upsert_jobs(classified)
     fixed = fix_placeholder_titles(raw_jobs)
 
+    # dump deduplicated jobs (from DB, re-classified) — not the raw scraped list
+    deduped = [classify(j) for j in all_rows()]
     with open(os.path.join(OUT, "jobs.json"), "w") as f:
-        json.dump(classified, f, indent=2, ensure_ascii=False)
+        json.dump(deduped, f, indent=2, ensure_ascii=False)
 
     targets = [j for j in classified if j["is_it"]]
     print(f"per-source: {counts}")
