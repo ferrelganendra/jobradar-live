@@ -6,10 +6,10 @@ Aggregator lowongan kerja Indonesia + remote, fokus **AI Engineer / Machine Lear
 
 - **8 sumber** aktif: Remotive, Arbeitnow, RemoteOK, Jobicy, HN Who's Hiring, Glints, JobStreet, LinkedIn (playwright)
 - **Detail lengkap** — deskripsi penuh, gaji (Rp regex), lokasi utk job baru (backfill utk backlog)
-- **Filter target** — klasifikasi otomatis per job: `role` (AI / SWE / other), `remote_ok`, `id_city`
+- **Filter target** — klasifikasi otomatis per job: `role` (AI / SWE / IT / other), `remote_ok`, `id_city`
+- **Notif semua IT** — Telegram kirim semua loker IT baru, ditanda role (🤖 AI / 💻 SWE / 🖥 IT)
 - **Dedup anti-spam** — normalisasi URL (strip query param) + UNIQUE constraint
 - **SQLite** — riwayat job, ga dobel
-- **Notif Telegram** — kirim job AI/SWE baru ke bot (`LScraperFyelBot`)
 - **Scheduling** — cron Hermes tiap 30 menit
 
 ## Struktur
@@ -53,6 +53,6 @@ python main.py
 - [x] M0–M3: API legal + Glints + filter + SQLite + dedup
 - [x] M4: notif Telegram + cron
 - [x] M5: JobStreet + detail lengkap (deskripsi/gaji/lokasi)
-- [x] M6: LinkedIn (guest) — 8 sumber, 138 target AI/SWE
+- [x] M6: LinkedIn (guest) + filter IT broad (semua loker IT, role AI/SWE/IT)
 - [ ] Layer AI: LLM extract gaji/lokasi + job match ke profil
 - [ ] Indeed via Cloudflare-solver (flaky, maintenance tinggi)

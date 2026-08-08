@@ -74,20 +74,23 @@ def main() -> None:
     with open(os.path.join(OUT, "jobs.json"), "w") as f:
         json.dump(classified, f, indent=2, ensure_ascii=False)
 
-    targets = [j for j in classified if j["is_target"]]
+    targets = [j for j in classified if j["is_it"]]
     print(f"per-source: {counts}")
-    print(f"raw: {len(raw_jobs)} | classified: {len(classified)} | target(AI/SWE): {len(targets)}")
+    print(f"raw: {len(raw_jobs)} | classified: {len(classified)} | IT: {len(targets)}")
     print(f"DB total: {total} rows | new added this run: {added} | titles fixed: {fixed}")
 
-    # Telegram: notify only NEW target jobs (AI/SWE) actually added this run
-    new_targets = [j for j in new_jobs if j.get("is_target")]
-    if new_targets:
-        lines = [f"🔔 {len(new_targets)} loker target baru (AI/SWE)"] + [
-            f"• {j['title'][:60]} — {j['company'][:30]}\n  {j['location'][:40]}\n  {j['url']}"
-            for j in new_targets[:10]
+    # Telegram: notify all NEW IT jobs, tagged by role (AI/SWE/IT)
+    new_it = [j for j in new_jobs if j.get("is_it")]
+    if new_it:
+        role_icon = {"AI": "🤖", "SWE": "💻", "IT": "🖥"}
+        ai_n = sum(1 for j in new_it if j.get("role") == "AI")
+        swe_n = sum(1 for j in new_it if j.get("role") == "SWE")
+        lines = [f"🔔 {len(new_it)} loker IT baru (AI {ai_n} / SWE {swe_n} / IT {len(new_it)-ai_n-swe_n})"] + [
+            f"{role_icon.get(j.get('role'),'•')} {j['title'][:55]} — {j['company'][:25]}\n  {j['location'][:35]}\n  {j['url']}"
+            for j in new_it[:10]
         ]
-        if len(new_targets) > 10:
-            lines.append(f"…+{len(new_targets)-10} lagi")
+        if len(new_it) > 10:
+            lines.append(f"…+{len(new_it)-10} lagi")
         send("\n".join(lines))
 
 
