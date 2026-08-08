@@ -57,7 +57,7 @@ def enrich_details(jobs: list[dict]) -> list[dict]:
             path = j["url"].split("?")[0]
             if path in known:
                 continue  # already scraped detail before
-            det = scraper.fetch_detail(j["url"])
+            det = scraper.fetch_detail(j["url"], j.get("title", ""))
             if det:
                 j.update(det)
     return jobs
@@ -109,8 +109,9 @@ def main() -> None:
             for j in group:
                 loc = j.get("location") or "—"
                 sal = f"💰 {j['salary']}  " if j.get("salary") else ""
+                co = j.get("company") or j.get("title", "")
                 lines.append(
-                    f"• <b>{j['title'][:50]}</b> — {j['company'][:25]}\n"
+                    f"• <b>{co[:25]}</b> — {j['title'][:40]}\n"
                     f"  {tag(j)}{sal}{loc[:40]} · <a href=\"{j['url']}\">buka</a>"
                 )
             lines.append("")

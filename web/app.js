@@ -111,7 +111,13 @@ function render() {
     n.querySelector(".role-label").textContent = ROLE_LABEL[j.role] || "Lain";
     n.querySelector(".card-source").textContent = j.source;
     n.querySelector(".card-title").textContent = deEmoji(j.title);
-    n.querySelector(".meta-company").textContent = deEmoji(j.company || "Perusahaan tak tercantum");
+    const coEl = n.querySelector(".meta-company");
+    const co = j.company?.trim();
+    if (co) {
+      coEl.textContent = deEmoji(co);
+    } else {
+      coEl.remove(); /* no company → skip the line, title stands alone */
+    }
     const loc = deEmoji(j.location || "Lokasi tak tercantum");
     n.querySelector(".meta-loc").textContent = loc;
 

@@ -10,10 +10,26 @@ URL = "https://glints.com/id/opportunities/jobs/explore?keyword=AI%20Engineer&co
 SKIP = ["Lowongan Kerja", "PERUSAHAAN", "Blog", "Unduh App Glints", "bahasa"]
 
 
+def extract_company(text: str, title: str) -> str:
+    """Glints detail text: 'Lowongan {title} di {COMPANY}, | Glints ...'
+    Company sits between 'di ' and ', |' on the first line."""
+    if not text or not title:
+        return ""
+    t = title.strip()
+    m = re.search(re.escape(t) + r"[^\n]*?\bdi ([^,|]+)", text, re.I)
+    if not m:
+        m = re.search(r"\bdi\s+([A-Z0-9][^,|]{2,60})", text, re.I)
+    if not m:
+        return ""
+    co = re.sub(r"\s+", " ", m.group(1)).strip()
+    co = co.replace(" |", "").replace("|", "").strip(" ·,;:")
+    return co if co else ""
+
+
 class GlintsScraper(BaseScraper):
     source = "glints"
 
-    def fetch_detail(self, url: str) -> dict:
+    def fetch_detail(self, url: str, title: str = "") -> dict:
         """Render job detail page, extract description/salary/location."""
         try:
             html = render(url, wait_for="body", wait_ms=6000)
@@ -38,6 +54,7 @@ class GlintsScraper(BaseScraper):
             "description": text[:3000],
             "salary": salary,
             "location": loc,
+            "company": extract_company(text, title),
         }
 
     def fetch_jobs(self) -> list[dict]:
