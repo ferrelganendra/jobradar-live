@@ -3,8 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>JobRadar — Laporan Pasar Kerja</title>
-<link rel="stylesheet" href="style.css?v=5">
+<meta name="theme-color" content="#F4F0E9">
+<title>JobRadar · Laporan Pasar Kerja</title>
+<link rel="stylesheet" href="style.css?v=6">
 </head>
 <body>
 
@@ -24,14 +25,14 @@
     <div class="brand serif">JobRadar</div>
   </div>
   <div>
-    <div class="brand-sub">Laporan pasar kerja — Indonesia + Remote</div>
+    <div class="brand-sub">Laporan pasar kerja · Indonesia + Remote</div>
     <div class="chapter" id="chapter"></div>
   </div>
 </header>
 
 <div class="layout">
   <aside class="sidebar" id="sidebar">
-    <button class="filters-close" id="filtersClose" aria-label="Tutup filter">&times;</button>
+    <button type="button" class="filters-close" id="filtersClose" aria-label="Tutup filter">&times;</button>
 
     <div class="sidebar-head">
       <div class="h serif">Filter</div>
@@ -40,7 +41,7 @@
 
     <div class="filter-group">
       <label class="filter-label" for="q">Cari</label>
-      <input type="search" id="q" class="input" placeholder="Judul, perusahaan, skill" autocomplete="off">
+      <input type="search" id="q" name="q" class="input" placeholder="Judul, perusahaan, skill" autocomplete="off">
     </div>
 
     <div class="filter-group">
@@ -77,35 +78,35 @@
 
     <div class="filter-group">
       <label class="filter-label" for="fSource">Sumber</label>
-      <select id="fSource" class="input">
+      <select id="fSource" name="fSource" class="input">
         <option value="">Semua sumber</option>
       </select>
     </div>
 
     <div class="filter-group">
       <label class="filter-label" for="sort">Urutkan</label>
-      <select id="sort" class="input">
+      <select id="sort" name="sort" class="input">
         <option value="relevance">Relevansi</option>
         <option value="salary">Gaji dulu</option>
         <option value="title">Judul A-Z</option>
       </select>
     </div>
 
-    <button class="btn-reset" id="resetFilters">Reset filter</button>
+    <button type="button" class="btn-reset" id="resetFilters">Reset filter</button>
   </aside>
 
   <div class="mask" id="mask"></div>
 
   <main class="main">
     <div class="results-bar">
-      <button class="btn-filter" id="openFilters">Filter</button>
+      <button type="button" class="btn-filter" id="openFilters">Filter</button>
       <span id="resultText">Memuat…</span>
     </div>
     <div id="cards" class="cards"></div>
     <div id="empty" class="empty" hidden>
       <p class="empty-title serif">Tidak ada sinyal</p>
       <p class="empty-line">Tidak ada lowongan yang cocok dengan filter saat ini.</p>
-      <button class="empty-reset" id="emptyReset">Reset filter</button>
+      <button type="button" class="empty-reset" id="emptyReset">Reset filter</button>
     </div>
   </main>
 </div>
@@ -131,11 +132,11 @@
     <div class="card-tags"></div>
     <div class="card-foot">
       <div class="card-meta-chip"></div>
-      <a class="btn-apply" target="_blank" rel="noopener">Lihat &amp; Lamar</a>
+      <a class="btn-apply" href="#" target="_blank" rel="noopener">Lihat &amp; Lamar</a>
     </div>
   </article>
 </template>
 
-<script src="app.js?v=5"></script>
+<script src="app.js?v=6"></script>
 </body>
 </html>
