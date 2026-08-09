@@ -37,10 +37,10 @@ class GlintsScraper(BaseScraper):
             return {}
         soup = BeautifulSoup(html, "lxml")
         text = soup.get_text("\n", strip=True)
-        # salary: look for Rp xx or xxjt
+        # salary: look for Rp xx or xxjt (reject foreign currency like ₫/$/€/£)
         salary = ""
         m = re.search(r"Rp\s?[\d.,]+(?:\s?-\s?[\d.,]+)?\s?(?:jt|juta|rb|ribu)?", text) or \
-            re.search(r"[\d.,]+\s?-\s?[\d.,]+\s?jt", text)
+            re.search(r"(?<![₫$€£])\d[\d.,]+\s?-\s?\d[\d.,]+\s?jt", text)
         if m:
             salary = m.group(0)
         # location: Glints text has breadcrumb 'Lokasi / {provinsi} / {kota} / {title}'

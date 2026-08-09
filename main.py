@@ -57,7 +57,7 @@ def enrich_details(jobs: list[dict]) -> list[dict]:
             path = j["url"].split("?")[0]
             if path in known:
                 continue  # already scraped detail before
-            det = scraper.fetch_detail(j["url"], j.get("title", ""))
+            det = scraper.fetch_detail(j["url"])
             if det:
                 j.update(det)
     return jobs
@@ -73,6 +73,8 @@ def main() -> None:
 
     # dump deduplicated jobs (from DB, re-classified) — not the raw scraped list
     deduped = [classify(j) for j in all_rows()]
+    for j in deduped:
+        j.pop("_db_salary", None)  # internal fallback key, not for the public dump
     with open(os.path.join(OUT, "jobs.json"), "w") as f:
         json.dump(deduped, f, indent=2, ensure_ascii=False)
 

@@ -127,8 +127,10 @@ function render() {
   }
   $("empty").hidden = true;
 
-  for (const j of list) {
+  for (const [i, j] of list.entries()) {
     const n = tpl.content.cloneNode(true);
+    const card = n.firstElementChild;
+    card.style.animationDelay = Math.min(i * 18, 350) + "ms";
     n.querySelector(".role-label").textContent = ROLE_LABEL[j.role] || "Lain";
     n.querySelector(".card-source").textContent = j.source;
     n.querySelector(".card-title").textContent = deEmoji(j.title);
@@ -170,6 +172,7 @@ function render() {
 
     const btn = n.querySelector(".btn-apply");
     btn.href = j.url || "#";
+    btn.textContent = "Buka lowongan";
 
     const chips = n.querySelector(".card-meta-chip");
     if (j.remote_ok) {
@@ -216,12 +219,12 @@ function updateSignals() {
   const J = state.jobs;
   const num = (n) => n.toLocaleString("id-ID");
   const set = (id, v) => { const el = $(id); if (el) el.textContent = v; };
-  set("totalCount", num(J.length));
-  set("tRemote", num(J.filter((j) => j.remote_ok).length));
-  set("tLocal", num(J.filter((j) => !j.is_foreign).length));
-  set("tAI", num(J.filter((j) => j.role === "AI").length));
-  set("tSW", num(J.filter((j) => j.role === "SWE").length));
-  set("tSalary", num(J.filter((j) => j.salary).length));
+  countUp("totalCount", J.length);
+  countUp("tRemote", J.filter((j) => j.remote_ok).length);
+  countUp("tLocal", J.filter((j) => !j.is_foreign).length);
+  countUp("tAI", J.filter((j) => j.role === "AI").length);
+  countUp("tSW", J.filter((j) => j.role === "SWE").length);
+  countUp("tSalary", J.filter((j) => j.salary).length);
   set("tSource", num(new Set(J.map((j) => j.source)).size));
   const now = new Date();
   const date = now
@@ -229,6 +232,21 @@ function updateSignals() {
     .toUpperCase();
   const ch = $("chapter");
   if (ch) ch.textContent = "Edisi " + date + " · " + num(J.length) + " lowongan";
+}
+
+function countUp(id, target) {
+  const el = $(id);
+  if (!el) return;
+  const fmt = (n) => n.toLocaleString("id-ID");
+  const dur = 500, t0 = performance.now();
+  const from = parseInt(el.textContent.replace(/[^\d]/g, "") || "0", 10);
+  function tick(t) {
+    const p = Math.min((t - t0) / dur, 1);
+    const eased = 1 - Math.pow(1 - p, 3);
+    el.textContent = fmt(Math.round(from + (target - from) * eased));
+    if (p < 1) requestAnimationFrame(tick);
+  }
+  requestAnimationFrame(tick);
 }
 
 function resetFilters() {

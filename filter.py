@@ -59,7 +59,7 @@ def _extract_salary(job: dict) -> str:
         return "Rp " + re.sub(r"\s+", " ", m.group(1)).strip()
     # USD/EUR/GBP: $120k / $80k-$120k / €70k / £50k / $30,000 / €60,000-€90,000
     # only accept ranges, 'k'/'K', or comma-separated amounts (>=1000) — avoids grabbing stray years/IDs
-    m = re.search(r"([$€£])\s?(\d[\d,.]*(?:k|K)?)(?![MBb]|\d)(?:\s?[-–]\s?([$€£]?\s?\d[\d,.]*(?:k|K)?))?\s?(/yr|/year|per year|per annum)?", text)
+    m = re.search(r"([$€£])\s?(\d[\d,.]*(?:k|K)?)(?![MBb]|\d)(?:\s?[-–]\s?([$€£]?\s?\d[\d,.]*(?:k|K)?)(?![MBb]|\d))?\s?(/yr|/year|per year|per annum)?", text)
     if m and (m.group(3) or "k" in m.group(2).lower() or "," in m.group(2)):
         cur = {"$": "USD", "€": "EUR", "£": "GBP"}[m.group(1)]
         amt = re.sub(r"\s+", "", m.group(2))
@@ -74,6 +74,11 @@ def classify(job: dict) -> dict:
     job["location"] = _clean_location(job.get("location", ""))
     if not job.get("salary"):
         job["salary"] = _extract_salary(job)
+    if not job.get("salary") and job.get("_db_salary"):
+        # fallback to stored salary only if it looks like a real salary (has currency symbol, range, or k)
+        s = job["_db_salary"]
+        if any(c in s for c in "$€£Rp") and ("-" in s or "k" in s.lower() or "Rp" in s):
+            job["salary"] = s
     tags = job.get("tags", [])
     if isinstance(tags, list):
         tags = " ".join(tags)

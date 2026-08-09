@@ -100,10 +100,11 @@ def all_rows() -> list[dict]:
     for src, title, co, loc, url, sal, tags, remote, desc, req, ben in rows:
         out.append({
             "source": src, "title": title, "company": co, "location": loc,
-            "url": url, "salary": sal or "",  # keep DB salary (Glints/others set it); classify() fills gaps later
+            "url": url, "salary": "",  # re-extracted by classify() from current desc (regex refreshed); DB fallback below
             "tags": [t for t in (tags or "").split(",") if t],
             "remote": bool(remote), "description": desc or "",
             "requirements": req or "", "benefits": ben or "",
+            "_db_salary": sal or "",
         })
     return out
 
@@ -113,15 +114,24 @@ def backfill_glints_from_desc() -> int:
     import re
     conn = connect()
     rows = conn.execute(
-        "SELECT id, location, description FROM jobs WHERE source='glints'"
+        "SELECT id, location, description, company FROM jobs WHERE source='glints'"
     ).fetchall()
+    rows_company = {r[0]: (r[3] or "") for r in rows}
     n = 0
-    for rid, loc, desc in rows:
+    for rid, loc, desc, _co in rows:
         if not desc:
             continue
         changed = False
         new_loc = loc
         new_desc = desc
+        # company from 'Jobs at {Company}' when stored empty (offshore listings)
+        co = rows_company.get(rid, "")
+        if not co:
+            cm = re.search(r"Jobs?\s+at\s+([^,]+)", desc, re.I)
+            if cm:
+                co = cm.group(1).strip().strip(".,")
+                conn.execute("UPDATE jobs SET company=? WHERE id=?", (co, rid))
+                changed = True
         # location from breadcrumb 'Lokasi / {prov} / {kota}'
         if not (loc or "").strip():
             lm = re.search(r"Lokasi\s*:\s*[^/]+/\s*([^/]+)", desc, re.I) or \
