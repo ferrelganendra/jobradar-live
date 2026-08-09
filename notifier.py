@@ -40,12 +40,19 @@ def get_chat_id() -> Optional[str]:
 
 def send(text: str, chat_id: Optional[str] = None, parse_mode: str = "") -> bool:
     env = _load_env()
-    cid = chat_id or env.get("TELEGRAM_CHAT_ID")
-    if not cid:
+    cid_raw = chat_id or env.get("TELEGRAM_CHAT_ID", "")
+    if not cid_raw:
+        return False
+    ids = [c.strip() for c in str(cid_raw).split(",") if c.strip()]
+    if not ids:
         return False
     url = f"https://api.telegram.org/bot{env['TELEGRAM_BOT_TOKEN']}/sendMessage"
-    payload = {"chat_id": cid, "text": text[:4000]}
+    payload = {"text": text[:4000]}
     if parse_mode:
         payload["parse_mode"] = parse_mode
-    r = requests.post(url, json=payload, timeout=15)
-    return r.status_code == 200
+    ok = True
+    for cid in ids:
+        p = dict(payload, chat_id=int(cid))
+        r = requests.post(url, json=p, timeout=15)
+        ok = ok and r.status_code == 200
+    return ok
