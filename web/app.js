@@ -10,7 +10,7 @@ const state = {
   local: false,
   salaryOnly: false,
   source: "",
-  sort: "relevance",
+  sort: "recent",
 };
 
 const $ = (id) => document.getElementById(id);
@@ -90,8 +90,22 @@ function matches(j) {
   return true;
 }
 
+function salaryNum(j) {
+  // parse "Rp 6-8jt" / "USD 80k" / "$50,000" → numeric for sorting
+  const s = (j.salary || "").replace(/\s/g, "").toLowerCase();
+  let m = s.match(/(\d[\d.,]*)(?:jt|juta|j|m|k|rb|ribu)?/);
+  if (!m) return null;
+  let n = parseFloat(m[1].replace(/,/g, ""));
+  if (s.includes("jt") || s.includes("juta") || s.includes(" j")) n *= 1e6;
+  else if (s.includes("rb") || s.includes("ribu")) n *= 1e3;
+  else if (s.includes("k")) n *= 1e3;
+  else if (s.includes("m")) n *= 1e6;
+  return n;
+}
+
 function score(j) {
-  if (state.sort === "title") return 0;
+  if (state.sort === "recent") return 0; // stable insertion order — netral, tanpa bias industri
+  if (state.sort === "title") return 0; // title sorted separately in render()
   if (state.sort === "salary") return j.salary ? 1 : 0;
   if (state.q) {
     const q = state.q.toLowerCase();
@@ -114,7 +128,13 @@ function score(j) {
 
 function render() {
   const list = state.jobs.filter(matches);
-  list.sort((a, b) => score(b) - score(a));
+  if (state.sort === "title") {
+    list.sort((a, b) => (a.title || "").localeCompare(b.title || "", "id"));
+  } else if (state.sort === "salary") {
+    list.sort((a, b) => (salaryNum(b) || 0) - (salaryNum(a) || 0));
+  } else {
+    list.sort((a, b) => score(b) - score(a));
+  }
 
   $("resultText").textContent = `Menampilkan ${list.length} dari ${state.jobs.length} lowongan`;
   const wrap = $("cards");
@@ -252,12 +272,12 @@ function countUp(id, target) {
 function resetFilters() {
   state.q = ""; state.roles.clear(); state.types.clear();
   state.remote = state.foreign = state.local = state.salaryOnly = false;
-  state.source = ""; state.sort = "relevance";
+  state.source = ""; state.sort = "recent";
   $("q").value = "";
   document.querySelectorAll(".chip.active").forEach((c) => c.classList.remove("active"));
   ["fRemote", "fForeign", "fLocal", "fSalary"].forEach((id) => ($(id).checked = false));
   $("fSource").value = "";
-  $("sort").value = "relevance";
+  $("sort").value = "recent";
   render();
 }
 $("resetFilters").addEventListener("click", resetFilters);
