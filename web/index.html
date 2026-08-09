@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="theme-color" content="#F4F0E9">
 <title>JobRadar · Laporan Pasar Kerja</title>
-<link rel="stylesheet" href="style.css?v=7">
+<link rel="stylesheet" href="style.css?v=8">
 </head>
 <body>
 
@@ -109,6 +109,21 @@
       <p class="empty-line">Tidak ada lowongan yang cocok dengan filter saat ini.</p>
       <button type="button" class="empty-reset" id="emptyReset">Reset filter</button>
     </div>
+    <div class="controls-bar">
+      <div class="pager" id="pager">
+        <button type="button" class="pg-btn pg-prev" aria-label="Halaman sebelumnya">&larr;</button>
+        <span class="pager-info"></span>
+        <button type="button" class="pg-btn pg-next" aria-label="Halaman berikutnya">&rarr;</button>
+      </div>
+      <label class="perpager mono" for="perPage">Per halaman
+        <select id="perPage" name="perPage" class="input per">
+          <option value="12">12</option>
+          <option value="24" selected>24</option>
+          <option value="48">48</option>
+          <option value="96">96</option>
+        </select>
+      </label>
+    </div>
   </main>
 </div>
 
@@ -138,6 +153,6 @@
   </article>
 </template>
 
-<script src="app.js?v=7"></script>
+<script src="app.js?v=8"></script>
 </body>
 </html>

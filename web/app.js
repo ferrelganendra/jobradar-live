@@ -11,6 +11,8 @@ const state = {
   salaryOnly: false,
   source: "",
   sort: "recent",
+  page: 1,
+  perPage: 24,
 };
 
 const $ = (id) => document.getElementById(id);
@@ -136,18 +138,25 @@ function render() {
     list.sort((a, b) => score(b) - score(a));
   }
 
-  $("resultText").textContent = `Menampilkan ${list.length} dari ${state.jobs.length} lowongan`;
+  const total = list.length;
+  const pages = Math.max(1, Math.ceil(total / state.perPage));
+  if (state.page > pages) state.page = pages;
+  if (state.page < 1) state.page = 1;
+  const slice = list.slice((state.page - 1) * state.perPage, state.page * state.perPage);
+
+  $("resultText").textContent = `Menampilkan ${slice.length} dari ${total} lowongan`;
   const wrap = $("cards");
   const tpl = $("cardTpl");
   wrap.innerHTML = "";
 
-  if (list.length === 0) {
+  if (total === 0) {
     $("empty").hidden = false;
+    $("pager").hidden = true;
     return;
   }
   $("empty").hidden = true;
 
-  for (const [i, j] of list.entries()) {
+  for (const [i, j] of slice.entries()) {
     const n = tpl.content.cloneNode(true);
     const card = n.firstElementChild;
     card.style.animationDelay = Math.min(i * 18, 350) + "ms";
@@ -207,16 +216,38 @@ function render() {
 
     wrap.appendChild(n);
   }
+  renderPager(total, pages);
 }
 
-$("q").addEventListener("input", (e) => { state.q = e.target.value.trim(); render(); });
+function renderPager(total, pages) {
+  const el = $("pager");
+  if (!el) return;
+  el.hidden = total === 0;
+  const info = el.querySelector(".pager-info");
+  if (info) info.textContent = `Halaman ${state.page} dari ${pages}`;
+  const prev = el.querySelector(".pg-prev");
+  const next = el.querySelector(".pg-next");
+  if (prev) prev.disabled = state.page <= 1;
+  if (next) next.disabled = state.page >= pages;
+}
+
+function goPage(p) {
+  state.page = p;
+  render();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+document.querySelectorAll(".pg-prev").forEach((b) => b.addEventListener("click", () => goPage(state.page - 1)));
+document.querySelectorAll(".pg-next").forEach((b) => b.addEventListener("click", () => goPage(state.page + 1)));
+$("perPage").addEventListener("change", (e) => { state.perPage = parseInt(e.target.value, 10) || 24; state.page = 1; render(); });
+
+$("q").addEventListener("input", (e) => { state.q = e.target.value.trim(); state.page = 1; render(); });
 
 document.querySelectorAll("#roleChips .chip").forEach((c) => {
   c.addEventListener("click", () => {
     c.classList.toggle("active");
     const r = c.dataset.role;
     state.roles.has(r) ? state.roles.delete(r) : state.roles.add(r);
-    render();
+    state.page = 1; render();
   });
 });
 document.querySelectorAll("#typeChips .chip").forEach((c) => {
@@ -224,15 +255,15 @@ document.querySelectorAll("#typeChips .chip").forEach((c) => {
     c.classList.toggle("active");
     const r = c.dataset.type;
     state.types.has(r) ? state.types.delete(r) : state.types.add(r);
-    render();
+    state.page = 1; render();
   });
 });
-$("fRemote").addEventListener("change", (e) => { state.remote = e.target.checked; render(); });
-$("fForeign").addEventListener("change", (e) => { state.foreign = e.target.checked; render(); });
-$("fLocal").addEventListener("change", (e) => { state.local = e.target.checked; render(); });
-$("fSalary").addEventListener("change", (e) => { state.salaryOnly = e.target.checked; render(); });
-$("fSource").addEventListener("change", (e) => { state.source = e.target.value; render(); });
-$("sort").addEventListener("change", (e) => { state.sort = e.target.value; render(); });
+$("fRemote").addEventListener("change", (e) => { state.remote = e.target.checked; state.page = 1; render(); });
+$("fForeign").addEventListener("change", (e) => { state.foreign = e.target.checked; state.page = 1; render(); });
+$("fLocal").addEventListener("change", (e) => { state.local = e.target.checked; state.page = 1; render(); });
+$("fSalary").addEventListener("change", (e) => { state.salaryOnly = e.target.checked; state.page = 1; render(); });
+$("fSource").addEventListener("change", (e) => { state.source = e.target.value; state.page = 1; render(); });
+$("sort").addEventListener("change", (e) => { state.sort = e.target.value; state.page = 1; render(); });
 
 // ── LIVE TICKER + CHAPTER ─────────────────────────────
 function updateSignals() {
@@ -272,12 +303,13 @@ function countUp(id, target) {
 function resetFilters() {
   state.q = ""; state.roles.clear(); state.types.clear();
   state.remote = state.foreign = state.local = state.salaryOnly = false;
-  state.source = ""; state.sort = "recent";
+  state.source = ""; state.sort = "recent"; state.page = 1;
   $("q").value = "";
   document.querySelectorAll(".chip.active").forEach((c) => c.classList.remove("active"));
   ["fRemote", "fForeign", "fLocal", "fSalary"].forEach((id) => ($(id).checked = false));
   $("fSource").value = "";
   $("sort").value = "recent";
+  $("perPage").value = state.perPage;
   render();
 }
 $("resetFilters").addEventListener("click", resetFilters);
