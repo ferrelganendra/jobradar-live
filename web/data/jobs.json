@@ -30160,5 +30160,25 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "source": "linkedin",
+    "title": "Ai Solution Developer",
+    "company": "SOCIOTRAX",
+    "location": "South Jakarta, Jakarta, Indonesia",
+    "url": "https://www.linkedin.com/jobs/view/ai-solution-developer-at-sociotrax-4451171781",
+    "salary": "",
+    "tags": [],
+    "remote": false,
+    "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": false,
+    "id_city": "jakarta",
+    "job_type": "full",
+    "is_foreign": false
   }
 ]
