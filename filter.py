@@ -116,8 +116,9 @@ def classify(job: dict) -> dict:
           else "contract" if any(k in text for k in ["contract", "kontrak", "freelance", "project-based"])
           else "part" if any(k in text for k in ["part-time", "paruh waktu"])
           else "full")
-    # is_foreign: no ID city mention AND not remote
-    foreign = (not id_city) and "indonesia" not in text and "jakarta" not in text and "remote" not in text
+    # is_foreign: by source + location. Foreign sources (arbeitnow/remotive/etc)
+    # are foreign unless an ID city is mentioned. Remote doesn't make it local.
+    foreign = (not id_city) and "indonesia" not in text and "jakarta" not in text
     # Glints only lists Indonesia jobs; a blank location there is real Indonesian, not foreign
     if job.get("source") == "glints" and not id_city:
         foreign = False
