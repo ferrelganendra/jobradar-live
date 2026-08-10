@@ -78,10 +78,6 @@ async function load() {
 function matches(j) {
   const t = (j.title + " " + j.company + " " + j.location + " " + (j.description || "") + " " + (j.tags || []).join(" ")).toLowerCase();
 
-  if (state.q) {
-    const q = state.q.toLowerCase();
-    if (!t.includes(q)) return false;
-  }
   if (state.roles.size && !state.roles.has(j.industry)) return false;
   if (state.types.size && !state.types.has(j.job_type)) return false;
   if (state.remote && !j.remote_ok) return false;
@@ -112,26 +108,61 @@ function salaryNum(j) {
 }
 
 function score(j) {
-  if (state.sort === "recent") return 0; // stable insertion order — netral, tanpa bias industri
-  if (state.sort === "title") return 0; // title sorted separately in render()
-  if (state.sort === "salary") return j.salary ? 1 : 0;
-  if (state.q) {
-    const q = state.q.toLowerCase();
-    const title = j.title.toLowerCase();
-    const comp = (j.company || "").toLowerCase();
-    let s = 0;
-    if (title.includes(q)) s += 3;
-    if (comp.includes(q)) s += 2;
-    if ((j.description || "").toLowerCase().includes(q)) s += 1;
-    return s;
+  return 0; // relevance handled by searchRank when state.q set; recent stable otherwise
+}
+
+/* ---- TF-IDF vector search (client-side, no index file) ---- */
+const _STOP = new Set("yang dan di ke dari untuk dengan pada ini itu atau tidak juga sudah the a an of to in for on and or is are be at by as it its we you our job jobs role company work team".split(" "));
+let _df = null, _jobVec = null;
+function _tok(s) { return (String(s || "").toLowerCase().match(/[a-z0-9]+/g) || []).filter((w) => w.length > 1 && !_STOP.has(w)); }
+function buildIndex() {
+  const df = {};
+  const vecs = [];
+  for (const jb of state.jobs) {
+    const titleToks = _tok(jb.title + " " + jb.company);
+    const bodyToks = _tok(jb.location + " " + (jb.description || "") + " " + (jb.tags || []).join(" "));
+    // count tf with title flag
+    const tf = {};
+    for (const seq of [titleToks, bodyToks]) for (const w of seq) tf[w] = (tf[w] || 0) + 1;
+    const seen = {};
+    for (const w of titleToks) if (!seen[w]) { seen[w] = 1; df[w] = (df[w] || 0) + 1; }
+    for (const w of bodyToks) if (!seen[w]) { seen[w] = 1; df[w] = (df[w] || 0) + 1; }
+    const titleSet = new Set(titleToks);
+    vecs.push({ tf, n: Object.keys(tf).length, title: titleSet });
   }
-  let s = 0;
-  if (j.role === "AI") s += 3;
-  else if (j.role === "SWE") s += 2;
-  else if (j.role === "IT") s += 1;
-  if (j.salary) s += 0.5;
-  if (j.is_foreign) s -= 0.5;
-  return s;
+  const n = Math.max(1, state.jobs.length);
+  const idf = {};
+  for (const w in df) idf[w] = Math.log(1 + n / df[w]);
+  _jobVec = vecs.map(({ tf, n: ntok, title }) => {
+    const v = {};
+    for (const w in tf) v[w] = (tf[w] / Math.max(1, ntok)) * idf[w] * (title.has(w) ? 3 : 1);
+    let norm = 0; for (const w in v) norm += v[w] * v[w];
+    norm = Math.sqrt(norm) || 1;
+    for (const w in v) v[w] /= norm;
+    return v;
+  });
+  _df = { idf, n };
+}
+function cosine(a, b) {
+  let d = 0; for (const w in a) if (b[w]) d += a[w] * b[w]; return d;
+}
+function searchRank(list) {
+  if (!_df) buildIndex();
+  const qtf = {};
+  for (const w of _tok(state.q)) qtf[w] = (qtf[w] || 0) + 1;
+  const qv = {};
+  for (const w in qtf) if (_df.idf[w]) qv[w] = (qtf[w] / Math.max(1, Object.keys(qtf).length)) * _df.idf[w];
+  let qn = 0; for (const w in qv) qn += qv[w] * qv[w];
+  qn = Math.sqrt(qn) || 1;
+  for (const w in qv) qv[w] /= qn;
+  if (!Object.keys(qv).length) return list;
+  // map each job to its precomputed vector by reference
+  const vecById = new Map();
+  state.jobs.forEach((j, i) => vecById.set(j, _jobVec[i]));
+  return list.map((j) => ({ j, s: cosine(qv, vecById.get(j) || {}) }))
+    .filter((x) => x.s > 0)
+    .sort((a, b) => b.s - a.s)
+    .map((x) => x.j);
 }
 
 function render() {
@@ -140,6 +171,10 @@ function render() {
     list.sort((a, b) => (a.title || "").localeCompare(b.title || "", "id"));
   } else if (state.sort === "salary") {
     list.sort((a, b) => (salaryNum(b) || 0) - (salaryNum(a) || 0));
+  } else if (state.q) {
+    // semantic relevance ranking
+    const ranked = searchRank(list);
+    list.length = 0; list.push(...ranked);
   } else {
     list.sort((a, b) => score(b) - score(a));
   }
