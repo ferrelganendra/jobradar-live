@@ -229,6 +229,22 @@ function renderPager(total, pages) {
   const next = el.querySelector(".pg-next");
   if (prev) prev.disabled = state.page <= 1;
   if (next) next.disabled = state.page >= pages;
+  // number buttons
+  let nums = el.querySelector(".pg-nums");
+  if (!nums) { nums = document.createElement("div"); nums.className = "pg-nums"; el.querySelector(".pg-nav") ? el.querySelector(".pg-nav").after(nums) : el.appendChild(nums); }
+  nums.innerHTML = "";
+  if (pages <= 1) return;
+  const win = 2;
+  const lo = Math.max(1, state.page - win), hi = Math.min(pages, state.page + win);
+  const add = (p, label) => {
+    const b = document.createElement("button"); b.type = "button"; b.className = "pg-num" + (p === state.page ? " active" : "");
+    b.textContent = label; b.addEventListener("click", () => goPage(p)); nums.appendChild(b);
+  };
+  if (lo > 1) add(1, "1");
+  if (lo > 2) { const e = document.createElement("span"); e.className = "pg-ell"; e.textContent = "…"; nums.appendChild(e); }
+  for (let p = lo; p <= hi; p++) add(p, String(p));
+  if (hi < pages - 1) { const e = document.createElement("span"); e.className = "pg-ell"; e.textContent = "…"; nums.appendChild(e); }
+  if (hi < pages) add(pages, String(pages));
 }
 
 function goPage(p) {
@@ -273,10 +289,7 @@ function updateSignals() {
   countUp("totalCount", J.length);
   countUp("tRemote", J.filter((j) => j.remote_ok).length);
   countUp("tLocal", J.filter((j) => !j.is_foreign).length);
-  countUp("tAI", J.filter((j) => j.role === "AI").length);
-  countUp("tSW", J.filter((j) => j.role === "SWE").length);
   countUp("tSalary", J.filter((j) => j.salary).length);
-  set("tSource", num(new Set(J.map((j) => j.source)).size));
   const now = new Date();
   const date = now
     .toLocaleDateString("id-ID", { weekday: "short", day: "2-digit", month: "short", year: "numeric" })
