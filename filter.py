@@ -122,8 +122,15 @@ def classify(job: dict) -> dict:
     # Glints only lists Indonesia jobs; a blank location there is real Indonesian, not foreign
     if job.get("source") == "glints" and not id_city:
         foreign = False
+    # Indonesian company legal form (PT / CV / Tbk) → local, even if location missing
+    comp = (job.get("company") or "")
+    if foreign and re.search(r"\b(pt|cv|tbk|persero|yayasan)\b", comp, re.I):
+        foreign = False
     job["is_it"] = it
     job["role"] = "AI" if ai else ("SWE" if swe else ("IT" if it else "other"))
+    # clean title: strip em-dash (AI tell) into · at data level, not just render
+    if job.get("title"):
+        job["title"] = job["title"].replace("—", " · ").replace("–", "-").strip()
     # industry detection: TITLE has priority. If title clearly says tech,
     # it's Teknologi regardless of desc keywords (fixes "AI Engineer" tagged Marketing).
     title_l = (job.get("title") or "").lower()
