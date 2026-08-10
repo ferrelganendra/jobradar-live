@@ -124,13 +124,25 @@ def classify(job: dict) -> dict:
         foreign = False
     job["is_it"] = it
     job["role"] = "AI" if ai else ("SWE" if swe else ("IT" if it else "other"))
-    # industry detection (broader, non-IT-centric) from title+desc
-    ind_text = " ".join([job.get("title", ""), job.get("description", ""), job.get("company", ""), str(tags)]).lower()
-    industry = "Lainnya"
-    for ind_name, kws in INDUSTRY_KEYWORDS:
-        if any(k in ind_text for k in kws):
-            industry = ind_name
-            break
+    # industry detection: TITLE has priority. If title clearly says tech,
+    # it's Teknologi regardless of desc keywords (fixes "AI Engineer" tagged Marketing).
+    title_l = (job.get("title") or "").lower()
+    TECH_TITLE = ["software engineer", "software", "developer", "programmer", "data engineer", "data scientist",
+                  "data analyst", "data entry", "data", "ai ", "artificial intelligence", "machine learning", "ml ",
+                  "devops", "backend", "frontend", "fullstack", "full-stack", "sre", "platform engineer",
+                  "infrastructure", "cloud engineer", "cloud", "network engineer", "sysadmin", "system administrator",
+                  "qa engineer", "qa ", "test engineer", "automation engineer", "automation",
+                  "security engineer", "cybersecurity", "it support", "it specialist", "it ", "helpdesk",
+                  "software architect", "tech lead", "technical", "product engineer", "site reliability"]
+    industry = "Teknologi" if any(k in title_l for k in TECH_TITLE) else None
+    # else: match from title+desc (non-tech industries)
+    if industry is None:
+        ind_text = " ".join([title_l, (job.get("description") or "").lower(), (job.get("company") or "").lower()])
+        for ind_name, kws in INDUSTRY_KEYWORDS:
+            if any(k in ind_text for k in kws):
+                industry = ind_name
+                break
+        industry = industry or "Lainnya"
     job["industry"] = industry
     job["remote_ok"] = remote
     job["id_city"] = id_city
