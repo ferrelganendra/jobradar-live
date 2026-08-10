@@ -31736,5 +31736,25 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "source": "linkedin",
+    "title": "Data Scientist",
+    "company": "DANA Indonesia",
+    "location": "Jakarta, Indonesia",
+    "url": "https://www.linkedin.com/jobs/view/data-scientist-at-dana-indonesia-4451183318",
+    "salary": "",
+    "tags": [],
+    "remote": false,
+    "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "AI",
+    "industry": "Teknologi",
+    "remote_ok": false,
+    "id_city": "jakarta",
+    "job_type": "full",
+    "is_foreign": false
   }
 ]
