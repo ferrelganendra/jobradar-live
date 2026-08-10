@@ -66,7 +66,11 @@ def _clean_location(loc) -> str:
 def _extract_salary(job: dict) -> str:
     """Pull salary from description/requirements if not already populated. Returns formatted string."""
     if job.get("salary"):
-        return str(job["salary"])
+        s = str(job["salary"])
+        # placeholder text like "Gaji Tidak Ditampilkan" / "Not Disclosed" is NOT a real salary
+        if not re.search(r"gaji tidak\s*ditampilkan|not\s*disclos|not\s*specified|tidak\s*dicantumkan|hidden|upon\s*request|negotiable", s, re.I):
+            return s
+        job["salary"] = ""  # placeholder → treat as no salary
     text = " ".join([
         job.get("description", ""), job.get("requirements", ""),
         job.get("title", ""), job.get("location", ""), str(job.get("tags", "")),
@@ -92,12 +96,13 @@ def _extract_salary(job: dict) -> str:
 def classify(job: dict) -> dict:
     """Return job with added: is_it, role (AI/SWE/IT), is_remote, id_city."""
     job["location"] = _clean_location(job.get("location", ""))
-    if not job.get("salary"):
-        job["salary"] = _extract_salary(job)
+    # always normalize salary (strips placeholder like "Gaji Tidak Ditampilkan")
+    job["salary"] = _extract_salary(job)
     if not job.get("salary") and job.get("_db_salary"):
         # fallback to stored salary only if it looks like a real salary (has currency symbol, range, or k)
         s = job["_db_salary"]
-        if any(c in s for c in "$€£Rp") and ("-" in s or "k" in s.lower() or "Rp" in s):
+        if any(c in s for c in "$€£Rp") and ("-" in s or "k" in s.lower() or "Rp" in s) \
+           and not re.search(r"gaji tidak\s*ditampilkan|not\s*disclos|not\s*specified|tidak\s*dicantumkan|hidden|upon\s*request|negotiable", s, re.I):
             job["salary"] = s
     tags = job.get("tags", [])
     if isinstance(tags, list):
