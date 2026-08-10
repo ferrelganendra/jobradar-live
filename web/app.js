@@ -162,7 +162,7 @@ function render() {
     card.style.animationDelay = Math.min(i * 18, 350) + "ms";
     n.querySelector(".role-label").textContent = j.industry || "Lainnya";
     n.querySelector(".card-source").textContent = j.source;
-    n.querySelector(".card-title").textContent = deEmoji(j.title);
+    n.querySelector(".card-title").textContent = deEmoji(j.title).replace(/—/g, " · ");
     const coEl = n.querySelector(".meta-company");
     const co = j.company?.trim();
     if (co) {
