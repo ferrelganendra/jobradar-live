@@ -20,7 +20,6 @@ const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "
 const EMOJI_RE = /[\u{1F000}-\u{1FAFF}\u{2600}-\u{27BF}\u{2190}-\u{21FF}\u{FE0F}]/gu;
 const deEmoji = (s) => String(s ?? "").replace(EMOJI_RE, "");
 
-const ROLE_LABEL = { AI: "AI", SWE: "SWE", IT: "IT", other: "Lain" };
 const TYPE_LABEL = { full: "Full-time", intern: "Magang", contract: "Kontrak", part: "Part-time" };
 
 function stripHtml(h) {
@@ -72,6 +71,7 @@ async function load() {
     sel.appendChild(o);
   });
   $("totalCount").textContent = state.jobs.length;
+  buildIndustryChips();
   updateSignals();
   render();}
 
@@ -82,7 +82,7 @@ function matches(j) {
     const q = state.q.toLowerCase();
     if (!t.includes(q)) return false;
   }
-  if (state.roles.size && !state.roles.has(j.role)) return false;
+  if (state.roles.size && !state.roles.has(j.industry)) return false;
   if (state.types.size && !state.types.has(j.job_type)) return false;
   if (state.remote && !j.remote_ok) return false;
   if (state.foreign && !j.is_foreign) return false;
@@ -160,7 +160,7 @@ function render() {
     const n = tpl.content.cloneNode(true);
     const card = n.firstElementChild;
     card.style.animationDelay = Math.min(i * 18, 350) + "ms";
-    n.querySelector(".role-label").textContent = ROLE_LABEL[j.role] || "Lain";
+    n.querySelector(".role-label").textContent = j.industry || "Lainnya";
     n.querySelector(".card-source").textContent = j.source;
     n.querySelector(".card-title").textContent = deEmoji(j.title);
     const coEl = n.querySelector(".meta-company");
@@ -258,14 +258,26 @@ $("perPage").addEventListener("change", (e) => { state.perPage = parseInt(e.targ
 
 $("q").addEventListener("input", (e) => { state.q = e.target.value.trim(); state.page = 1; render(); });
 
-document.querySelectorAll("#roleChips .chip").forEach((c) => {
-  c.addEventListener("click", () => {
-    c.classList.toggle("active");
-    const r = c.dataset.role;
-    state.roles.has(r) ? state.roles.delete(r) : state.roles.add(r);
-    state.page = 1; render();
+function buildIndustryChips() {
+  const wrap = $("roleChips");
+  if (!wrap) return;
+  const counts = {};
+  state.jobs.forEach((j) => { const i = j.industry || "Lainnya"; counts[i] = (counts[i] || 0) + 1; });
+  const order = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
+  wrap.innerHTML = "";
+  order.forEach((ind) => {
+    const b = document.createElement("button");
+    b.type = "button"; b.className = "chip"; b.dataset.role = ind;
+    b.textContent = ind;
+    b.title = counts[ind] + " lowongan";
+    b.addEventListener("click", () => {
+      b.classList.toggle("active");
+      state.roles.has(ind) ? state.roles.delete(ind) : state.roles.add(ind);
+      state.page = 1; render();
+    });
+    wrap.appendChild(b);
   });
-});
+}
 document.querySelectorAll("#typeChips .chip").forEach((c) => {
   c.addEventListener("click", () => {
     c.classList.toggle("active");

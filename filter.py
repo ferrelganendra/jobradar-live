@@ -31,6 +31,26 @@ ID_CITIES = ["jakarta", "tangsel", "tangerang", "bekasi", "depok", "bandung",
 
 REMOTE_WORDS = ["remote", "work from home", "wfh", "hybrid", "fully remote"]
 
+# Industry detection (title/desc keyword -> industry bucket). Ordered: first match wins.
+# "other" = teknologi/IT yang tak masuk industry umum, biar fair netral.
+INDUSTRY_KEYWORDS = [
+    # Non-tech industries (representative, not IT-centric)
+    ("Sales", ["sales", "account executive", "business development", "bd ", "closing", "quota", "revenue", "account manager", "sdr", "bdr", "pre-sales"]),
+    ("Marketing", ["marketing", "seo", "sem", "content", "copywriter", "social media", "brand", "growth", "advertising", "campaign", "pr ", "public relation"]),
+    ("Finance", ["finance", "accounting", "accountant", "audit", "payable", "receivable", "financial", "tax", "bookkeeping", "treasury", "banking", "investment"]),
+    ("HR", ["hr ", "human resource", "recruiter", "talent", "people ops", "payroll", "hiring", "staffing"]),
+    ("Support", ["support", "customer service", "customer care", "helpdesk", "service desk", "receptionist", "call center", "client success"]),
+    ("Healthcare", ["healthcare", "medical", "nurse", "nursing", "patient", "clinical", "pharma", "pharmacist", "doctor", "therapy", "care specialist"]),
+    ("Design", ["design", "graphic designer", "ui designer", "ux designer", "illustrator", "creative", "art director", "visual"]),
+    ("Legal", ["legal", "lawyer", "attorney", "paralegal", "compliance officer", "contract manager"]),
+    ("Operations", ["operations", "supply chain", "logistics", "procurement", "inventory", "warehouse", "facility"]),
+    ("Education", ["education", "teacher", "tutor", "instructor", "lecturer", "professor", "academic", "curriculum"]),
+    ("Data", ["data analyst", "data scientist", "data engineer", "data entry", "data labeling", "data annotation", "analyst"]),
+    ("Engineering", ["mechanical engineer", "electrical", "civil engineer", "elektro", "elektrotechnik", "chemical engineer", "industrial engineer", "process engineer", "senior design engineer"]),
+    # Tech umbrella (default IT-ish)
+    ("Teknologi", ["software", "developer", "engineer", "frontend", "backend", "fullstack", "devops", "sre", "infrastructure", "cloud", "programmer", "it ", "tech", "data engineer", "qa", "quality", "security", "cyber", "ml", "ai ", "machine learning", "artificial"]),
+]
+
 
 def _clean_location(loc) -> str:
     """Strip trailing time-ago / applicant / hiring noise from a location string."""
@@ -103,6 +123,14 @@ def classify(job: dict) -> dict:
         foreign = False
     job["is_it"] = it
     job["role"] = "AI" if ai else ("SWE" if swe else ("IT" if it else "other"))
+    # industry detection (broader, non-IT-centric) from title+desc
+    ind_text = " ".join([job.get("title", ""), job.get("description", ""), job.get("company", ""), str(tags)]).lower()
+    industry = "Lainnya"
+    for ind_name, kws in INDUSTRY_KEYWORDS:
+        if any(k in ind_text for k in kws):
+            industry = ind_name
+            break
+    job["industry"] = industry
     job["remote_ok"] = remote
     job["id_city"] = id_city
     job["job_type"] = jt
