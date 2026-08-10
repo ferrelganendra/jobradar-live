@@ -30092,5 +30092,73 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "source": "arbeitnow",
+    "title": "Grafik Desinger",
+    "company": "Greif Concept",
+    "location": "Hamburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/greif-concept/grafik-desinger-hamburg-98436",
+    "salary": "",
+    "tags": [
+      "Marketing and Communication"
+    ],
+    "remote": false,
+    "description": "<p>Wir sind <strong>Greif Concept</strong> eine Kommunikations- und Eventagentur mit viel Liebe für starke Ideen, gute Gestaltung und besondere Erlebnisse. Für unser Team suchen wir ab <strong>1. September</strong> eine Grafikdesigner, der oder die Lust hat, kreative Projekte von der ersten Idee bis zur fertigen Umsetzung zu begleiten.</p>\n<h2>Aufgaben</h2>\n<p>Deine Aufgaben</p>\n<p>Dein Schwerpunkt liegt klar im Bereich <strong>Grafik und Gestaltung</strong>. Du entwickelst visuelle Ideen und setzt sie für unterschiedliche Projekte und Formate um.</p>\n<p>Dazu gehören unter anderem:</p>\n<ul>\n<li>Gestaltung von Print- und Digitalmedien</li>\n<li>Erfahrung und Anwendung von KI</li>\n<li>Entwicklung und Umsetzung von <strong>Illustrationen</strong></li>\n<li>professionelle <strong>Erstellung und Aufbereitung von Druckdaten</strong></li>\n<li>Gestaltung von Präsentationen und <strong>Erstellung hochwertiger Präsentationsunterlagen</strong></li>\n<li>Entwicklung von Layouts, Grafiken und visuellen Konzepten</li>\n<li>Umsetzung bestehender Designs und Corporate Designs</li>\n<li>Abstimmung mit unserem Projekt- und Eventteam</li>\n</ul>\n<p>Da wir eine Eventagentur sind, freuen wir uns außerdem, wenn du grundsätzlich Lust hast, uns <strong>ab und zu auch bei Veranstaltungen vor Ort zu unterstützen</strong>. Das ist ausdrücklich <strong>nicht der Schwerpunkt deiner Stelle</strong> und kein regelmäßiger Bestandteil deines Arbeitsalltags – vielmehr suchen wir jemanden, der ein Teamplayer ist und bei einzelnen Events gerne mal mit anpackt.</p>\n<h2>Qualifikation</h2>\n<p>Das bringst du mit</p>\n<ul>\n<li>ein <strong>abgeschlossenes Studium im Bereich Grafikdesign, Kommunikationsdesign oder einer vergleichbaren Fachrichtung</strong></li>\n<li>idealerweise einen Schwerpunkt oder fundierte Kenntnisse im Bereich <strong>Illustration</strong></li>\n<li>sehr gute Kenntnisse in der <strong>Erstellung und Aufbereitung von Druckvorlagen sowie Reinzeichnungen</strong></li>\n<li>erste <strong>Berufserfah",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": false,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "source": "arbeitnow",
+    "title": "Growth Marketer/in (100% Remote)",
+    "company": "HeroSoftware GmbH",
+    "location": "Mannheim",
+    "url": "https://www.arbeitnow.com/jobs/companies/herosoftware-gmbh/growth-marketer-in-100-remote-mannheim-301154",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "IT"
+    ],
+    "remote": true,
+    "description": "<p>Wir entwickeln Shopify Apps für über 3.500 Shopify Händler. Als Growth Marketer bei Herosoftware bist du dafür verantwortlich, dass noch mehr Händler auf unsere Apps aufmerksam werden. Du testest neue Kanäle, fährst Experimente, misst die Ergebnisse und skalierst, was funktioniert – mit direktem Draht zu einem Team</p>\n<h2>Aufgaben</h2>\n<ul>\n<li>Du testest neue Kanäle und findest heraus, was für unsere Kunden funktioniert – und was nicht</li>\n<li>Du fährst Experimente, misst die Ergebnisse und ziehst daraus klare Schlüsse</li>\n<li>Du skalierst, was funktioniert, und beendest konsequent, was nicht funktioniert</li>\n<li>Du arbeitest über Paid, SEO, Content, E-Mail und Social hinweg – du bist nicht auf einen Kanal festgelegt</li>\n<li>Du fasst selbst mit an, statt nur zu koordinieren oder Reportings zu bauen</li>\n</ul>\n<h2>Qualifikation</h2>\n<ul>\n<li>Erfahrung im Growth Marketing oder vergleichbare praktische Erfahrung im Testen und Skalieren von Marketingmaßnahmen</li>\n<li>Ein datengetriebenes Mindset – du triffst Entscheidungen auf Basis von Zahlen, nicht aus dem Bauch heraus</li>\n<li>Eigenständigkeit und Lust, Dinge selbst umzusetzen statt nur zu planen</li>\n<li>Idealerweise Erfahrung mit Shopify oder E-Commerce</li>\n<li>Sehr gute Deutsch- und Englischkenntnisse</li>\n</ul>\n<h2>Benefits</h2>\n<ul>\n<li>Auch mal frei: 30 Tage Urlaub + am Geburtstag, Weihnachten und Silvester frei</li>\n<li>Leider: kein Obstkorb, kein Tischkicker und kein Mio Mate, sorry</li>\n<li>Teamkultur: Humor, klare Meeting-Formate &#x26; Feierabend</li>\n<li>Arbeitszeit: wir bewerten dich nach Leistung, nicht nach Zeit</li>\n<li>Arbeitseinteilung: arbeite wann du möchtest, egal ob Nachteule oder früher Vogel</li>\n<li>Remote first: 100% remote, maximale Freiheit für dich</li>\n<li>Wachstum: unser Growth Mindset bringt dich garantiert voran</li>\n<li>Für uns schon Basics: bestes Apple Equipment &#x26; Teamevents</li>\n</ul>\n<p>Klingt nach dir?</p>\n<p>Dann freuen wir uns auf deine Bewerbung! Schick uns CV",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Marketing",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "source": "arbeitnow",
+    "title": "Product Engineer",
+    "company": "MedMatic GmbH",
+    "location": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/medmatic-gmbh/product-engineer-munich-30842",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Engineering"
+    ],
+    "remote": true,
+    "description": "<p><strong>Über uns</strong></p>\n<p>Der zunehmende Kostendruck im deutschen Gesundheitswesen stellt Krankenhäuser vor eine große Herausforderung: Sie müssen immer komplexere Anforderungen erfüllen, um ihre erbrachten Leistungen vollständig und korrekt vergütet zu bekommen. Gleichzeitig arbeiten bereits mehr als 80 Prozent der deutschen Krankenhäuser defizitär.</p>\n<p>Mit unserer KI-Lösung unterstützen wir bereits zahlreiche öffentliche, private und kirchliche Krankenhäuser in ganz Deutschland dabei, den gesamten Prozess von der Behandlung bis zur Bezahlung zu automatisieren und zu optimieren. Unser Leistungsspektrum reicht von der automatisierten Ermittlung der richtigen Abrechnungscodes auf Grundlage der Patientenakte über die Verbesserung der Dokumentationsqualität bis hin zur Steuerung von Liegedauern. So entlasten wir Krankenhäuser entlang des gesamten Aufgabenspektrums des Medizincontrollings.</p>\n<p>Aufgrund der stark wachsenden Nachfrage suchen wir nun tatkräftige Unterstützung für unser kleines, ambitioniertes Team.</p>\n<h2>Aufgaben</h2>\n<p><strong>Deine Aufgaben</strong></p>\n<ul>\n<li>neue Anforderungen aus Kundengesprächen schnell in Prototypen und produktionsreife Lösungen übersetzen</li>\n<li>unsere bestehende KI-Pipeline verbessern, stabilisieren und erweitern</li>\n<li>technische Demos, Piloten, Integrationen und Rollouts mit umsetzen</li>\n<li>interne Tools und Workflows bauen, die Produkt, GTM und Operations schneller machen</li>\n<li>Qualität, Reliability, Security und Skalierbarkeit schrittweise verbessern</li>\n</ul>\n<h2>Qualifikation</h2>\n<p><strong>Dein Profil</strong></p>\n<ul>\n<li>starker Builder mit Software-Engineering-Fundament</li>\n<li>Full Stack, sicher in Python, APIs, Backend, Datenpipelines und Frontend</li>\n<li>Erfahrung mit AI-Workflows und LLMs</li>\n<li>Großes Interesse am Gesundheitswesen. Pluspunkte für Medizininformatik-Spezialisierung oder Vergleichbares</li>\n<li>gutes Produktgefühl und Lust auf unklare, reale Probleme statt enger Tick",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
