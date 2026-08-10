@@ -48,7 +48,7 @@ function cleanDesc(s) {
     const idx = t.indexOf(k);
     if (idx > 0) t = t.slice(0, idx);
   }
-  t = t.replace(/\s+/g, " ").trim();
+  t = t.replace(/—/g, " · ").replace(/\s+/g, " ").trim();
   // first 200 chars of real substance after title/company echo
   const words = t.split(" ");
   return words.slice(0, 60).join(" ");
