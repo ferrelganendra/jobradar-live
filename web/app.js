@@ -97,7 +97,13 @@ function salaryNum(j) {
   const s = (j.salary || "").replace(/\s/g, "").toLowerCase();
   let m = s.match(/(\d[\d.,]*)(?:jt|juta|j|m|k|rb|ribu)?/);
   if (!m) return null;
-  let n = parseFloat(m[1].replace(/,/g, ""));
+  let raw = m[1];
+  // "7,2" → 7.2 (desimal koma); "50,000" → 50000 (ribuan titik/koma)
+  const parts = raw.split(/[.,]/);
+  let n;
+  if (parts.length === 2 && parts[1].length <= 2) n = parseFloat(parts.join(".")); // 7,2 → 7.2
+  else n = parseFloat(raw.replace(/[.,]/g, "")); // 50,000 → 50000
+  if (!isFinite(n)) return null;
   if (s.includes("jt") || s.includes("juta") || s.includes(" j")) n *= 1e6;
   else if (s.includes("rb") || s.includes("ribu")) n *= 1e3;
   else if (s.includes("k")) n *= 1e3;
