@@ -33189,5 +33189,25 @@
     "id_city": "jakarta",
     "job_type": "full",
     "is_foreign": false
+  },
+  {
+    "source": "jobicy",
+    "title": "SR MGR Manufacturing & PROCESS DVL ENGINEERING",
+    "company": "TE Connectivity",
+    "location": "",
+    "url": "https://jobicy.com/jobs/149024-sr-mgr-manufacturing-process-dvl-engineering",
+    "salary": "",
+    "tags": [],
+    "remote": true,
+    "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
