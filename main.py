@@ -1,6 +1,7 @@
 """Orchestrator: run all scrapers -> filter -> SQLite dedup -> JSON + report."""
 import json
 import os
+import subprocess
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -63,6 +64,38 @@ def enrich_details(jobs: list[dict]) -> list[dict]:
     return jobs
 
 
+def auto_commit(changed: bool) -> None:
+    """Sync web/data/jobs.json and commit to git if data changed."""
+    if not changed:
+        return
+    src = os.path.join(OUT, "jobs.json")
+    dst = os.path.join(os.path.dirname(os.path.abspath(__file__)), "web", "data", "jobs.json")
+    try:
+        import shutil
+        shutil.copyfile(src, dst)
+        root = os.path.dirname(os.path.abspath(__file__))
+        subprocess.run(["git", "add", "web/data/jobs.json"], cwd=root, check=True, capture_output=True)
+        subprocess.run(["git", "commit", "-m", "Auto: update jobs.json", "--", "web/data/jobs.json"],
+                       cwd=root, check=True, capture_output=True)
+        subprocess.run(["git", "push"], cwd=root, check=True, capture_output=True)
+        print("auto-commit: pushed web/data/jobs.json")
+    except subprocess.CalledProcessError as e:
+        print(f"auto-commit skipped: {e.stderr.decode().strip() if e.stderr else e}")
+
+
+def dedupeddiff() -> bool:
+    """True if out/jobs.json differs from committed web/data/jobs.json."""
+    src = os.path.join(OUT, "jobs.json")
+    dst = os.path.join(os.path.dirname(os.path.abspath(__file__)), "web", "data", "jobs.json")
+    if not os.path.exists(dst):
+        return True
+    try:
+        with open(src) as f1, open(dst) as f2:
+            return f1.read() != f2.read()
+    except OSError:
+        return False
+
+
 def main() -> None:
     os.makedirs(OUT, exist_ok=True)
     raw_jobs, counts = run()
@@ -77,6 +110,9 @@ def main() -> None:
         j.pop("_db_salary", None)  # internal fallback key, not for the public dump
     with open(os.path.join(OUT, "jobs.json"), "w") as f:
         json.dump(deduped, f, indent=2, ensure_ascii=False)
+
+    # sync web/data + auto-commit if data changed (enables Cloudflare auto-deploy)
+    auto_commit(dedupeddiff())
 
     targets = [j for j in classified if j["is_it"]]
     print(f"per-source: {counts}")
