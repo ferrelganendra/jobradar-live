@@ -149,6 +149,7 @@ function buildIndex() {
 function cosine(a, b) {
   let d = 0; for (const w in a) if (b[w]) d += a[w] * b[w]; return d;
 }
+let _scores = null;
 function searchRank(list) {
   if (!_df) buildIndex();
   const query = state.q || AI_PROFILE;
@@ -163,14 +164,17 @@ function searchRank(list) {
   // map each job to its precomputed vector by reference
   const vecById = new Map();
   state.jobs.forEach((j, i) => vecById.set(j, _jobVec[i]));
-  return list.map((j) => ({ j, s: cosine(qv, vecById.get(j) || {}) }))
+  const scored = list.map((j) => ({ j, s: cosine(qv, vecById.get(j) || {}) }))
     .filter((x) => x.s > 0)
-    .sort((a, b) => b.s - a.s)
-    .map((x) => x.j);
+    .sort((a, b) => b.s - a.s);
+  _scores = new Map();
+  scored.forEach((x) => _scores.set(x.j, x.s));
+  return scored.map((x) => x.j);
 }
 
 function render() {
   const list = state.jobs.filter(matches);
+  if (state.presetAI) searchRank(list); // populate _scores for match badges
   if (state.sort === "title") {
     list.sort((a, b) => (a.title || "").localeCompare(b.title || "", "id"));
   } else if (state.sort === "salary") {
@@ -229,6 +233,16 @@ function render() {
     } else {
       sal.classList.add("none");
       sal.textContent = "gaji tak dicantumkan";
+    }
+
+    const matchEl = n.querySelector(".match-row");
+    if (state.presetAI && _scores && _scores.has(j)) {
+      const s = _scores.get(j);
+      const pct = Math.min(99, Math.round(s * 100));
+      matchEl.hidden = false;
+      matchEl.textContent = "Cocok " + pct + "% profil AI Engineer";
+    } else {
+      matchEl.remove();
     }
 
     const desc = cleanDesc(deEmoji(stripHtml(j.description)));

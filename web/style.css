@@ -250,12 +250,16 @@ select.input { cursor: pointer; font-family: 'Inter', sans-serif; }
   order: 4;
 }
 .salary-row.none { font-style: italic; font-weight: 400; font-size: .72rem; color: var(--faint); }
+.match-row {
+  font-family: 'Superior Mono', monospace; font-size: .68rem; letter-spacing: .04em;
+  color: var(--accent); margin: 2px 0 6px; font-weight: 700; order: 5;
+}
 .card-desc {
   font-size: .82rem; line-height: 1.55; color: var(--muted);
   display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
-  order: 5;
+  order: 6;
 }
-.card-tags { display: flex; flex-wrap: wrap; gap: 6px; order: 6; }
+.card-tags { display: flex; flex-wrap: wrap; gap: 6px; order: 7; }
 .tag {
   font-family: 'Superior Mono', monospace;
   font-size: .66rem; letter-spacing: .04em; text-transform: uppercase; font-weight: 400;
@@ -264,7 +268,7 @@ select.input { cursor: pointer; font-family: 'Inter', sans-serif; }
 .card-foot {
   display: flex; align-items: center; justify-content: space-between; gap: 10px;
   margin-top: auto; padding-top: 12px; border-top: 1px solid var(--line);
-  order: 7;
+  order: 8;
 }
 .card-meta-chip {
   display: flex; flex-wrap: wrap; gap: 5px;
