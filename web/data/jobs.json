@@ -46087,5 +46087,183 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "source": "arbeitnow",
+    "title": "Social Media Grafiker:in (gn)",
+    "company": "Intermate Media GmbH",
+    "location": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/social-media-grafikerin-gn-berlin-27250",
+    "salary": "",
+    "tags": [
+      "Marketing and Communication"
+    ],
+    "remote": false,
+    "description": "<h2>Jobbeschreibung</h2>\n<h2>Intermate x SAMY – Shaping the State of Social</h2>\n<p>Intermate gehört zu den größten Social-Media- und Influencer-Agenturen im DACH-Raum. Mit mehr als 250 Mates in Berlin, Hamburg, Köln und Remote entwickeln wir Social-First-Strategien, produzieren Content in eigenen Studios, arbeiten eng mit Creator:innen zusammen und steuern Kampagnen datengetrieben über unsere eigene Technologie. Unsere Kund:innen sind einige der bekanntesten Marken der Welt – von Lifestyle über FMCG bis hin zu Tech.</p>\n<p>Als Teil von SAMY, einem globalen Agenturnetzwerk für Social Media und Creator Marketing, sind wir mit über 970 Expert:innen an 20 Standorten vernetzt. Das eröffnet internationale Perspektiven, Projekte in rund 55 Märkten und die Möglichkeit, dich weit über Ländergrenzen hinweg weiterzuentwickeln.</p>\n<p>💡 👉 Hinweis: Unser Bewerbungsprozess wird teilweise von einem KI-gestützten Assistenten begleitet, der das erste Kennenlerngespräch führt. Weitere Informationen erhältst du im Verlauf deiner Bewerbung.</p>\n<h2>WAS DU MACHST</h2>\n<ul>\n<li>Du gestaltest und schneidest Content für verschiedene Marken auf Basis von Storyboards zu Social Media Video-Ads</li>\n<li>Du bist selbst auf TikTok und Instagram und gibst proaktiv Input zu Trends und Neuigkeiten in den Kanälen</li>\n<li>Du arbeitest eng mit deinen Kolleg:innen aus unseren Performance**-<strong>, Media</strong>-** und UGC-Services zusammen und kommunizierst proaktiv innerhalb der Teams</li>\n<li>Als Teil des Visual Content Teams entwickelst du unser Leistungsportfolio weiter</li>\n<li>Du unterstützt unser Marketing Team mit aktuellem Content</li>\n<li>Gegebenenfalls entwickelst und gestaltest kreative Assets in Videoform für Paid Social Kampagnen</li>\n</ul>\n<h2>Stellenanforderungen</h2>\n<h2>WAS DU BRAUCHST</h2>\n<ul>\n<li>Du hast ein abgeschlossenes Studium oder eine Ausbildung im Bereich Grafikdesign, Kommunikationsdesign, Mediendesign oder eine vergleichbare Qualifikation</li>\n<li>Du konntest bereits",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Marketing",
+    "remote_ok": false,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "source": "arbeitnow",
+    "title": "IT-Consultant (m/w/d) Schwerpunkt Middleware",
+    "company": "group24 AG",
+    "location": "Hamburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/group24-ag/it-consultant-schwerpunkt-middleware-hamburg-233520",
+    "salary": "",
+    "tags": [
+      "Business Consulting"
+    ],
+    "remote": false,
+    "description": "<h2>DEINE AUFGABEN</h2>\n<ul>\n<li>Du arbeitest in den IT-Landschaften unserer Kunden mit einem klaren Schwerpunkt auf Middleware-, Integrationsplattformen und Private-Cloud-Umgebungen. Dabei übernimmst Du im Sinne eines Site Reliability Engineers Verantwortung für stabile, skalierbare und performante Systeme.</li>\n<li>Du betreust, betreibst und entwickelst Middleware-Komponenten wie Applikationsserver, Integrations- und Schnittstellenlösungen sowie deren Integration in Private-Cloud-Infrastrukturen und die Anbindung an Backend- und Frontendsysteme.</li>\n<li>Du stellst einen hochverfügbaren und resilienten Betrieb sicher, indem Du SRE-Prinzipien wie Automatisierung, Monitoring, Incident- und Problem-Management sowie Continuous Improvement aktiv einsetzt.</li>\n<li>Du übernimmst die fachliche Verantwortung beim Kunden, koordinierst Aufgaben und arbeitest eng mit internen Projekt-, Cloud- und Betriebsteams zusammen.</li>\n<li>Du unterstützt Transformations- und Migrationsprojekte, insbesondere im Kontext von Cloud-Strategien, Private-Cloud-Architekturen, Hybrid-Szenarien und Systemmodernisierungen.</li>\n<li>Du analysierst und optimierst Systeme hinsichtlich Verfügbarkeit, Performance und Skalierbarkeit und etablierst geeignete Observability- und Monitoring-Lösungen.</li>\n<li>Du dokumentierst Architekturen, Schnittstellen, Systeme und Konfigurationen nachvollziehbar und kundenorientiert.</li>\n<li>Du definierst und erhebst relevante Kennzahlen (z. B. SLIs/SLOs) und bereitest diese als Entscheidungsgrundlage für Kunden und Stakeholder auf.</li>\n<li>Du bist Ansprechpartner für unsere Kunden im operativen Betrieb; dazu gehört bei Bedarf auch die Teilnahme an einer teamintern organisierten Rufbereitschaft.</li>\n</ul>\n<h2>DEIN PROFIL</h2>\n<ul>\n<li>Du hast eine abgeschlossene Ausbildung oder ein Studium im IT-Bereich oder eine vergleichbare Qualifikation und bringst mehrjährige Erfahrung im Betrieb komplexer IT-Systeme mit – idealerweise im Umfeld von Private Cloud oder als Site ",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "IT",
+    "industry": "Teknologi",
+    "remote_ok": false,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "source": "arbeitnow",
+    "title": "Cloud Engineer (m/w/d) Azure",
+    "company": "group24 AG",
+    "location": "Hamburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/group24-ag/cloud-engineer-azure-hamburg-183946",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Business Consulting"
+    ],
+    "remote": true,
+    "description": "<h2>DEINE AUFGABEN</h2>\n<ul>\n<li>Du planst und implementierst cloudbasierte Lösungen in Microsoft Azure und trägst dazu bei, innovative Systeme aufzubauen.</li>\n<li>Du designst skalierbare, hochverfügbare und sichere Cloud-Infrastrukturen, die den Anforderungen unserer Kunden gerecht werden.</li>\n<li>Du automatisierst Prozesse, indem du CI/CD-Pipelines entwickelst und Infrastructure-as-Code mit Tools wie Terraform, Ansible oder CloudFormation einsetzt.</li>\n<li>Du überwachst die Cloud-Umgebung und optimierst kontinuierlich die Performance, Skalierbarkeit und Sicherheit.</li>\n<li>Du identifizierst technische Probleme und sorgst für eine schnelle und nachhaltige Lösung.</li>\n</ul>\n<h2>DEIN PROFIL</h2>\n<ul>\n<li>Du hast mehrjährige Kenntnisse auf den Cloud Plattformen Microsoft Azure und Kenntnisse in der Anwendungsentwicklung und Scripting (z. B. PowerShell, Azure Devops)</li>\n<li>Du hast Erfahrung in der Konzeption und Umsetzung von Cloud Architekturen in Microsoft Azure und kennst die Grundlagen in Netzwerken, Linux und Security.</li>\n<li>Hohe analytische Fähigkeiten, Eigenverantwortlichkeit und strukturiertes Arbeiten zeichnen Dich aus.</li>\n<li>Du arbeitest gerne im Team.</li>\n<li>Du bringst fließende Deutsch- und Englischkenntnisse mit.</li>\n</ul>\n<h2>Werde Teil unseres Teams! Wir freuen uns auf Deine Bewerbung.</h2>\n<p>Find <a href=\"https://www.arbeitnow.com\">Jobs in Germany</a> on Arbeitnow</a>",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "IT",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "source": "arbeitnow",
+    "title": "Technischer IT-Projektmanager (m/w/d)",
+    "company": "group24 AG",
+    "location": "Hamburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/group24-ag/technischer-it-projektmanager-hamburg-484333",
+    "salary": "",
+    "tags": [
+      "Business Consulting"
+    ],
+    "remote": false,
+    "description": "<h2>DEINE AUFGABEN</h2>\n<ul>\n<li>Du übernimmst die Leitung und Steuerung von (Teil-)Projekten im Enterprise Umfeld, berätst auch auf Top Management-Ebene und vermittelst bei allen Fragestellen zwischen Auftraggeber und Fachbereichen.</li>\n<li>Du begleitest Projekte vom Start bis zur Abwicklung und Übergabe, übernimmst die Ablauf-, Termin-, Einsatzmittel- und Kostenplanung und stellst auch entsprechende Risiken dar. Auf Fragestellungen antwortest du als Experte und siehst dich in der Verantwortung, den Auftraggeber mit innovativen Ansätzen zu begleiten.</li>\n<li>Aufbau und Führung von heterogenen Teams und externen Mitarbeitern ergänzt du mit deinem eigenen Teamgeist, gibst dein Wissen weiter und achtest darauf, dass alle Teilnehmer informiert und onboard bleiben.</li>\n<li>Du moderierst, berichtest und kommunizierst auf allen Ebenen in deutscher und englischer Sprache und arbeitest sowohl vor Ort beim Kunden oder aber remote an einem unserer Standorte oder aus dem Homeoffice.</li>\n</ul>\n<h2>DEIN PROFIL</h2>\n<ul>\n<li>Du verfügst über ein abgeschlossenes Studium mit IT‑Bezug oder eine vergleichbare Qualifikation mit relevanter Berufserfahrung.</li>\n<li>Du bringst fundierte Kenntnisse in klassischem und agilem Projektmanagement sowie Erfahrung im IT‑Projektumfeld mit.</li>\n<li>Du hast Erfahrung in der fachlichen Führung von Teams sowie in der Zusammenarbeit mit externen Mitarbeitenden und Auftraggebern.</li>\n<li>Du arbeitest teamorientiert, teilst dein Wissen gerne und übernimmst unternehmerisch Verantwortung für deine Projekte.</li>\n<li>Du trittst kommunikationsstark und souverän gegenüber Auftraggebern auf.</li>\n<li>Du bist reisebereit, flexibel und arbeitest sowohl mobil als auch im Homeoffice.</li>\n</ul>\n<h2>Werde Teil unseres Teams! Wir freuen uns auf Deine Bewerbung.</h2>\n<p>Find more <a href=\"https://www.arbeitnow.com/english-speaking-jobs\">English Speaking Jobs in Germany</a> on Arbeitnow</a>",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": false,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "source": "arbeitnow",
+    "title": "Visiting Analyst (F/M/D) - Summer 2027",
+    "company": "xdeck GmbH",
+    "location": "Cologne",
+    "url": "https://www.arbeitnow.com/jobs/companies/xdeck-gmbh/visiting-analyst-summer-2027-cologne-369124",
+    "salary": "",
+    "tags": [
+      "Finance"
+    ],
+    "remote": false,
+    "description": "<p>xdeck is a Cologne-based VC fund investing in early-stage B2B tech startups. In addition to regular VC investments, we organize our equity- and cost-free acceleration program (duration: 3-4 months, 2x per year) to make aspiring startups investment-ready. Over the past years we've worked with 120+ startups, including Plancraft, LawX, Sunhat, and invest alongside co-investors like Creandum, Headline, and HV Capital.</p>\n<h2>Tasks</h2>\n<p>As Visiting Analyst, you own the top of our funnel: You decide which European founder teams we should meet, reach out directly, and convince the best to join xdeck for our accelerator or fund. Additionally, we will involve you in our investment due diligence processes for those startups that you source. Your assessment feeds directly into our investment decisions. The role blends analytical depth with a sales instinct; you'll thrive if both energize you.</p>\n<p>Internship duration:</p>\n<ul>\n<li>5-6 months, ideally starting in April 2027 (fixed core time: May 2027 - August 2027)</li>\n</ul>\n<p>What you'll gain:</p>\n<ul>\n<li>You find the founders.</li>\n<li>You run the calls.</li>\n<li>You build and defend convictions in our investment team.</li>\n<li>Ideally, you'll see your deal go from initial sourcing to term sheet signing.</li>\n</ul>\n<p>Your role:</p>\n<ul>\n<li>Scouting: Find top founder teams and convince them to join xdeck.</li>\n<li>Coordination: Run sessions and connect startups with partners like Cherry Ventures and McKinsey.</li>\n<li>Support: Organize events, manage marketing, and assist with VC deal flow – together with the core team and working students.</li>\n<li>Automate: Build AI-native workflows with the newest GenAI tools that enables us to unlock new value.</li>\n</ul>\n<h2>Requirements</h2>\n<ul>\n<li>Highly organized, proactive, and ready for responsibility.</li>\n<li>Strong analytical and communication skills, team player.</li>\n<li>Willingness to create new AI-native processes.</li>\n<li>Experience in fast-paced environments",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": false,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "source": "arbeitnow",
+    "title": "Legal Counsel / Contract Manager (m/w/d) - Energierecht",
+    "company": "feld.energy GmbH",
+    "location": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/feldenergy-gmbh/legal-counsel-contract-manager-energierecht-berlin-427546",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Administration"
+    ],
+    "remote": true,
+    "description": "<h2>Deine Mission</h2>\n<p>feld energy ist mehr als nur ein Unternehmen – wir sind eine Bewegung!<br>\nWir helfen Landwirten und Landeigentümer:innen, Landwirtschaft und Energieerzeugung intelligent zu verbinden. Mit unseren innovativen Agri-Photovoltaik-Lösungen nutzen wir Flächen doppelt – für Lebensmittel und saubere Energie. So schaffen wir gemeinsam eine nachhaltigere und wirtschaftlichere Landwirtschaft.</p>\n<h2>Über uns</h2>\n<p>Als Legal Counsel / Contract Manager (m/w/d) im Energierecht begleitest du unsere Projekte rechtlich von Anfang bis Ende – von der Vertragsgestaltung mit Partnern bis zu Verhandlungen mit Banken. Mit deinem Fachwissen stellst du sicher, dass wir unsere Vorhaben rechtssicher und zukunftsfähig umsetzen.</p>\n<h2>Deine Aufgaben</h2>\n<ul>\n<li>Bei internen Rechtsfragen bist du erste:r Ansprechpartner:in – lösungsorientiert und pragmatisch</li>\n<li>Du steuerst externe Kanzleien bei Spezialthemen und stellst sicher, dass juristische Expertise dort eingesetzt wird, wo sie den größten Mehrwert bietet.</li>\n<li>Du gestaltest und verhandelst Nutzungsverträge mit Landwirt:innen – von der ersten Abstimmung bis zur finalen Unterschrift.</li>\n<li>Als Legal Counsel im Energierecht sicherst du Stromlieferverträge mit Direktvermarkter:innen und Abnehmer:innen ab und bringst Verhandlungen souverän zum Abschluss.</li>\n<li>Du verhandelst Verträge und Rangrücktritte mit Banken, sorgst für rechtssichere Dienstbarkeiten und hältst dabei stets das große Ganze im Blick.</li>\n<li>Mit deinem Blick für Legal Compliance schaffst in einem innovativen Umfeld du Strukturen, die Wachstum ermöglichen und rechtliche Sicherheit geben.</li>\n</ul>\n<h2>Dein Profil</h2>\n<ul>\n<li>Abgeschlossenes juristisches Studium (Volljurist:in, Wirtschaftsjurist:in o. ä.).</li>\n<li>Erste Berufserfahrung als Legal Counsel / Contract Manager (m/w/d) von Vorteil, idealerweise im Vertragsrecht, Energierecht oder Projektgeschäft.</li>\n<li>Sicher im Vertragsrecht und in Verhandlung – idealerweise i",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "HR",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "contract",
+    "is_foreign": true
+  },
+  {
+    "source": "arbeitnow",
+    "title": "Elektroniker (m/w/d)",
+    "company": "WayCon Positionsmesstechnik GmbH",
+    "location": "Ottobrunn",
+    "url": "https://www.arbeitnow.com/jobs/companies/waycon-positionsmesstechnik-gmbh/elektroniker-ottobrunn-236741",
+    "salary": "",
+    "tags": [
+      "Engineering"
+    ],
+    "remote": false,
+    "description": "<p>WayCon ist ein führender Anbieter präziser Abstandsmesssysteme und professioneller Sensorik für Industrie und Forschung. Wir entwickeln und produzieren Wegsensoren mit höchster Genauigkeit für unterschiedlichste Anforderungen. Für die Montage und Prüfung unserer Präzisionssensoren suchen wir ab sofort:</p>\n<h2>Aufgaben</h2>\n<ul>\n<li>eigenständige Montage von Sensoren und deren Qualitätskontrolle</li>\n<li>Funktionstests elektronischer Schaltungen</li>\n<li>Kalibrierung und Justage verschiedener Sensoren</li>\n<li>Durchführung und Auswertung von Mess- und Versuchsreihen einschließlich Dokumentation</li>\n<li>Aufbau und Inbetriebnahme mechatronischer Komponenten, Systeme und Vorrichtungen</li>\n<li>Fehlersuche und Reparatur elektronischer Komponenten</li>\n<li>Dokumentation von Montage- und Testvorgängen</li>\n</ul>\n<h2>Qualifikation</h2>\n<ul>\n<li>abgeschlossene Berufsausbildung im Bereich Elektronik, Mechatronik oder eine vergleichbare Qualifikation, idealerweise mit mehrjähriger Berufserfahrung</li>\n<li>gute Kenntnisse in der elektronischen Mess- und Schaltungstechnik (analog und digital)</li>\n<li>sicherer Umgang mit Messmitteln wie Oszilloskop, Multimeter etc.</li>\n<li>gute Lötfähigkeiten, insbesondere an kleinen Elektronikbauteilen (z. B. SMD-Bauteilen)</li>\n<li>selbständige und strukturierte Arbeitsweise sowie analytisches Denkvermögen</li>\n<li>gute Deutschkenntnisse und sicherer Umgang mit MS Office-Anwendungen</li>\n<li>Zuverlässigkeit, Kollegialität und Teamgeist</li>\n</ul>\n<h2>Benefits</h2>\n<ul>\n<li>unbefristeter Vertrag und krisensicheren Arbeitsplatz</li>\n<li>umfangreiche Einarbeitung in das neue Aufgabengebiet</li>\n<li>flexible Arbeitszeiten</li>\n<li>kollegiales Betriebsklima mit flacher Hierarchie sowie schnellen Kommunikations- und Entscheidungswegen</li>\n<li>individuelle Weiterbildungsmöglichkeiten</li>\n<li>Auswahl zwischen Deutschlandticket Job, Tankgutschein oder Bike Leasing</li>\n<li>Kaffee, Tee, Wasser und Obst stehen kostenfrei zur Verfügung</li>\n<li>gu",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Engineering",
+    "remote_ok": false,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "source": "arbeitnow",
+    "title": "Senior Social Media Grafiker:in (gn)",
+    "company": "Intermate Media GmbH",
+    "location": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/senior-social-media-grafikerin-gn-berlin-335930",
+    "salary": "",
+    "tags": [
+      "Marketing and Communication"
+    ],
+    "remote": false,
+    "description": "<h2>Jobbeschreibung</h2>\n<h2>Intermate x SAMY – Shaping the State of Social</h2>\n<p>Intermate gehört zu den größten Social-Media- und Influencer-Agenturen im DACH-Raum. Mit mehr als 250 Mates in Berlin, Hamburg, Köln und Remote entwickeln wir Social-First-Strategien, produzieren Content in eigenen Studios, arbeiten eng mit Creator:innen zusammen und steuern Kampagnen datengetrieben über unsere eigene Technologie. Unsere Kund:innen sind einige der bekanntesten Marken der Welt – von Lifestyle über FMCG bis hin zu Tech.</p>\n<p>Als Teil von SAMY, einem globalen Agenturnetzwerk für Social Media und Creator Marketing, sind wir mit über 970 Expert:innen an 20 Standorten vernetzt. Das eröffnet internationale Perspektiven, Projekte in rund 55 Märkten und die Möglichkeit, dich weit über Ländergrenzen hinweg weiterzuentwickeln.</p>\n<p>💡 👉 Hinweis: Unser Bewerbungsprozess wird teilweise von einem KI-gestützten Assistenten begleitet, der das erste Kennenlerngespräch führt. Weitere Informationen erhältst du im Verlauf deiner Bewerbung.</p>\n<h2>WAS DU MACHST</h2>\n<ul>\n<li>Du konzipierst, gestaltest und schneidest Social-Media-Video-Ads für verschiedene Marken auf Basis von Storyboards – mit einem hohen Anspruch an Qualität, Plattformgerechtigkeit und Performance.</li>\n<li>Du beobachtest TikTok und Instagram kontinuierlich, erkennst relevante Trends und Entwicklungen frühzeitig und bringst daraus proaktiv Impulse und konkrete Empfehlungen für unsere Content- und Creative-Arbeit ein.</li>\n<li>Du arbeitest eng mit deinen Kolleg:innen aus den Bereichen Performance, Media und UGC zusammen, steuerst die kreative Zusammenarbeit proaktiv und stellst einen reibungslosen Austausch innerhalb der Teams sicher.</li>\n<li>Als Teil des Visual Content Teams entwickelst du unser Leistungsportfolio aktiv weiter und bringst deine Erfahrung, kreative Perspektive und fachliche Expertise in die Weiterentwicklung unserer Services ein.</li>\n<li>Du unterstützt unser Marketing Team mit aktuellem, plattformg",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Marketing",
+    "remote_ok": false,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
