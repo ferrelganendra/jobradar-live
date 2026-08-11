@@ -40503,5 +40503,25 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "source": "linkedin",
+    "title": "EMember of Technical Staff - Enterprise AI (Remote)",
+    "company": "Quik Hire Staffing",
+    "location": "Indonesia",
+    "url": "https://www.linkedin.com/jobs/view/emember-of-technical-staff-enterprise-ai-remote-at-quik-hire-staffing-4452419293",
+    "salary": "",
+    "tags": [],
+    "remote": true,
+    "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "IT",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": false
   }
 ]
