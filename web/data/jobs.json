@@ -48128,5 +48128,25 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "source": "linkedin",
+    "title": "Software Engineer, Data Infrastructure & Acquisition - Yogyakarta, Indonesia",
+    "company": "Speechify",
+    "location": "Yogyakarta, Yogyakarta, Indonesia",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-data-infrastructure-acquisition-yogyakarta-indonesia-at-speechify-4452674775",
+    "salary": "",
+    "tags": [],
+    "remote": false,
+    "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "SWE",
+    "industry": "Teknologi",
+    "remote_ok": false,
+    "id_city": "yogyakarta",
+    "job_type": "full",
+    "is_foreign": false
   }
 ]
