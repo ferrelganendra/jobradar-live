@@ -1,32 +1,45 @@
-# Loker Scraper — Indonesia Job Aggregator
+# JobRadar — Indonesia Job Aggregator
 
-Aggregator lowongan kerja Indonesia + remote, fokus **AI Engineer / Machine Learning / Software Engineer**. Scrape dari 6 sumber, filter keyword, dedup, simpan ke SQLite, notif job baru ke Telegram.
+Aggregator lowongan kerja Indonesia + remote, fokus **AI Engineer / Machine Learning / Software Engineer**. Pipelines: (1) web publik `jobradar-live.pages.dev` tampil semua job + filter/insight, (2) Telegram notif loker IT baru. Scrape 8 sumber → klasifikasi → SQLite → auto-deploy statis.
 
 ## Fitur
 
-- **8 sumber** aktif: Remotive, Arbeitnow, RemoteOK, Jobicy, HN Who's Hiring, Glints, JobStreet, LinkedIn (playwright)
-- **Detail lengkap** — deskripsi penuh, gaji (Rp regex), lokasi utk job baru (backfill utk backlog)
-- **Filter target** — klasifikasi otomatis per job: `role` (AI / SWE / IT / other), `remote_ok`, `id_city`
-- **Notif semua IT** — Telegram kirim semua loker IT baru, ditanda role (🤖 AI / 💻 SWE / 🖥 IT)
-- **Dedup anti-spam** — normalisasi URL (strip query param) + UNIQUE constraint
+- **8 sumber** aktif: Remotive, Arbeitnow, RemoteOK, Jobicy, HN, Glints, JobStreet, LinkedIn
+- **Auto-deploy** — cron tiap 30 menit scrape → dump → commit → push → Cloudflare Pages
+- **Semantic search (TF-IDF)** — vector retrieval client-side, cosine similarity, bobot title 3×. Cari "ml engineer" paham konteks, bukan substring.
+- **Preset "Cari cocokku AI Engineer"** — profil vektor AI/ML/DL/DS/NLP/CV/Python, rank job paling cocok, bisa digabung filter lain
+- **Insight pasar live** — %remote, %lokal, %ber-gaji, top industri, skill populer
+- **Fair industri** — 14 kategori (Teknologi/Marketing/Sales/dll), bukan bias IT; web netral, Telegram cuma IT
+- **is_foreign akurat** — by source + lokasi + legal-form PT/CV, remote ≠ lokal
+- **Dedup anti-spam** — normalisasi URL + UNIQUE constraint, 0 duplikat
 - **SQLite** — riwayat job, ga dobel
-- **Scheduling** — cron Hermes tiap 30 menit
+
+## Arsitektur AI (client-side, tanpa backend)
+
+Semuanya gratis & statis — tak ada API LLM berbayar, tak ada server:
+
+1. **TF-IDF vectorization** — semua job di-vectorize di browser (title/company bobot 3×, desc bobot 1×), IDF dari corpus 1800+ job
+2. **Cosine similarity** — query dipetakan ke vector, di-rank by relevansi
+3. **Preset profil** — query vektor statis AI Engineer, toggle mode
+4. **Insight** — agregasi statistik distribusi (industri, remote, skill)
+
+Kenapa client-side: runtime gratis, tanpa biaya API berulang, tanpa index file (jobs.json tak membengkak), reproducable.
 
 ## Struktur
 
 ```
 loker-agg/
 ├── scraper/
-│   ├── base.py            # fetch + UA rotation + retry/backoff
+│   ├── base.py            # fetch + retry + UA rotation
 │   ├── renderer.py        # Playwright SPA renderer (Glints)
-│   ├── api/               # API legal: remotive, arbeitnow, remoteok, jobicy, hn
-│   └── html/              # HTML: glints, jobstreet, linkedin (playwright), wwr (broken)
-├── filter.py              # keyword classifier AI/SWE/remote/kota
-├── db.py                  # SQLite + dedup
-├── notifier.py            # Telegram send
-├── backfill.py            # one-off: isi detail utk job backlog
-├── main.py                # orchestrator
-├── run.sh                 # clean-PYTHONPATH wrapper (cron)
+│   ├── api/               # remotive, arbeitnow, remoteok, jobicy, hn
+│   └── html/              # glints, jobstreet, linkedin (playwright)
+├── filter.py              # klasifikasi role/industri/foreign/remote/salary
+├── db.py                  # SQLite + dedup + backfill
+├── notifier.py            # Telegram broadcast multi-chat
+├── main.py                # orchestrator + auto-commit
+├── web/                   # static frontend (index.html / app.js / style.css)
+│   └── data/jobs.json     # full dataset (dibuat ulang tiap scrape)
 └── out/jobs.json          # latest dump
 ```
 
@@ -45,14 +58,11 @@ python main.py
 ## Catatan sumber
 
 - **API legal**: Remotive, Arbeitnow, RemoteOK, Jobicy, HN — 0 risiko
-- **Scrape abu-abu**: Glints, JobStreet, LinkedIn (listing accessible, butuh playwright; LinkedIn = guest, tanpa login)
-- **Skip**: Kalibrr (login-wall), WWR (selector rusak), Indeed (Cloudflare anti-bot, butuh CF-solver)
+- **Scrape abu-abu**: Glints, JobStreet, LinkedIn (listing accessible, playwright)
+- **Skip**: Kalibrr (login-wall), WWR (selector rusak), Indeed (Cloudflare anti-bot)
 
-## Roadmap
+## Catatan teknis
 
-- [x] M0–M3: API legal + Glints + filter + SQLite + dedup
-- [x] M4: notif Telegram + cron
-- [x] M5: JobStreet + detail lengkap (deskripsi/gaji/lokasi)
-- [x] M6: LinkedIn (guest) + filter IT broad (semua loker IT, role AI/SWE/IT)
-- [ ] Layer AI: LLM extract gaji/lokasi + job match ke profil
-- [ ] Indeed via Cloudflare-solver (flaky, maintenance tinggi)
+- Python 3.9.6 — pakai `Optional`, bukan `X | None`
+- Semua command wajib `env -u PYTHONPATH` (Hermes injek PYTHONPATH → rusak urllib3)
+- Push via SSH (9router MITM block git HTTPS)

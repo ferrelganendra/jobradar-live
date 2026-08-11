@@ -396,6 +396,7 @@ function closeDrawer() { $("sidebar").classList.remove("open"); $("mask").classL
 $("presetAI").addEventListener("click", (e) => {
   const btn = e.currentTarget;
   const on = btn.classList.toggle("on");
+  btn.setAttribute("aria-pressed", String(on));
   state.presetAI = on;
   state.page = 1;
   render();
