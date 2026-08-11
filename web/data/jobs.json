@@ -42526,5 +42526,25 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "source": "jobicy",
+    "title": "(American English) Customer Support Consultant (LATAM)",
+    "company": "SupportYourApp",
+    "location": "",
+    "url": "https://jobicy.com/jobs/149838-american-english-customer-support-consultant-latam",
+    "salary": "",
+    "tags": [],
+    "remote": true,
+    "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Support",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
