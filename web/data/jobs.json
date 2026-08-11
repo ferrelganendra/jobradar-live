@@ -38808,5 +38808,25 @@
     "id_city": "jakarta",
     "job_type": "full",
     "is_foreign": false
+  },
+  {
+    "source": "linkedin",
+    "title": "AI Automation Engineer / Developer",
+    "company": "JavaMifi",
+    "location": "Jakarta, Indonesia",
+    "url": "https://www.linkedin.com/jobs/view/ai-automation-engineer-developer-at-javamifi-4451615053",
+    "salary": "",
+    "tags": [],
+    "remote": false,
+    "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": false,
+    "id_city": "jakarta",
+    "job_type": "full",
+    "is_foreign": false
   }
 ]
