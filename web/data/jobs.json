@@ -47852,5 +47852,27 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "source": "remoteok",
+    "title": "FC Lead",
+    "company": "Cart.com",
+    "location": "Temecula",
+    "url": "https://remoteOK.com/remote-jobs/remote-fc-lead-cart-com-1136375",
+    "salary": "",
+    "tags": [
+      "exec"
+    ],
+    "remote": true,
+    "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Lainnya",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
