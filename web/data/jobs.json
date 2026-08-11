@@ -39716,5 +39716,25 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "source": "linkedin",
+    "title": "Robotics Engineer",
+    "company": "Dua Empat Tujuh, PT (SOLUSI247)",
+    "location": "Yogyakarta, Indonesia",
+    "url": "https://www.linkedin.com/jobs/view/robotics-engineer-at-dua-empat-tujuh-pt-solusi247-4450999357",
+    "salary": "",
+    "tags": [],
+    "remote": false,
+    "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": false,
+    "id_city": "yogyakarta",
+    "job_type": "full",
+    "is_foreign": false
   }
 ]
