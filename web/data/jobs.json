@@ -40941,5 +40941,25 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "source": "jobicy",
+    "title": "Customer Success Associate",
+    "company": "First Advantage",
+    "location": "",
+    "url": "https://jobicy.com/jobs/149655-customer-success-associate",
+    "salary": "",
+    "tags": [],
+    "remote": true,
+    "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Lainnya",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
