@@ -47196,5 +47196,31 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "source": "remoteok",
+    "title": "service professionals",
+    "company": "Homelyo",
+    "location": "Jamshedpur",
+    "url": "https://remoteOK.com/remote-jobs/remote-service-professionals-homelyo-1136366",
+    "salary": "",
+    "tags": [
+      "customer support",
+      "mobile",
+      "sys admin",
+      "full time",
+      "non tech"
+    ],
+    "remote": true,
+    "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Lainnya",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
