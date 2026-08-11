@@ -47222,5 +47222,181 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "source": "arbeitnow",
+    "title": "QA Automation Engineer (IDEA Ultimate QA)",
+    "company": "jetbrains",
+    "location": "Berlin; Munich; Remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-qa-automation-engineer-idea-ultimate-qa-51359",
+    "salary": "",
+    "tags": [
+      "IDEA Ultimate QA"
+    ],
+    "remote": false,
+    "description": "&lt;p&gt;At JetBrains, code is our passion. Ever since we started, back in 2000, we have been striving to make the strongest, most effective developer tools on earth. By automating routine checks and corrections, our tools speed up production, freeing developers and businesses to grow, discover, and create.&lt;/p&gt;\n&lt;p&gt;IntelliJ IDEA revolutionized the Java development tool market back in 2001, becoming the first IDE to offer automated code refactoring. It continues to drive innovation in software development, making thousands of programmers more productive every day. In addition to Java, IntelliJ IDEA includes various development tools for other prominent languages such as Ruby, Groovy, Scala, Python, JavaScript, Objective-C, PHP, and Kotlin.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The IntelliJ IDEA Ultimate team is responsible for supporting a wide range of enterprise frameworks, data-access stacks, and application servers in IntelliJ IDEA Ultimate. This includes technologies such as Spring (including Spring Boot, Spring Data, Spring Security, and others), Jakarta EE, Quarkus, Micronaut, various reactive and data-access libraries, and popular application servers like Tomcat, WildFly, and Jetty. We ensure that developers can easily create, configure, run, debug, and observe their backend applications directly from the IDE. As part of the Ultimate QA group, you’ll work across different areas of the product – frameworks, HTTP client, persistence tooling, and application servers – and collaborate closely with developers, product managers, and other QA teams to deliver a smooth end-to-end experience for JVM backend developers.&lt;/p&gt;\n&lt;p&gt;We’re now looking for a QA Automation Engineer to join the IntelliJ IDEA Ultimate QA team and help ensure the quality of a product that our customers and software engineers around the world rely on daily. You’ll work alongside QA engineers to design and set up our automation proce",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "IT",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "source": "arbeitnow",
+    "title": "Senior Python Engineer, Document App (Content Engineering Team)",
+    "company": "Pandadoc",
+    "location": "",
+    "url": "https://www.arbeitnow.com/jobs/companies/pandadoc/senior-python-engineer-document-app-content-engineering-team-346392",
+    "salary": "",
+    "tags": [
+      "Engineering"
+    ],
+    "remote": false,
+    "description": "&lt;p&gt;At PandaDoc, we&#39;re building the future of documents. Our platform helps teams create, send, track, and e-sign proposals, contracts, and other documents, making our clients&#39; lives more efficient and collaborative. We&#39;re a fast-growing company with a global reach, used by people around the world, from small businesses to large enterprises. In 2024, we reached a major milestone: over $100 million in annual recurring revenue. We&#39;re constantly innovating and releasing new features to meet the evolving needs of our customers, all while focusing on stability, quality, and performance.&lt;br&gt;Our Engineering team is a diverse and talented group of around 250 individuals, passionate about building a world-class product. While this is a fully remote position, we&#39;d love for you to visit our vibrant offices in Warsaw, Lisbon, or Kyiv whenever you&#39;d like to connect with colleagues in person.&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;The Team&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We&#39;re looking for a &lt;strong&gt;Senior Python Engineer to join our Content engineering team&lt;/strong&gt;, responsible for one of the most complex and impactful areas of the PandaDoc platform.&lt;/p&gt;\n&lt;p&gt;We own the content model, the editor backend, data persistence, and the real-time collaboration infrastructure that allows multiple users to edit a document simultaneously with consistency and reliability. Our backend processes a continuous stream of events from the frontend, translating user interactions into consistent, durable state across a distributed fleet of services and a high volume of concurrent sessions.&lt;br&gt;We ship product features and maintain the systems that underpin them. Product mindset and operational excellence are not in tension here: we expect engineers who care equally about moving the product forward for customers and about the long-term health and reliability of what they build.&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;h3&gt",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": false,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "source": "arbeitnow",
+    "title": "CEO Office Intern - Special Projects",
+    "company": "Knowunity GmbH",
+    "location": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/knowunity-gmbh/ceo-office-intern-special-projects-berlin-235371",
+    "salary": "",
+    "tags": [
+      "CEO Office"
+    ],
+    "remote": false,
+    "description": "<h2><strong>THE OPPORTUNITY</strong></h2><p style=\"min-height:1.5em\"><strong>We are building the #1 AI learning companion for 1 billion students globally.</strong><br />We are building a future where every student on the planet can access, enjoy, and benefit from the highest quality education. Since founding Knowunity straight out of high school in 2020, we've been committed to revolutionising how students learn.</p><p style=\"min-height:1.5em\">Millions of students already use our AI learning companion weekly. We just raised a €27m Series B round from strong Investors - one of Europe’s largest education rounds in the past years. The AI learning market is at an inflection point, finally enabling true personalisation at scale, and we're determined to build the first AI learning unicorn in this space.</p><p style=\"min-height:1.5em\">You will join a truly driven team of 60 hands-on builders serving 1 billion students worldwide. If we execute on our product vision, you will have built something that transforms education globally.</p><p style=\"min-height:1.5em\"><strong>This is your chance to be part of building a generational company.</strong></p><p style=\"min-height:1.5em\"></p><h2><strong>YOUR MISSION</strong></h2><p style=\"min-height:1.5em\"><strong>The problem you will solve:</strong> We're moving at unprecedented speed to capture the AI learning market, but our CEO and leadership team are bottlenecked on critical growth initiatives that could accelerate our DAU and ARR towards unicorn status.<br /><br /><strong>Your ownership:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">You will own and drive 2-3 high-impact projects that directly unlock revenue growth and operational efficiency - from optimising our sales funnel to spearheading market expansion across countries and verticals</p></li><li><p style=\"min-height:1.5em\">You will build data models and strategic frameworks that inform decisions on market entry and product positioning</p></li><li><p ",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": false,
+    "id_city": null,
+    "job_type": "intern",
+    "is_foreign": true
+  },
+  {
+    "source": "arbeitnow",
+    "title": "Business Ops Associate",
+    "company": "Taktile",
+    "location": "Berlin Office",
+    "url": "https://www.arbeitnow.com/jobs/companies/taktile/business-ops-associate-berlin-36242",
+    "salary": "",
+    "tags": [
+      "Business Operations & Strategy"
+    ],
+    "remote": false,
+    "description": "<h2><strong>About the Role</strong></h2><p style=\"min-height:1.5em\">Taktile empowers financial institutions to transform into truly AI-native organizations. We’re growing rapidly with enterprise customers across banks and insurance companies, and we’re looking for a <strong>Business Ops Associate.</strong></p><p style=\"min-height:1.5em\">Ops is the thread that runs through everything at Taktile. As we enter our next phase of growth, we are professionalizing how the company operates, so we can grow fast without losing focus or quality. That's where you come in.</p><p style=\"min-height:1.5em\">As our <strong>Business Ops Associate</strong>, you will sit at the center of the company's growth story. This is a hands-on, high-trust role for someone who wants to learn company-building from the inside, move fast, and see their impact on the business within days. You will become part of the company's highest-leverage projects, surrounded by people who expect excellence and care about building something that lasts.</p><h3></h3><h2>What you will do</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">You come in wherever needed to help us move fast - one week this could mean helping with all hands messaging, FDE hiring and introducing new AI-enabled processes, the other week this could mean working on pricing strategy, creating competition battle cards or establishing new partnerships</p></li><li><p style=\"min-height:1.5em\">Know the org inside out: understand how we work, prioritize, and measure success - and proactively improve our ops by partnering with teams across the whole company - e.g., Strategy &amp; Operations, GTM, Product, and G&amp;A</p></li><li><p style=\"min-height:1.5em\">Help shape and evolve our long-term operating model, acting as a force multiplier across the leadership team - owning key operating cadences &amp; cross-functional alignments</p></li></ul><h2>Your Profile</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">You are hungry to",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Marketing",
+    "remote_ok": false,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "source": "arbeitnow",
+    "title": "HR Generalist - EMEA",
+    "company": "Applied",
+    "location": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/applied/hr-generalist-emea-munchen-413451",
+    "salary": "",
+    "tags": [
+      "Business Functions"
+    ],
+    "remote": false,
+    "description": "<h2>About Applied Intuition</h2><p style=\"min-height:1.5em\">Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company’s solutions to deliver physical intelligence. Applied Intuition is headquartered in Sunnyvale, California, with offices in Washington, D.C.; San Diego; Ft. Walton Beach, Florida; Ann Arbor, Michigan; London; Stuttgart; Munich; Stockholm; Bangalore; Seoul; and Tokyo. Learn more at <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://applied.co\">applied.co</a>.</p><p style=\"min-height:1.5em\"><em>We are an in-office company, and our expectation is that employees primarily work from their Applied Intuition office 5 days a week. However, we also recognize the importance of flexibility and trust our employees to manage their schedules responsibly. This may include occasional remote work, starting the day with morning meetings from home before heading to the office, or leaving earlier when needed to accommodate family commitments.</em></p><p style=\"min-height:1.5em\"></p><h2>About the role</h2><p style=\"min-height:1.5em\">We are looking for an HR Generalist  to join our People team and support our growing EMEA organization. This is an early-career role built for someone who is highly organized, detail-oriented, and eager to learn how a world-class People function operates at one of the fastest-growing technology companies in the world.<br />You will be a key point of contact for employees across the region—owning the day-to-day administration of benefits, employmen",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Marketing",
+    "remote_ok": false,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "source": "arbeitnow",
+    "title": "Product Owner Marketplace (m/w/d)",
+    "company": "encontec GmbH",
+    "location": "Aalen, Baden-Württemberg, Deutschland",
+    "url": "https://www.arbeitnow.com/jobs/companies/encontec-gmbh/product-owner-marketplace-aalen-208377",
+    "salary": "",
+    "tags": [
+      "AÜ-Zeiss"
+    ],
+    "remote": false,
+    "description": "<h3>Product Owner Marktplace (m/w/d)</h3><figure><img style=\"width:2280px\" src=\"https://recruitee-main.s3.eu-central-1.amazonaws.com/uploads/cvorm356ks/1.jpg\"></figure><p>Our client in the Aalen area — a leading high-tech company—offers this unique opportunity via temporary employment with the option of a permanent position. </p><p style=\"min-height: 1.7em;\"></p><h3>Your future area of ​​responsibility</h3><ul><li><p>Analyze status quo, evaluate business requirements and develop a strategy for the further enabling international roll-out of the marketplace, align it with global stakeholders from different Headquarter departments and countries, derive and imple-ment the roadmap for executing this strategy</p></li><li><p>Steer the marketplace development team in close alignment with the Head of Marketplace as well as the technical product owner or solution architect including the creation of IT Demands and steering them until their business impact in delivered Ensuring the marketplace fulfills all legal, data privacy, brand and security requirements including the generation of necessary output like approved security concepts</p></li><li><p>Stay aligned with head of marketplace regarding feature priorities, product strategy and technology roadmap. </p></li><li><p>Ensure the marketplace has an intuitive user interface based on latest trends in e-Commerce, UX and frontend technologies aiming to be best in class for the eyewear industry.</p></li><li><p>Responsibility includes leading the requirement definition and prioritization of entire journeys, new features and feature sets, that improve user experience and drive convesion within the given time frame</p></li><li><p>Work closely/collaborate with cross functional teams including marketing, UI/UX designers, technical product owners and ar-chitects to ensure quality of the solution</p></li><li><p>Coordinate with external Stakeholders the Integration of third-party applications and plug-ins as well as external or internal s",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Marketing",
+    "remote_ok": false,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "source": "arbeitnow",
+    "title": "AI & Data Science Manager (m/w/d)",
+    "company": "encontec GmbH",
+    "location": "Oberkochen , Baden-Württemberg, Deutschland",
+    "url": "https://www.arbeitnow.com/jobs/companies/encontec-gmbh/ai-data-science-manager-oberkochen-412033",
+    "salary": "",
+    "tags": [
+      "AÜ-Zeiss"
+    ],
+    "remote": false,
+    "description": "<h3>AI &amp; Data Science Manager (m/w/d)</h3><figure><img style=\"width:2280px\" src=\"https://recruitee-main.s3.eu-central-1.amazonaws.com/uploads/5u355kceo5/9.jpg\"></figure><p>Bei unserem namhaften Kunden im Raum Aalen/Oberkochen - einem führenden Unternehmen der Hightechindustrie - bietet sich diese einmalige Perspektive im Rahmen der Arbeitnehmerüberlassung mit der Option auf Übernahme.<br></p><h3>Dein zukünftiger Tätigkeitsbereich</h3><ul><li><p>Zentrale Mitgestaltung der technologischen Zukunft in einem Hightech-Umfeld sowie aktiver Beitrag zur digitalen Transformation und zur Sicherung der Wettbewerbsfähigkeit</p></li><li><p>Verantwortung für die Entwicklung, Implementierung und Anwendung von Datenanalyse-, Prozessoptimierungs- und Machine-Learning-Tools für komplexe und innovative Messsysteme</p></li><li><p>Erschließung und Anwendung neuer Methoden zur Auswertung großer Datensätze, einschließlich Bilddaten, in Zusammenarbeit mit einem funktionsübergreifenden und hochqualifizierten Algorithmus-Team</p></li><li><p>Weiterentwicklung und Umsetzung von Digitalisierungs- und KI-Initiativen – von der explorativen Datenanalyse über agentische KI-Systeme bis hin zu wartbaren, produktionsreifen und kundenorientierten Lösungen</p></li><li><p>Einsatz von Organisations- und Projektmanagementkompetenzen zur Unterstützung von Expertinnen und Experten bei der Erschließung neuer Machine-Learning-Möglichkeiten in EUV-Metrologie-Anwendungen</p></li></ul><h3>Das zeichnet Dich aus&nbsp;</h3><ul><li><p>Sehr erfolgreich abgeschlossenes Hochschulstudium Physik (m/w/d), Mathematik, Informatik, Data Science oder vergleichbar; idealerweise mit Promotion</p></li><li><p>Mindestens drei Jahre Erfahrung mit einem Projektportfolio über alle Phasen von Data-Science-Projekten hinweg: von der Algorithmenentwicklung und statistischen Analyse bis zur Überführung von Modellen in die Produktion und deren kontinuierlicher Betreuung </p></li><li><p>Allgemeines technisches Verständnis und Erfahrung so",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": false,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "source": "arbeitnow",
+    "title": "Principal Product Manager - Content Platform",
+    "company": "Spotify",
+    "location": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/principal-product-manager-content-platform-london-337471",
+    "salary": "",
+    "tags": [
+      "Experience"
+    ],
+    "remote": false,
+    "description": "<div>\n<p>Content Platform is the foundation of Spotify’s experiences. We ensure our vast catalog of music, podcasts, audiobooks, video, and creator data is trusted, safe, and ready to power innovation across Spotify.</p>\n<p>Our work spans content governance, platform safety, metadata, and machine learning systems that enable experiences such as <a href=\"https://newsroom.spotify.com/2026-03-20/bts-arirang-music-quiz/\">Music Quiz</a>, <a href=\"https://newsroom.spotify.com/2025-08-19/mix-your-favorite-playlists-seamlessly-by-adding-your-own-transitions/\">Playlist Mixes</a>, <a href=\"https://newsroom.spotify.com/2026-05-07/personal-podcasts-launch/\">Save to Spotify</a> and <a href=\"https://newsroom.spotify.com/2026-03-24/songdna-announcement-beta/\">SongDNA</a>. Every day, our platform helps teams across Spotify build better products for millions of listeners and creators.&nbsp;</p>\n<p>As a Principal Product Managers you will own strategy directly. In this role, you’ll shape long-term direction, partner closely with engineering, machine learning, design, and business leaders, and deliver platform capabilities that have company-wide impact.</p>\n</div><br><strong>What You'll Do</strong><br><div>\n\n<li>Define and evolve product strategy for your domain using customer insights, data, and long-term platform thinking.</li>\n<li>Lead complex product initiatives from early discovery through delivery in partnership with engineering, machine learning, data science, and design teams.</li>\n<li>Partner with machine learning engineers to shape model strategy, training data, evaluation frameworks, and human-in-the-loop systems.</li>\n<li>Collaborate with stakeholders across Spotify to align priorities, influence roadmaps, and drive platform investments that create lasting value.</li>\n<li>Make thoughtful product decisions by balancing customer needs, technical complexity, business priorities, and long-term platform health.</li>\n<li>Champion platform safety, trust, regulatory compliance, an",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "IT",
+    "industry": "Marketing",
+    "remote_ok": false,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
