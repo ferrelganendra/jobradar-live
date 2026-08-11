@@ -170,6 +170,7 @@ select.input { cursor: pointer; font-family: 'Inter', sans-serif; }
   background: var(--ink); color: var(--paper); border: 1px solid var(--ink); border-radius: 6px;
 }
 .btn-preset:hover { background: var(--accent); border-color: var(--accent); }
+.btn-preset.on { background: var(--accent); border-color: var(--accent); color: #fff; }
 
 /* ── INSIGHT ───────────────────────────────── */
 .insight {

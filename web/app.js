@@ -11,11 +11,13 @@ const state = {
   salaryOnly: false,
   source: "",
   sort: "recent",
+  presetAI: false,
   page: 1,
   perPage: 24,
 };
 
 const $ = (id) => document.getElementById(id);
+const AI_PROFILE = "ai engineer machine learning deep learning data scientist nlp computer vision python";
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const EMOJI_RE = /[\u{1F000}-\u{1FAFF}\u{2600}-\u{27BF}\u{2190}-\u{21FF}\u{FE0F}]/gu;
 const deEmoji = (s) => String(s ?? "").replace(EMOJI_RE, "");
@@ -149,8 +151,9 @@ function cosine(a, b) {
 }
 function searchRank(list) {
   if (!_df) buildIndex();
+  const query = state.q || AI_PROFILE;
   const qtf = {};
-  for (const w of _tok(state.q)) qtf[w] = (qtf[w] || 0) + 1;
+  for (const w of _tok(query)) qtf[w] = (qtf[w] || 0) + 1;
   const qv = {};
   for (const w in qtf) if (_df.idf[w]) qv[w] = (qtf[w] / Math.max(1, Object.keys(qtf).length)) * _df.idf[w];
   let qn = 0; for (const w in qv) qn += qv[w] * qv[w];
@@ -172,8 +175,8 @@ function render() {
     list.sort((a, b) => (a.title || "").localeCompare(b.title || "", "id"));
   } else if (state.sort === "salary") {
     list.sort((a, b) => (salaryNum(b) || 0) - (salaryNum(a) || 0));
-  } else if (state.q) {
-    // semantic relevance ranking
+  } else if (state.q || state.presetAI) {
+    // semantic relevance ranking (free query or AI profile preset)
     const ranked = searchRank(list);
     list.length = 0; list.push(...ranked);
   } else {
@@ -371,8 +374,10 @@ function resetFilters() {
   state.q = ""; state.roles.clear(); state.types.clear();
   state.remote = state.foreign = state.local = state.salaryOnly = false;
   state.source = ""; state.sort = "recent"; state.page = 1;
+  state.presetAI = false;
   $("q").value = "";
   document.querySelectorAll(".chip.active").forEach((c) => c.classList.remove("active"));
+  $("presetAI").classList.remove("on");
   ["fRemote", "fForeign", "fLocal", "fSalary"].forEach((id) => ($(id).checked = false));
   $("fSource").value = "";
   $("sort").value = "recent";
@@ -388,11 +393,11 @@ $("mask").addEventListener("click", closeDrawer);
 function closeDrawer() { $("sidebar").classList.remove("open"); $("mask").classList.remove("show"); }
 
 /* ---- AI preset + insight ---- */
-const AI_PROFILE = "ai engineer machine learning deep learning data scientist nlp computer vision python";
-$("presetAI").addEventListener("click", () => {
-  state.q = AI_PROFILE;
+$("presetAI").addEventListener("click", (e) => {
+  const btn = e.currentTarget;
+  const on = btn.classList.toggle("on");
+  state.presetAI = on;
   state.page = 1;
-  $("q").value = AI_PROFILE;
   render();
 });
 function buildInsight() {
@@ -424,8 +429,9 @@ function buildInsight() {
     `<div class="insight-cell"><div class="k">Skill populer</div><div class="v">${topTags.map(([k]) => k).join(" · ")}</div></div>` +
     `</div>`;
   el.hidden = false;
-  $("insightClose").addEventListener("click", () => { el.hidden = true; });
 }
-$("insight").addEventListener("dblclick", buildInsight); // rediscover on data refresh
+$("insight").addEventListener("click", (e) => {
+  if (e.target && e.target.id === "insightClose") $("insight").hidden = true;
+});
 
 load();
