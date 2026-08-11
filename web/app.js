@@ -73,6 +73,7 @@ async function load() {
   $("totalCount").textContent = state.jobs.length;
   buildIndustryChips();
   updateSignals();
+  buildInsight();
   render();}
 
 function matches(j) {
@@ -385,5 +386,46 @@ $("openFilters").addEventListener("click", () => { $("sidebar").classList.add("o
 $("filtersClose").addEventListener("click", closeDrawer);
 $("mask").addEventListener("click", closeDrawer);
 function closeDrawer() { $("sidebar").classList.remove("open"); $("mask").classList.remove("show"); }
+
+/* ---- AI preset + insight ---- */
+const AI_PROFILE = "ai engineer machine learning deep learning data scientist nlp computer vision python";
+$("presetAI").addEventListener("click", () => {
+  state.q = AI_PROFILE;
+  state.page = 1;
+  $("q").value = AI_PROFILE;
+  render();
+});
+function buildInsight() {
+  const el = $("insight");
+  if (!el) return;
+  const J = state.jobs;
+  const total = J.length;
+  // top industries
+  const ind = {};
+  J.forEach((x) => { const i = x.industry || "Lainnya"; ind[i] = (ind[i] || 0) + 1; });
+  const topInd = Object.entries(ind).sort((a, b) => b[1] - a[1]).slice(0, 3);
+  // top skills from tags
+  const tag = {};
+  J.forEach((x) => (x.tags || []).forEach((t) => { tag[t] = (tag[t] || 0) + 1; }));
+  const topTags = Object.entries(tag).sort((a, b) => b[1] - a[1]).slice(0, 3);
+  // remote/local split
+  const remote = J.filter((x) => x.remote_ok).length;
+  const local = J.filter((x) => !x.is_foreign).length;
+  const salary = J.filter((x) => x.salary).length;
+  const pct = (n) => Math.round((n / total) * 100);
+  el.innerHTML =
+    `<div class="insight-head"><h2>Insight pasar</h2><button type="button" class="close" id="insightClose" aria-label="Tutup">tutup</button></div>` +
+    `<div class="insight-grid">` +
+    `<div class="insight-cell"><div class="k">Total</div><div class="v">${total.toLocaleString("id-ID")}</div></div>` +
+    `<div class="insight-cell"><div class="k">Remote</div><div class="v">${pct(remote)}%</div></div>` +
+    `<div class="insight-cell"><div class="k">Indonesia</div><div class="v">${pct(local)}%</div></div>` +
+    `<div class="insight-cell"><div class="k">Ber-gaji</div><div class="v">${pct(salary)}%</div></div>` +
+    `<div class="insight-cell"><div class="k">Top industri</div><div class="v">${topInd.map(([k]) => k).join(" · ")}</div></div>` +
+    `<div class="insight-cell"><div class="k">Skill populer</div><div class="v">${topTags.map(([k]) => k).join(" · ")}</div></div>` +
+    `</div>`;
+  el.hidden = false;
+  $("insightClose").addEventListener("click", () => { el.hidden = true; });
+}
+$("insight").addEventListener("dblclick", buildInsight); // rediscover on data refresh
 
 load();
