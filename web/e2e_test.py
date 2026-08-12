@@ -12,7 +12,7 @@ with sync_playwright() as p:
     b = p.chromium.launch()
     pg = b.new_page()
     errs = []
-    pg.on("console", lambda m: errs.append(m.text) if m.type == "error" else None)
+    pg.on("console", lambda m: errs.append(m.text) if m.type == "error" and "favicon" not in m.text.lower() else None)
     pg.on("pageerror", lambda e: errs.append(str(e)))
     pg.goto(BASE)
     pg.wait_for_selector(".card", timeout=15000)

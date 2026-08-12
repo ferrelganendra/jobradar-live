@@ -16,7 +16,7 @@ from scraper.html.glints import GlintsScraper
 from scraper.html.jobstreet import JobstreetScraper
 from scraper.html.linkedin import LinkedinScraper
 from filter import filter_jobs, classify
-from db import upsert_jobs, existing_urls, fix_placeholder_titles, all_rows
+from db import upsert_jobs, existing_urls, fix_placeholder_titles, all_rows, prune_jobs, count_jobs
 from notifier import send
 import feed
 
@@ -102,6 +102,8 @@ def main() -> None:
     classified = filter_jobs(raw_jobs)
     total, added, new_jobs = upsert_jobs(classified)
     fixed = fix_placeholder_titles(raw_jobs)
+    pruned = prune_jobs()
+    total = count_jobs()
 
     # dump deduplicated jobs (from DB, re-classified) — not the raw scraped list
     deduped = [classify(j) for j in all_rows()]
@@ -118,7 +120,7 @@ def main() -> None:
     targets = [j for j in classified if j["is_it"]]
     print(f"per-source: {counts}")
     print(f"raw: {len(raw_jobs)} | classified: {len(classified)} | IT: {len(targets)}")
-    print(f"DB total: {total} rows | new added this run: {added} | titles fixed: {fixed}")
+    print(f"DB total: {total} rows | new added this run: {added} | titles fixed: {fixed} | pruned: {pruned}")
 
     # Telegram: notify all NEW IT jobs, grouped by role, clean format
     new_it = [j for j in new_jobs if j.get("is_it")]

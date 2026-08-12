@@ -110,6 +110,44 @@ def all_rows() -> list[dict]:
     return out
 
 
+def prune_jobs() -> int:
+    """Soft-dedup (source,title,company) keep newest id + drop foreign non-remote.
+    Returns number of rows deleted."""
+    from filter import classify
+    rows = all_rows()
+    classified = [classify(r) for r in rows]
+    best = {}
+    for r in classified:
+        key = (r["source"], (r.get("title") or "").strip().lower(),
+               (r.get("company") or "").strip().lower())
+        cur = best.get(key)
+        if cur is None or r["id"] > cur["id"]:
+            best[key] = r
+    keep = {r["id"] for r in best.values()}
+    # foreign + non-remote → drop regardless (user wants foreign only if remote)
+    for r in classified:
+        if r.get("is_foreign") and not r.get("remote_ok"):
+            keep.discard(r["id"])
+    conn = connect()
+    if not keep:
+        with conn:
+            n = conn.execute("DELETE FROM jobs").rowcount
+        conn.close()
+        return n
+    ph = ",".join("?" * len(keep))
+    with conn:
+        n = conn.execute(f"DELETE FROM jobs WHERE id NOT IN ({ph})", list(keep)).rowcount
+    conn.close()
+    return n
+
+
+def count_jobs() -> int:
+    conn = connect()
+    n = conn.execute("SELECT COUNT(*) FROM jobs").fetchone()[0]
+    conn.close()
+    return n
+
+
 def backfill_glints_from_desc() -> int:
     """Strip Glints boilerplate desc + extract location from stored description."""
     import re
