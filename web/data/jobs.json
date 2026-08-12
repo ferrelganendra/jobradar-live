@@ -55478,5 +55478,63 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "source": "remoteok",
+    "title": "Junior Crypto Trader",
+    "company": "ATOM Partners",
+    "location": "",
+    "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-trader-atom-partners-1136383",
+    "salary": "",
+    "tags": [
+      "other",
+      "crypto",
+      "web3",
+      "bitcoin",
+      "remote",
+      "trader",
+      "finance",
+      "web dev",
+      "defi",
+      "blockchain",
+      "education",
+      "worldwide"
+    ],
+    "remote": true,
+    "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Lainnya",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "source": "remoteok",
+    "title": "Lifeguard",
+    "company": "City of Kamloops",
+    "location": "Kamloops",
+    "url": "https://remoteOK.com/remote-jobs/remote-lifeguard-city-of-kamloops-1136557",
+    "salary": "",
+    "tags": [
+      "hr",
+      "education",
+      "admin",
+      "non tech"
+    ],
+    "remote": true,
+    "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
