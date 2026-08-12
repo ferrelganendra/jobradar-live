@@ -25,6 +25,19 @@ with sync_playwright() as p:
     check("rss link", pg.locator(".filter-link").get_attribute("href") == "data/feed.xml")
     check("bookmark preset", pg.locator("#presetBookmarks").count() == 1)
 
+    # default sort "recent" = newest first: first card title == newest created_at job
+    sort_ok = pg.evaluate("""
+      async () => {
+        const jobs = await (await fetch('data/jobs.json')).json();
+        const newest = jobs
+          .filter(j => j.created_at)
+          .sort((a, b) => new Date(b.created_at.replace(' ', 'T') + 'Z') - new Date(a.created_at.replace(' ', 'T') + 'Z'))[0];
+        const firstTitle = document.querySelector('.card .card-title').textContent.trim();
+        return firstTitle === newest.title.trim();
+      }
+    """)
+    check("default sort newest-first", sort_ok)
+
     # bookmark toggle persists
     pg.locator(".btn-bookmark").first.click()
     pressed = pg.locator(".btn-bookmark").first.get_attribute("aria-pressed")

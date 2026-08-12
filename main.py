@@ -65,36 +65,34 @@ def enrich_details(jobs: list[dict]) -> list[dict]:
     return jobs
 
 
-def auto_commit(changed: bool) -> None:
-    """Sync web/data/jobs.json and commit to git if data changed."""
+def auto_commit() -> None:
+    """Sync web/data/{jobs.json,feed.xml} + copy to OUT, commit + push if changed."""
+    root = os.path.dirname(os.path.abspath(__file__))
+    web = os.path.join(root, "web", "data")
+    changed = False
+    for name in ("jobs.json", "feed.xml"):
+        src = os.path.join(OUT, name)
+        dst = os.path.join(web, name)
+        try:
+            with open(src) as a, open(dst) as b:
+                if a.read() != b.read():
+                    import shutil
+                    shutil.copyfile(src, dst)
+                    changed = True
+        except OSError:
+            continue
     if not changed:
         return
-    src = os.path.join(OUT, "jobs.json")
-    dst = os.path.join(os.path.dirname(os.path.abspath(__file__)), "web", "data", "jobs.json")
     try:
-        import shutil
-        shutil.copyfile(src, dst)
-        root = os.path.dirname(os.path.abspath(__file__))
-        subprocess.run(["git", "add", "web/data/jobs.json"], cwd=root, check=True, capture_output=True)
-        subprocess.run(["git", "commit", "-m", "Auto: update jobs.json", "--", "web/data/jobs.json"],
+        subprocess.run(["git", "add", "web/data/jobs.json", "web/data/feed.xml"],
+                       cwd=root, check=True, capture_output=True)
+        subprocess.run(["git", "commit", "-m", "Auto: update jobs.json + feed.xml", "--",
+                        "web/data/jobs.json", "web/data/feed.xml"],
                        cwd=root, check=True, capture_output=True)
         subprocess.run(["git", "push"], cwd=root, check=True, capture_output=True)
-        print("auto-commit: pushed web/data/jobs.json")
+        print("auto-commit: pushed web/data jobs.json + feed.xml")
     except subprocess.CalledProcessError as e:
         print(f"auto-commit skipped: {e.stderr.decode().strip() if e.stderr else e}")
-
-
-def dedupeddiff() -> bool:
-    """True if out/jobs.json differs from committed web/data/jobs.json."""
-    src = os.path.join(OUT, "jobs.json")
-    dst = os.path.join(os.path.dirname(os.path.abspath(__file__)), "web", "data", "jobs.json")
-    if not os.path.exists(dst):
-        return True
-    try:
-        with open(src) as f1, open(dst) as f2:
-            return f1.read() != f2.read()
-    except OSError:
-        return False
 
 
 def main() -> None:
@@ -114,15 +112,8 @@ def main() -> None:
 
     feed.write(deduped)
 
-    # sync web/data + auto-commit if data changed (enables Cloudflare auto-deploy)
-    auto_commit(dedupeddiff())
-    # keep feed beside web data (and commit alongside, next auto-commit run syncs it)
-    try:
-        import shutil
-        shutil.copyfile(os.path.join(OUT, "feed.xml"),
-                        os.path.join(os.path.dirname(os.path.abspath(__file__)), "web", "data", "feed.xml"))
-    except OSError:
-        pass
+    # sync web/data + commit+push if either jobs.json or feed.xml changed (enables CF deploy)
+    auto_commit()
 
     targets = [j for j in classified if j["is_it"]]
     print(f"per-source: {counts}")

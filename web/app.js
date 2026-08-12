@@ -140,7 +140,9 @@ function salaryNum(j) {
 }
 
 function score(j) {
-  return 0; // relevance handled by searchRank when state.q set; recent stable otherwise
+  // "recent" default: newest first (created_at desc). Stable no-op for others.
+  const t = Date.parse(String(j.created_at || "").replace(" ", "T") + "Z");
+  return isNaN(t) ? 0 : t;
 }
 
 /* ---- TF-IDF vector search (client-side, no index file) ---- */
@@ -551,9 +553,10 @@ async function autoRefresh() {
       if (added) { $("resultText").textContent = "Ada " + added + " lowongan baru · muat ulang atau klik untuk lihat"; }
     }
     state.jobs = fresh;
+    _df = null; _jobVec = null; /* invalidate TF-IDF cache — jobs changed */
     buildIndustryChips();
     updateSignals();
-    buildInsight();
+    if (!$("insight").hidden) buildInsight(); /* don't reopen if user closed it */
     render();
   } catch { /* silent */ }
 }
