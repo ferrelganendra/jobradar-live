@@ -8,6 +8,7 @@ const state = {
   remote: false,
   foreign: false,
   local: false,
+  city: "",
   salaryOnly: false,
   freshHours: 0,
   source: "",
@@ -99,6 +100,17 @@ async function load() {
     o.textContent = s;
     sel.appendChild(o);
   });
+  // city dropdown from id_city (present only on ID jobs; sort by count desc)
+  const cityCount = {};
+  state.jobs.forEach((j) => { if (j.id_city) cityCount[j.id_city] = (cityCount[j.id_city] || 0) + 1; });
+  const citySel = $("fCity");
+  Object.entries(cityCount).filter(([, c]) => c >= 2).sort((a, b) => b[1] - a[1])
+    .forEach(([city]) => {
+      const o = document.createElement("option");
+      o.value = city;
+      o.textContent = city.charAt(0).toUpperCase() + city.slice(1) + " (" + cityCount[city] + ")";
+      citySel.appendChild(o);
+    });
   $("totalCount").textContent = state.jobs.length;
   buildIndustryChips();
   updateSignals();
@@ -113,6 +125,7 @@ function matches(j) {
   if (state.remote && !j.remote_ok) return false;
   if (state.foreign && !j.is_foreign) return false;
   if (state.local && j.is_foreign) return false;
+  if (state.city && !(j.id_city === state.city)) return false;
   if (state.salaryOnly && !j.salary) return false;
   if (!isRecent(j)) return false;
   if (state.bookmarksOnly && !bookmarks.has(j.url)) return false;
@@ -389,6 +402,7 @@ document.querySelectorAll("#typeChips .chip").forEach((c) => {
 $("fRemote").addEventListener("change", (e) => { state.remote = e.target.checked; state.page = 1; render(); });
 $("fForeign").addEventListener("change", (e) => { state.foreign = e.target.checked; state.page = 1; render(); });
 $("fLocal").addEventListener("change", (e) => { state.local = e.target.checked; state.page = 1; render(); });
+$("fCity").addEventListener("change", (e) => { state.city = e.target.value; state.page = 1; render(); });
 $("fSalary").addEventListener("change", (e) => { state.salaryOnly = e.target.checked; state.page = 1; render(); });
 $("fSource").addEventListener("change", (e) => { state.source = e.target.value; state.page = 1; render(); });
 $("fFresh").addEventListener("change", (e) => { state.freshHours = parseInt(e.target.value, 10) || 0; state.page = 1; render(); });
@@ -429,6 +443,7 @@ function countUp(id, target) {
 function resetFilters() {
   state.q = ""; state.roles.clear(); state.types.clear();
   state.remote = state.foreign = state.local = state.salaryOnly = false;
+  state.city = "";
   state.freshHours = 0;
   state.source = ""; state.sort = "recent"; state.page = 1;
   state.presetAI = false; state.bookmarksOnly = false;
@@ -437,7 +452,7 @@ function resetFilters() {
   $("presetAI").classList.remove("on");
   $("presetBookmarks").classList.remove("on");
   ["fRemote", "fForeign", "fLocal", "fSalary"].forEach((id) => ($(id).checked = false));
-  $("fSource").value = ""; $("fFresh").value = "";
+  $("fSource").value = ""; $("fFresh").value = ""; $("fCity").value = "";
   $("sort").value = "recent";
   $("perPage").value = state.perPage;
   render();
