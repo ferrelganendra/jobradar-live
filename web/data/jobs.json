@@ -48499,5 +48499,35 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "source": "remoteok",
+    "title": "Expression of Interest",
+    "company": "Immutable",
+    "location": "Sydney",
+    "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-immutable-1136369",
+    "salary": "",
+    "tags": [
+      "saas",
+      "web3",
+      "game dev",
+      "customer support",
+      "marketing",
+      "stats",
+      "medical",
+      "recruiter",
+      "non tech"
+    ],
+    "remote": true,
+    "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Lainnya",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
