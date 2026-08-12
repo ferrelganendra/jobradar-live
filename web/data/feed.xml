@@ -5,29 +5,41 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Wed, 12 Aug 2026 14:27:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 14:47:10 +0000</lastBuildDate>
+    <item>
+      <title>barber</title>
+      <link>https://remoteOK.com/remote-jobs/remote-barber-tommy-guns-original-barbershop-1136548</link>
+      <guid isPermaLink="false">3000</guid>
+      <pubDate>Wed, 12 Aug 2026 14:47:10 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Regina</job:location>
+      <job:company>Tommy Gun's Original Barbershop</job:company>
+    </item>
     <item>
       <title>AI Engineer</title>
-      <link>https://www.linkedin.com/jobs/view/ai-engineer-at-ati-business-group-4431145354</link>
-      <guid isPermaLink="false">2835</guid>
-      <pubDate>Wed, 12 Aug 2026 14:27:21 +0000</pubDate>
+      <link>https://www.linkedin.com/jobs/view/ai-engineer-at-ati-business-group-4410564265</link>
+      <guid isPermaLink="false">3003</guid>
+      <pubDate>Wed, 12 Aug 2026 14:47:10 +0000</pubDate>
       <description></description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
       <job:salary></job:salary>
-      <job:location>Jakarta, Jakarta, Indonesia</job:location>
+      <job:location>Central Jakarta, Jakarta, Indonesia</job:location>
       <job:company>ATI Business Group</job:company>
     </item>
     <item>
       <title>Principal AI Engineering Lead - ID26012</title>
-      <link>https://www.linkedin.com/jobs/view/principal-ai-engineering-lead-id26012-at-acclime-4448090427</link>
-      <guid isPermaLink="false">2836</guid>
-      <pubDate>Wed, 12 Aug 2026 14:27:21 +0000</pubDate>
+      <link>https://www.linkedin.com/jobs/view/principal-ai-engineering-lead-id26012-at-acclime-4448925163</link>
+      <guid isPermaLink="false">3004</guid>
+      <pubDate>Wed, 12 Aug 2026 14:47:10 +0000</pubDate>
       <description></description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
       <job:salary></job:salary>
-      <job:location>Jakarta Metropolitan Area</job:location>
+      <job:location>South Jakarta, Jakarta, Indonesia</job:location>
       <job:company>Acclime</job:company>
     </item>
     <item>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location>Berlin</job:location>
       <job:company>Packmatic GmbH</job:company>
-    </item>
-    <item>
-      <title>Kundenberater Telekommunikation (m/w/d) | 100% Homeoffice</title>
-      <link>https://www.arbeitnow.com/jobs/companies/hey-contact-heroes-gmbh/kundenberater-telekommunikation-100-homeoffice-hamburg-489507</link>
-      <guid isPermaLink="false">2291</guid>
-      <pubDate>Wed, 12 Aug 2026 06:59:34 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Deutschland | Remote | Festanstellung | Vollzeit oder Teilzeit&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Du hast Freude am Kundenkontakt, arbeitest serviceorientiert und möchtest Menschen bei ihren Anliegen rund um Mobilfunk und Telekommunikation unterstützen? Dann bist Du bei uns genau richtig.&lt;/p&gt; &lt;p&gt;Die hey contact heroes GmbH ist ein moderner Customer-Service-Dienstleister mit mehreren hundert Kolleginnen un</description>
-      <category>HR</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Hamburg</job:location>
-      <job:company>hey contact heroes GmbH</job:company>
     </item>
   </channel>
 </rss>
