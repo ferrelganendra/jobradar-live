@@ -5,29 +5,41 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Wed, 12 Aug 2026 15:18:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 15:50:23 +0000</lastBuildDate>
+    <item>
+      <title>Maintenance Technician</title>
+      <link>https://remoteOK.com/remote-jobs/remote-maintenance-technician-goddard-enterprises-ltd-1136387</link>
+      <guid isPermaLink="false">3345</guid>
+      <pubDate>Wed, 12 Aug 2026 15:50:23 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Christ Church</job:location>
+      <job:company>Goddard Enterprises Ltd.</job:company>
+    </item>
     <item>
       <title>AI Engineer</title>
-      <link>https://www.linkedin.com/jobs/view/ai-engineer-at-ati-business-group-4431145354</link>
-      <guid isPermaLink="false">3175</guid>
-      <pubDate>Wed, 12 Aug 2026 15:18:40 +0000</pubDate>
+      <link>https://www.linkedin.com/jobs/view/ai-engineer-at-ati-business-group-4410564265</link>
+      <guid isPermaLink="false">3348</guid>
+      <pubDate>Wed, 12 Aug 2026 15:50:23 +0000</pubDate>
       <description></description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
       <job:salary></job:salary>
-      <job:location>Jakarta, Jakarta, Indonesia</job:location>
+      <job:location>Central Jakarta, Jakarta, Indonesia</job:location>
       <job:company>ATI Business Group</job:company>
     </item>
     <item>
       <title>Principal AI Engineering Lead - ID26012</title>
-      <link>https://www.linkedin.com/jobs/view/principal-ai-engineering-lead-id26012-at-acclime-4448090427</link>
-      <guid isPermaLink="false">3176</guid>
-      <pubDate>Wed, 12 Aug 2026 15:18:40 +0000</pubDate>
+      <link>https://www.linkedin.com/jobs/view/principal-ai-engineering-lead-id26012-at-acclime-4448925163</link>
+      <guid isPermaLink="false">3349</guid>
+      <pubDate>Wed, 12 Aug 2026 15:50:23 +0000</pubDate>
       <description></description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
       <job:salary></job:salary>
-      <job:location>Jakarta Metropolitan Area</job:location>
+      <job:location>South Jakarta, Jakarta, Indonesia</job:location>
       <job:company>Acclime</job:company>
     </item>
     <item>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location>Remote (within Germany)</job:location>
       <job:company>plancraft</job:company>
-    </item>
-    <item>
-      <title>Senior Software Engineer (w/m/d) - B2B Saas I Berlin (hybrid)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/packmatic-gmbh/senior-software-engineer-b2b-saas-i-berlin-hybrid-373998</link>
-      <guid isPermaLink="false">2290</guid>
-      <pubDate>Wed, 12 Aug 2026 06:59:34 +0000</pubDate>
-      <description>&lt;p style="text-align: justify; line-height: 150%; margin: 0cm; font-size: 11pt; font-family: Arial, sans-serif;"&gt;&lt;em&gt;&lt;span style="font-family: Calibri, sans-serif;"&gt;We are digitalising one of Europe’s largest and most heavily regulated industries.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt; &lt;p style="text-align: justify; line-height: 150%; margin: 0cm; font-size: 11pt; font-family: Arial, sans-serif;"&gt; &lt;/p&gt; &lt;p style="text-al</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Berlin</job:location>
-      <job:company>Packmatic GmbH</job:company>
     </item>
   </channel>
 </rss>
