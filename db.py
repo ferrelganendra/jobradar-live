@@ -93,12 +93,13 @@ def all_rows() -> list[dict]:
     """Read all deduplicated jobs from DB, each as a dict keyed like a scraped job."""
     conn = connect()
     rows = conn.execute(
-        "SELECT source,title,company,location,url,salary,tags,remote,description,requirements,benefits FROM jobs"
+        "SELECT id,created_at,source,title,company,location,url,salary,tags,remote,description,requirements,benefits FROM jobs"
     ).fetchall()
     conn.close()
     out = []
-    for src, title, co, loc, url, sal, tags, remote, desc, req, ben in rows:
+    for jid, created, src, title, co, loc, url, sal, tags, remote, desc, req, ben in rows:
         out.append({
+            "id": jid, "created_at": created,
             "source": src, "title": title, "company": co, "location": loc,
             "url": url, "salary": "",  # re-extracted by classify() from current desc (regex refreshed); DB fallback below
             "tags": [t for t in (tags or "").split(",") if t],

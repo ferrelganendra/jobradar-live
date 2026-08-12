@@ -270,6 +270,24 @@ select.input { cursor: pointer; font-family: 'Inter', sans-serif; }
   margin-top: auto; padding-top: 12px; border-top: 1px solid var(--line);
   order: 8;
 }
+.card-actions { display: flex; align-items: center; gap: 10px; }
+.btn-bookmark {
+  flex-shrink: 0; padding: .5rem 0; cursor: pointer;
+  background: none; border: none;
+  font-family: 'Inter', sans-serif; font-weight: 600; font-size: .82rem;
+  color: var(--muted); text-decoration: none;
+  min-height: 44px; display: inline-flex; align-items: center;
+  transition: color .15s;
+}
+.btn-bookmark:hover { color: var(--ink); }
+.btn-bookmark[aria-pressed="true"] { color: var(--accent); }
+.btn-bookmark[aria-pressed="true"]::before { content: "✓ "; color: var(--accent); }
+.filter-link {
+  font-family: 'Superior Mono', monospace;
+  font-size: .72rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
+  color: var(--accent); text-decoration: underline; text-underline-offset: 3px;
+}
+.filter-link:hover { color: var(--accent-deep); }
 .card-meta-chip {
   display: flex; flex-wrap: wrap; gap: 5px;
   font-family: 'Superior Mono', monospace; font-size: .68rem; letter-spacing: .04em; text-transform: uppercase;
@@ -342,6 +360,56 @@ select.input { cursor: pointer; font-family: 'Inter', sans-serif; }
   font-family: 'Superior Mono', monospace; font-size: .66rem; letter-spacing: .08em; text-transform: uppercase; color: var(--faint);
   display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap;
 }
+
+/* ── MODAL ─────────────────────────────────── */
+body.modal-open { overflow: hidden; }
+.modal { position: fixed; inset: 0; z-index: 90; }
+.modal-backdrop {
+  position: absolute; inset: 0; background: rgba(26,25,23,.45);
+  cursor: pointer;
+}
+.modal-panel {
+  position: absolute; top: 5vh; left: 50%; transform: translateX(-50%);
+  width: min(680px, 92vw); max-height: 88vh; overflow-y: auto;
+  background: var(--paper); border: 1px solid var(--line-strong);
+  border-radius: 10px; box-shadow: var(--shadow);
+  padding: 30px 34px;
+}
+.modal-x {
+  position: absolute; top: 12px; right: 16px;
+  background: none; border: none; cursor: pointer;
+  font-family: 'Inter', sans-serif; font-size: 22px; line-height: 1;
+  color: var(--muted); padding: 6px;
+}
+.modal-x:hover { color: var(--ink); }
+.modal-role {
+  font-size: .7rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase;
+  color: var(--accent); margin-bottom: 8px;
+}
+.modal-panel h2 {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-weight: 600; font-size: 1.6rem; letter-spacing: -0.02em;
+  color: var(--ink); line-height: 1.25; margin-bottom: 10px;
+}
+.modal-meta {
+  font-size: .78rem; letter-spacing: .06em; text-transform: uppercase;
+  color: var(--muted); margin-bottom: 14px;
+}
+.modal-panel .salary-row { margin-bottom: 16px; font-size: 1rem; }
+.modal-desc {
+  font-size: .92rem; line-height: 1.65; color: var(--ink);
+  white-space: pre-wrap; word-break: break-word; margin-bottom: 18px;
+}
+.modal-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 20px; }
+.modal-foot {
+  display: flex; align-items: center; justify-content: space-between; gap: 12px;
+  padding-top: 14px; border-top: 1px solid var(--line);
+}
+.modal-new {
+  font-family: 'Superior Mono', monospace; font-size: .7rem; font-weight: 700;
+  letter-spacing: .08em; text-transform: uppercase; color: var(--muted);
+}
+.modal-new::before { content: "● "; color: var(--accent); font-size: .6rem; }
 
 /* ── MASK + MOBILE DRAWER ──────────────────── */
 .mask { display: none; position: fixed; inset: 0; background: rgba(26,25,23,.35); z-index: 60; }

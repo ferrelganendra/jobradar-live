@@ -18,6 +18,7 @@ from scraper.html.linkedin import LinkedinScraper
 from filter import filter_jobs, classify
 from db import upsert_jobs, existing_urls, fix_placeholder_titles, all_rows
 from notifier import send
+import feed
 
 # scrapers that can fetch rich detail from a per-job page
 DETAIL_SOURCES = {"glints": None, "jobstreet": None}  # filled after import
@@ -111,8 +112,17 @@ def main() -> None:
     with open(os.path.join(OUT, "jobs.json"), "w") as f:
         json.dump(deduped, f, indent=2, ensure_ascii=False)
 
+    feed.write(deduped)
+
     # sync web/data + auto-commit if data changed (enables Cloudflare auto-deploy)
     auto_commit(dedupeddiff())
+    # keep feed beside web data (and commit alongside, next auto-commit run syncs it)
+    try:
+        import shutil
+        shutil.copyfile(os.path.join(OUT, "feed.xml"),
+                        os.path.join(os.path.dirname(os.path.abspath(__file__)), "web", "data", "feed.xml"))
+    except OSError:
+        pass
 
     targets = [j for j in classified if j["is_it"]]
     print(f"per-source: {counts}")

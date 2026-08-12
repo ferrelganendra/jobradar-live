@@ -9,9 +9,11 @@ const state = {
   foreign: false,
   local: false,
   salaryOnly: false,
+  freshHours: 0,
   source: "",
   sort: "recent",
   presetAI: false,
+  bookmarksOnly: false,
   page: 1,
   perPage: 24,
 };
@@ -23,6 +25,29 @@ const EMOJI_RE = /[\u{1F000}-\u{1FAFF}\u{2600}-\u{27BF}\u{2190}-\u{21FF}\u{FE0F}
 const deEmoji = (s) => String(s ?? "").replace(EMOJI_RE, "");
 
 const TYPE_LABEL = { full: "Full-time", intern: "Magang", contract: "Kontrak", part: "Part-time" };
+
+/* ---- bookmarks (localStorage, keyed by url) ---- */
+const BK_KEY = "jobradar.bookmarks";
+let bookmarks = new Set();
+function loadBookmarks() {
+  try { bookmarks = new Set(JSON.parse(localStorage.getItem(BK_KEY) || "[]")); } catch { bookmarks = new Set(); }
+}
+function saveBookmarks() { localStorage.setItem(BK_KEY, JSON.stringify([...bookmarks])); updateBkCount(); }
+function toggleBookmark(url) {
+  bookmarks.has(url) ? bookmarks.delete(url) : bookmarks.add(url);
+  saveBookmarks();
+  render();
+}
+function updateBkCount() {
+  const b = $("presetBookmarks");
+  if (b) b.textContent = "Tersimpan (" + bookmarks.size + ")";
+}
+function isRecent(j) {
+  if (!state.freshHours || !j.created_at) return true;
+  const t = Date.parse(String(j.created_at).replace(" ", "T") + "Z");
+  if (isNaN(t)) return true;
+  return (Date.now() - t) <= state.freshHours * 3600e3;
+}
 
 function stripHtml(h) {
   if (!h) return "";
@@ -56,6 +81,8 @@ function cleanDesc(s) {
 }
 
 async function load() {
+  loadBookmarks();
+  updateBkCount();
   try {
     const res = await fetch("data/jobs.json");
     if (!res.ok) throw new Error("HTTP " + res.status);
@@ -87,6 +114,8 @@ function matches(j) {
   if (state.foreign && !j.is_foreign) return false;
   if (state.local && j.is_foreign) return false;
   if (state.salaryOnly && !j.salary) return false;
+  if (!isRecent(j)) return false;
+  if (state.bookmarksOnly && !bookmarks.has(j.url)) return false;
   if (state.source && j.source !== state.source) return false;
   return true;
 }
@@ -262,6 +291,16 @@ function render() {
     btn.href = j.url || "#";
     btn.textContent = "Buka lowongan";
 
+    const bk = n.querySelector(".btn-bookmark");
+    const saved = bookmarks.has(j.url);
+    bk.setAttribute("aria-pressed", String(saved));
+    bk.textContent = saved ? "Tersimpan" : "Simpan";
+    bk.addEventListener("click", () => toggleBookmark(j.url));
+    card.addEventListener("click", (e) => {
+      if (e.target.closest("a") || e.target.closest("button")) return;
+      openModal(j);
+    });
+
     const chips = n.querySelector(".card-meta-chip");
     if (j.remote_ok) {
       chips.appendChild(Object.assign(document.createElement("span"), { textContent: "Remote" }));
@@ -350,6 +389,7 @@ $("fForeign").addEventListener("change", (e) => { state.foreign = e.target.check
 $("fLocal").addEventListener("change", (e) => { state.local = e.target.checked; state.page = 1; render(); });
 $("fSalary").addEventListener("change", (e) => { state.salaryOnly = e.target.checked; state.page = 1; render(); });
 $("fSource").addEventListener("change", (e) => { state.source = e.target.value; state.page = 1; render(); });
+$("fFresh").addEventListener("change", (e) => { state.freshHours = parseInt(e.target.value, 10) || 0; state.page = 1; render(); });
 $("sort").addEventListener("change", (e) => { state.sort = e.target.value; state.page = 1; render(); });
 
 // ── LIVE TICKER + CHAPTER ─────────────────────────────
@@ -387,13 +427,15 @@ function countUp(id, target) {
 function resetFilters() {
   state.q = ""; state.roles.clear(); state.types.clear();
   state.remote = state.foreign = state.local = state.salaryOnly = false;
+  state.freshHours = 0;
   state.source = ""; state.sort = "recent"; state.page = 1;
-  state.presetAI = false;
+  state.presetAI = false; state.bookmarksOnly = false;
   $("q").value = "";
   document.querySelectorAll(".chip.active").forEach((c) => c.classList.remove("active"));
   $("presetAI").classList.remove("on");
+  $("presetBookmarks").classList.remove("on");
   ["fRemote", "fForeign", "fLocal", "fSalary"].forEach((id) => ($(id).checked = false));
-  $("fSource").value = "";
+  $("fSource").value = ""; $("fFresh").value = "";
   $("sort").value = "recent";
   $("perPage").value = state.perPage;
   render();
@@ -448,5 +490,73 @@ function buildInsight() {
 $("insight").addEventListener("click", (e) => {
   if (e.target && e.target.id === "insightClose") $("insight").hidden = true;
 });
+
+/* ---- bookmark preset toggle ---- */
+$("presetBookmarks").addEventListener("click", (e) => {
+  const btn = e.currentTarget;
+  const on = btn.classList.toggle("on");
+  btn.setAttribute("aria-pressed", String(on));
+  state.bookmarksOnly = on;
+  state.page = 1;
+  render();
+});
+
+/* ---- detail modal ---- */
+function openModal(j) {
+  const m = $("modal");
+  $("modalRole").textContent = (j.industry || "Lainnya") + " · " + (j.source || "");
+  $("modalTitle").textContent = deEmoji(j.title).replace(/—/g, " · ");
+  $("modalMeta").textContent = [j.company, j.location].filter(Boolean).join(" · ") || "—";
+  const sal = $("modalSalary");
+  if (j.salary) { sal.textContent = "Gaji " + deEmoji(j.salary); sal.classList.remove("none"); }
+  else { sal.textContent = "gaji tak dicantumkan"; sal.classList.add("none"); }
+  const desc = cleanDesc(deEmoji(stripHtml(j.description)));
+  $("modalDesc").textContent = desc || "Deskripsi tidak tersedia.";
+  const tags = $("modalTags");
+  tags.innerHTML = "";
+  (j.tags || []).slice(0, 12).forEach((t) => {
+    const s = document.createElement("span"); s.className = "tag"; s.textContent = deEmoji(t); tags.appendChild(s);
+  });
+  if (!(j.tags || []).length) tags.innerHTML = "";
+  $("modalNew").textContent = isRecent(j) ? "Baru" : (relativeTime(j.created_at) || "");
+  $("modalApply").href = j.url || "#";
+  m.hidden = false;
+  document.body.classList.add("modal-open");
+}
+function closeModal() { $("modal").hidden = true; document.body.classList.remove("modal-open"); }
+function relativeTime(ts) {
+  if (!ts) return "";
+  const t = Date.parse(String(ts).replace(" ", "T") + "Z");
+  if (isNaN(t)) return "";
+  const d = Math.round((Date.now() - t) / 86400e3);
+  if (d <= 0) return "hari ini";
+  if (d === 1) return "kemarin";
+  if (d < 30) return d + " hari lalu";
+  const mo = Math.round(d / 30); return mo + (mo === 1 ? " bulan lalu" : " bulan lalu");
+}
+$("modalClose").addEventListener("click", closeModal);
+$("modalX").addEventListener("click", closeModal);
+document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !$("modal").hidden) closeModal(); });
+
+/* ---- auto-refresh: silent re-fetch new jobs.json every 5 min ---- */
+async function autoRefresh() {
+  try {
+    const res = await fetch("data/jobs.json?" + Date.now());
+    if (!res.ok) return;
+    const fresh = await res.json();
+    if (fresh.length === state.jobs.length) return;
+    if (fresh.length > state.jobs.length) {
+      const seen = new Set(state.jobs.map((j) => j.url));
+      const added = fresh.filter((j) => !seen.has(j.url)).length;
+      if (added) { $("resultText").textContent = "Ada " + added + " lowongan baru · muat ulang atau klik untuk lihat"; }
+    }
+    state.jobs = fresh;
+    buildIndustryChips();
+    updateSignals();
+    buildInsight();
+    render();
+  } catch { /* silent */ }
+}
+setInterval(autoRefresh, 5 * 60 * 1000);
 
 load();
