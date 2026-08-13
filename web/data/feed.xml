@@ -5,7 +5,43 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Thu, 13 Aug 2026 05:14:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 05:46:23 +0000</lastBuildDate>
+    <item>
+      <title>Coffee Roaster Campos Coffee</title>
+      <link>https://remoteOK.com/remote-jobs/remote-coffee-roaster-campos-coffee-jde-peets-1136571</link>
+      <guid isPermaLink="false">6083</guid>
+      <pubDate>Thu, 13 Aug 2026 05:46:22 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Banksmeadow</job:location>
+      <job:company>JDE Peet's</job:company>
+    </item>
+    <item>
+      <title>AI ENGINEER</title>
+      <link>https://glints.com/id/opportunities/jobs/ai-engineer/d3cc9037-c131-4c47-a192-2b963ed9db0c</link>
+      <guid isPermaLink="false">6084</guid>
+      <pubDate>Thu, 13 Aug 2026 05:46:22 +0000</pubDate>
+      <description>AI ENGINEER PT Vertex Nexlink Solusi "ROLE : AI Engineer — Applied AI &amp; Generative AI Requirement Wajib 1.Pendidikan minimal S1 di bidang Informatika, Computer Science, Data Science, atau bidang terkait. 2.Pengalaman 4–5 tahun sebagai AI Engineer, LLM Engineer, Machine Learning Engineer, atau role setara. 3.Menguasai Python, Git, unit testing, API integration, dan Docker atau teknologi containeriz</description>
+      <category>Teknologi</category>
+      <job:remote>false</job:remote>
+      <job:salary>Rp 11-17jt</job:salary>
+      <job:location>Bogor</job:location>
+      <job:company></job:company>
+    </item>
+    <item>
+      <title>AI Engineer</title>
+      <link>https://www.linkedin.com/jobs/view/ai-engineer-at-ati-business-group-4431145354</link>
+      <guid isPermaLink="false">6087</guid>
+      <pubDate>Thu, 13 Aug 2026 05:46:22 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>false</job:remote>
+      <job:salary></job:salary>
+      <job:location>Jakarta, Jakarta, Indonesia</job:location>
+      <job:company>ATI Business Group</job:company>
+    </item>
     <item>
       <title>Werkstudent Marketing - Grafikdesign (gn)</title>
       <link>https://www.arbeitnow.com/jobs/companies/lichtblick-emobility-gmbh/remote-werkstudent-marketing-grafikdesign-gn-rottendorf-198126</link>
@@ -163,18 +199,6 @@
       <job:company>Evolve</job:company>
     </item>
     <item>
-      <title>AI Engineer</title>
-      <link>https://glints.com/id/opportunities/jobs/ai-engineer/e04a64de-7d0f-4a69-a853-8698aac78a3c</link>
-      <guid isPermaLink="false">5918</guid>
-      <pubDate>Thu, 13 Aug 2026 05:14:14 +0000</pubDate>
-      <description>AI Engineer Jobs at Công ty CP Eduvator, Quận Bình Thạnh | Glints Jobs COMPANIES Blog Get Glints App English English Vietnamese Sign Up Login For Employers Jobs / Locations / Thành phố Hồ Chí Minh / Quận Bình Thạnh / AI Engineer / AI Engineer Công ty CP Eduvator Company prefers not to disclose Computer &amp; Software Full-Time · On-site Minimum Bachelor’s Degree 1 - 3 years of experience Posted Yester</description>
-      <category>Teknologi</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company></job:company>
-    </item>
-    <item>
       <title>AI Engineer  ·  LLM &amp; AI Agents</title>
       <link>https://glints.com/id/opportunities/jobs/ai-engineer-llm-and-ai-agents/5c7247f2-9386-4c23-ac63-20b1963c9af4</link>
       <guid isPermaLink="false">5919</guid>
@@ -185,18 +209,6 @@
       <job:salary>Rp 3-4jt</job:salary>
       <job:location>Yogyakarta</job:location>
       <job:company></job:company>
-    </item>
-    <item>
-      <title>AI Engineer</title>
-      <link>https://www.linkedin.com/jobs/view/ai-engineer-at-ati-business-group-4410564265</link>
-      <guid isPermaLink="false">5922</guid>
-      <pubDate>Thu, 13 Aug 2026 05:14:14 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Central Jakarta, Jakarta, Indonesia</job:location>
-      <job:company>ATI Business Group</job:company>
     </item>
     <item>
       <title>(Senior) Enterprise Account Executive (m/f/d)</title>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Playson</job:company>
-    </item>
-    <item>
-      <title>Senior System Engineer (Virtual Private Cloud Team)</title>
-      <link>https://jobicy.com/jobs/150590-senior-system-engineer-virtual-private-cloud-team</link>
-      <guid isPermaLink="false">4292</guid>
-      <pubDate>Wed, 12 Aug 2026 18:26:53 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Nebius</job:company>
     </item>
   </channel>
 </rss>
