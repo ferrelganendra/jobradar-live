@@ -1,6 +1,8 @@
 """Orchestrator: run all scrapers -> filter -> SQLite dedup -> JSON + report."""
+import html
 import json
 import os
+import re
 import subprocess
 import sys
 
@@ -122,8 +124,8 @@ def main() -> None:
     print(f"raw: {len(raw_jobs)} | classified: {len(classified)} | IT: {len(targets)}")
     print(f"DB total: {total} rows | new added this run: {added} | titles fixed: {fixed} | pruned: {pruned}")
 
-    # Telegram: notify all NEW IT jobs, grouped by role, clean format
-    new_it = [j for j in new_jobs if j.get("is_it")]
+    # Telegram: notify only NEW IT jobs in Indonesia (foreign jobs excluded)
+    new_it = [j for j in new_jobs if j.get("is_it") and not j.get("is_foreign")]
     if new_it:
         ai = [j for j in new_it if j.get("role") == "AI"]
         swe = [j for j in new_it if j.get("role") == "SWE"]
@@ -143,17 +145,31 @@ def main() -> None:
                 t.append("Kontrak")
             return ("[" + " · ".join(t) + "] ") if t else ""
 
+        def esc(s):
+            return html.escape(str(s or ""), quote=False)
+
+        def desc(j, limit=180):
+            # strip HTML tags + boilerplate, collapse whitespace
+            d = re.sub(r"<[^>]+>", " ", j.get("description") or "")
+            d = re.sub(r"\s+", " ", d).strip()
+            # remove common Glints boilerplate fragments
+            d = re.sub(r"(?i)\b(perks? and benefits?|benefits? and perks?|about this role|job description)\b\s*[:.]?", "", d)
+            return d[:limit] + ("…" if len(d) > limit else "")
+
         for group_name, group, icon in (("AI", ai, "🤖"), ("SWE", swe, "💻"), ("IT", it, "🖥")):
             if not group:
                 continue
             lines.append(f"<b>{icon} {group_name}</b>")
             for j in group:
-                loc = j.get("location") or "—"
-                sal = f"💰 {j['salary']}  " if j.get("salary") else ""
-                co = j.get("company") or j.get("title", "")
+                co = esc(j.get("company")).strip() or esc(j.get("title")).strip() or "Tanpa nama"
+                ttl = esc(j.get("title")).strip() or co
+                loc = esc(j.get("location")).strip() or "—"
+                sal = f"💰 {esc(j.get('salary'))}  " if j.get("salary") else ""
+                ds = desc(j)
+                ds_s = f"\n  <i>{esc(ds)}</i>" if ds else ""
                 lines.append(
-                    f"• <b>{co[:25]}</b> — {j['title'][:40]}\n"
-                    f"  {tag(j)}{sal}{loc[:40]} · <a href=\"{j['url']}\">buka</a>"
+                    f"• <b>{co[:25]}</b> — {ttl[:40]}\n"
+                    f"  {tag(j)}{sal}{loc[:40]} · <a href=\"{esc(j['url'])}\">buka</a>{ds_s}"
                 )
             lines.append("")
 
