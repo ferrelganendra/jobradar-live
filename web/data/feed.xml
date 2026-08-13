@@ -5,30 +5,90 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Thu, 13 Aug 2026 06:49:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 07:21:04 +0000</lastBuildDate>
     <item>
-      <title>AI ENGINEER</title>
-      <link>https://glints.com/id/opportunities/jobs/ai-engineer/d3cc9037-c131-4c47-a192-2b963ed9db0c</link>
-      <guid isPermaLink="false">6414</guid>
-      <pubDate>Thu, 13 Aug 2026 06:49:27 +0000</pubDate>
-      <description>AI ENGINEER PT Vertex Nexlink Solusi "ROLE : AI Engineer — Applied AI &amp; Generative AI Requirement Wajib 1.Pendidikan minimal S1 di bidang Informatika, Computer Science, Data Science, atau bidang terkait. 2.Pengalaman 4–5 tahun sebagai AI Engineer, LLM Engineer, Machine Learning Engineer, atau role setara. 3.Menguasai Python, Git, unit testing, API integration, dan Docker atau teknologi containeriz</description>
+      <title>QA Engineer (IJ Platform / Remote Development)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/jetbrains/qa-engineer-ij-platform-remote-development-berlin-munich-214174</link>
+      <guid isPermaLink="false">6439</guid>
+      <pubDate>Thu, 13 Aug 2026 07:21:03 +0000</pubDate>
+      <description>&lt;p&gt;At JetBrains, we are passionate about building the strongest, most effective developer tools in the world. Our tools are designed to give developers the freedom to grow, discover, and create. Over 15 million users rely on our tools, and 88 of the Fortune Global Top 100 companies are our customers. Our products help our users stay focused on code design and the big picture, allowing them to deli</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Berlin; Munich</job:location>
+      <job:company>jetbrains</job:company>
+    </item>
+    <item>
+      <title>AI Engineer</title>
+      <link>https://glints.com/id/opportunities/jobs/ai-engineer/4d69f93c-978a-47d5-8a08-b87062befc5e</link>
+      <guid isPermaLink="false">6582</guid>
+      <pubDate>Thu, 13 Aug 2026 07:21:03 +0000</pubDate>
+      <description>AI Engineer Pt Platinumetrix Global Inovasi Job Description Summary: The AI Engineer is responsible for designing, developing, and deploying AI-driven solutions to support business goals. This role involves working with machine learning models, data pipelines, and AI systems to improve automation, efficiency, and decision-making across the organization. Job Description: Develop, train, and optimiz</description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
-      <job:salary>Rp 11-17jt</job:salary>
-      <job:location>Bogor</job:location>
+      <job:salary>Rp 15-25jt</job:salary>
+      <job:location>Jakarta Selatan</job:location>
       <job:company></job:company>
     </item>
     <item>
       <title>AI Engineer</title>
-      <link>https://www.linkedin.com/jobs/view/ai-engineer-at-ati-business-group-4431145354</link>
-      <guid isPermaLink="false">6417</guid>
-      <pubDate>Thu, 13 Aug 2026 06:49:27 +0000</pubDate>
+      <link>https://www.linkedin.com/jobs/view/ai-engineer-at-ati-business-group-4410564265</link>
+      <guid isPermaLink="false">6585</guid>
+      <pubDate>Thu, 13 Aug 2026 07:21:03 +0000</pubDate>
       <description></description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
       <job:salary></job:salary>
-      <job:location>Jakarta, Jakarta, Indonesia</job:location>
+      <job:location>Central Jakarta, Jakarta, Indonesia</job:location>
       <job:company>ATI Business Group</job:company>
+    </item>
+    <item>
+      <title>AI &amp; Automation Engineer</title>
+      <link>https://www.linkedin.com/jobs/view/ai-automation-engineer-at-alamii-food-4453666404</link>
+      <guid isPermaLink="false">6586</guid>
+      <pubDate>Thu, 13 Aug 2026 07:21:03 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>false</job:remote>
+      <job:salary></job:salary>
+      <job:location>West Jakarta, Jakarta, Indonesia</job:location>
+      <job:company>Alamii Food</job:company>
+    </item>
+    <item>
+      <title>AI Economic Intelligence</title>
+      <link>https://www.linkedin.com/jobs/view/ai-economic-intelligence-at-indonesia-indicator-4452786495</link>
+      <guid isPermaLink="false">6587</guid>
+      <pubDate>Thu, 13 Aug 2026 07:21:03 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>false</job:remote>
+      <job:salary></job:salary>
+      <job:location>Kota Tangerang Selatan, Banten, Indonesia</job:location>
+      <job:company>Indonesia Indicator</job:company>
+    </item>
+    <item>
+      <title>AI Workflow Engineer (Banking Industry)</title>
+      <link>https://www.linkedin.com/jobs/view/ai-workflow-engineer-banking-industry-at-pt-loren-tech-solutions-4452342509</link>
+      <guid isPermaLink="false">6588</guid>
+      <pubDate>Thu, 13 Aug 2026 07:21:03 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>false</job:remote>
+      <job:salary></job:salary>
+      <job:location>Jakarta Metropolitan Area</job:location>
+      <job:company>PT Loren Tech Solutions</job:company>
+    </item>
+    <item>
+      <title>Technical Recruiter (Remote)</title>
+      <link>https://www.linkedin.com/jobs/view/technical-recruiter-remote-at-quik-hire-staffing-4453673364</link>
+      <guid isPermaLink="false">6589</guid>
+      <pubDate>Thu, 13 Aug 2026 07:21:03 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Indonesia</job:location>
+      <job:company>Quik Hire Staffing</job:company>
     </item>
     <item>
       <title>Senior Data Scientist - QuantumBlack, AI by McKinsey</title>
@@ -545,66 +605,6 @@
       <job:salary></job:salary>
       <job:location>Calgary</job:location>
       <job:company>The Home Depot Canada</job:company>
-    </item>
-    <item>
-      <title>Loss Prevention Specialist</title>
-      <link>https://remoteOK.com/remote-jobs/remote-loss-prevention-specialist-the-home-depot-canada-1136390</link>
-      <guid isPermaLink="false">4674</guid>
-      <pubDate>Wed, 12 Aug 2026 19:29:21 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Brampton</job:location>
-      <job:company>The Home Depot Canada</job:company>
-    </item>
-    <item>
-      <title>Event Manager - Creator &amp; Community Events (m/w/d)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/nature-heart-gmbh-co-kg/event-manager-creator-community-events-nidderau-297755</link>
-      <guid isPermaLink="false">4345</guid>
-      <pubDate>Wed, 12 Aug 2026 18:58:01 +0000</pubDate>
-      <description>&lt;p&gt;Gemeinsam für natürliche Gesundheit – von Herz zu Herz&lt;/p&gt; &lt;p&gt;Bei Nature Heart glauben wir an die Kraft der Natur und die Bedeutung authentischer, hochwertiger Produkte.&lt;/p&gt; &lt;p&gt;Als wachsendes Unternehmen im Bereich der natürlichen Nahrungsergänzungsmittel möchten wir Nature Heart nicht nur über unsere Produkte, sondern auch durch besondere Begegnungen und gemeinsame Erlebnisse erlebbar machen.&lt;</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Nidderau</job:location>
-      <job:company>Nature Heart GmbH &amp; Co KG</job:company>
-    </item>
-    <item>
-      <title>Founding G2M &amp; Sales Manager - DACH &amp; Nordics (gn) @ AI Digital Defense Venture, Germany</title>
-      <link>https://www.arbeitnow.com/jobs/companies/atlanticvc/remote-founding-g2m-sales-manager-dach-nordics-gn-at-ai-digital-defense-venture-germany-berlin-71448</link>
-      <guid isPermaLink="false">4348</guid>
-      <pubDate>Wed, 12 Aug 2026 18:58:01 +0000</pubDate>
-      <description>&lt;p&gt;&lt;em&gt;&lt;span style="color:#000000"&gt;This is an Atlantic portfolio venture.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;p style="min-height: 1.7em;"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;span style="color:#000000"&gt;About the Venture&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color:#000000"&gt;We build frontier artificial intelligence that helps governments and defence organisations make sense of a fast-moving information environment. Our systems help the teams</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote job</job:location>
-      <job:company>atlantic.vc</job:company>
-    </item>
-    <item>
-      <title>AI Solutions Builder</title>
-      <link>https://jobicy.com/jobs/150593-ai-solutions-builder</link>
-      <guid isPermaLink="false">4289</guid>
-      <pubDate>Wed, 12 Aug 2026 18:26:53 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Smartcat</job:company>
-    </item>
-    <item>
-      <title>Senior ML Engineer (AI Research, Physical AI)</title>
-      <link>https://jobicy.com/jobs/150592-senior-ml-engineer-ai-research-physical-ai</link>
-      <guid isPermaLink="false">4290</guid>
-      <pubDate>Wed, 12 Aug 2026 18:26:53 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Nebius</job:company>
     </item>
   </channel>
 </rss>
