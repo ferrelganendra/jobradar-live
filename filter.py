@@ -114,6 +114,8 @@ def classify(job: dict) -> dict:
     ai = any(k in text for k in AI_KEYWORDS)
     swe = any(k in text for k in SOFTWARE_KEYWORDS)
     it = ai or swe or any(k in text for k in OTHER_IT_KEYWORDS)
+    # Management Trainee (MT) — separate track, not "IT", but included in Telegram
+    mt = any(k in text for k in ["management trainee", "manajemen trainee", "management traine"])
     remote = any(k in text for k in REMOTE_WORDS) or bool(job.get("remote"))
     id_city = next((c for c in ID_CITIES if c in text), None)
     # job type: intern / contract / part-time / full-time (default)
@@ -132,7 +134,7 @@ def classify(job: dict) -> dict:
     if foreign and re.search(r"\b(pt|cv|tbk|persero|yayasan)\b", comp, re.I):
         foreign = False
     job["is_it"] = it
-    job["role"] = "AI" if ai else ("SWE" if swe else ("IT" if it else "other"))
+    job["role"] = "MT" if mt else ("AI" if ai else ("SWE" if swe else ("IT" if it else "other")))
     # clean title: strip em-dash (AI tell) into · at data level, not just render
     if job.get("title"):
         job["title"] = job["title"].replace("—", " · ").replace("–", "-").strip()
