@@ -5,53 +5,509 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Wed, 26 Aug 2026 15:20:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 16:13:40 +0000</lastBuildDate>
     <item>
-      <title>Rural and Suburban Mail Carrier Allan RR1</title>
-      <link>https://remoteOK.com/remote-jobs/remote-rural-and-suburban-mail-carrier-allan-rr1-canada-post-postes-canada-1137126</link>
-      <guid isPermaLink="false">82445</guid>
-      <pubDate>Wed, 26 Aug 2026 15:20:06 +0000</pubDate>
+      <title>Working Student (m/w/d) Bid &amp; Tender Management</title>
+      <link>https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-working-student-bid-tender-management-berlin-290502</link>
+      <guid isPermaLink="false">82543</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description>&lt;p style="text-align:start;"&gt;&lt;strong&gt;&lt;span style="color:#000000"&gt;Über Recare&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p style="text-align:start;"&gt;&lt;span style="color:#000000"&gt;Als eines der führenden deutschen HealthTech-Unternehmen gestalten wir das Entlassmanagement neu – technologiegetrieben, patientenzentriert und frei von Bürokratie. Neben unserer marktführenden SaaS-Plattform entwickeln wir KI-Lösungen, die Prozes</description>
+      <category>HR</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote job</job:location>
+      <job:company>Recare Deutschland GmbH</job:company>
+    </item>
+    <item>
+      <title>Senior Consultant Microsoft Dynamics 365 (gn)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/ifblueprint/remote-senior-consultant-microsoft-dynamics-365-gn-167438</link>
+      <guid isPermaLink="false">82559</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description>&lt;br&gt;&lt;strong&gt;Überblick&lt;/strong&gt;&lt;p&gt;Du möchtest moderne CRM- und Vertriebsprozesse nicht nur beraten, sondern aktiv gestalten? Du willst Unternehmen dabei unterstützen, Microsoft Dynamics 365, Power Platform und AI/Copilot sinnvoll einzusetzen, um Kundenbeziehungen, Vertrieb und Prozesse smarter zu machen? Gleichzeitig suchst Du ein Umfeld mit Verantwortung, Gestaltungsspielraum und einem kollegialen</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>München oder deutschlandweit remote</job:location>
+      <job:company>Ifblueprint</job:company>
+    </item>
+    <item>
+      <title>Werkstudent Grafik Design (m/w/d)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/ess-energy-sales-services-gmbh/werkstudent-grafik-design-berlin-hybrid-93525</link>
+      <guid isPermaLink="false">82575</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description>&lt;br&gt;&lt;strong&gt;Wer wir sind&lt;/strong&gt;&lt;p&gt;Wir sind PLAN-B NET ZERO – ein junges, ambitioniertes GreenTech-Scale-Up aus Zug. &lt;br&gt;Seit unserer Gründung im April 2023 durch Bradley Mundt treiben wir als Pionier der neuen Industrie-Kategorie NEO ENERGY eine große Vision voran: Nachhaltige Energie vom Commodity zur Lifestyle-Marke machen – mit KI, Gamification und echten Mehrwerten. Mehr über uns: www.planbn</description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Berlin - Hybrid</job:location>
+      <job:company>Ess Energy Sales Services Gmbh</job:company>
+    </item>
+    <item>
+      <title>UI/UX Designer (m/w/d)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/ess-energy-sales-services-gmbh/ui-ux-designer-berlin-hybrid-9739</link>
+      <guid isPermaLink="false">82576</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description>&lt;br&gt;&lt;strong&gt;Wer wir sind&lt;/strong&gt;&lt;p&gt;&lt;p style="margin:0px;padding:0px;font-size:14px;background:rgb(255,255,255) none repeat scroll 0% 0%;font-weight:400;line-height:1.5;color:rgba(0,0,0,0.9);font-family:'-apple-system', 'system-ui', 'system-ui', 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe U</description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Berlin - Hybrid</job:location>
+      <job:company>Ess Energy Sales Services Gmbh</job:company>
+    </item>
+    <item>
+      <title>Full Stack Developer (m/w/d)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/ess-energy-sales-services-gmbh/full-stack-developer-berlin-hybrid-437698</link>
+      <guid isPermaLink="false">82577</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description>&lt;br&gt;&lt;strong&gt;Wer wir sind&lt;/strong&gt;&lt;p&gt;&lt;p&gt;Wir sind die &lt;strong&gt;PLAN-B NET ZERO AG&lt;/strong&gt; – ein schnell wachsendes GreenTech-Unternehmen mit Sitz in der Schweiz. Unsere Mission: Der erste wirklich emissionsfreie, voll integrierte, digitale pan-europäische Energieversorger.&lt;/p&gt;&lt;p&gt;Wir denken Energie neu – nachhaltig, vernetzt und radikal zukunftsorientiert. Mit intelligenter KI, innovativen Technologi</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Berlin - Hybrid</job:location>
+      <job:company>Ess Energy Sales Services Gmbh</job:company>
+    </item>
+    <item>
+      <title>Data Analyst (m/w/d) - BI, Reporting &amp; Business Insights</title>
+      <link>https://www.arbeitnow.com/jobs/companies/ess-energy-sales-services-gmbh/data-analyst-bi-reporting-business-insights-berlin-hybrid-393507</link>
+      <guid isPermaLink="false">82578</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description>&lt;br&gt;&lt;strong&gt;Wer wir sind&lt;/strong&gt;&lt;p&gt;&lt;span style="color:rgba(0,0,0,0.9);font-family:'-apple-system', 'system-ui', 'system-ui', 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Berlin - Hybrid</job:location>
+      <job:company>Ess Energy Sales Services Gmbh</job:company>
+    </item>
+    <item>
+      <title>Retail Assistant Store Manager</title>
+      <link>https://remoteOK.com/remote-jobs/remote-retail-assistant-store-manager-skechers-1137132</link>
+      <guid isPermaLink="false">82702</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
       <description></description>
       <category>Lainnya</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
-      <job:location>Allan</job:location>
-      <job:company>Canada Post / Postes Canada</job:company>
+      <job:location>Barceloneta</job:location>
+      <job:company>Skechers</job:company>
+    </item>
+    <item>
+      <title>Estimator</title>
+      <link>https://remoteOK.com/remote-jobs/remote-estimator-s1jobs-1137145</link>
+      <guid isPermaLink="false">82703</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Glasgow</job:location>
+      <job:company>s1jobs</job:company>
+    </item>
+    <item>
+      <title>Director, AI Enablement &amp; Security</title>
+      <link>https://jobicy.com/jobs/151780-director-ai-enablement-security</link>
+      <guid isPermaLink="false">82704</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Bloomreach</job:company>
+    </item>
+    <item>
+      <title>Staff Backend Engineer</title>
+      <link>https://jobicy.com/jobs/151779-staff-backend-engineer-2</link>
+      <guid isPermaLink="false">82705</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>TeamSnap</job:company>
+    </item>
+    <item>
+      <title>Security Engineer, Infrastructure Security</title>
+      <link>https://jobicy.com/jobs/151778-security-engineer-infrastructure-security</link>
+      <guid isPermaLink="false">82706</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>OpenAI</job:company>
+    </item>
+    <item>
+      <title>Sales Manager</title>
+      <link>https://jobicy.com/jobs/151777-sales-manager-2</link>
+      <guid isPermaLink="false">82707</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Medely</job:company>
+    </item>
+    <item>
+      <title>Senior Software Engineer (Backend)</title>
+      <link>https://jobicy.com/jobs/151776-senior-software-engineer-backend-2</link>
+      <guid isPermaLink="false">82708</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>TeamSnap</job:company>
+    </item>
+    <item>
+      <title>Security Engineer, Agent Security</title>
+      <link>https://jobicy.com/jobs/151775-security-engineer-agent-security</link>
+      <guid isPermaLink="false">82709</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>OpenAI</job:company>
+    </item>
+    <item>
+      <title>Staff Software Engineer - Consumer Revenue</title>
+      <link>https://jobicy.com/jobs/151774-staff-software-engineer-consumer-revenue</link>
+      <guid isPermaLink="false">82710</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Discord</job:company>
+    </item>
+    <item>
+      <title>Demo Engineer</title>
+      <link>https://jobicy.com/jobs/151773-demo-engineer-2</link>
+      <guid isPermaLink="false">82711</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Bloomreach</job:company>
+    </item>
+    <item>
+      <title>Revenue Enablement Lead</title>
+      <link>https://jobicy.com/jobs/151772-revenue-enablement-lead</link>
+      <guid isPermaLink="false">82712</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Medely</job:company>
+    </item>
+    <item>
+      <title>Senior Product Designer</title>
+      <link>https://jobicy.com/jobs/151771-senior-product-designer-3</link>
+      <guid isPermaLink="false">82713</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Design</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>TeamSnap</job:company>
+    </item>
+    <item>
+      <title>ChatGPT Performance Engineer</title>
+      <link>https://jobicy.com/jobs/151770-chatgpt-performance-engineer</link>
+      <guid isPermaLink="false">82714</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>OpenAI</job:company>
+    </item>
+    <item>
+      <title>Sr HR Systems &amp; Data Analyst II</title>
+      <link>https://jobicy.com/jobs/151769-sr-hr-systems-data-analyst-ii</link>
+      <guid isPermaLink="false">82715</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Consensys</job:company>
+    </item>
+    <item>
+      <title>Manager, Safety Analytics</title>
+      <link>https://jobicy.com/jobs/151768-manager-safety-analytics</link>
+      <guid isPermaLink="false">82716</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Discord</job:company>
+    </item>
+    <item>
+      <title>Enterprise Account Executive</title>
+      <link>https://jobicy.com/jobs/151767-enterprise-account-executive-15</link>
+      <guid isPermaLink="false">82717</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Medely</job:company>
+    </item>
+    <item>
+      <title>Senior Marketing Manager</title>
+      <link>https://jobicy.com/jobs/151766-senior-marketing-manager</link>
+      <guid isPermaLink="false">82718</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Marketing</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>TeamSnap</job:company>
+    </item>
+    <item>
+      <title>Security Engineer, Detection and Response</title>
+      <link>https://jobicy.com/jobs/151765-security-engineer-detection-and-response</link>
+      <guid isPermaLink="false">82719</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>OpenAI</job:company>
+    </item>
+    <item>
+      <title>Senior Lifecycle Marketing Manager</title>
+      <link>https://jobicy.com/jobs/151764-senior-lifecycle-marketing-manager-2</link>
+      <guid isPermaLink="false">82720</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Marketing</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Consensys</job:company>
+    </item>
+    <item>
+      <title>Engineering Manager, Revenue</title>
+      <link>https://jobicy.com/jobs/151763-engineering-manager-revenue</link>
+      <guid isPermaLink="false">82721</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Discord</job:company>
+    </item>
+    <item>
+      <title>Business Development Representative (DACH)</title>
+      <link>https://jobicy.com/jobs/151762-business-development-representative-dach</link>
+      <guid isPermaLink="false">82722</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Bloomreach</job:company>
+    </item>
+    <item>
+      <title>Senior Product Manager</title>
+      <link>https://jobicy.com/jobs/151761-senior-product-manager-3</link>
+      <guid isPermaLink="false">82723</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Medely</job:company>
+    </item>
+    <item>
+      <title>Product Marketing Manager (B2B)</title>
+      <link>https://jobicy.com/jobs/151760-product-marketing-manager-b2b</link>
+      <guid isPermaLink="false">82724</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Marketing</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>TeamSnap</job:company>
+    </item>
+    <item>
+      <title>Tech Lead - Video Templates</title>
+      <link>https://jobicy.com/jobs/151759-tech-lead-video-templates</link>
+      <guid isPermaLink="false">82725</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Envato</job:company>
+    </item>
+    <item>
+      <title>Community Engagement Lead - Effingham County / Savannah MSA</title>
+      <link>https://jobicy.com/jobs/151758-community-engagement-lead-effingham-county-savannah-msa</link>
+      <guid isPermaLink="false">82726</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>OpenAI</job:company>
+    </item>
+    <item>
+      <title>Senior Design Engineer - MetaMask</title>
+      <link>https://jobicy.com/jobs/151757-senior-design-engineer-metamask</link>
+      <guid isPermaLink="false">82727</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Design</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Consensys</job:company>
+    </item>
+    <item>
+      <title>Engineering Manager, Notifications</title>
+      <link>https://jobicy.com/jobs/151756-engineering-manager-notifications</link>
+      <guid isPermaLink="false">82728</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Discord</job:company>
+    </item>
+    <item>
+      <title>Account Executive (West Coast)</title>
+      <link>https://jobicy.com/jobs/151755-account-executive-west-coast</link>
+      <guid isPermaLink="false">82729</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Medely</job:company>
+    </item>
+    <item>
+      <title>Enterprise Account Executive</title>
+      <link>https://jobicy.com/jobs/151754-enterprise-account-executive-14</link>
+      <guid isPermaLink="false">82730</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>TeamSnap</job:company>
+    </item>
+    <item>
+      <title>Senior Reviewer - Code &amp; Web Templates</title>
+      <link>https://jobicy.com/jobs/151753-senior-reviewer-code-web-templates</link>
+      <guid isPermaLink="false">82731</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Envato</job:company>
+    </item>
+    <item>
+      <title>Technical Threat Investigator, Threat Intel Engineering</title>
+      <link>https://jobicy.com/jobs/151752-technical-threat-investigator-threat-intel-engineering</link>
+      <guid isPermaLink="false">82732</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>OpenAI</job:company>
+    </item>
+    <item>
+      <title>Advertising Operations Manager</title>
+      <link>https://jobicy.com/jobs/151751-advertising-operations-manager</link>
+      <guid isPermaLink="false">82733</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description></description>
+      <category>Marketing</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Discord</job:company>
     </item>
     <item>
       <title>AI Engineer</title>
-      <link>https://glints.com/id/opportunities/jobs/ai-engineer/79dbe257-0f5e-44be-9d74-d0ad03e18287</link>
-      <guid isPermaLink="false">82450</guid>
-      <pubDate>Wed, 26 Aug 2026 15:20:06 +0000</pubDate>
-      <description>AI Engineer Guepedia 🤖 OPEN INTERNSHIP — AI ENGINEER Program Magang Mahasiswa Apakah kamu tertarik dengan dunia Artificial Intelligence (AI), Machine Learning, Chatbot, Automation, dan teknologi masa depan? Kami membuka kesempatan Magang AI Engineer bagi mahasiswa dan fresh graduate yang ingin mendapatkan pengalaman langsung mengembangkan solusi berbasis AI untuk kebutuhan bisnis dan teknologi. 🎯 </description>
+      <link>https://glints.com/id/opportunities/jobs/ai-engineer/4d69f93c-978a-47d5-8a08-b87062befc5e</link>
+      <guid isPermaLink="false">82738</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description>AI Engineer Pt Platinumetrix Global Inovasi Job Description Summary: The AI Engineer is responsible for designing, developing, and deploying AI-driven solutions to support business goals. This role involves working with machine learning models, data pipelines, and AI systems to improve automation, efficiency, and decision-making across the organization. Job Description: Develop, train, and optimiz</description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
-      <job:salary>Rp 1-2jt</job:salary>
-      <job:location>Depok</job:location>
+      <job:salary>Rp 5,7-15jt</job:salary>
+      <job:location>Jakarta Selatan</job:location>
       <job:company></job:company>
     </item>
     <item>
       <title>Junior AI Engineer</title>
-      <link>https://glints.com/id/opportunities/jobs/junior-ai-engineer/fe460fc0-9077-4d59-94bb-c3cc5e84c3fc</link>
-      <guid isPermaLink="false">82451</guid>
-      <pubDate>Wed, 26 Aug 2026 15:20:06 +0000</pubDate>
-      <description>Junior AI Engineer WIRATEK SOLUSI ASIA ON-SITE PURWOKERTO We build production AI systems for enterprise clients across many industries in Indonesia, running our own GPU inference infrastructure end to end. We're hiring an AI Engineer to design and build AI architecture (RAG pipelines, agentic systems, and the serving stack behind them) and ship it to production. What You'll Do Build RAG pipelines </description>
+      <link>https://glints.com/id/opportunities/jobs/junior-ai-engineer/e740d22f-7c44-446d-a201-1435000e5717</link>
+      <guid isPermaLink="false">82739</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description>Junior AI Engineer TIGA DARA CATERING &amp; WEDDING ORGANIZER (PT. Recehfoods Bangsa Indonesia) - Fresh Graduate atau memiliki pengalaman maksimal 2 tahun. - Memiliki rasa ingin tahu yang tinggi terhadap perkembangan AI. - Menguasai dasar Python. - Memahami konsep Machine Learning atau Generative AI. - Mampu berpikir kreatif sekaligus analitis. - Senang belajar teknologi baru dan tidak takut bereksper</description>
+      <category>Teknologi</category>
+      <job:remote>false</job:remote>
+      <job:salary>Rp 5,7-15jt</job:salary>
+      <job:location>Tangerang Selatan</job:location>
+      <job:company></job:company>
+    </item>
+    <item>
+      <title>AI Developer / Automation</title>
+      <link>https://glints.com/id/opportunities/jobs/ai-developer-automation/04acc929-1be2-4d3f-9d58-cb133de214a6</link>
+      <guid isPermaLink="false">82740</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description>AI Developer / Automation AITopTrends.com AITopTrends.com is a platform focused on artificial intelligence, automation, AI tools, and emerging technology trends. We are looking for an AI Developer / Automation Specialist to join our team and help us build and improve AI-powered applications, internal tools, and business automations. What You'll Do: Develop AI-powered applications, tools, and autom</description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
       <job:salary>Rp
-3.500.000
+2.000.000
 -
-4.000.000
+3.500.000
 </job:salary>
-      <job:location>Kab. Banyumas</job:location>
+      <job:location>Surabaya</job:location>
       <job:company></job:company>
     </item>
     <item>
       <title>Magang AI Engineer</title>
-      <link>https://glints.com/id/opportunities/jobs/magang-ai-engineer/ba9f6daa-919d-461d-9a71-895e17a8972e</link>
-      <guid isPermaLink="false">82452</guid>
-      <pubDate>Wed, 26 Aug 2026 15:20:06 +0000</pubDate>
-      <description>Magang AI Engineer Indonesia Drone Training Center Dibutuhkan Magang AI Engineer dengan kriteria sebagai berikut: WFO (Work From Office) Jogja Diutamakan MAHASISWA yang sedang ambil program MAGANG dari KAMPUS Semua jurusan diperbolehkan, dengan syarat mengerti Bahasa Pemrograman dan Vibe Coding. Unpaid/tidak diberi uang saku Benefit : Sertifikat Magang &amp; Sertifikat Pelatihan 3-6 bulan Disediakan r</description>
+      <link>https://glints.com/id/opportunities/jobs/magang-ai-engineer/82e84d0a-f2dc-4192-ad35-da12517d1d78</link>
+      <guid isPermaLink="false">82741</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description>Magang AI Engineer Jogja Creative Production Dibutuhkan Magang AI Engineeer dengan kriteria sebagai berikut: WFO (Work From Office) Jogja Diutamakan MAHASISWA yang sedang ambil program MAGANG dari KAMPUS Semua jurusan diperbolehkan, dengan syarat mengerti Bahasa Pemrograman dan Vibe Coding. Unpaid/tidak diberi uang saku Benefit : Sertifikat Magang &amp; Sertifikat Pelatihan 3-6 bulan Disediakan ruanga</description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
       <job:salary>Rp
@@ -62,563 +518,103 @@
     </item>
     <item>
       <title>Data Scientist</title>
-      <link>https://glints.com/id/opportunities/jobs/data-scientist/a5380a82-0dac-44ef-8d39-1c6627aede24</link>
-      <guid isPermaLink="false">82459</guid>
-      <pubDate>Wed, 26 Aug 2026 15:20:06 +0000</pubDate>
-      <description>Data Scientist Dnalytics Consulting We are looking Energetic Candidate with : Bachelor of Engineering (Computer / Telecommunication), Computer Science / Information Technology, Mathematics, Statistics or equivalent. Have at least 3 year of experience in the appropriate field for this position Mastering Python and R. Understand Machine Learning is a must. Understand the concept of Data Mining well.</description>
+      <link>https://glints.com/id/opportunities/jobs/data-scientist/d68e0ffc-5e69-4510-920d-c63a51b8cdc9</link>
+      <guid isPermaLink="false">82748</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description>Data Scientist PT. Nawa Data Solutions What You'll Do Analyze and interpret large datasets to uncover business insights. Build predictive models and machine learning solutions. Perform data cleaning, profiling, feature engineering, and exploratory analysis. Present insights and recommendations to business stakeholders. Collaborate with Business and IT teams to deliver data-driven solutions. Willin</description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
-      <job:salary>Rp 8-12jt</job:salary>
+      <job:salary>Rp 1-1jt</job:salary>
       <job:location>Jakarta Utara</job:location>
       <job:company></job:company>
     </item>
     <item>
       <title>Data Scientist (AI Consulting &amp; Financial Services) Japan (#826)</title>
-      <link>https://glints.com/id/opportunities/jobs/data-scientist-ai-consulting-and-financial-services-japan-826/7028e1bf-8797-4644-a058-75efc34031f3</link>
-      <guid isPermaLink="false">82460</guid>
-      <pubDate>Wed, 26 Aug 2026 15:20:06 +0000</pubDate>
-      <description>Data Scientist (AI Consulting &amp; Financial Services) Japan (#826) Jobs at PT Talenta Eksekutif Asia, Osaka | Glints Jobs COMPANIES Get Glints App Sign Up Login For Employers Jobs / Data Scientist (AI Consulting &amp; Financial Services) Japan (#826) / Data Scientist (AI Consulting &amp; Financial Services) Japan (#826) PT Talenta Eksekutif Asia ¥ 500,000 - 833,000 / Month Computer &amp; Software Full-Time · On</description>
+      <link>https://glints.com/id/opportunities/jobs/data-scientist-ai-consulting-and-financial-services-japan-826/68837bf9-53a9-4aa9-b6ec-d1c027518f0a</link>
+      <guid isPermaLink="false">82749</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description>Just a moment... Apologies! Your access is currently restricted due to automated traffic coming from your IP address. Please solve the captcha to confirm you are human. Verification successful. Waiting for glints.com to respond Enable JavaScript and cookies to continue</description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
       <job:salary></job:salary>
       <job:location></job:location>
-      <job:company></job:company>
-    </item>
-    <item>
-      <title>Data Analis</title>
-      <link>https://glints.com/id/opportunities/jobs/data-analis/c4a6a6af-0b20-4ff4-8045-20217a379f80</link>
-      <guid isPermaLink="false">82468</guid>
-      <pubDate>Wed, 26 Aug 2026 15:20:06 +0000</pubDate>
-      <description>Data Analis Nusantara Sakti Group Menguasai Microsoft Excel dengan sangat baik, termasuk Pivot Table, VLOOKUP/XLOOKUP, SUMIFS, IF, Dashboard, dan pengolahan data dalam jumlah besar. Memantau realisasi pencairan marketing harian, mingguan, dan bulanan. Memastikan pencairan mencapai target dan forecast yang telah ditetapkan. Mengontrol dan mengevaluasi pelaksanaan event serta program marketing. Berk</description>
-      <category>Teknologi</category>
-      <job:remote>false</job:remote>
-      <job:salary>Rp 5-7,5jt</job:salary>
-      <job:location>Jakarta Barat</job:location>
       <job:company></job:company>
     </item>
     <item>
       <title>Data Engineer</title>
-      <link>https://glints.com/id/opportunities/jobs/data-engineer/c2e9d225-5c47-4b45-a27b-fef42e695bf3</link>
-      <guid isPermaLink="false">82472</guid>
-      <pubDate>Wed, 26 Aug 2026 15:20:06 +0000</pubDate>
-      <description>Data Engineer PT Sigma Global Teknologi Full requirment Technical : 1. PSQL (postgres SQL) including writing Functions (Mandatory) 2. Basic Linux Shell Scripting (Mandatory) 3. ETL Tools Informatica/Datastage/Airflow etc (Mandatory) 4. Data Analysis/Mining skill to identify the Pattern in Data and investigate the issues (Mandatory) 5. Database Postgres/Greenplum/mySQL knowledge (Advantage) Functio</description>
+      <link>https://glints.com/id/opportunities/jobs/data-engineer/fe8bd692-869f-41f0-8fa9-0760a5919c92</link>
+      <guid isPermaLink="false">82760</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description>Data Engineer 24slides 24Slides is a leading presentation design company specializing in high-impact PowerPoint presentations. We are committed to creating a workplace that is diverse, equitable, and inclusive. We believe diversity drives innovation and success, and we strive to build an environment where every identity is valued. At 24Slides, we don't just celebrate differences—we make them centr</description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
-      <job:salary>Rp
-6.000.000
--
-7.700.000
-</job:salary>
-      <job:location>Jakarta Selatan</job:location>
+      <job:salary></job:salary>
+      <job:location>Malang</job:location>
+      <job:company></job:company>
+    </item>
+    <item>
+      <title>Data Analis</title>
+      <link>https://glints.com/id/opportunities/jobs/data-analis/5e8d2de5-7400-4306-b1e1-7acd3345d9ee</link>
+      <guid isPermaLink="false">82761</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description>Data Analis PT Selaras Makmur Sejati PT Selaras Makmur Sejati adalah perusahaan yang berdiri sejak tahun 2005 di Jakarta Utara, tepatnya di Pantai Indah Kapuk (PIK). Perusahaan kami merupakan importir aksesoris komputer, aksesoris gadget serta produk fashion yang telah terbukti kualitasnya dan memiliki reputasi yang baik di pasar. Kami selalu berkomitmen untuk memberikan layanan terbaik kepada pel</description>
+      <category>Teknologi</category>
+      <job:remote>false</job:remote>
+      <job:salary>Rp 9-11jt</job:salary>
+      <job:location>Jakarta Utara</job:location>
       <job:company></job:company>
     </item>
     <item>
       <title>Data Analyst</title>
-      <link>https://glints.com/id/opportunities/jobs/data-analyst/50838eee-e52e-4675-858b-6b9e38d6d6d4</link>
-      <guid isPermaLink="false">82487</guid>
-      <pubDate>Wed, 26 Aug 2026 15:20:06 +0000</pubDate>
-      <description>Data Analyst Jobs at NORVEXA PTE. LTD., | Glints Jobs COMPANIES Get Glints App Sign Up Login For Employers Jobs / Locations / Singapore / North / Data Analyst / Data Analyst NORVEXA PTE. LTD. $ 3,800 - 5,500 / Month Computer &amp; Software Full-Time · Hybrid Minimum Diploma Posted 31 days ago Updated 31 days ago APPLY &amp; CHAT ON APP Apply Job Requirements Hybrid Minimum Diploma Skills Power BI Python T</description>
+      <link>https://glints.com/id/opportunities/jobs/data-analyst/bec4c4f5-0ce3-4384-80bb-5bf175bbdbf2</link>
+      <guid isPermaLink="false">82776</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description>Data Analyst IYKRA (PT Pusat Inovasi Nusantara) We are hiring!. Currently we are looking for talents for the position of Data Analyst for our client from the banking industry. Job Description: Master the use of the Tableau platform for dashboard development. Ensure the dashboard display complies with company design standards to support daily operational documentation needs. Maintain dashboard perf</description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
-      <job:salary>USD 3,800-5,500</job:salary>
-      <job:location></job:location>
+      <job:salary>Rp 6-7jt</job:salary>
+      <job:location>Jakarta Selatan</job:location>
       <job:company></job:company>
     </item>
     <item>
       <title>Senior Data Analyst</title>
-      <link>https://glints.com/id/opportunities/jobs/senior-data-analyst/fe368217-feae-40c2-9d57-5b70fffa2e65</link>
-      <guid isPermaLink="false">82489</guid>
-      <pubDate>Wed, 26 Aug 2026 15:20:06 +0000</pubDate>
-      <description>Senior Data Analyst Foodizz Senior Data Analyst: Kualifikasi: - Minimal S1 Jurusan Manajemen Keuangan, Akuntansi, atau bidang terkait - Memiliki pengalaman kerja minimal 8 tahun di bidang Data Analyst, Finance Analyst, Accounting, atau posisi terkait - Pengalaman bekerja di Kantor Akuntan Publik (KAP) menjadi nilai tambah - Memiliki kemampuan dalam pengolahan, analisis, dan interpretasi data untuk</description>
+      <link>https://glints.com/id/opportunities/jobs/senior-data-analyst/2d7dd979-522b-44c0-adf6-a758923033f4</link>
+      <guid isPermaLink="false">82778</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description>Senior Data Analyst PT. WINOD RITEL INDONESIA Requirements Pendidikan min. S1 Statistika, Matematika, Data Science, Sistem Informasi, Teknik Industri, atau jurusan terkait. Pengalaman min. 3–5 tahun sebagai Data Analyst, Business Analyst, atau posisi serupa. Menguasai SQL untuk data extraction dan data analysis. Mahir menggunakan Microsoft Excel (Advanced), Power BI, Tableau, atau Looker Studio. M</description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
-      <job:salary>Rp 3-5jt</job:salary>
-      <job:location>Bandung</job:location>
+      <job:salary>Rp 10-12jt</job:salary>
+      <job:location>Tangerang</job:location>
       <job:company></job:company>
     </item>
     <item>
       <title>Management Trainee</title>
-      <link>https://glints.com/id/opportunities/jobs/management-trainee/bcf84dda-3984-4151-b7bc-fd2253279595</link>
-      <guid isPermaLink="false">82509</guid>
-      <pubDate>Wed, 26 Aug 2026 15:20:06 +0000</pubDate>
-      <description>Management Trainee pt nicvalgio enviro indonesia Kualifikasi • Accounting/Finance/Purchasing • Lulusan S1 dari semua jurusan. • IPK minimal 3,00 dari skala 4,00. • Pengalaman organisasi atau kerja maksimal 2 tahun. • Mahir berbahasa Inggris secara lisan dan tulisan. • Penempatan Jakarta Tentang Perusahaan pt nicvalgio enviro indonesia Environmental Services 11 - 50 karyawan PT Nicvalgio Enviro Ind</description>
+      <link>https://glints.com/id/opportunities/jobs/management-trainee/82ba9586-9900-443c-933d-dc1449bb3aef</link>
+      <guid isPermaLink="false">82798</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description>Management Trainee PT DRIYOREJO JAYA ABADI GRESIK PT DRIYOREJO JAYA ABADI GRESIK adalah perusahaan yang bergerak di bidang manufaktur dan distribusi produk-produk tekstil berkualitas tinggi. Kami telah beroperasi selama bertahun-tahun dengan komitmen untuk memberikan solusi terbaik bagi pelanggan dan pengembangan karier yang baik bagi karyawan. Saat ini, kami sedang mencari individu berbakat untuk</description>
       <category>Marketing</category>
       <job:remote>false</job:remote>
-      <job:salary>Rp 3,5-6jt</job:salary>
-      <job:location>Jakarta Timur</job:location>
+      <job:salary>Rp 4-4,5jt</job:salary>
+      <job:location>Kab. Lamongan</job:location>
       <job:company></job:company>
     </item>
     <item>
-      <title>Venture Management Trainee</title>
-      <link>https://glints.com/id/opportunities/jobs/venture-management-trainee/f7c29b4f-adf0-4906-b0c1-b3bb1e57a2af</link>
-      <guid isPermaLink="false">82510</guid>
-      <pubDate>Wed, 26 Aug 2026 15:20:06 +0000</pubDate>
-      <description>Venture Management Trainee PT Terang Bumi Sejahtera PT Evolution Team berfokus pada layanan perlindungan dan perencanaan keuangan. Dengan mitra PT Prudential Life Assurance, kami menawarkan produk asuransi terbaik di pasar. Kami mencari individu yang ingin berkembang dalam dunia pemasaran dan bisnis dengan fokus pada membangun solusi keuangan. Keberadaan posisi ini bertujuan untuk menambah talenta</description>
-      <category>Sales</category>
-      <job:remote>false</job:remote>
-      <job:salary>Rp 9-10jt</job:salary>
-      <job:location>Jakarta Selatan</job:location>
-      <job:company></job:company>
-    </item>
-    <item>
-      <title>Management Trainee Produksi</title>
-      <link>https://glints.com/id/opportunities/jobs/management-trainee-produksi/abc5a1a8-5ae0-4e48-9d2e-1e159fea0aca</link>
-      <guid isPermaLink="false">82511</guid>
-      <pubDate>Wed, 26 Aug 2026 15:20:06 +0000</pubDate>
-      <description>Management Trainee Produksi PT. VOK Electrical Appliances Indonesia KUALIFIKASI: 1. Pendidikan minimal diploma/sarjana 2. Terbuka untuk fresh graduate (semua jurusan) 3. Menguasai bahasa Inggris (Mandarin-point plus) 4. Pengalaman di industri manufaktur (diutamakan) 5. Fasih mengoperasikan microsoft office 6. Jujur, teliti, dan bertanggung jawab 7. Sehat jasmani, rohani, dan tidak buta warna 8. Be</description>
-      <category>Marketing</category>
-      <job:remote>false</job:remote>
-      <job:salary>Rp 3-5jt</job:salary>
-      <job:location>Kab. Kendal</job:location>
-      <job:company></job:company>
-    </item>
-    <item>
-      <title>Management Trainee (MT)</title>
-      <link>https://glints.com/id/opportunities/jobs/management-trainee-mt/42d59c82-976d-4728-96e9-13551fc3e851</link>
-      <guid isPermaLink="false">82512</guid>
-      <pubDate>Wed, 26 Aug 2026 15:20:06 +0000</pubDate>
-      <description>Management Trainee (MT) Manna Kampus 🚀 Siap Jadi Future Leader? Management Trainee (MT) adalah program akselerasi karier untuk kamu yang ingin berkembang cepat, belajar langsung di lapangan, dan dipersiapkan menjadi leader di berbagai fungsi operasional perusahaan. Kualifikasi: Pria diutamakan Usia maksimal 35 tahun Pendidikan minimal D3/S1 (Manajemen, Akuntansi, Ekonomi, Komunikasi, Agribisnis, T</description>
-      <category>Teknologi</category>
-      <job:remote>false</job:remote>
-      <job:salary>Rp 2,8-3,5jt</job:salary>
-      <job:location>Kab. Sleman</job:location>
-      <job:company></job:company>
-    </item>
-    <item>
-      <title>Account Trainee</title>
-      <link>https://glints.com/id/opportunities/jobs/account-trainee/069f6e32-1a6c-4404-b22e-e6cd012739f5</link>
-      <guid isPermaLink="false">82513</guid>
-      <pubDate>Wed, 26 Aug 2026 15:20:06 +0000</pubDate>
-      <description>Account Trainee Jobs at Chin Media, Quận Bình Thạnh | Glints Jobs COMPANIES Blog Get Glints App English English Vietnamese Sign Up Login For Employers Jobs / Locations / Thành phố Hồ Chí Minh / Quận Bình Thạnh / Account Trainee / Account Trainee Chin Media ₫ 4,500,000 - 5,000,000 / Month Product Management &amp; Project Management Full-Time · On-site Minimum Bachelor’s Degree Less than a year of exper</description>
-      <category>Marketing</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company></job:company>
-    </item>
-    <item>
-      <title>Storekepeer Trainee</title>
-      <link>https://glints.com/id/opportunities/jobs/storekepeer-trainee/953acf95-4b4c-47e2-b452-e1e8a218bc55</link>
-      <guid isPermaLink="false">82514</guid>
-      <pubDate>Wed, 26 Aug 2026 15:20:06 +0000</pubDate>
-      <description>Storekepeer Trainee PT. Andalan Duta Eka Nusantara PT. Andalan Duta Eka Nusantara adalah bagian dari Aden Group yang berkomitmen untuk menciptakan lingkungan binaan yang lebih berkelanjutan dan berpusat pada manusia. Kami sedang mencari individu berbakat yang ingin bergabung dengan tim kami di beberapa area lokasi kam9 (Kalimantan, Sulawesi, dan Maluku). Kesempatan ini sangat cocok bagi mereka yan</description>
+      <title>MANAGEMENT TRAINEE (MT)</title>
+      <link>https://glints.com/id/opportunities/jobs/management-trainee-mt/bf1ebb02-2f23-4edc-a5d1-65a7da27206c</link>
+      <guid isPermaLink="false">82799</guid>
+      <pubDate>Wed, 26 Aug 2026 16:13:39 +0000</pubDate>
+      <description>MANAGEMENT TRAINEE (MT) PT Bintang Service Management PT Bintang Service Management adalah perusahaan outsourcing yang berbasis di Semarang, yang telah berkomitmen untuk memberikan solusi layanan terbaik kepada klien di berbagai sektor bisnis. Kami saat ini sedang mencari individu berkualitas untuk bergabung dengan tim kami di Batu Licin, Kabupaten Tanah Bumbu, Kalimantan Selatan. Posisi ini merup</description>
       <category>Marketing</category>
       <job:remote>false</job:remote>
       <job:salary>Rp
-4.500.000
+3.500.000
 -
-5.000.000
+4.000.000
 </job:salary>
-      <job:location>Kab. Morowali</job:location>
+      <job:location>Kab. Tanah Bumbu</job:location>
       <job:company></job:company>
-    </item>
-    <item>
-      <title>MARKETING TRAINEE</title>
-      <link>https://glints.com/id/opportunities/jobs/marketing-trainee/8ca4b035-a98d-446e-b9a7-33f7f5675d1a</link>
-      <guid isPermaLink="false">82515</guid>
-      <pubDate>Wed, 26 Aug 2026 15:20:06 +0000</pubDate>
-      <description>MARKETING TRAINEE Honda Daya Motor Cikampek Kualifikasi Laki-laki/wanita Minimal lulusan SMP, SMA/SMK, D3/S1 Bersedia bekerja dengan target Mampu berkomunikasi dengan baik Mampu bekerjasama dengan tim Kreatif dan suka bermain Sosial media Benefit: Gaji tidak terhingga Insentif dan Bonus Jenjang Karir Pengembangan karir Tentang Perusahaan Honda Daya Motor Cikampek Automotive 1 - 10 karyawan Alamat </description>
-      <category>Marketing</category>
-      <job:remote>false</job:remote>
-      <job:salary>Rp 4jt</job:salary>
-      <job:location>Kab. Karawang</job:location>
-      <job:company></job:company>
-    </item>
-    <item>
-      <title>Admin Service</title>
-      <link>https://www.jobstreet.co.id/job/93636092</link>
-      <guid isPermaLink="false">82517</guid>
-      <pubDate>Wed, 26 Aug 2026 15:20:06 +0000</pubDate>
-      <description>Admin Service Job in North Sulawesi - Jobstreet Skip to content Jobstreet Open app Sign in Sign in Job search People search Career advice Companies Indonesia Australia Hong Kong Indonesia Malaysia New Zealand Philippines Singapore Thailand English Bahasa English Employer site Sign in Sign in English Open app Sign in Sign in Employer site Job search People search Career advice Companies Admin Servi</description>
-      <category>Sales</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>PT SINOPACIFIC PERALATAN INDONUSA</job:company>
-    </item>
-    <item>
-      <title>AI Engineer</title>
-      <link>https://www.linkedin.com/jobs/view/ai-engineer-at-ati-business-group-4410564265</link>
-      <guid isPermaLink="false">82518</guid>
-      <pubDate>Wed, 26 Aug 2026 15:20:06 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Central Jakarta, Jakarta, Indonesia</job:location>
-      <job:company>ATI Business Group</job:company>
-    </item>
-    <item>
-      <title>AI &amp;amp; Data Engineer</title>
-      <link>https://www.linkedin.com/jobs/view/ai-amp-data-engineer-at-mekari-4455888746</link>
-      <guid isPermaLink="false">82519</guid>
-      <pubDate>Wed, 26 Aug 2026 15:20:06 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Jakarta, Jakarta, Indonesia</job:location>
-      <job:company>Mekari</job:company>
-    </item>
-    <item>
-      <title>Jr. Product &amp; Performance Analyst</title>
-      <link>https://www.linkedin.com/jobs/view/jr-product-performance-analyst-at-ilmuone-data-4431623472</link>
-      <guid isPermaLink="false">82520</guid>
-      <pubDate>Wed, 26 Aug 2026 15:20:06 +0000</pubDate>
-      <description></description>
-      <category>Data</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Palmerah, Jakarta, Indonesia</job:location>
-      <job:company>ilmuOne Data</job:company>
-    </item>
-    <item>
-      <title>AP Accountant</title>
-      <link>https://remoteOK.com/remote-jobs/remote-ap-accountant-bosta-1137124</link>
-      <guid isPermaLink="false">82197</guid>
-      <pubDate>Wed, 26 Aug 2026 14:39:09 +0000</pubDate>
-      <description></description>
-      <category>Finance</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Maadi</job:location>
-      <job:company>Bosta</job:company>
-    </item>
-    <item>
-      <title>Butcher</title>
-      <link>https://remoteOK.com/remote-jobs/remote-butcher-the-butcher-shoppe-1137120</link>
-      <guid isPermaLink="false">82198</guid>
-      <pubDate>Wed, 26 Aug 2026 14:39:09 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Toronto</job:location>
-      <job:company>The Butcher Shoppe</job:company>
-    </item>
-    <item>
-      <title>Copywriter Trainee</title>
-      <link>https://glints.com/id/opportunities/jobs/copywriter-trainee/4c1ab723-05eb-49ad-84a7-b952337c6462</link>
-      <guid isPermaLink="false">82264</guid>
-      <pubDate>Wed, 26 Aug 2026 14:39:09 +0000</pubDate>
-      <description>Copywriter Trainee Jobs at Chin Media, Quận Bình Thạnh | Glints Jobs COMPANIES Blog Get Glints App English English Vietnamese Sign Up Login For Employers Jobs / Locations / Thành phố Hồ Chí Minh / Quận Bình Thạnh / Copywriter Trainee / Copywriter Trainee Chin Media ₫ 4,500,000 / Month Operations &amp; Customer Service Full-Time · On-site Minimum Bachelor’s Degree Less than a year of experience APPLY &amp;</description>
-      <category>Marketing</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company></job:company>
-    </item>
-    <item>
-      <title>Banking Associate Program Relationship Manager Priority</title>
-      <link>https://www.linkedin.com/jobs/view/banking-associate-program-relationship-manager-priority-at-permata-bank-4456083597</link>
-      <guid isPermaLink="false">82269</guid>
-      <pubDate>Wed, 26 Aug 2026 14:39:09 +0000</pubDate>
-      <description></description>
-      <category>Finance</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Surabaya, East Java, Indonesia</job:location>
-      <job:company>Permata Bank</job:company>
-    </item>
-    <item>
-      <title>Projektmanager MacroCell (m/w/d) | 88.000 € Fixgehalt, Dienstwagen und Homeoffice</title>
-      <link>https://www.arbeitnow.com/jobs/companies/5g-synergiewerk-gmbh/projektmanager-macrocell-88000-eur-fixgehalt-dienstwagen-und-homeoffice-munich-315476</link>
-      <guid isPermaLink="false">81764</guid>
-      <pubDate>Wed, 26 Aug 2026 13:57:23 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Gestalte den bundesweiten Ausbau unserer 5G-Infrastruktur von der Planung bis zum fertigen Standort&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Wenn du gerne Projekte ganzheitlich steuerst, unterschiedliche Beteiligte zusammenbringst und am Ende sehen möchtest, was du geschaffen hast, bietet dir diese Rolle genau den richtigen Rahmen.&lt;/p&gt; &lt;p&gt;Beim 5G Synergiewerk übernimmst du die End-to-End-Verantwortung für unser</description>
-      <category>HR</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Munich</job:location>
-      <job:company>5G-Synergiewerk GmbH</job:company>
-    </item>
-    <item>
-      <title>Product Builder (UI/UX Designer &amp; Mobile App Developer) - (m/w/d)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/luma-life/product-builder-ui-ux-designer-mobile-app-developer-hamburg-267908</link>
-      <guid isPermaLink="false">81777</guid>
-      <pubDate>Wed, 26 Aug 2026 13:57:23 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Luma Life entwickelt eine KI-basierte Alltagsbegleitung für Menschen mit Demenz.&lt;/strong&gt; Unser Ziel: Menschen mit Demenz ein möglichst selbstbestimmtes Leben ermöglichen und Angehörige im Alltag entlasten.&lt;/p&gt; &lt;p&gt;Wir sind ein Early-Stage-Startup mit funktionierendem Produkt, ersten Nutzern und starken Partnern. Bei uns arbeitest du direkt mit den Foundern, übernimmst echte Verantwortun</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Hamburg</job:location>
-      <job:company>Luma Life</job:company>
-    </item>
-    <item>
-      <title>Senior Growth Marketing Manager (Subscriptions)</title>
-      <link>https://www.arbeitnow.co.uk/jobs/companies/duck-duck-go/remote-senior-growth-marketing-manager-subscriptions-206258</link>
-      <guid isPermaLink="false">81867</guid>
-      <pubDate>Wed, 26 Aug 2026 13:57:23 +0000</pubDate>
-      <description>&lt;h1&gt;&lt;strong&gt;Who We Are &lt;/strong&gt;&lt;/h1&gt;&lt;p style="min-height:1.5em"&gt;Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on on &lt;a target="_blank" rel="noopener noreferrer nofollow" class="ProsemirrorEditor-link" h</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Duck Duck Go</job:company>
-    </item>
-    <item>
-      <title>Data Solution Analyst</title>
-      <link>https://glints.com/id/opportunities/jobs/data-solution-analyst/971d28d3-fbbe-4f0b-8e55-aa5d085e28ee</link>
-      <guid isPermaLink="false">81967</guid>
-      <pubDate>Wed, 26 Aug 2026 13:57:23 +0000</pubDate>
-      <description>Data Solution Analyst Asian Technology Solutions Requirements: Bachelor’s Degree (S1) in a relevant field. Minimum 3+ years of experience as a Data Solution Analyst, Business Analyst, System Analyst, or similar role. Experienced in leading requirement gathering meetings, application design discussions, and data mapping. Strong understanding of SQL and experience working with SQL Server, Oracle, or</description>
-      <category>Teknologi</category>
-      <job:remote>false</job:remote>
-      <job:salary>Rp 7,5-11jt</job:salary>
-      <job:location>Jakarta Selatan</job:location>
-      <job:company></job:company>
-    </item>
-    <item>
-      <title>Senior Data Analyst - PayLater</title>
-      <link>https://www.linkedin.com/jobs/view/senior-data-analyst-paylater-at-traveloka-4453121813</link>
-      <guid isPermaLink="false">81994</guid>
-      <pubDate>Wed, 26 Aug 2026 13:57:23 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Jakarta Metropolitan Area</job:location>
-      <job:company>Traveloka</job:company>
-    </item>
-    <item>
-      <title>Senior Data Analyst</title>
-      <link>https://www.linkedin.com/jobs/view/senior-data-analyst-at-paper-4428499536</link>
-      <guid isPermaLink="false">81995</guid>
-      <pubDate>Wed, 26 Aug 2026 13:57:23 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>West Jakarta, Jakarta, Indonesia</job:location>
-      <job:company>Paper</job:company>
-    </item>
-    <item>
-      <title>Senior Data Analyst</title>
-      <link>https://www.linkedin.com/jobs/view/senior-data-analyst-at-traveloka-4430963590</link>
-      <guid isPermaLink="false">81996</guid>
-      <pubDate>Wed, 26 Aug 2026 13:57:23 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Jakarta Metropolitan Area</job:location>
-      <job:company>Traveloka</job:company>
-    </item>
-    <item>
-      <title>Business Intelligence Analyst ( Mid - Senior)</title>
-      <link>https://www.linkedin.com/jobs/view/business-intelligence-analyst-mid-senior-at-cermati-4458174759</link>
-      <guid isPermaLink="false">81997</guid>
-      <pubDate>Wed, 26 Aug 2026 13:57:23 +0000</pubDate>
-      <description></description>
-      <category>Data</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Jakarta Metropolitan Area</job:location>
-      <job:company>Cermati</job:company>
-    </item>
-    <item>
-      <title>Senior Data Analyst</title>
-      <link>https://www.linkedin.com/jobs/view/senior-data-analyst-at-edts-4449181979</link>
-      <guid isPermaLink="false">81998</guid>
-      <pubDate>Wed, 26 Aug 2026 13:57:23 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Jakarta, Jakarta, Indonesia</job:location>
-      <job:company>EDTS</job:company>
-    </item>
-    <item>
-      <title>Senior Data Analyst</title>
-      <link>https://www.linkedin.com/jobs/view/senior-data-analyst-at-fore-coffee-4433934074</link>
-      <guid isPermaLink="false">81999</guid>
-      <pubDate>Wed, 26 Aug 2026 13:57:23 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Jakarta Metropolitan Area</job:location>
-      <job:company>Fore Coffee</job:company>
-    </item>
-    <item>
-      <title>Senior Data Analyst - Growth &amp; Commercial Analytics</title>
-      <link>https://www.linkedin.com/jobs/view/senior-data-analyst-growth-commercial-analytics-at-funding-societies-modalku-group-4447258881</link>
-      <guid isPermaLink="false">82000</guid>
-      <pubDate>Wed, 26 Aug 2026 13:57:23 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Jakarta, Jakarta, Indonesia</job:location>
-      <job:company>Funding Societies | Modalku Group</job:company>
-    </item>
-    <item>
-      <title>Senior Data Analyst</title>
-      <link>https://www.linkedin.com/jobs/view/senior-data-analyst-at-amar-bank-4411227286</link>
-      <guid isPermaLink="false">82001</guid>
-      <pubDate>Wed, 26 Aug 2026 13:57:23 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Jakarta, Jakarta, Indonesia</job:location>
-      <job:company>Amar Bank</job:company>
-    </item>
-    <item>
-      <title>Business Intelligence Analyst</title>
-      <link>https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-rocketindo-4448406078</link>
-      <guid isPermaLink="false">82002</guid>
-      <pubDate>Wed, 26 Aug 2026 13:57:23 +0000</pubDate>
-      <description></description>
-      <category>Data</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Kemayoran, Jakarta, Indonesia</job:location>
-      <job:company>Rocketindo</job:company>
-    </item>
-    <item>
-      <title>Sales Data Analyst, Assistant Manager (IC)</title>
-      <link>https://www.linkedin.com/jobs/view/sales-data-analyst-assistant-manager-ic-at-kredivo-group-4454989700</link>
-      <guid isPermaLink="false">82003</guid>
-      <pubDate>Wed, 26 Aug 2026 13:57:23 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Jakarta Metropolitan Area</job:location>
-      <job:company>Kredivo Group</job:company>
-    </item>
-    <item>
-      <title>Analyst, BI &amp; Market Analytic</title>
-      <link>https://www.linkedin.com/jobs/view/analyst-bi-market-analytic-at-cbi-credit-bureau-indonesia-4450101490</link>
-      <guid isPermaLink="false">82004</guid>
-      <pubDate>Wed, 26 Aug 2026 13:57:23 +0000</pubDate>
-      <description></description>
-      <category>Data</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>South Jakarta, Jakarta, Indonesia</job:location>
-      <job:company>CBI Credit Bureau Indonesia</job:company>
-    </item>
-    <item>
-      <title>Risk Portfolio Analyst</title>
-      <link>https://www.linkedin.com/jobs/view/risk-portfolio-analyst-at-home-credit-indonesia-4452785588</link>
-      <guid isPermaLink="false">82005</guid>
-      <pubDate>Wed, 26 Aug 2026 13:57:23 +0000</pubDate>
-      <description></description>
-      <category>Data</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Jakarta, Indonesia</job:location>
-      <job:company>Home Credit Indonesia</job:company>
-    </item>
-    <item>
-      <title>Portfolio Analyst</title>
-      <link>https://www.linkedin.com/jobs/view/portfolio-analyst-at-home-credit-indonesia-4450460141</link>
-      <guid isPermaLink="false">82006</guid>
-      <pubDate>Wed, 26 Aug 2026 13:57:23 +0000</pubDate>
-      <description></description>
-      <category>Data</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Jakarta Metropolitan Area</job:location>
-      <job:company>Home Credit Indonesia</job:company>
-    </item>
-    <item>
-      <title>Ops Data Analyst</title>
-      <link>https://www.linkedin.com/jobs/view/ops-data-analyst-at-segari-4448236524</link>
-      <guid isPermaLink="false">82007</guid>
-      <pubDate>Wed, 26 Aug 2026 13:57:23 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Tangerang Regency, Banten, Indonesia</job:location>
-      <job:company>Segari</job:company>
-    </item>
-    <item>
-      <title>Senior Data Analyst - Portfolio &amp; Risk Analytics</title>
-      <link>https://www.linkedin.com/jobs/view/senior-data-analyst-portfolio-risk-analytics-at-funding-societies-modalku-group-4447267017</link>
-      <guid isPermaLink="false">82008</guid>
-      <pubDate>Wed, 26 Aug 2026 13:57:23 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Jakarta, Jakarta, Indonesia</job:location>
-      <job:company>Funding Societies | Modalku Group</job:company>
-    </item>
-    <item>
-      <title>Growth Analyst</title>
-      <link>https://www.linkedin.com/jobs/view/growth-analyst-at-luxehouze-4438360083</link>
-      <guid isPermaLink="false">82009</guid>
-      <pubDate>Wed, 26 Aug 2026 13:57:23 +0000</pubDate>
-      <description></description>
-      <category>Marketing</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Jakarta, Jakarta, Indonesia</job:location>
-      <job:company>Luxehouze</job:company>
-    </item>
-    <item>
-      <title>Sales Data Analyst, Assistant Manager (IC)</title>
-      <link>https://www.linkedin.com/jobs/view/sales-data-analyst-assistant-manager-ic-at-finaccel-4454943492</link>
-      <guid isPermaLink="false">82011</guid>
-      <pubDate>Wed, 26 Aug 2026 13:57:23 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Jakarta Metropolitan Area</job:location>
-      <job:company>FinAccel</job:company>
-    </item>
-    <item>
-      <title>Sales Analytics</title>
-      <link>https://www.linkedin.com/jobs/view/sales-analytics-at-monee-4417474857</link>
-      <guid isPermaLink="false">82012</guid>
-      <pubDate>Wed, 26 Aug 2026 13:57:23 +0000</pubDate>
-      <description></description>
-      <category>Sales</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Jakarta, Indonesia</job:location>
-      <job:company>Monee</job:company>
-    </item>
-    <item>
-      <title>Data Analyst - Process Engineering Molding Jr. Staff</title>
-      <link>https://www.linkedin.com/jobs/view/data-analyst-%E2%80%93-process-engineering-molding-jr-staff-at-vision-ease-asia-4453669320</link>
-      <guid isPermaLink="false">82013</guid>
-      <pubDate>Wed, 26 Aug 2026 13:57:23 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Kecamatan Cikarang Selatan, West Java, Indonesia</job:location>
-      <job:company>Vision Ease Asia</job:company>
-    </item>
-    <item>
-      <title>Business Intelligence Specialist</title>
-      <link>https://www.linkedin.com/jobs/view/business-intelligence-specialist-at-bibit-id-4443346591</link>
-      <guid isPermaLink="false">82015</guid>
-      <pubDate>Wed, 26 Aug 2026 13:57:23 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Jakarta, Jakarta, Indonesia</job:location>
-      <job:company>Bibit.id</job:company>
-    </item>
-    <item>
-      <title>Credit Risk MIS &amp; Data Reporting</title>
-      <link>https://www.linkedin.com/jobs/view/credit-risk-mis-data-reporting-at-seabank-indonesia-4451481625</link>
-      <guid isPermaLink="false">82016</guid>
-      <pubDate>Wed, 26 Aug 2026 13:57:23 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Jakarta, Indonesia</job:location>
-      <job:company>SeaBank Indonesia</job:company>
     </item>
   </channel>
 </rss>
