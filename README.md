@@ -24,8 +24,8 @@ Aggregator lowongan kerja **Indonesia + remote-foreign**, fokus AI Engineer / Ma
 - **Self-host font** — Inter, Playfair, Superior Mono (semua woff2 lokal, 0 request CDN)
 
 **Telegram**
-- **Notif IT baru real-time** — grouped by role (AI/SWE/IT), remote/foreign/magang tag, gaji
-- **Daily AI-match digest (07:00)** — TF-IDF rank AI/ML job vs profil user, kirim top-10 + % cocok + gaji + lokasi
+- **Notif target baru real-time** — grouped by role (AI/DS/DA/MT/SWE/IT), remote/foreign/magang tag, gaji
+- **Daily target-role digest (07:00)** — TF-IDF rank AI, Data Scientist, Data Analyst, dan Management Trainee vs profil user; kirim top-10 + % cocok + gaji + lokasi
 
 ## Arsitektur AI (client-side, tanpa backend)
 

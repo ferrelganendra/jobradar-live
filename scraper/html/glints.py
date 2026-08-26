@@ -1,10 +1,12 @@
 """Glints job board (SPA, Playwright render)."""
 from bs4 import BeautifulSoup
 import re
+from urllib.parse import quote
 from ..renderer import render
 from ..base import BaseScraper
 
-URL = "https://glints.com/id/opportunities/jobs/explore?keyword=AI%20Engineer&countryName=INDONESIA&page=1"
+SEARCH = ["AI Engineer", "Data Scientist", "Data Analyst", "Management Trainee", "Graduate Trainee"]
+URL = "https://glints.com/id/opportunities/jobs/explore?keyword={}&countryName=INDONESIA&page=1"
 
 # boilerplate to strip from detail page text
 SKIP = ["Lowongan Kerja", "PERUSAHAAN", "Blog", "Unduh App Glints", "bahasa"]
@@ -61,33 +63,30 @@ class GlintsScraper(BaseScraper):
         }
 
     def fetch_jobs(self) -> list[dict]:
-        html = render(URL, wait_for="a[href*='/opportunities/jobs']")
-        soup = BeautifulSoup(html, "lxml")
-        jobs = []
-        seen = set()
-        for a in soup.select("a[href*='/opportunities/jobs/']"):
-            href = a.get("href", "")
-            if "/opportunities/jobs/" not in href or href in seen:
+        jobs, seen = [], set()
+        for query in SEARCH:
+            try:
+                html = render(URL.format(quote(query)), wait_for="a[href*='/opportunities/jobs']")
+            except Exception:
                 continue
-            seen.add(href)
-            title = a.get_text(strip=True)
-            # salary: sibling span of the h2 (e.g. 'Rp 6-8jt')
-            salary = ""
-            h2 = a.parent
-            if h2:
-                for sib in h2.find_next_siblings():
-                    if sib.name == "span":
-                        salary = sib.get_text(strip=True)
-                        break
-            url = href if href.startswith("http") else "https://glints.com" + href
-            jobs.append({
-                "source": self.source,
-                "title": title,
-                "company": "",
-                "location": "",
-                "url": url,
-                "salary": salary,
-                "tags": [],
-                "remote": "remote" in (title + " " + salary).lower(),
-            })
+            soup = BeautifulSoup(html, "lxml")
+            for a in soup.select("a[href*='/opportunities/jobs/']"):
+                href = a.get("href", "")
+                if "/opportunities/jobs/" not in href or href in seen:
+                    continue
+                seen.add(href)
+                title = a.get_text(strip=True)
+                salary = ""
+                h2 = a.parent
+                if h2:
+                    for sib in h2.find_next_siblings():
+                        if sib.name == "span":
+                            salary = sib.get_text(strip=True)
+                            break
+                url = href if href.startswith("http") else "https://glints.com" + href
+                jobs.append({
+                    "source": self.source, "title": title, "company": "", "location": "",
+                    "url": url, "salary": salary, "tags": [],
+                    "remote": "remote" in (title + " " + salary).lower(),
+                })
         return jobs

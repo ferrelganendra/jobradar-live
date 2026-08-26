@@ -2,7 +2,7 @@
 from ..base import BaseScraper, fetch
 
 API = "https://remotive.com/api/remote-jobs"
-SEARCH = ["AI", "Machine Learning", "Software Engineer", "Data"]
+SEARCH = ["AI", "Machine Learning", "Software Engineer", "Data", "Data Scientist", "Data Analyst", "Management Trainee"]
 
 
 class RemotiveScraper(BaseScraper):

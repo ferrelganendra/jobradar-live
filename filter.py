@@ -1,9 +1,9 @@
-"""Keyword filter: AI/ML/SWE target + location + remote + salary mention."""
+"""Keyword filter: target roles + location + remote + salary mention."""
 import re
 
 # Primary target roles (case-insensitive)
 AI_KEYWORDS = ["ai engineer", "machine learning", "ml engineer", "deep learning",
-               "artificial intelligence", "data scientist", "nlp", "computer vision",
+               "artificial intelligence", "nlp", "computer vision",
                "llm", "genai", "prompt engineer", "mlops", "ai/ml", "data engineer",
                "ai developer", "ai research", "ai specialist", "ai product"]
 SOFTWARE_KEYWORDS = ["software engineer", "software developer", "backend engineer",
@@ -94,7 +94,7 @@ def _extract_salary(job: dict) -> str:
 
 
 def classify(job: dict) -> dict:
-    """Return job with added: is_it, role (AI/SWE/IT), is_remote, id_city."""
+    """Return job with added: is_it, role, remote, foreign, and job type."""
     job["location"] = _clean_location(job.get("location", ""))
     # always normalize salary (strips placeholder like "Gaji Tidak Ditampilkan")
     job["salary"] = _extract_salary(job)
@@ -113,13 +113,23 @@ def classify(job: dict) -> dict:
     ]).lower()
     ai = any(k in text for k in AI_KEYWORDS)
     swe = any(k in text for k in SOFTWARE_KEYWORDS)
-    it = ai or swe or any(k in text for k in OTHER_IT_KEYWORDS)
-    # Management Trainee (MT) — separate track, not "IT", but included in Telegram
-    mt = any(k in text for k in ["management trainee", "manajemen trainee", "management traine"])
+    # Keep data roles separate; otherwise Telegram collapses them into AI/IT.
+    title_l = (job.get("title") or "").lower()
+    ds = bool(re.search(r"\bdata\s+scient(?:ist|ific|e)\b|\bdata\s+science\b", title_l))
+    da = bool(re.search(r"\bdata\s+analyst\b|\bdata\s+analytics\b", title_l))
+    # MT = Management/Graduate Trainee. Bare "MT" is too ambiguous.
+    mt = bool(re.search(
+        r"\b(?:management|manajemen|graduate)\s+trainee\b|"
+        r"\bmt\s+(?:program|trainee)\b|\b(?:program|posisi)\s+mt\b",
+        title_l,
+    ))
+    it = ds or da or ai or swe or any(k in text for k in OTHER_IT_KEYWORDS)
+    # MT is a Telegram target, not an IT role.
+    it = it and not mt
     remote = any(k in text for k in REMOTE_WORDS) or bool(job.get("remote"))
     id_city = next((c for c in ID_CITIES if c in text), None)
     # job type: intern / contract / part-time / full-time (default)
-    jt = ("intern" if any(k in text for k in ["intern", "magang", "trainee", "internship"])
+    jt = ("intern" if any(k in text for k in ["intern", "magang", "internship"])
           else "contract" if any(k in text for k in ["contract", "kontrak", "freelance", "project-based"])
           else "part" if any(k in text for k in ["part-time", "paruh waktu"])
           else "full")
@@ -134,7 +144,8 @@ def classify(job: dict) -> dict:
     if foreign and re.search(r"\b(pt|cv|tbk|persero|yayasan)\b", comp, re.I):
         foreign = False
     job["is_it"] = it
-    job["role"] = "MT" if mt else ("AI" if ai else ("SWE" if swe else ("IT" if it else "other")))
+    job["role"] = ("MT" if mt else "DS" if ds else "DA" if da else
+                    "AI" if ai else "SWE" if swe else "IT" if it else "other")
     # clean title: strip em-dash (AI tell) into · at data level, not just render
     if job.get("title"):
         job["title"] = job["title"].replace("—", " · ").replace("–", "-").strip()

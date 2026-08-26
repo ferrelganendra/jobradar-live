@@ -124,15 +124,17 @@ def main() -> None:
     print(f"raw: {len(raw_jobs)} | classified: {len(classified)} | IT: {len(targets)}")
     print(f"DB total: {total} rows | new added this run: {added} | titles fixed: {fixed} | pruned: {pruned}")
 
-    # Telegram: notify only NEW IT + MT jobs in Indonesia (foreign jobs excluded)
+    # Telegram: notify only NEW target jobs in Indonesia (foreign jobs excluded)
     new_it = [j for j in new_jobs
               if (j.get("is_it") or j.get("role") == "MT") and not j.get("is_foreign")]
     if new_it:
         ai = [j for j in new_it if j.get("role") == "AI"]
+        ds = [j for j in new_it if j.get("role") == "DS"]
+        da = [j for j in new_it if j.get("role") == "DA"]
         swe = [j for j in new_it if j.get("role") == "SWE"]
         it = [j for j in new_it if j.get("role") == "IT"]
         mt = [j for j in new_it if j.get("role") == "MT"]
-        header = f"<b>Loker IT baru: {len(new_it)}</b>  (AI {len(ai)} · SWE {len(swe)} · IT {len(it)} · MT {len(mt)})"
+        header = f"<b>Loker target baru: {len(new_it)}</b>  (AI {len(ai)} · DS {len(ds)} · DA {len(da)} · MT {len(mt)} · SWE {len(swe)} · IT {len(it)})"
         lines = [header, ""]
 
         def tag(j):
@@ -158,7 +160,7 @@ def main() -> None:
             d = re.sub(r"(?i)\b(perks? and benefits?|benefits? and perks?|about this role|job description)\b\s*[:.]?", "", d)
             return d[:limit] + ("…" if len(d) > limit else "")
 
-        for group_name, group, icon in (("AI", ai, "🤖"), ("SWE", swe, "💻"), ("IT", it, "🖥"), ("MT", mt, "🎓")):
+        for group_name, group, icon in (("AI", ai, "🤖"), ("DS", ds, "📊"), ("DA", da, "📈"), ("MT", mt, "🎓"), ("SWE", swe, "💻"), ("IT", it, "🖥")):
             if not group:
                 continue
             lines.append(f"<b>{icon} {group_name}</b>")
