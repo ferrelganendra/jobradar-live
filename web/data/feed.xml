@@ -5,65 +5,185 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Sat, 29 Aug 2026 09:36:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 10:17:48 +0000</lastBuildDate>
     <item>
-      <title>AI Expert / Programmer AI</title>
-      <link>https://glints.com/id/opportunities/jobs/ai-expert-programmer-ai/b0616776-86ec-4e39-9315-bec474b6460d</link>
-      <guid isPermaLink="false">95711</guid>
-      <pubDate>Sat, 29 Aug 2026 09:36:52 +0000</pubDate>
-      <description>AI Expert / Programmer AI Bisnishack Jobdesk : - Membuat aplikasi berbasis AI - Maintenance aplikasi-aplikasi AI yang dimiliki Bisnishack - Mempresentasikan kepada klien terkait kebutuhan aplikasi AI (Via zoom / langsung) Requirements : - Diutamakan programmer - Memiliki sifat fleksibel / tidak kaku - Berdomisili di Yogyakarta dan bekerja WFO - Bisa Public Speaking lebih disukai - Bersedia mengiku</description>
+      <title>Senior Software Engineer, Agents</title>
+      <link>https://www.arbeitnow.com/jobs/companies/eye-security/senior-software-engineer-agents-berlin-154430</link>
+      <guid isPermaLink="false">95803</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>&lt;h2&gt;&lt;strong&gt;About Eye Security&lt;/strong&gt;&lt;/h2&gt;&lt;p style="min-height:1.5em"&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Eye Security is an international scale-up providing cyber security with embedded cyber insurance to SMBs in Europe. Our cyber security innovations, state-of-the-art automation and platforms are being built and maintained by our Product and Engineering Teams. Our engineers and product managers co</description>
       <category>Teknologi</category>
-      <job:remote>false</job:remote>
-      <job:salary>Rp
-5.000.000
--
-10.000.000
-</job:salary>
-      <job:location>Kab. Sleman</job:location>
-      <job:company></job:company>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Berlin - hybrid</job:location>
+      <job:company>Eye Security</job:company>
+    </item>
+    <item>
+      <title>Senior Full Stack Developer - B2B platform (Laravel + Nuxt/Vue)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/scholarshipowl/remote-senior-full-stack-developer-b2b-platform-laravel-nuxt-vue-berlin-109213</link>
+      <guid isPermaLink="false">95821</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>&lt;h3&gt;&lt;strong&gt;About ScholarshipOwl&lt;br&gt;&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;ScholarshipOwl is the largest scholarship marketplace in the US, using AI to connect 14 million students who are looking for scholarships with companies that are looking for students. Our mission is to make education financing more accessible and engaging, while giving brands a way to connect with the next generation.&lt;/p&gt;&lt;p&gt;We’re powered by AI t</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote job</job:location>
+      <job:company>ScholarshipOwl</job:company>
+    </item>
+    <item>
+      <title>Systemadministrator (m/w/d) - Automation &amp; Tools</title>
+      <link>https://www.arbeitnow.com/jobs/companies/netzbest-gmbh/remote-systemadministrator-automation-tools-deutschlandweit-27360</link>
+      <guid isPermaLink="false">95822</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>&lt;p class="MsoNormal" style="text-align:justify;"&gt;Wir sind ein inhabergeführtes IT-Dienstleistungsunternehmen aus Berlin und seit über 15 Jahren am Markt. Unser Team betreut die IT-Infrastruktur von mehr als 15.000 Mitarbeitenden in der Pflegebranche an über 2.500 Arbeitsplätzen. Unser Ziel: Die Menschen im Arbeitsalltag sollen sich auf moderne Technologie verlassen können – vom Support bis zum sta</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Homeoffice</job:location>
+      <job:company>netzbest GmbH</job:company>
+    </item>
+    <item>
+      <title>Senior Backend Engineer - Energy Management Platform (all genders)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/gridx-gmbh/remote-senior-backend-engineer-energy-management-platform-all-genders-221794</link>
+      <guid isPermaLink="false">95845</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>&lt;br&gt;&lt;strong&gt;How you can contribute to gridX&lt;/strong&gt;&lt;p&gt;&lt;span style="font-size:14px;"&gt;Distributed energy resources are transforming the global grid, and our cloud platform sits right at the center of it. Every day, our Cloud EMS and core APIs power tens of thousands of connected systems, serving as the foundational infrastructure that engineering teams rely on to build the future of clean energy. I</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote DE; Aachen; Munich</job:location>
+      <job:company>gridX GmbH</job:company>
+    </item>
+    <item>
+      <title>Working Student Market Intelligence (all genders)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/envelio/remote-working-student-market-intelligence-all-genders-324735</link>
+      <guid isPermaLink="false">95850</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>&lt;br&gt;&lt;strong&gt;About Working at envelio&lt;/strong&gt;&lt;p&gt;&lt;p&gt;Too easy is boring! Together, we are on a mission to drive forward the energy transition. We love what we do, and we are unafraid to dive in. We believe in taking ownership of our work and in continuously growing and evolving. In short: own it, love it, grow with it.&lt;/p&gt;&lt;p&gt;We are a humble team of coffee and maté lovers with over 20 nationalities. </description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Cologne / Remote from Germany</job:location>
+      <job:company>Envelio</job:company>
+    </item>
+    <item>
+      <title>Working Student Customer Success (all genders)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/envelio/remote-working-student-customer-success-all-genders-236160</link>
+      <guid isPermaLink="false">95851</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>&lt;br&gt;&lt;strong&gt;About Working at envelio&lt;/strong&gt;&lt;p&gt;&lt;p&gt;Too easy is boring! Together, we are on a mission to drive forward the energy transition. We love what we do, and we are unafraid to dive in. We believe in taking ownership of our work and in continuously growing and evolving. In short: own it, love it, grow with it.&lt;/p&gt;&lt;p&gt;We are a humble team of coffee and maté lovers with over 20 nationalities. </description>
+      <category>Marketing</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Cologne / Remote from Germany</job:location>
+      <job:company>Envelio</job:company>
+    </item>
+    <item>
+      <title>AI-Native Software Entwickler (m/w/d)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/june-gmbh/remote-ai-native-software-entwickler-424302</link>
+      <guid isPermaLink="false">95852</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>&lt;br&gt;&lt;strong&gt;HERAUSFORDERUNG UND PERSPEKTIVE&lt;/strong&gt;&lt;p&gt;&lt;strong&gt;Bei uns lernst du Agentic Coding dort, wo es bereits täglich eingesetzt wird!&lt;br&gt;&lt;/strong&gt;&lt;p&gt;Du hast die ersten eigenen Projekte gebaut. Nicht perfekt, aber echt. Du hast mit Claude Code, Codex oder anderen AI-Tools experimentiert und gemerkt: So wird Softwareentwicklung in Zukunft aussehen.&lt;/p&gt;&lt;p&gt;Während andere Unternehmen noch diskut</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>München + Remote</job:location>
+      <job:company>JUNE GmbH</job:company>
+    </item>
+    <item>
+      <title>Werkstudent:in Projektkoordination Wärmepumpe (m/w/d) - Berlin / Remote</title>
+      <link>https://www.arbeitnow.com/jobs/companies/1komma5grad/werkstudentin-projektkoordination-warmepumpe-berlin-remote-172968</link>
+      <guid isPermaLink="false">95858</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>&lt;br&gt;&lt;strong&gt;1KOMMA5°&lt;/strong&gt;&lt;p&gt;&lt;span style="border:0px solid;margin:0px;color:rgb(32,32,32);font-size:14px;font-style:normal;font-weight:400;text-transform:none;font-family:Inter, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Open Sans', 'system-ui', '-apple-system', 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Berlin</job:location>
+      <job:company>1Komma5Grad</job:company>
+    </item>
+    <item>
+      <title>Praktikant:in Projektkoordination Wärmepumpe (m/w/d) - Berlin / Remote</title>
+      <link>https://www.arbeitnow.com/jobs/companies/1komma5grad/praktikantin-projektkoordination-warmepumpe-berlin-remote-286321</link>
+      <guid isPermaLink="false">95862</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>&lt;br&gt;&lt;strong&gt;1KOMMA5°&lt;/strong&gt;&lt;p&gt;&lt;span style="border:0px solid;margin:0px;color:rgb(32,32,32);font-size:14px;font-style:normal;font-weight:400;text-transform:none;font-family:Inter, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Open Sans', 'system-ui', '-apple-system', 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Berlin</job:location>
+      <job:company>1Komma5Grad</job:company>
+    </item>
+    <item>
+      <title>Automation Engineer (gn) - 40 Std, (hybrid) (München)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/42watt/automation-engineer-gn-40-std-hybrid-munchen-316691</link>
+      <guid isPermaLink="false">95874</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>&lt;br&gt;&lt;strong&gt;Deine Aufgaben&lt;/strong&gt;&lt;p&gt;&lt;ul&gt;&lt;li&gt;Du &lt;strong&gt;baust und betreibst&lt;/strong&gt; unsere n8n-Automationen und verbindest &lt;strong&gt;CRM, Customer-Support-Tools, E-Mail und Kalender&lt;/strong&gt; zu nahtlosen Workflows – von der &lt;strong&gt;KI-gestützten Ticket-Klassifizierung&lt;/strong&gt; über intelligentes &lt;strong&gt;Eskalations-Routing&lt;/strong&gt; bis hin zu automatischen Benachrichtigungen bei kritischen Ereigni</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>München</job:location>
+      <job:company>42Watt</job:company>
     </item>
     <item>
       <title>AI Engineer</title>
-      <link>https://glints.com/id/opportunities/jobs/ai-engineer/79dbe257-0f5e-44be-9d74-d0ad03e18287</link>
-      <guid isPermaLink="false">95715</guid>
-      <pubDate>Sat, 29 Aug 2026 09:36:52 +0000</pubDate>
-      <description>AI Engineer Guepedia 🤖 OPEN INTERNSHIP — AI ENGINEER Program Magang Mahasiswa Apakah kamu tertarik dengan dunia Artificial Intelligence (AI), Machine Learning, Chatbot, Automation, dan teknologi masa depan? Kami membuka kesempatan Magang AI Engineer bagi mahasiswa dan fresh graduate yang ingin mendapatkan pengalaman langsung mengembangkan solusi berbasis AI untuk kebutuhan bisnis dan teknologi. 🎯 </description>
+      <link>https://glints.com/id/opportunities/jobs/ai-engineer/4d69f93c-978a-47d5-8a08-b87062befc5e</link>
+      <guid isPermaLink="false">95969</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>AI Engineer Pt Platinumetrix Global Inovasi Job Description Summary: The AI Engineer is responsible for designing, developing, and deploying AI-driven solutions to support business goals. This role involves working with machine learning models, data pipelines, and AI systems to improve automation, efficiency, and decision-making across the organization. Job Description: Develop, train, and optimiz</description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
-      <job:salary>Rp 1-2jt</job:salary>
-      <job:location>Depok</job:location>
+      <job:salary>Rp 5,7-15jt</job:salary>
+      <job:location>Jakarta Selatan</job:location>
       <job:company></job:company>
     </item>
     <item>
       <title>AI Agent Engineer</title>
-      <link>https://glints.com/id/opportunities/jobs/ai-agent-engineer/34d71396-68fa-4dcc-9089-3845daf7928f</link>
-      <guid isPermaLink="false">95716</guid>
-      <pubDate>Sat, 29 Aug 2026 09:36:52 +0000</pubDate>
-      <description>AI Agent Engineer Jobs at bTaskee Vietnam, Quận Thủ Đức | Glints Jobs COMPANIES Blog Get Glints App English English Vietnamese Sign Up Login For Employers Jobs / Locations / Thành phố Hồ Chí Minh / Quận Thủ Đức / AI Agent Engineer / AI Agent Engineer bTaskee Vietnam Company prefers not to disclose Computer &amp; Software Full-Time · On-site Minimum Bachelor’s Degree 3 - 5 years of experience Posted 4 </description>
+      <link>https://glints.com/id/opportunities/jobs/ai-agent-engineer/dbdb4510-f802-496c-b533-d15c1673c183</link>
+      <guid isPermaLink="false">95970</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>AI Agent Engineer PT Estetika Pro International Kami sedang mencari AI Agent Engineer yang mampu membangun AI Agent custom dari nol dan mengintegrasikannya dengan proses bisnis perusahaan. Anda akan mengembangkan AI Agent yang bukan sekadar chatbot, tetapi mampu memahami workflow bisnis, menggunakan tools/API, mengambil keputusan, dan menjalankan pekerjaan secara otomatis. Kualifikasi: Menguasai P</description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
+      <job:salary>Rp 7-10jt</job:salary>
+      <job:location>Jakarta Barat</job:location>
+      <job:company></job:company>
+    </item>
+    <item>
+      <title>Junior AI Engineer</title>
+      <link>https://glints.com/id/opportunities/jobs/junior-ai-engineer/fe460fc0-9077-4d59-94bb-c3cc5e84c3fc</link>
+      <guid isPermaLink="false">95971</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>Junior AI Engineer WIRATEK SOLUSI ASIA ON-SITE PURWOKERTO We build production AI systems for enterprise clients across many industries in Indonesia, running our own GPU inference infrastructure end to end. We're hiring an AI Engineer to design and build AI architecture (RAG pipelines, agentic systems, and the serving stack behind them) and ship it to production. What You'll Do Build RAG pipelines </description>
+      <category>Teknologi</category>
+      <job:remote>false</job:remote>
+      <job:salary>Rp
+3.500.000
+-
+4.000.000
+</job:salary>
+      <job:location>Kab. Banyumas</job:location>
       <job:company></job:company>
     </item>
     <item>
       <title>Data Scientist</title>
-      <link>https://glints.com/id/opportunities/jobs/data-scientist/a5380a82-0dac-44ef-8d39-1c6627aede24</link>
-      <guid isPermaLink="false">95722</guid>
-      <pubDate>Sat, 29 Aug 2026 09:36:52 +0000</pubDate>
-      <description>Data Scientist Dnalytics Consulting We are looking Energetic Candidate with : Bachelor of Engineering (Computer / Telecommunication), Computer Science / Information Technology, Mathematics, Statistics or equivalent. Have at least 3 year of experience in the appropriate field for this position Mastering Python and R. Understand Machine Learning is a must. Understand the concept of Data Mining well.</description>
+      <link>https://glints.com/id/opportunities/jobs/data-scientist/d68e0ffc-5e69-4510-920d-c63a51b8cdc9</link>
+      <guid isPermaLink="false">95977</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>Data Scientist PT. Nawa Data Solutions What You'll Do Analyze and interpret large datasets to uncover business insights. Build predictive models and machine learning solutions. Perform data cleaning, profiling, feature engineering, and exploratory analysis. Present insights and recommendations to business stakeholders. Collaborate with Business and IT teams to deliver data-driven solutions. Willin</description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
-      <job:salary>Rp 8-12jt</job:salary>
+      <job:salary>Rp 1-1jt</job:salary>
       <job:location>Jakarta Utara</job:location>
       <job:company></job:company>
     </item>
     <item>
       <title>Data Scientist (AI Consulting &amp; Financial Services) Japan (#826)</title>
-      <link>https://glints.com/id/opportunities/jobs/data-scientist-ai-consulting-and-financial-services-japan-826/7028e1bf-8797-4644-a058-75efc34031f3</link>
-      <guid isPermaLink="false">95723</guid>
-      <pubDate>Sat, 29 Aug 2026 09:36:52 +0000</pubDate>
-      <description>Data Scientist (AI Consulting &amp; Financial Services) Japan (#826) Jobs at PT Talenta Eksekutif Asia, Osaka | Glints Jobs COMPANIES Get Glints App Sign Up Login For Employers Jobs / Data Scientist (AI Consulting &amp; Financial Services) Japan (#826) / Data Scientist (AI Consulting &amp; Financial Services) Japan (#826) PT Talenta Eksekutif Asia ¥ 500,000 - 833,000 / Month Computer &amp; Software Full-Time · On</description>
+      <link>https://glints.com/id/opportunities/jobs/data-scientist-ai-consulting-and-financial-services-japan-826/68837bf9-53a9-4aa9-b6ec-d1c027518f0a</link>
+      <guid isPermaLink="false">95978</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>Data Scientist (AI Consulting &amp; Financial Services) Japan (#826) Jobs at PT Talenta Eksekutif Asia, Tokyo | Glints Jobs COMPANIES Get Glints App Sign Up Login For Employers Jobs / Data Scientist (AI Consulting &amp; Financial Services) Japan (#826) / Data Scientist (AI Consulting &amp; Financial Services) Japan (#826) PT Talenta Eksekutif Asia ¥ 500,000 - 833,000 / Month Computer &amp; Software Full-Time · On</description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
       <job:salary></job:salary>
@@ -72,106 +192,314 @@
     </item>
     <item>
       <title>Data Analis</title>
-      <link>https://glints.com/id/opportunities/jobs/data-analis/099f465f-5903-49f2-9c16-1920fc4a3ad4</link>
-      <guid isPermaLink="false">95734</guid>
-      <pubDate>Sat, 29 Aug 2026 09:36:52 +0000</pubDate>
-      <description>Data Analis PT Mitra Elang Bersatu Kualifikasi: Lulusan S1 dari semua jurusan. Pengalaman kerja minimal 1 hingga 3 tahun Memiliki keterampilan dalam Data Visualization, Microsoft Excel, SQL, Microsoft SQL server, basic programmer, database dan data analysis. Tentang Perusahaan PT Mitra Elang Bersatu Outsourcing/Offshoring 11 - 50 karyawan Mitra Elang Bersatu adalah perusahaan swasta Nasional yang </description>
+      <link>https://glints.com/id/opportunities/jobs/data-analis/f30b0753-9889-41fb-9075-20d613e4cb2c</link>
+      <guid isPermaLink="false">95982</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>Data Analis PT Inti Nya Group DESKRIPSI PEKERJAAN: Melakukan pengumpulan data Menyusun dan merapikan data Rekap data secara rutin serta monitoring performa Menganalisis tren penjualan sebagai bahan evaluasi &amp; pengambilan keputusan KUALIFIKASI: Pendidikan Min. D3/S1 di bidang terkait (diutamakan Matematika) Memiliki kemampuan basic administrasi Menguasai Ms Excel (Pivot, Vlookup &amp; Hlookup, sum , if</description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
-      <job:salary>Rp 4-6jt</job:salary>
-      <job:location>Jakarta Barat</job:location>
+      <job:salary>Rp 2,5-3,5jt</job:salary>
+      <job:location>Jakarta Utara</job:location>
       <job:company></job:company>
     </item>
     <item>
       <title>Data Engineer</title>
-      <link>https://glints.com/id/opportunities/jobs/data-engineer/c2e9d225-5c47-4b45-a27b-fef42e695bf3</link>
-      <guid isPermaLink="false">95740</guid>
-      <pubDate>Sat, 29 Aug 2026 09:36:52 +0000</pubDate>
-      <description>Data Engineer PT Sigma Global Teknologi Full requirment Technical : 1. PSQL (postgres SQL) including writing Functions (Mandatory) 2. Basic Linux Shell Scripting (Mandatory) 3. ETL Tools Informatica/Datastage/Airflow etc (Mandatory) 4. Data Analysis/Mining skill to identify the Pattern in Data and investigate the issues (Mandatory) 5. Database Postgres/Greenplum/mySQL knowledge (Advantage) Functio</description>
+      <link>https://glints.com/id/opportunities/jobs/data-engineer/fe8bd692-869f-41f0-8fa9-0760a5919c92</link>
+      <guid isPermaLink="false">95993</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>Data Engineer 24slides 24Slides is a leading presentation design company specializing in high-impact PowerPoint presentations. We are committed to creating a workplace that is diverse, equitable, and inclusive. We believe diversity drives innovation and success, and we strive to build an environment where every identity is valued. At 24Slides, we don't just celebrate differences—we make them centr</description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
-      <job:salary>Rp
-6.000.000
--
-7.700.000
-</job:salary>
-      <job:location>Jakarta Selatan</job:location>
+      <job:salary>Rp 3,5-4,5jt</job:salary>
+      <job:location>Malang</job:location>
       <job:company></job:company>
     </item>
     <item>
       <title>Data Analyst</title>
-      <link>https://glints.com/id/opportunities/jobs/data-analyst/592b7722-8323-4638-a610-d3c1cfc0d4a0</link>
-      <guid isPermaLink="false">95751</guid>
-      <pubDate>Sat, 29 Aug 2026 09:36:52 +0000</pubDate>
-      <description>Data Analyst Jobs at Viettel Cyber Security, Quận Nam Từ Liêm | Glints Jobs COMPANIES Blog Get Glints App English English Vietnamese Sign Up Login For Employers Jobs / Locations / Hà Nội / Quận Nam Từ Liêm / Data Analyst / Data Analyst Viettel Cyber Security ₫ 20,000,000 - 30,000,000 / Month Computer &amp; Software Full-Time · On-site Minimum Bachelor’s Degree 1 - 3 years of experience Posted 10 month</description>
+      <link>https://glints.com/id/opportunities/jobs/data-analyst/eed8c137-5efe-4cc4-b549-08ffdd8d266a</link>
+      <guid isPermaLink="false">96004</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>Data Analyst PT Arkstarindo Artha Makmur Tujuan Jabatan: Mengumpulkan, mengolah, menganalisis, dan menyajikan data menjadi informasi yang akurat untuk mendukung pengambilan keputusan bisnis, meningkatkan efisiensi operasional, serta mengidentifikasi peluang pertumbuhan perusahaan. Tanggung Jawab Utama : Mengumpulkan data dari berbagai sumber seperti ERP, POS, CRM, marketplace, dan database perusah</description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
+      <job:salary>Rp 4,7-5jt</job:salary>
+      <job:location>Kab. Bekasi</job:location>
       <job:company></job:company>
     </item>
     <item>
       <title>Senior Data Analyst</title>
-      <link>https://glints.com/id/opportunities/jobs/senior-data-analyst/fe368217-feae-40c2-9d57-5b70fffa2e65</link>
-      <guid isPermaLink="false">95753</guid>
-      <pubDate>Sat, 29 Aug 2026 09:36:52 +0000</pubDate>
-      <description>Senior Data Analyst Foodizz Senior Data Analyst: Kualifikasi: - Minimal S1 Jurusan Manajemen Keuangan, Akuntansi, atau bidang terkait - Memiliki pengalaman kerja minimal 8 tahun di bidang Data Analyst, Finance Analyst, Accounting, atau posisi terkait - Pengalaman bekerja di Kantor Akuntan Publik (KAP) menjadi nilai tambah - Memiliki kemampuan dalam pengolahan, analisis, dan interpretasi data untuk</description>
+      <link>https://glints.com/id/opportunities/jobs/senior-data-analyst/2d7dd979-522b-44c0-adf6-a758923033f4</link>
+      <guid isPermaLink="false">96006</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>Senior Data Analyst PT. WINOD RITEL INDONESIA Requirements Pendidikan min. S1 Statistika, Matematika, Data Science, Sistem Informasi, Teknik Industri, atau jurusan terkait. Pengalaman min. 3–5 tahun sebagai Data Analyst, Business Analyst, atau posisi serupa. Menguasai SQL untuk data extraction dan data analysis. Mahir menggunakan Microsoft Excel (Advanced), Power BI, Tableau, atau Looker Studio. M</description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
-      <job:salary>Rp 4-5jt</job:salary>
-      <job:location>Bandung</job:location>
+      <job:salary>Rp 7-10jt</job:salary>
+      <job:location>Tangerang</job:location>
       <job:company></job:company>
     </item>
     <item>
       <title>Management Trainee</title>
-      <link>https://glints.com/id/opportunities/jobs/management-trainee/639e1c8c-0dc7-4822-b4dc-83c39bccae6c</link>
-      <guid isPermaLink="false">95770</guid>
-      <pubDate>Sat, 29 Aug 2026 09:36:52 +0000</pubDate>
+      <link>https://glints.com/id/opportunities/jobs/management-trainee/7be02a64-a7e5-499f-853c-c7071776e305</link>
+      <guid isPermaLink="false">96023</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
       <description>Management Trainee Integrity Bali Kriteria: - Pria / Wanita usia min. 21-30 tahun - pendidikan minimal S1 atau sederajat - pengalaman kerja min 1 tahun semua bidang dan memiliki network yang baik - belum pernah memiliki lisensi AAJI/AASI (kecuali Bancassurance) - punya ambisi besar untuk sukses, percaya diri, mau belajar, dan menyukai digital - domisili Denpasar Deskripsi Pekerjaan: - melakukan ed</description>
       <category>Marketing</category>
       <job:remote>false</job:remote>
-      <job:salary>Rp 3-4,5jt</job:salary>
+      <job:salary>Rp 3,5-5jt</job:salary>
       <job:location>Denpasar</job:location>
       <job:company></job:company>
     </item>
     <item>
-      <title>Management Trainee (MT)</title>
-      <link>https://glints.com/id/opportunities/jobs/management-trainee-mt/7033ce14-69ab-4b70-9d17-db00fea13aaf</link>
-      <guid isPermaLink="false">95772</guid>
-      <pubDate>Sat, 29 Aug 2026 09:36:52 +0000</pubDate>
-      <description>Management Trainee (MT) PT Malva Indonesia Kreasi Tentang Posisi Kami membuka kesempatan bagi individu muda yang ambisius, kreatif, analytical, dan memiliki ketertarikan kuat terhadap dunia digital, social media, e-commerce, dan brand untuk bergabung sebagai Management Trainee – Brand &amp; Digital Commerce. Sebagai Management Trainee, Anda akan mendapatkan pengalaman langsung dalam menjalankan dan me</description>
-      <category>Sales</category>
-      <job:remote>false</job:remote>
-      <job:salary>Rp 4,5-5jt</job:salary>
-      <job:location>Kab. Bogor</job:location>
-      <job:company></job:company>
-    </item>
-    <item>
       <title>Venture Management Trainee</title>
-      <link>https://glints.com/id/opportunities/jobs/venture-management-trainee/9b2d6a6d-6a18-4a95-b536-d36d3e741365</link>
-      <guid isPermaLink="false">95773</guid>
-      <pubDate>Sat, 29 Aug 2026 09:36:52 +0000</pubDate>
-      <description>Venture Management Trainee EVOLUTION TEAM (Bekasi) ​🚀 [HIRING] Venture Management Trainee – Bangun Karier &amp; Bisnis di Sini! ​EVOLUTION TEAM adalah Independent Marketing Office berbasis di Jakarta Selatan yang telah bergerak sejak 2014. Fokus utama kami adalah mencetak perencana keuangan andal yang mampu memberikan dampak nyata bagi masyarakat Indonesia. ​Kami percaya bahwa Sales &amp; Communication Sk</description>
+      <link>https://glints.com/id/opportunities/jobs/venture-management-trainee/f7c29b4f-adf0-4906-b0c1-b3bb1e57a2af</link>
+      <guid isPermaLink="false">96025</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>Venture Management Trainee PT Terang Bumi Sejahtera PT Evolution Team berfokus pada layanan perlindungan dan perencanaan keuangan. Dengan mitra PT Prudential Life Assurance, kami menawarkan produk asuransi terbaik di pasar. Kami mencari individu yang ingin berkembang dalam dunia pemasaran dan bisnis dengan fokus pada membangun solusi keuangan. Keberadaan posisi ini bertujuan untuk menambah talenta</description>
       <category>Sales</category>
       <job:remote>false</job:remote>
-      <job:salary>Rp
-6.000.000
--
-10.000.000
-</job:salary>
+      <job:salary>Rp 9-10jt</job:salary>
       <job:location>Jakarta Selatan</job:location>
       <job:company></job:company>
     </item>
     <item>
+      <title>Management Trainee (MT)</title>
+      <link>https://glints.com/id/opportunities/jobs/management-trainee-mt/42d59c82-976d-4728-96e9-13551fc3e851</link>
+      <guid isPermaLink="false">96026</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>Management Trainee (MT) Manna Kampus 🚀 Siap Jadi Future Leader? Management Trainee (MT) adalah program akselerasi karier untuk kamu yang ingin berkembang cepat, belajar langsung di lapangan, dan dipersiapkan menjadi leader di berbagai fungsi operasional perusahaan. Kualifikasi: Pria diutamakan Usia maksimal 35 tahun Pendidikan minimal D3/S1 (Manajemen, Akuntansi, Ekonomi, Komunikasi, Agribisnis, T</description>
+      <category>Teknologi</category>
+      <job:remote>false</job:remote>
+      <job:salary>Rp 2,8-3,5jt</job:salary>
+      <job:location>Kab. Sleman</job:location>
+      <job:company></job:company>
+    </item>
+    <item>
       <title>Account Trainee</title>
-      <link>https://glints.com/id/opportunities/jobs/account-trainee/fb917383-2ce8-4543-8294-80234cc989d2</link>
-      <guid isPermaLink="false">95774</guid>
-      <pubDate>Sat, 29 Aug 2026 09:36:52 +0000</pubDate>
-      <description>Account Trainee Jobs at Kim Marcom, Quận Gò Vấp | Glints Jobs COMPANIES Blog Get Glints App English English Vietnamese Sign Up Login For Employers Jobs / Locations / Thành phố Hồ Chí Minh / Quận Gò Vấp / Account Trainee / Account Trainee Kim Marcom Company prefers not to disclose Business Development &amp; Sales Full-Time · On-site Minimum College Degree Less than a year of experience Posted 8 months </description>
+      <link>https://glints.com/id/opportunities/jobs/account-trainee/069f6e32-1a6c-4404-b22e-e6cd012739f5</link>
+      <guid isPermaLink="false">96027</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>Account Trainee Jobs at Chin Media, Quận Bình Thạnh | Glints Jobs COMPANIES Blog Get Glints App English English Vietnamese Sign Up Login For Employers Jobs / Locations / Thành phố Hồ Chí Minh / Quận Bình Thạnh / Account Trainee / Account Trainee Chin Media ₫ 4,500,000 - 5,000,000 / Month Product Management &amp; Project Management Full-Time · On-site Minimum Bachelor’s Degree Less than a year of exper</description>
+      <category>Marketing</category>
+      <job:remote>false</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company></job:company>
+    </item>
+    <item>
+      <title>FH Technologist (Bali)</title>
+      <link>https://www.jobstreet.co.id/job/93347191</link>
+      <guid isPermaLink="false">96031</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>FH Technologist (Bali) Job in South Denpasar, Bali - Jobstreet Skip to content Jobstreet Open app Sign in Sign in Job search People search Career advice Companies Indonesia Australia Hong Kong Indonesia Malaysia New Zealand Philippines Singapore Thailand English Bahasa English Employer site Sign in Sign in English Open app Sign in Sign in Employer site Job search People search Career advice Compan</description>
+      <category>Marketing</category>
+      <job:remote>false</job:remote>
+      <job:salary></job:salary>
+      <job:location>Jakarta</job:location>
+      <job:company>PT Prodia Occupational Health Institute International</job:company>
+    </item>
+    <item>
+      <title>Staf Marketing (Head Office)</title>
+      <link>https://www.jobstreet.co.id/job/93347195</link>
+      <guid isPermaLink="false">96032</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>Staf Marketing (Head Office) Job in Kemayoran, Jakarta - Jobstreet Skip to content Jobstreet Open app Sign in Sign in Job search People search Career advice Companies Indonesia Australia Hong Kong Indonesia Malaysia New Zealand Philippines Singapore Thailand English Bahasa English Employer site Sign in Sign in English Open app Sign in Sign in Employer site Job search People search Career advice Co</description>
+      <category>Marketing</category>
+      <job:remote>false</job:remote>
+      <job:salary></job:salary>
+      <job:location>Jakarta</job:location>
+      <job:company>PT Prodia Occupational Health Institute International</job:company>
+    </item>
+    <item>
+      <title>QA Engineer Intern</title>
+      <link>https://www.jobstreet.co.id/job/93636003</link>
+      <guid isPermaLink="false">96033</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>QA Engineer Intern Job in Central Java - Jobstreet Skip to content Jobstreet Open app Sign in Sign in Job search People search Career advice Companies Indonesia Australia Hong Kong Indonesia Malaysia New Zealand Philippines Singapore Thailand English Bahasa English Employer site Sign in Sign in English Open app Sign in Sign in Employer site Job search People search Career advice Companies QA Engin</description>
+      <category>Teknologi</category>
+      <job:remote>false</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>PT Alto Network</job:company>
+    </item>
+    <item>
+      <title>Service Supervisor (Bogor Commercial Branch)</title>
+      <link>https://www.jobstreet.co.id/job/93636075</link>
+      <guid isPermaLink="false">96034</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>Service Supervisor (Bogor Commercial Branch) Job in Bogor, West Java - Jobstreet Skip to content Jobstreet Open app Sign in Sign in Job search People search Career advice Companies Indonesia Australia Hong Kong Indonesia Malaysia New Zealand Philippines Singapore Thailand English Bahasa English Employer site Sign in Sign in English Open app Sign in Sign in Employer site Job search People search Ca</description>
       <category>Sales</category>
       <job:remote>false</job:remote>
       <job:salary></job:salary>
       <job:location></job:location>
+      <job:company>PT Rentokil Initial Indonesia</job:company>
+    </item>
+    <item>
+      <title>FIFGROUP - Accounting Senior Administrator</title>
+      <link>https://www.jobstreet.co.id/job/90443576</link>
+      <guid isPermaLink="false">96035</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>FIFGROUP - Accounting Senior Administrator Job in Kebayoran Lama, Jakarta - Jobstreet Skip to content Jobstreet Open app Sign in Sign in Job search People search Career advice Companies Indonesia Australia Hong Kong Indonesia Malaysia New Zealand Philippines Singapore Thailand English Bahasa English Employer site Sign in Sign in English Open app Sign in Sign in Employer site Job search People sear</description>
+      <category>Sales</category>
+      <job:remote>false</job:remote>
+      <job:salary></job:salary>
+      <job:location>Jakarta</job:location>
+      <job:company>FIFGROUP</job:company>
+    </item>
+    <item>
+      <title>FIFGROUP - Senior Administrator</title>
+      <link>https://www.jobstreet.co.id/job/90443580</link>
+      <guid isPermaLink="false">96036</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>FIFGROUP - Senior Administrator Job in Kebayoran Lama, Jakarta - Jobstreet Skip to content Jobstreet Open app Sign in Sign in Job search People search Career advice Companies Indonesia Australia Hong Kong Indonesia Malaysia New Zealand Philippines Singapore Thailand English Bahasa English Employer site Sign in Sign in English Open app Sign in Sign in Employer site Job search People search Career a</description>
+      <category>Marketing</category>
+      <job:remote>false</job:remote>
+      <job:salary></job:salary>
+      <job:location>Jakarta</job:location>
+      <job:company>FIFGROUP</job:company>
+    </item>
+    <item>
+      <title>Back-End Developer</title>
+      <link>https://www.jobstreet.co.id/job/92699345</link>
+      <guid isPermaLink="false">96037</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>Back-End Developer Job in Malang, East Java - Jobstreet Skip to content Jobstreet Open app Sign in Sign in Job search People search Career advice Companies Indonesia Australia Hong Kong Indonesia Malaysia New Zealand Philippines Singapore Thailand English Bahasa English Employer site Sign in Sign in English Open app Sign in Sign in Employer site Job search People search Career advice Companies Bac</description>
+      <category>Teknologi</category>
+      <job:remote>false</job:remote>
+      <job:salary></job:salary>
+      <job:location>Jakarta</job:location>
+      <job:company>CMLabs</job:company>
+    </item>
+    <item>
+      <title>Campus Hiring - UNIVERSITAS LAMPUNG</title>
+      <link>https://www.jobstreet.co.id/job/90443586</link>
+      <guid isPermaLink="false">96038</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>Campus Hiring - UNIVERSITAS LAMPUNG Job in Kebayoran Lama, Jakarta - Jobstreet Skip to content Jobstreet Open app Sign in Sign in Job search People search Career advice Companies Indonesia Australia Hong Kong Indonesia Malaysia New Zealand Philippines Singapore Thailand English Bahasa English Employer site Sign in Sign in English Open app Sign in Sign in Employer site Job search People search Care</description>
+      <category>Marketing</category>
+      <job:remote>false</job:remote>
+      <job:salary></job:salary>
+      <job:location>Jakarta</job:location>
+      <job:company>FIFGROUP</job:company>
+    </item>
+    <item>
+      <title>ENGINERING</title>
+      <link>https://www.jobstreet.co.id/job/93504591</link>
+      <guid isPermaLink="false">96039</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>ENGINERING Job in Denpasar, Bali - Jobstreet Skip to content Jobstreet Open app Sign in Sign in Job search People search Career advice Companies Indonesia Australia Hong Kong Indonesia Malaysia New Zealand Philippines Singapore Thailand English Bahasa English Employer site Sign in Sign in English Open app Sign in Sign in Employer site Job search People search Career advice Companies ENGINERING PT </description>
+      <category>Marketing</category>
+      <job:remote>false</job:remote>
+      <job:salary>Rp2,500,000</job:salary>
+      <job:location></job:location>
+      <job:company>PT CASA LOCA</job:company>
+    </item>
+    <item>
+      <title>Sales TO (Taking Order)</title>
+      <link>https://www.jobstreet.co.id/job/93768232</link>
+      <guid isPermaLink="false">96040</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description>Sales TO (Taking Order) Job in Samarinda, East Kalimantan - Jobstreet Skip to content Jobstreet Open app Sign in Sign in Job search People search Career advice Companies Indonesia Australia Hong Kong Indonesia Malaysia New Zealand Philippines Singapore Thailand English Bahasa English Employer site Sign in Sign in English Open app Sign in Sign in Employer site Job search People search Career advice</description>
+      <category>Sales</category>
+      <job:remote>false</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>PT Atlas Internasional Indonesia</job:company>
+    </item>
+    <item>
+      <title>AI Engineer</title>
+      <link>https://www.linkedin.com/jobs/view/ai-engineer-at-ati-business-group-4431145354</link>
+      <guid isPermaLink="false">96041</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>false</job:remote>
+      <job:salary></job:salary>
+      <job:location>Jakarta, Jakarta, Indonesia</job:location>
+      <job:company>ATI Business Group</job:company>
+    </item>
+    <item>
+      <title>Data Science Analyst (Indonesia)</title>
+      <link>https://www.linkedin.com/jobs/view/data-science-analyst-indonesia-at-thakral-one-4399141326</link>
+      <guid isPermaLink="false">96042</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>false</job:remote>
+      <job:salary></job:salary>
+      <job:location>Jakarta, Indonesia</job:location>
+      <job:company>Thakral One</job:company>
+    </item>
+    <item>
+      <title>Senior Data Analyst</title>
+      <link>https://www.linkedin.com/jobs/view/senior-data-analyst-at-traveloka-4436483803</link>
+      <guid isPermaLink="false">96043</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>false</job:remote>
+      <job:salary></job:salary>
+      <job:location>Jakarta Metropolitan Area</job:location>
+      <job:company>Traveloka</job:company>
+    </item>
+    <item>
+      <title>Member of Technical Staff - Medical Research (Remote)</title>
+      <link>https://www.linkedin.com/jobs/view/member-of-technical-staff-medical-research-remote-at-hire-feed-4460587133</link>
+      <guid isPermaLink="false">96044</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Indonesia</job:location>
+      <job:company>Hire Feed</job:company>
+    </item>
+    <item>
+      <title>Jr. Product &amp; Performance Analyst</title>
+      <link>https://www.linkedin.com/jobs/view/jr-product-performance-analyst-at-ilmuone-data-4371872933</link>
+      <guid isPermaLink="false">96045</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description></description>
+      <category>Data</category>
+      <job:remote>false</job:remote>
+      <job:salary></job:salary>
+      <job:location>Jakarta, Jakarta, Indonesia</job:location>
+      <job:company>ilmuOne Data</job:company>
+    </item>
+    <item>
+      <title>Strategic Hotel Academy (All Over Indonesia)</title>
+      <link>https://www.linkedin.com/jobs/view/strategic-hotel-academy-all-over-indonesia-at-reddoorz-4458953446</link>
+      <guid isPermaLink="false">96047</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>false</job:remote>
+      <job:salary></job:salary>
+      <job:location>Bali, Indonesia</job:location>
+      <job:company>RedDoorz</job:company>
+    </item>
+    <item>
+      <title>Banking Associate Program Relationship Manager Priority</title>
+      <link>https://www.linkedin.com/jobs/view/banking-associate-program-relationship-manager-priority-at-permata-bank-4456091568</link>
+      <guid isPermaLink="false">96048</guid>
+      <pubDate>Sat, 29 Aug 2026 10:17:47 +0000</pubDate>
+      <description></description>
+      <category>Finance</category>
+      <job:remote>false</job:remote>
+      <job:salary></job:salary>
+      <job:location>Greater Medan</job:location>
+      <job:company>Permata Bank</job:company>
+    </item>
+    <item>
+      <title>AI Expert / Programmer AI</title>
+      <link>https://glints.com/id/opportunities/jobs/ai-expert-programmer-ai/b0616776-86ec-4e39-9315-bec474b6460d</link>
+      <guid isPermaLink="false">95711</guid>
+      <pubDate>Sat, 29 Aug 2026 09:36:52 +0000</pubDate>
+      <description>AI Expert / Programmer AI Bisnishack Jobdesk : - Membuat aplikasi berbasis AI - Maintenance aplikasi-aplikasi AI yang dimiliki Bisnishack - Mempresentasikan kepada klien terkait kebutuhan aplikasi AI (Via zoom / langsung) Requirements : - Diutamakan programmer - Memiliki sifat fleksibel / tidak kaku - Berdomisili di Yogyakarta dan bekerja WFO - Bisa Public Speaking lebih disukai - Bersedia mengiku</description>
+      <category>Teknologi</category>
+      <job:remote>false</job:remote>
+      <job:salary>Rp 5-10jt</job:salary>
+      <job:location>Kab. Sleman</job:location>
       <job:company></job:company>
     </item>
     <item>
@@ -185,66 +513,6 @@
       <job:salary></job:salary>
       <job:location>Jakarta</job:location>
       <job:company>PT Ekanuri</job:company>
-    </item>
-    <item>
-      <title>AI Engineer</title>
-      <link>https://www.linkedin.com/jobs/view/ai-engineer-at-ati-business-group-4410564265</link>
-      <guid isPermaLink="false">95778</guid>
-      <pubDate>Sat, 29 Aug 2026 09:36:52 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Central Jakarta, Jakarta, Indonesia</job:location>
-      <job:company>ATI Business Group</job:company>
-    </item>
-    <item>
-      <title>Data Science Analyst (Indonesia)</title>
-      <link>https://www.linkedin.com/jobs/view/data-science-analyst-indonesia-at-thakral-one-4435957710</link>
-      <guid isPermaLink="false">95779</guid>
-      <pubDate>Sat, 29 Aug 2026 09:36:52 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Jakarta Metropolitan Area</job:location>
-      <job:company>Thakral One</job:company>
-    </item>
-    <item>
-      <title>Senior Data Analyst</title>
-      <link>https://www.linkedin.com/jobs/view/senior-data-analyst-at-traveloka-4430963590</link>
-      <guid isPermaLink="false">95780</guid>
-      <pubDate>Sat, 29 Aug 2026 09:36:52 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Jakarta Metropolitan Area</job:location>
-      <job:company>Traveloka</job:company>
-    </item>
-    <item>
-      <title>Jr. Product &amp; Performance Analyst</title>
-      <link>https://www.linkedin.com/jobs/view/jr-product-performance-analyst-at-ilmuone-data-4431623472</link>
-      <guid isPermaLink="false">95781</guid>
-      <pubDate>Sat, 29 Aug 2026 09:36:52 +0000</pubDate>
-      <description></description>
-      <category>Data</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Palmerah, Jakarta, Indonesia</job:location>
-      <job:company>ilmuOne Data</job:company>
-    </item>
-    <item>
-      <title>Strategic Hotel Academy (All Over Indonesia)</title>
-      <link>https://www.linkedin.com/jobs/view/strategic-hotel-academy-all-over-indonesia-at-reddoorz-4458966405</link>
-      <guid isPermaLink="false">95783</guid>
-      <pubDate>Sat, 29 Aug 2026 09:36:52 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Makassar, South Sulawesi, Indonesia</job:location>
-      <job:company>RedDoorz</job:company>
     </item>
     <item>
       <title>Director I, Data Science, Enterprise Data &amp; Data Science</title>
@@ -341,282 +609,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Meta</job:company>
-    </item>
-    <item>
-      <title>Transcription / Subtitling Specialist (Freelance)</title>
-      <link>https://jobicy.com/jobs/142152-transcription-subtitling-specialist-freelance</link>
-      <guid isPermaLink="false">95463</guid>
-      <pubDate>Sat, 29 Aug 2026 08:55:23 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Elevenlabs</job:company>
-    </item>
-    <item>
-      <title>Lifecycle Specialist, Time and Attendance - EMEA</title>
-      <link>https://jobicy.com/jobs/142101-lifecycle-specialist-time-and-attendance-emea</link>
-      <guid isPermaLink="false">95464</guid>
-      <pubDate>Sat, 29 Aug 2026 08:55:23 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Remote</job:company>
-    </item>
-    <item>
-      <title>Senior Account Executive</title>
-      <link>https://jobicy.com/jobs/142136-senior-account-executive-4</link>
-      <guid isPermaLink="false">95465</guid>
-      <pubDate>Sat, 29 Aug 2026 08:55:23 +0000</pubDate>
-      <description></description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Simon Data</job:company>
-    </item>
-    <item>
-      <title>Member of Technical Staff - Medical Research (Remote)</title>
-      <link>https://www.linkedin.com/jobs/view/member-of-technical-staff-medical-research-remote-at-hire-feed-4460574401</link>
-      <guid isPermaLink="false">95533</guid>
-      <pubDate>Sat, 29 Aug 2026 08:55:23 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Indonesia</job:location>
-      <job:company>Hire Feed</job:company>
-    </item>
-    <item>
-      <title>Banking Associate Program Relationship Manager Priority</title>
-      <link>https://www.linkedin.com/jobs/view/banking-associate-program-relationship-manager-priority-at-permata-bank-4456083597</link>
-      <guid isPermaLink="false">95537</guid>
-      <pubDate>Sat, 29 Aug 2026 08:55:23 +0000</pubDate>
-      <description></description>
-      <category>Finance</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Surabaya, East Java, Indonesia</job:location>
-      <job:company>Permata Bank</job:company>
-    </item>
-    <item>
-      <title>Principal Analyst, Data Integration</title>
-      <link>https://jobicy.com/jobs/147852-principal-analyst-data-integration</link>
-      <guid isPermaLink="false">95206</guid>
-      <pubDate>Sat, 29 Aug 2026 08:14:19 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>H1</job:company>
-    </item>
-    <item>
-      <title>Senior Manager, Finance &amp; Strategy</title>
-      <link>https://jobicy.com/jobs/143224-senior-manager-finance-strategy</link>
-      <guid isPermaLink="false">95207</guid>
-      <pubDate>Sat, 29 Aug 2026 08:14:19 +0000</pubDate>
-      <description></description>
-      <category>Finance</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>DoorDash</job:company>
-    </item>
-    <item>
-      <title>Senior Backend Software Engineer (USA Remote)</title>
-      <link>https://jobicy.com/jobs/148325-senior-backend-software-engineer-usa-remote</link>
-      <guid isPermaLink="false">95208</guid>
-      <pubDate>Sat, 29 Aug 2026 08:14:19 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Turnitin, LLC</job:company>
-    </item>
-    <item>
-      <title>Enterprise Solutions Architect - Americas</title>
-      <link>https://jobicy.com/jobs/143124-enterprise-solutions-architect-americas</link>
-      <guid isPermaLink="false">95209</guid>
-      <pubDate>Sat, 29 Aug 2026 08:14:19 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Ashby</job:company>
-    </item>
-    <item>
-      <title>Senior Business Analyst - Health Insurance (Fully Remote)</title>
-      <link>https://jobicy.com/jobs/144774-senior-business-analyst-health-insurance-fully-remote</link>
-      <guid isPermaLink="false">95210</guid>
-      <pubDate>Sat, 29 Aug 2026 08:14:19 +0000</pubDate>
-      <description></description>
-      <category>Data</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>CoverGo</job:company>
-    </item>
-    <item>
-      <title>Legal Tech Customer Success Manager - Texas (JD Required)</title>
-      <link>https://jobicy.com/jobs/149849-legal-tech-customer-success-manager-texas-jd-required</link>
-      <guid isPermaLink="false">95211</guid>
-      <pubDate>Sat, 29 Aug 2026 08:14:19 +0000</pubDate>
-      <description></description>
-      <category>Legal</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>LexisNexis</job:company>
-    </item>
-    <item>
-      <title>Baubarkeitsanalyst:in für Wärmpumpen (w/m/d) - 100% Home Office</title>
-      <link>https://www.arbeitnow.com/jobs/companies/enpal/baubarkeitsanalystin-fur-warmpumpen-100-home-office-berlin-460909</link>
-      <guid isPermaLink="false">94813</guid>
-      <pubDate>Sat, 29 Aug 2026 07:33:03 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamtlösung für dezentrale Energie – von Solaranlage und Batteriespeicher über Wallbox, Smart Meter bis zur Wärmepumpe. Herzstück ist unsere KI-gestützte Plattform &lt;a target="_blank" rel="noopener noreferrer nofollow"</description>
-      <category>HR</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>DE Remote</job:location>
-      <job:company>Enpal</job:company>
-    </item>
-    <item>
-      <title>Teamleiter:in Wärmepumpen (w/m/d) - im Home Office (100% remote)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/enpal/teamleiterin-warmepumpen-im-home-office-100-remote-berlin-490622</link>
-      <guid isPermaLink="false">94814</guid>
-      <pubDate>Sat, 29 Aug 2026 07:33:03 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamtlösung für dezentrale Energie – von Solaranlage und Batteriespeicher über Wallbox, Smart Meter bis zur Wärmepumpe. Herzstück ist unsere KI-gestützte Plattform &lt;a target="_blank" rel="noopener noreferrer nofollow"</description>
-      <category>HR</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>DE Remote</job:location>
-      <job:company>Enpal</job:company>
-    </item>
-    <item>
-      <title>Working Student (f/m/x) Robot Remote Operator</title>
-      <link>https://www.arbeitnow.com/jobs/companies/magazino-gmbh/working-student-robot-remote-operator-munchen-162286</link>
-      <guid isPermaLink="false">94827</guid>
-      <pubDate>Sat, 29 Aug 2026 07:33:03 +0000</pubDate>
-      <description>&lt;br&gt;&lt;strong&gt;Your tasks&lt;/strong&gt;&lt;p&gt;&lt;ul&gt;&lt;li&gt;You monitor and troubleshoot robotic systems remotely, resolving issues as they arise.&lt;/li&gt;&lt;li&gt;&lt;span&gt;You c&lt;span&gt;ommunicate effectively, both internally and with clients, ensuring smooth operations.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;You i&lt;span&gt;dentify patterns in errors and performance, helping improve our robot fleet.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;span&gt;You c&lt;span&gt;ollaborate w</description>
-      <category>Operations</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>München</job:location>
-      <job:company>Magazino GmbH</job:company>
-    </item>
-    <item>
-      <title>Senior iOS Developer (Remote)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/finom/senior-ios-developer-remote-germany-343902</link>
-      <guid isPermaLink="false">94832</guid>
-      <pubDate>Sat, 29 Aug 2026 07:33:03 +0000</pubDate>
-      <description>&lt;div&gt;&lt;strong style="font-size: 16px;"&gt;About Finom&lt;/strong&gt;&lt;/div&gt; &lt;div&gt; &lt;/div&gt; &lt;div&gt;Finom is a European tech startup headquartered in Amsterdam, and we’re on a journey towards revolutionizing the financial landscape for entrepreneurs worldwide. Our mission is to develop an all-in-one financial B2B solution that integrates banking functions, accounting, financial management, and invoicing into a sea</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Germany</job:location>
-      <job:company>Finom</job:company>
-    </item>
-    <item>
-      <title>(Senior) Account Executive (w/m/d) - B2B Saas I Berlin (hybrid)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/packmatic/senior-account-executive-b2b-saas-i-berlin-hybrid-429078</link>
-      <guid isPermaLink="false">94585</guid>
-      <pubDate>Sat, 29 Aug 2026 06:48:21 +0000</pubDate>
-      <description>&lt;div&gt;&lt;em&gt;&lt;strong style="font-size: 16px;"&gt;Wir digitalisieren eine der größten und am stärksten regulierten Industriebranchen Europas.&lt;/strong&gt;&lt;/em&gt;&lt;/div&gt; &lt;div&gt;&lt;em style="font-size: 16px;"&gt;Die Verpackungsindustrie bewegt ein Marktvolumen von mehreren hundert Milliarden Euro und steht durch neue Regulierungen wie &lt;/em&gt;&lt;em&gt;&lt;strong style="font-size: 16px;"&gt;PPWR, EUDR, EPR und CSRD&lt;/strong&gt;&lt;/em&gt;&lt;em sty</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Berlin</job:location>
-      <job:company>Packmatic</job:company>
-    </item>
-    <item>
-      <title>Senior Software Engineer, DevOps</title>
-      <link>https://www.arbeitnow.co.uk/jobs/companies/muckrack/remote-senior-software-engineer-devops-84240</link>
-      <guid isPermaLink="false">94651</guid>
-      <pubDate>Sat, 29 Aug 2026 06:48:21 +0000</pubDate>
-      <description>&lt;div class="content-intro"&gt;&lt;p&gt;Muck Rack is the leading SaaS platform for public relations and communications professionals. Our mission is to enable organizations to build trust, tell their stories, and demonstrate the unique value of earned media. Muck Rack’s AI-powered, comprehensive, and integrated platform streamlines the PR workflow to help businesses generate positive media coverage, monitor</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote (Bulgaria, Ireland</job:location>
-      <job:company>Muckrack</job:company>
-    </item>
-    <item>
-      <title>Managing Director, UK</title>
-      <link>https://www.arbeitnow.co.uk/jobs/companies/everfield/managing-director-uk-london-91361</link>
-      <guid isPermaLink="false">94655</guid>
-      <pubDate>Sat, 29 Aug 2026 06:48:21 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;Location&lt;/strong&gt;: United Kingdom&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;Type:&lt;/strong&gt; Full-time | Hybrid-flexible | Based near one of our portfolio company locations&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;Note&lt;/strong&gt;: This is an ongoing opportunity for future Managing Directors across the Everfield ecosystem. As we continue to grow our portfolio, we are proa</description>
-      <category>Marketing</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>UK - Remote</job:location>
-      <job:company>Everfield</job:company>
-    </item>
-    <item>
-      <title>Donât see your role Apply here</title>
-      <link>https://remoteOK.com/remote-jobs/remote-dont-see-your-role-apply-here-atreides-1137186</link>
-      <guid isPermaLink="false">94717</guid>
-      <pubDate>Sat, 29 Aug 2026 06:48:21 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Denmark, Denmark, Western Australia, Australia</job:location>
-      <job:company>Atreides</job:company>
-    </item>
-    <item>
-      <title>Maintenance Operative</title>
-      <link>https://remoteOK.com/remote-jobs/remote-maintenance-operative-scape-1137208</link>
-      <guid isPermaLink="false">94718</guid>
-      <pubDate>Sat, 29 Aug 2026 06:48:21 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Hammersmith</job:location>
-      <job:company>Scape</job:company>
-    </item>
-    <item>
-      <title>Machine Learning Engineer - Computer Vision (Remote)</title>
-      <link>https://www.linkedin.com/jobs/view/machine-learning-engineer-computer-vision-remote-at-jobs-ai-4460576440</link>
-      <guid isPermaLink="false">94531</guid>
-      <pubDate>Sat, 29 Aug 2026 06:09:01 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Indonesia</job:location>
-      <job:company>Jobs Ai</job:company>
-    </item>
-    <item>
-      <title>EMember of Technical Staff - Enterprise AI (Remote)</title>
-      <link>https://www.linkedin.com/jobs/view/emember-of-technical-staff-enterprise-ai-remote-at-hire-feed-4460573493</link>
-      <guid isPermaLink="false">94532</guid>
-      <pubDate>Sat, 29 Aug 2026 06:09:01 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Indonesia</job:location>
-      <job:company>Hire Feed</job:company>
-    </item>
-    <item>
-      <title>AI Engineer - Generative AI (Remote)</title>
-      <link>https://www.linkedin.com/jobs/view/ai-engineer-generative-ai-remote-at-jobs-ai-4460568625</link>
-      <guid isPermaLink="false">94533</guid>
-      <pubDate>Sat, 29 Aug 2026 06:09:01 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Indonesia</job:location>
-      <job:company>Jobs Ai</job:company>
     </item>
   </channel>
 </rss>
