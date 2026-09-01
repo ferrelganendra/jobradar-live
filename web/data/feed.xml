@@ -5,61 +5,469 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Tue, 01 Sep 2026 07:53:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 08:39:23 +0000</lastBuildDate>
     <item>
-      <title>Manager Rewards Management</title>
-      <link>https://remoteOK.com/remote-jobs/remote-manager-rewards-management-coca-cola-cambodia-beverage-company-ltd-1137227</link>
-      <guid isPermaLink="false">102785</guid>
-      <pubDate>Tue, 01 Sep 2026 07:53:11 +0000</pubDate>
+      <title>Full Stack Product Engineer Intern, Agent Native</title>
+      <link>https://jobicy.com/jobs/152300-full-stack-product-engineer-intern-agent-native</link>
+      <guid isPermaLink="false">103000</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Mactores</job:company>
+    </item>
+    <item>
+      <title>Staff Software Engineer</title>
+      <link>https://jobicy.com/jobs/152299-staff-software-engineer-5</link>
+      <guid isPermaLink="false">103001</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>CodePath</job:company>
+    </item>
+    <item>
+      <title>DevOps Engineer (Intern)</title>
+      <link>https://jobicy.com/jobs/152298-devops-engineer-intern</link>
+      <guid isPermaLink="false">103002</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Mactores</job:company>
+    </item>
+    <item>
+      <title>Senior Product Manager, Learner Platform Experience</title>
+      <link>https://jobicy.com/jobs/152297-senior-product-manager-learner-platform-experience</link>
+      <guid isPermaLink="false">103003</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
       <description></description>
       <category>Lainnya</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
-      <job:location>Phnom Penh</job:location>
-      <job:company>Coca-Cola Cambodia Beverage Company Ltd</job:company>
+      <job:location></job:location>
+      <job:company>CodePath</job:company>
+    </item>
+    <item>
+      <title>Database Migration Engineer</title>
+      <link>https://jobicy.com/jobs/152296-database-migration-engineer</link>
+      <guid isPermaLink="false">103004</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Mactores</job:company>
+    </item>
+    <item>
+      <title>Senior Partnership Manager, Higher Education</title>
+      <link>https://jobicy.com/jobs/152295-senior-partnership-manager-higher-education</link>
+      <guid isPermaLink="false">103005</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Education</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>CodePath</job:company>
+    </item>
+    <item>
+      <title>Data Engineer (Intern)</title>
+      <link>https://jobicy.com/jobs/152294-data-engineer-intern</link>
+      <guid isPermaLink="false">103006</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Mactores</job:company>
+    </item>
+    <item>
+      <title>Senior Security Engineer</title>
+      <link>https://jobicy.com/jobs/152293-senior-security-engineer-3</link>
+      <guid isPermaLink="false">103007</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Karbon</job:company>
+    </item>
+    <item>
+      <title>Senior Manager, Talent &amp; People Operations, Claude Corps</title>
+      <link>https://jobicy.com/jobs/152292-senior-manager-talent-people-operations-claude-corps</link>
+      <guid isPermaLink="false">103008</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>HR</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>CodePath</job:company>
+    </item>
+    <item>
+      <title>Cloud Engineer (Intern)</title>
+      <link>https://jobicy.com/jobs/152291-cloud-engineer-intern</link>
+      <guid isPermaLink="false">103009</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Mactores</job:company>
+    </item>
+    <item>
+      <title>Senior Implementation Specialist</title>
+      <link>https://jobicy.com/jobs/152290-senior-implementation-specialist</link>
+      <guid isPermaLink="false">103010</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Karbon</job:company>
+    </item>
+    <item>
+      <title>Senior Manager of AI Practice, Claude Corps</title>
+      <link>https://jobicy.com/jobs/152289-senior-manager-of-ai-practice-claude-corps</link>
+      <guid isPermaLink="false">103011</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>CodePath</job:company>
+    </item>
+    <item>
+      <title>Channel Partner Manager</title>
+      <link>https://jobicy.com/jobs/152288-channel-partner-manager</link>
+      <guid isPermaLink="false">103012</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Mactores</job:company>
+    </item>
+    <item>
+      <title>Senior Director of Curriculum</title>
+      <link>https://jobicy.com/jobs/152287-senior-director-of-curriculum</link>
+      <guid isPermaLink="false">103013</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Education</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>CodePath</job:company>
+    </item>
+    <item>
+      <title>Business Development Representative</title>
+      <link>https://jobicy.com/jobs/152286-business-development-representative-12</link>
+      <guid isPermaLink="false">103014</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Mactores</job:company>
+    </item>
+    <item>
+      <title>Senior AI Operations Lead</title>
+      <link>https://jobicy.com/jobs/152285-senior-ai-operations-lead</link>
+      <guid isPermaLink="false">103015</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>CodePath</job:company>
+    </item>
+    <item>
+      <title>AWS DevOps Engineer (Senior) - Migration Project (VMware to AWS)</title>
+      <link>https://jobicy.com/jobs/152284-aws-devops-engineer-senior-migration-project-vmware-to-aws</link>
+      <guid isPermaLink="false">103016</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Mactores</job:company>
+    </item>
+    <item>
+      <title>Recruiter, Early Talent Programs - Claude Corps (Contract)</title>
+      <link>https://jobicy.com/jobs/152283-recruiter-early-talent-programs-claude-corps-contract</link>
+      <guid isPermaLink="false">103017</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>HR</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>CodePath</job:company>
+    </item>
+    <item>
+      <title>AWS DevOps Engineer (Senior)</title>
+      <link>https://jobicy.com/jobs/152282-aws-devops-engineer-senior</link>
+      <guid isPermaLink="false">103018</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Mactores</job:company>
+    </item>
+    <item>
+      <title>Mentor, Claude Corps</title>
+      <link>https://jobicy.com/jobs/152281-mentor-claude-corps</link>
+      <guid isPermaLink="false">103019</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>CodePath</job:company>
+    </item>
+    <item>
+      <title>Implementation Specialist</title>
+      <link>https://jobicy.com/jobs/152280-implementation-specialist</link>
+      <guid isPermaLink="false">103020</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Karbon</job:company>
+    </item>
+    <item>
+      <title>Head of Talent Acquisition</title>
+      <link>https://jobicy.com/jobs/152279-head-of-talent-acquisition</link>
+      <guid isPermaLink="false">103021</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>HR</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>CodePath</job:company>
+    </item>
+    <item>
+      <title>AWS DevOps Engineer (Freelancer)</title>
+      <link>https://jobicy.com/jobs/152278-aws-devops-engineer-freelancer</link>
+      <guid isPermaLink="false">103022</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Mactores</job:company>
+    </item>
+    <item>
+      <title>Founding Product Manager, AI Corps</title>
+      <link>https://jobicy.com/jobs/152277-founding-product-manager-ai-corps</link>
+      <guid isPermaLink="false">103023</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>CodePath</job:company>
+    </item>
+    <item>
+      <title>AWS DevOps Engineer (Associate)</title>
+      <link>https://jobicy.com/jobs/152276-aws-devops-engineer-associate</link>
+      <guid isPermaLink="false">103024</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Mactores</job:company>
+    </item>
+    <item>
+      <title>Engineering Project Manager</title>
+      <link>https://jobicy.com/jobs/152275-engineering-project-manager</link>
+      <guid isPermaLink="false">103025</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>CodePath</job:company>
+    </item>
+    <item>
+      <title>AWS Data Engineer (Senior) (Freelancer)</title>
+      <link>https://jobicy.com/jobs/152274-aws-data-engineer-senior-freelancer</link>
+      <guid isPermaLink="false">103026</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Mactores</job:company>
+    </item>
+    <item>
+      <title>AppSec Engineer</title>
+      <link>https://jobicy.com/jobs/152273-appsec-engineer</link>
+      <guid isPermaLink="false">103027</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Karbon</job:company>
+    </item>
+    <item>
+      <title>Senior Accountant</title>
+      <link>https://jobicy.com/jobs/152272-senior-accountant-2</link>
+      <guid isPermaLink="false">103028</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Finance</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Spreedly</job:company>
+    </item>
+    <item>
+      <title>Software Backend Engineer - Senior / Confirmed (Paris or Remote France)</title>
+      <link>https://jobicy.com/jobs/152271-software-backend-engineer-senior-confirmed-paris-or-remote-france</link>
+      <guid isPermaLink="false">103029</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Alma</job:company>
+    </item>
+    <item>
+      <title>Senior Technical Account Manager</title>
+      <link>https://jobicy.com/jobs/149912-senior-technical-account-manager</link>
+      <guid isPermaLink="false">103030</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Trustonic</job:company>
+    </item>
+    <item>
+      <title>Power &amp; Energy Project Manager</title>
+      <link>https://jobicy.com/jobs/149905-power-energy-project-manager</link>
+      <guid isPermaLink="false">103031</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>WSP</job:company>
+    </item>
+    <item>
+      <title>Electrical Engineer</title>
+      <link>https://jobicy.com/jobs/149908-electrical-engineer-2</link>
+      <guid isPermaLink="false">103032</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Engineering</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>ManTech</job:company>
+    </item>
+    <item>
+      <title>Systems Analyst</title>
+      <link>https://jobicy.com/jobs/149907-systems-analyst</link>
+      <guid isPermaLink="false">103033</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Data</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>ManTech</job:company>
+    </item>
+    <item>
+      <title>Area Schedule Lead, Leased Data Centers</title>
+      <link>https://jobicy.com/jobs/149911-area-schedule-lead-leased-data-centers-2</link>
+      <guid isPermaLink="false">103034</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Meta</job:company>
     </item>
     <item>
       <title>AI Engineer</title>
-      <link>https://glints.com/id/opportunities/jobs/ai-engineer/4d69f93c-978a-47d5-8a08-b87062befc5e</link>
-      <guid isPermaLink="false">102792</guid>
-      <pubDate>Tue, 01 Sep 2026 07:53:11 +0000</pubDate>
-      <description>AI Engineer Pt Platinumetrix Global Inovasi Job Description Summary: The AI Engineer is responsible for designing, developing, and deploying AI-driven solutions to support business goals. This role involves working with machine learning models, data pipelines, and AI systems to improve automation, efficiency, and decision-making across the organization. Job Description: Develop, train, and optimiz</description>
+      <link>https://glints.com/id/opportunities/jobs/ai-engineer/79dbe257-0f5e-44be-9d74-d0ad03e18287</link>
+      <guid isPermaLink="false">103041</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description>AI Engineer Guepedia 🤖 OPEN INTERNSHIP — AI ENGINEER Program Magang Mahasiswa Apakah kamu tertarik dengan dunia Artificial Intelligence (AI), Machine Learning, Chatbot, Automation, dan teknologi masa depan? Kami membuka kesempatan Magang AI Engineer bagi mahasiswa dan fresh graduate yang ingin mendapatkan pengalaman langsung mengembangkan solusi berbasis AI untuk kebutuhan bisnis dan teknologi. 🎯 </description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
-      <job:salary>Rp 8-12jt</job:salary>
-      <job:location>Jakarta Selatan</job:location>
+      <job:salary>Rp 1-2jt</job:salary>
+      <job:location>Depok</job:location>
       <job:company></job:company>
     </item>
     <item>
       <title>AI Agent Engineer</title>
-      <link>https://glints.com/id/opportunities/jobs/ai-agent-engineer/34d71396-68fa-4dcc-9089-3845daf7928f</link>
-      <guid isPermaLink="false">102793</guid>
-      <pubDate>Tue, 01 Sep 2026 07:53:11 +0000</pubDate>
-      <description>AI Agent Engineer Jobs at bTaskee Vietnam, Quận Thủ Đức | Glints Jobs COMPANIES Blog Get Glints App English English Vietnamese Sign Up Login For Employers Jobs / Locations / Thành phố Hồ Chí Minh / Quận Thủ Đức / AI Agent Engineer / AI Agent Engineer bTaskee Vietnam Company prefers not to disclose Computer &amp; Software Full-Time · On-site Minimum Bachelor’s Degree 3 - 5 years of experience Posted 7 </description>
+      <link>https://glints.com/id/opportunities/jobs/ai-agent-engineer/dbdb4510-f802-496c-b533-d15c1673c183</link>
+      <guid isPermaLink="false">103042</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description>AI Agent Engineer PT Estetika Pro International Kami sedang mencari AI Agent Engineer yang mampu membangun AI Agent custom dari nol dan mengintegrasikannya dengan proses bisnis perusahaan. Anda akan mengembangkan AI Agent yang bukan sekadar chatbot, tetapi mampu memahami workflow bisnis, menggunakan tools/API, mengambil keputusan, dan menjalankan pekerjaan secara otomatis. Kualifikasi: Menguasai P</description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
+      <job:salary>Rp 7-10jt</job:salary>
+      <job:location>Jakarta Barat</job:location>
       <job:company></job:company>
     </item>
     <item>
       <title>Data Scientist</title>
-      <link>https://glints.com/id/opportunities/jobs/data-scientist/a5380a82-0dac-44ef-8d39-1c6627aede24</link>
-      <guid isPermaLink="false">102797</guid>
-      <pubDate>Tue, 01 Sep 2026 07:53:11 +0000</pubDate>
-      <description>Data Scientist Dnalytics Consulting We are looking Energetic Candidate with : Bachelor of Engineering (Computer / Telecommunication), Computer Science / Information Technology, Mathematics, Statistics or equivalent. Have at least 3 year of experience in the appropriate field for this position Mastering Python and R. Understand Machine Learning is a must. Understand the concept of Data Mining well.</description>
+      <link>https://glints.com/id/opportunities/jobs/data-scientist/d68e0ffc-5e69-4510-920d-c63a51b8cdc9</link>
+      <guid isPermaLink="false">103046</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description>Data Scientist PT. Nawa Data Solutions What You'll Do Analyze and interpret large datasets to uncover business insights. Build predictive models and machine learning solutions. Perform data cleaning, profiling, feature engineering, and exploratory analysis. Present insights and recommendations to business stakeholders. Collaborate with Business and IT teams to deliver data-driven solutions. Willin</description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
-      <job:salary>Rp 8-12jt</job:salary>
+      <job:salary>Rp 1-1jt</job:salary>
       <job:location>Jakarta Utara</job:location>
       <job:company></job:company>
     </item>
     <item>
       <title>Data Scientist (AI Consulting &amp; Financial Services) Japan (#826)</title>
-      <link>https://glints.com/id/opportunities/jobs/data-scientist-ai-consulting-and-financial-services-japan-826/7028e1bf-8797-4644-a058-75efc34031f3</link>
-      <guid isPermaLink="false">102798</guid>
-      <pubDate>Tue, 01 Sep 2026 07:53:11 +0000</pubDate>
-      <description>Data Scientist (AI Consulting &amp; Financial Services) Japan (#826) Jobs at PT Talenta Eksekutif Asia, Osaka | Glints Jobs COMPANIES Get Glints App Sign Up Login For Employers Jobs / Data Scientist (AI Consulting &amp; Financial Services) Japan (#826) / Data Scientist (AI Consulting &amp; Financial Services) Japan (#826) PT Talenta Eksekutif Asia ¥ 500,000 - 833,000 / Month Computer &amp; Software Full-Time · On</description>
+      <link>https://glints.com/id/opportunities/jobs/data-scientist-ai-consulting-and-financial-services-japan-826/68837bf9-53a9-4aa9-b6ec-d1c027518f0a</link>
+      <guid isPermaLink="false">103047</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description>Data Scientist (AI Consulting &amp; Financial Services) Japan (#826) Jobs at PT Talenta Eksekutif Asia, Tokyo | Glints Jobs COMPANIES Get Glints App Sign Up Login For Employers Jobs / Data Scientist (AI Consulting &amp; Financial Services) Japan (#826) / Data Scientist (AI Consulting &amp; Financial Services) Japan (#826) PT Talenta Eksekutif Asia ¥ 500,000 - 833,000 / Month Computer &amp; Software Full-Time · On</description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
       <job:salary></job:salary>
@@ -68,22 +476,22 @@
     </item>
     <item>
       <title>Data Analis</title>
-      <link>https://glints.com/id/opportunities/jobs/data-analis/5e8d2de5-7400-4306-b1e1-7acd3345d9ee</link>
-      <guid isPermaLink="false">102819</guid>
-      <pubDate>Tue, 01 Sep 2026 07:53:11 +0000</pubDate>
-      <description>Data Analis PT Selaras Makmur Sejati PT Selaras Makmur Sejati adalah perusahaan yang berdiri sejak tahun 2005 di Jakarta Utara, tepatnya di Pantai Indah Kapuk (PIK). Perusahaan kami merupakan importir aksesoris komputer, aksesoris gadget serta produk fashion yang telah terbukti kualitasnya dan memiliki reputasi yang baik di pasar. Kami selalu berkomitmen untuk memberikan layanan terbaik kepada pel</description>
+      <link>https://glints.com/id/opportunities/jobs/data-analis/099f465f-5903-49f2-9c16-1920fc4a3ad4</link>
+      <guid isPermaLink="false">103060</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description>Data Analis PT Mitra Elang Bersatu Kualifikasi: Lulusan S1 dari semua jurusan. Pengalaman kerja minimal 1 hingga 3 tahun Memiliki keterampilan dalam Data Visualization, Microsoft Excel, SQL, Microsoft SQL server, basic programmer, database dan data analysis. Tentang Perusahaan PT Mitra Elang Bersatu Outsourcing/Offshoring 11 - 50 karyawan Mitra Elang Bersatu adalah perusahaan swasta Nasional yang </description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
-      <job:salary>Rp 9-11jt</job:salary>
-      <job:location>Jakarta Utara</job:location>
+      <job:salary>Rp 4-6jt</job:salary>
+      <job:location>Jakarta Barat</job:location>
       <job:company></job:company>
     </item>
     <item>
       <title>Data Engineer</title>
-      <link>https://glints.com/id/opportunities/jobs/data-engineer/946d1884-90ba-4db9-9cba-4c2129c20b79</link>
-      <guid isPermaLink="false">102820</guid>
-      <pubDate>Tue, 01 Sep 2026 07:53:11 +0000</pubDate>
-      <description>Data Engineer Nodewave Indonesia Data Engineer As a Data Engineer, you will transform complex datasets into meaningful insights to drive data-driven decisions across HR, Finance, and Operations. You’ll work closely with AI Engineers, Data Scientist, and stakeholders to develop models, dashboards, and predictive analytics systems. Core Responsibilities: Design and maintain scalable ETL pipelines to</description>
+      <link>https://glints.com/id/opportunities/jobs/data-engineer/bfb850d3-9bf4-483f-8b6d-901aafa65c61</link>
+      <guid isPermaLink="false">103066</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description>Data Engineer PT NUSA CITRA KELOLA DATA ENGINEER Durasi kontrak: 6 Bulan Scope of Work &amp; Requirements Resource yang dibutuhkan akan bertugas untuk membantu dan mempercepat proses migrasi data serta memastikan job migration berjalan dengan lancar. Fokus pekerjaan meliputi: Collection Migration to EDP: Melakukan validasi dan re-write script dari On-Premise ke EDP. Secara bertahap memastikan transisi</description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
       <job:salary>Rp 7-9jt</job:salary>
@@ -91,11 +499,11 @@
       <job:company></job:company>
     </item>
     <item>
-      <title>Data Analyst</title>
-      <link>https://glints.com/id/opportunities/jobs/data-analyst/592b7722-8323-4638-a610-d3c1cfc0d4a0</link>
-      <guid isPermaLink="false">102829</guid>
-      <pubDate>Tue, 01 Sep 2026 07:53:11 +0000</pubDate>
-      <description>Data Analyst Jobs at Viettel Cyber Security, Quận Nam Từ Liêm | Glints Jobs COMPANIES Blog Get Glints App English English Vietnamese Sign Up Login For Employers Jobs / Locations / Hà Nội / Quận Nam Từ Liêm / Data Analyst / Data Analyst Viettel Cyber Security ₫ 20,000,000 - 30,000,000 / Month Computer &amp; Software Full-Time · On-site Minimum Bachelor’s Degree 1 - 3 years of experience Posted 10 month</description>
+      <title>DATA ANALYST</title>
+      <link>https://glints.com/id/opportunities/jobs/data-analyst/a404132e-ae9a-496f-ac7b-44935f080f29</link>
+      <guid isPermaLink="false">103076</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description>DATA ANALYST Jobs at MH Solution, Quận Cầu Giấy | Glints Jobs COMPANIES Blog Get Glints App English English Vietnamese Sign Up Login For Employers Jobs / Locations / Hà Nội / Quận Cầu Giấy / DATA ANALYST / DATA ANALYST MH Solution ₫ 10,000,000 - 20,000,000 / Month Computer &amp; Software Full-Time · On-site Minimum Bachelor’s Degree 1 - 3 years of experience Posted 4 months ago Updated 10 days ago APP</description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
       <job:salary></job:salary>
@@ -103,512 +511,106 @@
       <job:company></job:company>
     </item>
     <item>
-      <title>Management Trainee</title>
-      <link>https://glints.com/id/opportunities/jobs/management-trainee/d13ccd25-a28c-49f1-8fa8-7e4e776c0562</link>
-      <guid isPermaLink="false">102842</guid>
-      <pubDate>Tue, 01 Sep 2026 07:53:11 +0000</pubDate>
-      <description>Management Trainee PT. Upindo Mitra Sejati PT. Upindo Mitra Sejati adalah perusahaan yang bergerak di bidang jasa laundry dan dry cleaning yang telah berkembang pesat di Jakarta Barat. Kami mencari individu yang dinamis dan berkomitmen untuk bergabung dengan tim kami dan turut serta dalam pertumbuhan bisnis kami. Posisi ini ditawarkan sebagai bagian dari program pengembangan karier yang bertujuan </description>
-      <category>Marketing</category>
+      <title>Data Analyst (SBY)</title>
+      <link>https://glints.com/id/opportunities/jobs/data-analyst-sby/0a5fbba8-2264-4724-aecf-201319427f4b</link>
+      <guid isPermaLink="false">103077</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description>Data Analyst (SBY) Pt Kreator Solusi Informasi PENEMPATAN : Surabaya Deskripsi Pekerjaan Bertanggung jawab merancang, membangun, dan memelihara infrastruktur data yang andal untuk mendukung kebutuhan bisnis dan analitik. Termasuk di dalamnya pembuatan pipeline ETL/ELT, integrasi data dari berbagai sumber, optimasi performa sistem data, serta kolaborasi dengan tim data analytics dan engineering. Tu</description>
+      <category>Teknologi</category>
       <job:remote>false</job:remote>
-      <job:salary>Rp 7-7,5jt</job:salary>
-      <job:location>Jakarta Barat</job:location>
+      <job:salary>Rp
+6.000.000
+-
+8.000.000
+</job:salary>
+      <job:location>Surabaya</job:location>
       <job:company></job:company>
     </item>
     <item>
-      <title>Management Trainee (MT)</title>
-      <link>https://glints.com/id/opportunities/jobs/management-trainee-mt/7033ce14-69ab-4b70-9d17-db00fea13aaf</link>
-      <guid isPermaLink="false">102844</guid>
-      <pubDate>Tue, 01 Sep 2026 07:53:11 +0000</pubDate>
-      <description>Management Trainee (MT) PT Malva Indonesia Kreasi Tentang Posisi Kami membuka kesempatan bagi individu muda yang ambisius, kreatif, analytical, dan memiliki ketertarikan kuat terhadap dunia digital, social media, e-commerce, dan brand untuk bergabung sebagai Management Trainee – Brand &amp; Digital Commerce. Sebagai Management Trainee, Anda akan mendapatkan pengalaman langsung dalam menjalankan dan me</description>
-      <category>Sales</category>
+      <title>Management Trainee</title>
+      <link>https://glints.com/id/opportunities/jobs/management-trainee/91305f17-0158-4c83-ad07-219356c5783c</link>
+      <guid isPermaLink="false">103089</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description>Management Trainee PT. Cemerlang Kurnia Alam Pria / Wanita Pengalaman min 2 tahun di bidang yang sama Memiliki skill komunikasi yang baik Berjiwa Leadership dan Solving Problem yang baik Mampu bekerja di bawah Tekanan Bersedia untuk penempatan di Luar Kota ( Bogor) Tentang Perusahaan PT. Cemerlang Kurnia Alam Warehousing 201 - 500 karyawan Alamat kantor Jl. Pulau Pamagaran Komplek Pergudangan Soli</description>
+      <category>Teknologi</category>
       <job:remote>false</job:remote>
-      <job:salary>Rp 4,5-5jt</job:salary>
+      <job:salary>Rp 3jt</job:salary>
       <job:location>Kab. Bogor</job:location>
       <job:company></job:company>
     </item>
     <item>
       <title>Venture Management Trainee</title>
-      <link>https://glints.com/id/opportunities/jobs/venture-management-trainee/9b2d6a6d-6a18-4a95-b536-d36d3e741365</link>
-      <guid isPermaLink="false">102845</guid>
-      <pubDate>Tue, 01 Sep 2026 07:53:11 +0000</pubDate>
-      <description>Venture Management Trainee EVOLUTION TEAM (Bekasi) ​🚀 [HIRING] Venture Management Trainee – Bangun Karier &amp; Bisnis di Sini! ​EVOLUTION TEAM adalah Independent Marketing Office berbasis di Jakarta Selatan yang telah bergerak sejak 2014. Fokus utama kami adalah mencetak perencana keuangan andal yang mampu memberikan dampak nyata bagi masyarakat Indonesia. ​Kami percaya bahwa Sales &amp; Communication Sk</description>
+      <link>https://glints.com/id/opportunities/jobs/venture-management-trainee/f7c29b4f-adf0-4906-b0c1-b3bb1e57a2af</link>
+      <guid isPermaLink="false">103091</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description>Venture Management Trainee PT Terang Bumi Sejahtera PT Evolution Team berfokus pada layanan perlindungan dan perencanaan keuangan. Dengan mitra PT Prudential Life Assurance, kami menawarkan produk asuransi terbaik di pasar. Kami mencari individu yang ingin berkembang dalam dunia pemasaran dan bisnis dengan fokus pada membangun solusi keuangan. Keberadaan posisi ini bertujuan untuk menambah talenta</description>
       <category>Sales</category>
       <job:remote>false</job:remote>
-      <job:salary>Rp
-6.000.000
--
-10.000.000
-</job:salary>
+      <job:salary>Rp 9-10jt</job:salary>
       <job:location>Jakarta Selatan</job:location>
       <job:company></job:company>
     </item>
     <item>
+      <title>Management Trainee (MT)</title>
+      <link>https://glints.com/id/opportunities/jobs/management-trainee-mt/42d59c82-976d-4728-96e9-13551fc3e851</link>
+      <guid isPermaLink="false">103092</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description>Management Trainee (MT) Manna Kampus 🚀 Siap Jadi Future Leader? Management Trainee (MT) adalah program akselerasi karier untuk kamu yang ingin berkembang cepat, belajar langsung di lapangan, dan dipersiapkan menjadi leader di berbagai fungsi operasional perusahaan. Kualifikasi: Pria diutamakan Usia maksimal 35 tahun Pendidikan minimal D3/S1 (Manajemen, Akuntansi, Ekonomi, Komunikasi, Agribisnis, T</description>
+      <category>Teknologi</category>
+      <job:remote>false</job:remote>
+      <job:salary>Rp
+3.000.000
+</job:salary>
+      <job:location>Kab. Sleman</job:location>
+      <job:company></job:company>
+    </item>
+    <item>
       <title>Account Trainee</title>
-      <link>https://glints.com/id/opportunities/jobs/account-trainee/069f6e32-1a6c-4404-b22e-e6cd012739f5</link>
-      <guid isPermaLink="false">102846</guid>
-      <pubDate>Tue, 01 Sep 2026 07:53:11 +0000</pubDate>
-      <description>Account Trainee Jobs at Chin Media, Quận Bình Thạnh | Glints Jobs COMPANIES Blog Get Glints App English English Vietnamese Sign Up Login For Employers Jobs / Locations / Thành phố Hồ Chí Minh / Quận Bình Thạnh / Account Trainee / Account Trainee Chin Media ₫ 4,500,000 - 5,000,000 / Month Product Management &amp; Project Management Full-Time · On-site Minimum Bachelor’s Degree Less than a year of exper</description>
-      <category>Marketing</category>
+      <link>https://glints.com/id/opportunities/jobs/account-trainee/fb917383-2ce8-4543-8294-80234cc989d2</link>
+      <guid isPermaLink="false">103093</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
+      <description>Account Trainee Jobs at Kim Marcom, Quận Gò Vấp | Glints Jobs COMPANIES Blog Get Glints App English English Vietnamese Sign Up Login For Employers Jobs / Locations / Thành phố Hồ Chí Minh / Quận Gò Vấp / Account Trainee / Account Trainee Kim Marcom Company prefers not to disclose Business Development &amp; Sales Full-Time · On-site Minimum College Degree Less than a year of experience Posted 8 months </description>
+      <category>Sales</category>
       <job:remote>false</job:remote>
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company></job:company>
     </item>
     <item>
-      <title>AI Engineer</title>
-      <link>https://www.linkedin.com/jobs/view/ai-engineer-at-ati-business-group-4431145354</link>
-      <guid isPermaLink="false">102848</guid>
-      <pubDate>Tue, 01 Sep 2026 07:53:11 +0000</pubDate>
+      <title>Staff Engineer, Machine Learning</title>
+      <link>https://www.linkedin.com/jobs/view/staff-engineer-machine-learning-at-actai-4460252175</link>
+      <guid isPermaLink="false">103098</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
       <description></description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
       <job:salary></job:salary>
-      <job:location>Jakarta, Jakarta, Indonesia</job:location>
-      <job:company>ATI Business Group</job:company>
+      <job:location>Indonesia</job:location>
+      <job:company>ActAI</job:company>
     </item>
     <item>
-      <title>Data Science Analyst (Indonesia)</title>
-      <link>https://www.linkedin.com/jobs/view/data-science-analyst-indonesia-at-thakral-one-4399141326</link>
-      <guid isPermaLink="false">102849</guid>
-      <pubDate>Tue, 01 Sep 2026 07:53:11 +0000</pubDate>
+      <title>Lead Engineer, Machine Learning</title>
+      <link>https://www.linkedin.com/jobs/view/lead-engineer-machine-learning-at-actai-4460234820</link>
+      <guid isPermaLink="false">103099</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
       <description></description>
       <category>Teknologi</category>
       <job:remote>false</job:remote>
       <job:salary></job:salary>
-      <job:location>Jakarta, Indonesia</job:location>
-      <job:company>Thakral One</job:company>
+      <job:location>Indonesia</job:location>
+      <job:company>ActAI</job:company>
     </item>
     <item>
-      <title>Strategic Hotel Academy (All Over Indonesia)</title>
-      <link>https://www.linkedin.com/jobs/view/strategic-hotel-academy-all-over-indonesia-at-reddoorz-4458969193</link>
-      <guid isPermaLink="false">102850</guid>
-      <pubDate>Tue, 01 Sep 2026 07:53:11 +0000</pubDate>
+      <title>Python Engineer (Remote)</title>
+      <link>https://www.linkedin.com/jobs/view/python-engineer-remote-at-hired-4461543863</link>
+      <guid isPermaLink="false">103100</guid>
+      <pubDate>Tue, 01 Sep 2026 08:39:22 +0000</pubDate>
       <description></description>
-      <category>Lainnya</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Kota Medan, North Sumatra, Indonesia</job:location>
-      <job:company>RedDoorz</job:company>
-    </item>
-    <item>
-      <title>Banking Associate Program Relationship Manager Priority</title>
-      <link>https://www.linkedin.com/jobs/view/banking-associate-program-relationship-manager-priority-at-permata-bank-4456091568</link>
-      <guid isPermaLink="false">102851</guid>
-      <pubDate>Tue, 01 Sep 2026 07:53:11 +0000</pubDate>
-      <description></description>
-      <category>Finance</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Greater Medan</job:location>
-      <job:company>Permata Bank</job:company>
-    </item>
-    <item>
-      <title>Recruitment Sourcer</title>
-      <link>https://www.arbeitnow.com/jobs/companies/scorewarrior/remote-recruitment-sourcer-385646</link>
-      <guid isPermaLink="false">102372</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;Scorewarrior is a top mobile games studio based in Cyprus. We hire A-players for small, highly productive teams, so our hiring requirements are very high. To increase the recruitment team’s delivery we are adding a sourcer to work with each recruiter on gaming and technical roles.&lt;br /&gt;&lt;br /&gt;We are seeking a highly effective &lt;strong&gt;Contract Recruitment Sourcer&lt;/strong&gt;</description>
-      <category>HR</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Scorewarrior</job:company>
-    </item>
-    <item>
-      <title>Senior Talent Acquisition Partner - Technology (Data, ML &amp; AI)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/the-rec-hub/senior-talent-acquisition-partner-technology-data-ml-ai-berlin-231555</link>
-      <guid isPermaLink="false">102374</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;🚀 Senior Talent Acquisition Partner – Technology (Data, ML &amp; AI)&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;📍 Remote/Hybrid – Germany (EU Time Zone)&lt;br /&gt;📄 Fixed Term Contract – 6 months, with possible extensions&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;We're looking for an experienced Senior Talent Acquisition Partner to support one of Europe</description>
       <category>Teknologi</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
-      <job:location>Germany - Remote</job:location>
-      <job:company>The Rec Hub</job:company>
-    </item>
-    <item>
-      <title>Language Lead - French (Contract)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/cartesia/remote-language-lead-french-contract-94123</link>
-      <guid isPermaLink="false">102384</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;h1&gt;&lt;strong&gt;About Cartesia&lt;/strong&gt;&lt;/h1&gt;&lt;p style="min-height:1.5em"&gt;Our mission is to architect AI that learns from and interacts with the world like humans do.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;We're pioneering the model architectures that will make this possible. Our founding team met as PhDs at the Stanford AI Lab, where we invented State Space Models or SSMs, a new primitive for training efficien</description>
-      <category>Finance</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Cartesia</job:company>
-    </item>
-    <item>
-      <title>Language Lead - Japanese (Contract)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/cartesia/remote-language-lead-japanese-contract-350770</link>
-      <guid isPermaLink="false">102385</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;h1&gt;&lt;strong&gt;About Cartesia&lt;/strong&gt;&lt;/h1&gt;&lt;p style="min-height:1.5em"&gt;Our mission is to architect AI that learns from and interacts with the world like humans do.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;We're pioneering the model architectures that will make this possible. Our founding team met as PhDs at the Stanford AI Lab, where we invented State Space Models or SSMs, a new primitive for training efficien</description>
-      <category>Finance</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Cartesia</job:company>
-    </item>
-    <item>
-      <title>Language Lead - Hindi (Contract)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/cartesia/remote-language-lead-hindi-contract-6988</link>
-      <guid isPermaLink="false">102386</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;h1&gt;&lt;strong&gt;About Cartesia&lt;/strong&gt;&lt;/h1&gt;&lt;p style="min-height:1.5em"&gt;Our mission is to architect AI that learns from and interacts with the world like humans do.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;We're pioneering the model architectures that will make this possible. Our founding team met as PhDs at the Stanford AI Lab, where we invented State Space Models or SSMs, a new primitive for training efficien</description>
-      <category>Finance</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Cartesia</job:company>
-    </item>
-    <item>
-      <title>Language Lead - English (Contract)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/cartesia/remote-language-lead-english-contract-488911</link>
-      <guid isPermaLink="false">102387</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;h1&gt;&lt;strong&gt;About Cartesia&lt;/strong&gt;&lt;/h1&gt;&lt;p style="min-height:1.5em"&gt;Our mission is to architect AI that learns from and interacts with the world like humans do.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;We're pioneering the model architectures that will make this possible. Our founding team met as PhDs at the Stanford AI Lab, where we invented State Space Models or SSMs, a new primitive for training efficien</description>
-      <category>Finance</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Cartesia</job:company>
-    </item>
-    <item>
-      <title>Initiative Application</title>
-      <link>https://www.arbeitnow.com/jobs/companies/certa/remote-initiative-application-448178</link>
-      <guid isPermaLink="false">102388</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;Certa is the AI-first third-party operating system. Enterprises, from the Fortune 500 to fast-growing startups, use our no-code platform to onboard, assess, and monitor their vendors, suppliers, and partners across risk, compliance, and ESG. We have processed over 10 million entities for 100,000+ users across 120+ countries, and are backed by Fin Capital, Vertex Venture</description>
-      <category>Operations</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Certa</job:company>
-    </item>
-    <item>
-      <title>Knit - Research Manager</title>
-      <link>https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-knit-research-manager-498582</link>
-      <guid isPermaLink="false">102396</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;&lt;a target="_blank" rel="noopener noreferrer nofollow" href="https://goknit.com/"&gt;&lt;strong&gt;&lt;u&gt;Knit&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt; is the AI-native consumer research platform helping brands automate and accelerate primary research. With our Researcher-Driven AI, we’ve condensed the entire quant + qual research process from weeks into days (sometimes hours!) for 50+ enterprise brands — i</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Eleve Talent</job:company>
-    </item>
-    <item>
-      <title>Knit - Research Director</title>
-      <link>https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-knit-research-director-492472</link>
-      <guid isPermaLink="false">102397</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;&lt;a target="_blank" rel="noopener noreferrer nofollow" href="https://goknit.com/"&gt;&lt;strong&gt;&lt;u&gt;Knit&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt; is the AI-native consumer research platform helping brands automate and accelerate primary research. With our Researcher-Driven AI, we’ve condensed the entire quant + qual research process from weeks into days (sometimes hours!) for 50+ enterprise brands — i</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Eleve Talent</job:company>
-    </item>
-    <item>
-      <title>Knit - Lead Product Manager</title>
-      <link>https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-knit-lead-product-manager-115209</link>
-      <guid isPermaLink="false">102398</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;h3&gt;&lt;strong&gt;A little about us…&lt;/strong&gt;&lt;/h3&gt;&lt;p style="min-height:1.5em"&gt;&lt;a target="_blank" rel="noopener noreferrer nofollow" href="https://goknit.com/"&gt;&lt;strong&gt;&lt;u&gt;Knit&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt; is the AI-native consumer research platform helping brands automate and accelerate primary research. With our Researcher-Driven AI, we’ve condensed the entire quant + qual research process from weeks into days (som</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Eleve Talent</job:company>
-    </item>
-    <item>
-      <title>Endear - Account Manager</title>
-      <link>https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-endear-account-manager-454879</link>
-      <guid isPermaLink="false">102399</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;h3&gt;About Us&lt;/h3&gt;&lt;p style="min-height:1.5em"&gt;Endear is building the first modern CRM for retail teams. We empower brands to drive more in-store sales by giving their retail teams AI-powered tools to have 10x more personalized, human conversations with customers. Despite retail being 6x larger than eCommerce, brick-and-mortar retail has been largely overlooked by the technology industry. We're chan</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Eleve Talent</job:company>
-    </item>
-    <item>
-      <title>Endear - Onboarding Manager</title>
-      <link>https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-endear-onboarding-manager-15619</link>
-      <guid isPermaLink="false">102400</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;br /&gt;Endear is seeking an onboarding manager with a passion for helping new customers achieve early success and maximize their potential with our platform. Our dream candidate is self-motivated and has an entrepreneur-like attitude towards their work, with deep understanding of retail operations and the unique challenges retail teams face. Y</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Eleve Talent</job:company>
-    </item>
-    <item>
-      <title>Senior Growth Marketing Manager (Subscriptions)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-growth-marketing-manager-subscriptions-69276</link>
-      <guid isPermaLink="false">102402</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;h1&gt;&lt;strong&gt;Who We Are &lt;/strong&gt;&lt;/h1&gt;&lt;p style="min-height:1.5em"&gt;Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on on &lt;a target="_blank" rel="noopener noreferrer nofollow" class="ProsemirrorEditor-link" h</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Duck Duck Go</job:company>
-    </item>
-    <item>
-      <title>Senior Product Design Engineer</title>
-      <link>https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-product-design-engineer-215196</link>
-      <guid isPermaLink="false">102403</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;h1&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/h1&gt;&lt;p style="min-height:1.5em"&gt;Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on &lt;a target="_blank" rel="noopener noreferrer nofollow" class="ProsemirrorEditor-link" href=</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Duck Duck Go</job:company>
-    </item>
-    <item>
-      <title>Staff Data Scientist</title>
-      <link>https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-staff-data-scientist-33041</link>
-      <guid isPermaLink="false">102404</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;h1&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/h1&gt;&lt;p style="min-height:1.5em"&gt;Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on on &lt;a target="_blank" rel="noopener noreferrer nofollow" class="ProsemirrorEditor-link" hr</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Duck Duck Go</job:company>
-    </item>
-    <item>
-      <title>Creative Design Lead (Marketing Campaigns)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-creative-design-lead-marketing-campaigns-330441</link>
-      <guid isPermaLink="false">102405</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;h1&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/h1&gt;&lt;p style="min-height:1.5em"&gt;Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on on &lt;a target="_blank" rel="noopener noreferrer nofollow" class="ProsemirrorEditor-link" hr</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Duck Duck Go</job:company>
-    </item>
-    <item>
-      <title>Privacy Engineering Director</title>
-      <link>https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-privacy-engineering-director-27450</link>
-      <guid isPermaLink="false">102406</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;h1&gt;&lt;strong&gt;Who We Are &lt;/strong&gt;&lt;/h1&gt;&lt;p style="min-height:1.5em"&gt;Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on on &lt;a target="_blank" rel="noopener noreferrer nofollow" class="ProsemirrorEditor-link" h</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Duck Duck Go</job:company>
-    </item>
-    <item>
-      <title>Senior Privacy Engineer</title>
-      <link>https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-456199</link>
-      <guid isPermaLink="false">102407</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;h1&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/h1&gt;&lt;p style="min-height:1.5em"&gt;Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on on &lt;a target="_blank" rel="noopener noreferrer nofollow" class="ProsemirrorEditor-link" hr</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Duck Duck Go</job:company>
-    </item>
-    <item>
-      <title>Recruiter (Research)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/whitecircle/remote-recruiter-research-34570</link>
-      <guid isPermaLink="false">102408</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;TL;DR:&lt;/strong&gt; We’re looking for an AI Research Recruiter who knows where exceptional AI Researchers and engineers can be found. You’ll own full-cycle hiring across research, machine learning, data, evaluations, and ML infrastructure, helping us build one of the strongest teams in AI safety.&lt;/p&gt;&lt;div style="min-height:1.2em;margin-top:0;margin-bottom:0"&gt; &lt;/div&gt;&lt;</description>
-      <category>HR</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Whitecircle</job:company>
-    </item>
-    <item>
-      <title>Recruiter (GTM &amp; Business)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/whitecircle/remote-recruiter-gtm-business-96049</link>
-      <guid isPermaLink="false">102409</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;TL;DR:&lt;/strong&gt; We’re looking for a GTM &amp; Business Recruiter to help us build the GTM and Ops teams behind one of the most ambitious companies in AI safety. You’ll own full-cycle hiring across sales, partnerships, GTM engineering, events, and operations, building international teams from the ground up across the US and Europe.&lt;/p&gt;&lt;div style="min-height:1.2em;mar</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Whitecircle</job:company>
-    </item>
-    <item>
-      <title>Email Marketing Manager (FitMe)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/gismart/remote-email-marketing-manager-fitme-334649</link>
-      <guid isPermaLink="false">102410</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;About us:&lt;/strong&gt;&lt;br /&gt;Gismart is a value-driven mobile app developer with a strong presence in the Health &amp; Wellness, Utilities, and Music app markets. We have recently achieved a significant milestone of over 1 billion downloads worldwide, taking a step toward our mission of cultivating the well-being of people worldwide. With headquarters in London, UK, Gism</description>
-      <category>Marketing</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Gismart</job:company>
-    </item>
-    <item>
-      <title>AI Automation Engineer (FitMe)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/gismart/remote-ai-automation-engineer-fitme-395989</link>
-      <guid isPermaLink="false">102411</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;About us:&lt;/strong&gt;&lt;br /&gt;Gismart is a value-driven mobile app developer with a strong presence in the Health &amp; Wellness, Utilities, and Music app markets. We have recently achieved a significant milestone of over 1 billion downloads worldwide, taking a step toward our mission of cultivating the well-being of people worldwide. With headquarters in London, UK, Gism</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Gismart</job:company>
-    </item>
-    <item>
-      <title>Billing Manager (FitMe)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/gismart/remote-billing-manager-fitme-24708</link>
-      <guid isPermaLink="false">102412</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;About us:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;Gismart is a value-driven mobile app developer with a strong presence in the Health &amp; Wellness, Utilities, and Music app markets. We have achieved a significant milestone of over 1 billion downloads worldwide, taking a step toward our mission of cultivating the well-being of people worldwide. With headquarters in London, UK, Gismart</description>
-      <category>Support</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Gismart</job:company>
-    </item>
-    <item>
-      <title>User Acquisition Manager (Radiotech)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/gismart/remote-user-acquisition-manager-radiotech-478329</link>
-      <guid isPermaLink="false">102413</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;h2&gt;&lt;strong&gt;About us&lt;/strong&gt;&lt;/h2&gt;&lt;p style="min-height:1.5em"&gt;Gismart is a value-driven mobile app developer with a strong presence in the Health &amp; Wellness, Utilities, and Music app markets. We have recently reached an important milestone of &lt;strong&gt;1B+ downloads worldwide&lt;/strong&gt;, moving closer to our mission of supporting people on their self-improvement journeys.&lt;/p&gt;&lt;p style="min-height:1.5em</description>
-      <category>Support</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Gismart</job:company>
-    </item>
-    <item>
-      <title>Creative Marketing Manager (FitMe)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/gismart/remote-creative-marketing-manager-fitme-95053</link>
-      <guid isPermaLink="false">102414</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;h1&gt;&lt;strong&gt;About us:&lt;/strong&gt;&lt;/h1&gt;&lt;p style="min-height:1.5em"&gt;Gismart is a value-driven mobile app developer with a strong presence in the Health &amp; Wellness, Utilities, and Music app markets. We have achieved a significant milestone of over 1 billion downloads worldwide, taking a step toward our mission of cultivating the well-being of people worldwide. With headquarters in London, UK, Gismart is</description>
-      <category>Marketing</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Gismart</job:company>
-    </item>
-    <item>
-      <title>Product Marketing Manager (Testora)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/gismart/remote-product-marketing-manager-testora-351051</link>
-      <guid isPermaLink="false">102415</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;About us:&lt;/strong&gt;&lt;br /&gt;Gismart is a value-driven mobile app developer with a strong presence in the Health &amp; Wellness, Utilities, and Music app markets. We have achieved a significant milestone of over 1 billion downloads worldwide, taking a step toward our mission of cultivating the well-being of people worldwide. With headquarters in London, UK, Gismart is a </description>
-      <category>Marketing</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Gismart</job:company>
-    </item>
-    <item>
-      <title>Creative Production Lead (Radiotech)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/gismart/remote-creative-production-lead-radiotech-346194</link>
-      <guid isPermaLink="false">102416</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;h1&gt;&lt;strong&gt;About us:&lt;/strong&gt;&lt;/h1&gt;&lt;p style="min-height:1.5em"&gt;Gismart is a value-driven mobile app developer with a strong presence in the Health &amp; Wellness, Utilities, and Music app markets. We have recently achieved a significant milestone of over 1 billion downloads worldwide, taking a step toward our mission of cultivating the well-being of people worldwide. With headquarters in London, UK, G</description>
-      <category>Support</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Gismart</job:company>
-    </item>
-    <item>
-      <title>Product Manager (Radiotech)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/gismart/remote-product-manager-radiotech-120708</link>
-      <guid isPermaLink="false">102417</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;h1&gt;&lt;strong&gt;About us&lt;/strong&gt;&lt;/h1&gt;&lt;p style="min-height:1.5em"&gt;Gismart is a value-driven mobile app developer with a strong presence in the Health &amp; Wellness, Utilities, and Music app markets. We have recently reached an important milestone of &lt;strong&gt;1B+ downloads worldwide&lt;/strong&gt;, moving closer to our mission of supporting people on their self-improvement journeys.&lt;/p&gt;&lt;p style="min-height:1.5em</description>
-      <category>Marketing</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Gismart</job:company>
-    </item>
-    <item>
-      <title>Creative Producer (Radiotech)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/gismart/remote-creative-producer-radiotech-112268</link>
-      <guid isPermaLink="false">102418</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;About us:&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Gismart is a value-driven mobile app developer with a strong presence in the Health &amp; Wellness, Utilities, and Music app markets. We have recently achieved a significant milestone of over 1 billion downloads worldwide, taking a step toward our mission of cultivating the well-being of people worldwide. With headqu</description>
-      <category>Support</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Gismart</job:company>
-    </item>
-    <item>
-      <title>Werkstudent Social Media (all genders)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/maniko-nails-gmbh/remote-werkstudent-social-media-all-genders-berlin-317432</link>
-      <guid isPermaLink="false">102419</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;p&gt;&lt;span style="color:#000000"&gt;Position: Werkstudent (bis 20h/ Woche)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color:#000000"&gt;Ort: Berlin, Germany oder Remote &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color:#000000"&gt;Start Datum: Ab sofort oder nach Absprache&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color:#000000"&gt;Sprachen: Deutsch &amp; Englisch &lt;/span&gt;&lt;/p&gt;&lt;p style="min-height: 1.7em;"&gt;&lt;/p&gt;&lt;p style="text-align:justify;"&gt;&lt;strong&gt;&lt;span style="colo</description>
-      <category>Marketing</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Homeoffice</job:location>
-      <job:company>Maniko Nails GmbH</job:company>
-    </item>
-    <item>
-      <title>Python Backend Engineer (m/f/x)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-python-backend-engineer-berlin-341113</link>
-      <guid isPermaLink="false">102423</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;p&gt;Job Title: (Senior) Python Engineer (m/f/x)&lt;/p&gt;&lt;p&gt;Location: EU&lt;/p&gt;&lt;p&gt;(Remote)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h4&gt;&lt;strong&gt;Who You’ll Work For:&lt;/strong&gt;&lt;/h4&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make smarter, more sustainable decisions across their e</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote job</job:location>
-      <job:company>Makersite GmbH</job:company>
-    </item>
-    <item>
-      <title>Senior Data Scientist (m/f/x)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-106805</link>
-      <guid isPermaLink="false">102424</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;p class="Paragraph SCXW111181217 BCX4"&gt;Data Scientist (m/f/x) &lt;/p&gt;&lt;p class="Paragraph SCXW111181217 BCX4"&gt;Location: EU&lt;/p&gt;&lt;p class="Paragraph SCXW111181217 BCX4"&gt;(Remote) &lt;/p&gt;&lt;p class="Paragraph SCXW111181217 BCX4"&gt; &lt;/p&gt;&lt;h4&gt;&lt;strong&gt;&lt;span style="color:#000000"&gt;Who You’ll Work For&lt;/span&gt;&lt;span style="color:#2F5496"&gt;:&lt;/span&gt;&lt;/strong&gt;&lt;span style="color:#2F5496"&gt; &lt;/span&gt;&lt;/h4&gt;&lt;p class="Paragraph SCXW111</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote job</job:location>
-      <job:company>Makersite GmbH</job:company>
-    </item>
-    <item>
-      <title>Senior Counsel, Strategic Growth &amp; Technology Partnerships</title>
-      <link>https://www.arbeitnow.co.uk/jobs/companies/udemy/remote-senior-counsel-strategic-growth-technology-partnerships-27845</link>
-      <guid isPermaLink="false">102470</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;div class="content-intro"&gt;&lt;p&gt;&lt;strong&gt;About Coursera + Udemy&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Coursera and Udemy are now one company, bringing together two mission-driven brands to create the world’s most powerful platform for turning learning into progress. Together, we help more than 300 million learners and 12,000+ enterprise customers build the skills they need for a world being reshaped by AI.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;</description>
-      <category>Marketing</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Udemy</job:company>
-    </item>
-    <item>
-      <title>Forward Deployed Engineer</title>
-      <link>https://www.arbeitnow.co.uk/jobs/companies/hexa/remote-forward-deployed-engineer-116806</link>
-      <guid isPermaLink="false">102488</guid>
-      <pubDate>Tue, 01 Sep 2026 07:11:49 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;About Waniwani&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Waniwani builds the infrastructure that distributes insurance and banking products through AI assistants. We raised an $8M seed led by Seedcamp and work with large European banks and insurers. Each enterprise deal has to be scoped, architected, and deployed into a regulated environment. This role owns the la</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Hexa</job:company>
+      <job:location>Indonesia</job:location>
+      <job:company>Hired</job:company>
     </item>
   </channel>
 </rss>
