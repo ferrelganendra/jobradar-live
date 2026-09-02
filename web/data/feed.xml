@@ -5,7 +5,31 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Wed, 02 Sep 2026 19:34:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 20:04:29 +0000</lastBuildDate>
+    <item>
+      <title>Staff Backend Engineer, EMEA</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-staff-backend-engineer-emea-156239</link>
+      <guid isPermaLink="false">112428</guid>
+      <pubDate>Wed, 02 Sep 2026 20:04:28 +0000</pubDate>
+      <description>&lt;div class="content-intro"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>gitlab</job:company>
+    </item>
+    <item>
+      <title>Intermediate Backend Engineer, EMEA</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-intermediate-backend-engineer-emea-147388</link>
+      <guid isPermaLink="false">112429</guid>
+      <pubDate>Wed, 02 Sep 2026 20:04:28 +0000</pubDate>
+      <description>&lt;div class="content-intro"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>gitlab</job:company>
+    </item>
     <item>
       <title>Joiner</title>
       <link>https://remoteOK.com/remote-jobs/remote-joiner-city-of-york-council-1137263</link>
@@ -581,30 +605,6 @@
       <job:salary></job:salary>
       <job:location>PanamÃ¡</job:location>
       <job:company>Copa Airlines</job:company>
-    </item>
-    <item>
-      <title>Fusion Sr. Sales Specialist, Territory</title>
-      <link>https://jobicy.com/jobs/146184-fusion-sr-sales-specialist-territory</link>
-      <guid isPermaLink="false">108348</guid>
-      <pubDate>Wed, 02 Sep 2026 08:17:12 +0000</pubDate>
-      <description></description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Autodesk</job:company>
-    </item>
-    <item>
-      <title>AI Sales Executive</title>
-      <link>https://jobicy.com/jobs/142304-ai-sales-executive</link>
-      <guid isPermaLink="false">108349</guid>
-      <pubDate>Wed, 02 Sep 2026 08:17:12 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>EAC Product Development Solutions</job:company>
     </item>
   </channel>
 </rss>
