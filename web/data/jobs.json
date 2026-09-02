@@ -106666,5 +106666,32 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 112672,
+    "created_at": "2026-09-02 20:35:06",
+    "source": "remoteok",
+    "title": "Domestic",
+    "company": "NT Health",
+    "location": "Katherine",
+    "url": "https://remoteOK.com/remote-jobs/remote-domestic-nt-health-1137261",
+    "salary": "",
+    "tags": [
+      "supervisor",
+      "customer support",
+      "medical",
+      "non tech"
+    ],
+    "remote": true,
+    "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Lainnya",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]

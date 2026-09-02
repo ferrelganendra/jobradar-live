@@ -5,7 +5,19 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Wed, 02 Sep 2026 20:04:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 20:35:07 +0000</lastBuildDate>
+    <item>
+      <title>Domestic</title>
+      <link>https://remoteOK.com/remote-jobs/remote-domestic-nt-health-1137261</link>
+      <guid isPermaLink="false">112672</guid>
+      <pubDate>Wed, 02 Sep 2026 20:35:06 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Katherine</job:location>
+      <job:company>NT Health</job:company>
+    </item>
     <item>
       <title>Staff Backend Engineer, EMEA</title>
       <link>https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-staff-backend-engineer-emea-156239</link>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location>Blumenau</job:location>
       <job:company>Localiza&amp;amp;Co</job:company>
-    </item>
-    <item>
-      <title>Captains Capitanes</title>
-      <link>https://remoteOK.com/remote-jobs/remote-captains-capitanes-copa-airlines-1137271</link>
-      <guid isPermaLink="false">108737</guid>
-      <pubDate>Wed, 02 Sep 2026 09:18:46 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>PanamÃ¡</job:location>
-      <job:company>Copa Airlines</job:company>
     </item>
   </channel>
 </rss>
