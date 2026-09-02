@@ -5,7 +5,19 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Wed, 02 Sep 2026 18:02:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 18:33:13 +0000</lastBuildDate>
+    <item>
+      <title>Joiner</title>
+      <link>https://remoteOK.com/remote-jobs/remote-joiner-city-of-york-council-1137263</link>
+      <guid isPermaLink="false">111959</guid>
+      <pubDate>Wed, 02 Sep 2026 18:33:13 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>York</job:location>
+      <job:company>City of York Council</job:company>
+    </item>
     <item>
       <title>Senior Graphic and UI Designer</title>
       <link>https://www.arbeitnow.co.uk/jobs/companies/beincrypto/senior-graphic-and-ui-designer-london-69553</link>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>EAC Product Development Solutions</job:company>
-    </item>
-    <item>
-      <title>1775 RPG/AS400 &amp; JD Edwards EnterpriseOne Developer</title>
-      <link>https://jobicy.com/jobs/150052-1775-rpg-as400-jd-edwards-enterpriseone-developer</link>
-      <guid isPermaLink="false">108350</guid>
-      <pubDate>Wed, 02 Sep 2026 08:17:12 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Softgic</job:company>
     </item>
   </channel>
 </rss>

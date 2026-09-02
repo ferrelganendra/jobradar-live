@@ -106589,5 +106589,34 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 111959,
+    "created_at": "2026-09-02 18:33:13",
+    "source": "remoteok",
+    "title": "Joiner",
+    "company": "City of York Council",
+    "location": "York",
+    "url": "https://remoteOK.com/remote-jobs/remote-joiner-city-of-york-council-1137263",
+    "salary": "",
+    "tags": [
+      "scheme",
+      "medical",
+      "engineer",
+      "customer support",
+      "c",
+      "exec"
+    ],
+    "remote": true,
+    "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Lainnya",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
