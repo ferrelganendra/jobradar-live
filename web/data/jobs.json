@@ -105935,5 +105935,30 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 110188,
+    "created_at": "2026-09-02 13:56:18",
+    "source": "arbeitnow",
+    "title": "Performance Marketing Lead (m/w/d) - 100% Remote",
+    "company": "ProviPanda GmbH",
+    "location": "Hamburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/performance-marketing-lead-100-remote-hamburg-346656",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Marketing and Communication"
+    ],
+    "remote": true,
+    "description": "<p><strong>Du willst keinen Job. Du willst eine Chance.</strong></p>\n<p>Wir suchen keinen Marketing-Mitarbeiter Nummer 47. Wir suchen einen Player, der schon bewiesen hat, dass er profitables Marketing im B2B-Bereich auf Scale bringt - hohe 5-6-stellige monatliche Budgets, klare Zahlen, echte Ergebnisse. Jetzt suchen wir jemanden, der das bei uns auf das nächste Level hebt.</p>\n<p>Wenn du das hier liest und dein Puls steigt, lies weiter.</p>\n<p><strong>Wer wir sind</strong></p>\n<p>ProviPanda ist die größte Sales Job App im DACH-Raum. 50.000+ Vertriebler, 1.000+ Unternehmen als Kunden, darunter Deutsche Bank und Engel &#x26; Völkers. Wir wachsen schnell und wir haben gerade erst angefangen.</p>\n<h2>Aufgaben</h2>\n<p><strong>Was du bei uns machst</strong></p>\n<ul>\n<li>Volle Verantwortung für alle Paid Ads Channels (Meta, Google primär) bei hohem 5-stelligem Adspend pro Monat</li>\n<li>Ads optimieren, testen, tracken</li>\n<li>Image Creatives selbst mit AI bauen, ohne auf ein Design-Team zu warten</li>\n<li>Video Creative Briefings schreiben, mit Videographen und Cuttern arbeiten, ggf. selbst bei Drehtagen dabei sein</li>\n<li>Neue Funnels und Landingpages aufsetzen und testen</li>\n<li>Copywriting für Funnel, Ad Copys, Mailings B2B und B2C, CRM- und Kalender-Workflows</li>\n<li>Wöchentlicher Austausch mit GF &#x26; Head of Sales direkt über Performance</li>\n<li>Tracking Monitoring und Erweiterung um neue Funnels und Offline Conversions</li>\n</ul>\n<h2>Qualifikation</h2>\n<p><strong>Wen wir suchen</strong></p>\n<ul>\n<li>Jung, hungrig, ambitioniert - du willst etwas aufbauen, nicht nur verwalten</li>\n<li>Agency Founder gewesen oder externe B2B-Agentur/Software-Firma nachweislich profitabel auf mindestens 1 Mio+/Jahr gescaled (kein Ecom)</li>\n<li>2+ Jahre Marketing Erfahrung, im Umfeld optimalerweise: Recruiting-Agentur, Personalvermittlung oder Headhunter</li>\n<li>Zwingend Erfahrung Meta + Google: Lead Gen für B2B Entscheider</li>\n<li>Meta Ads und Google Ads Expertise mit bereits",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
