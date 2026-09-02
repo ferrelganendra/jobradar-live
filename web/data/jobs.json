@@ -106564,5 +106564,30 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 111717,
+    "created_at": "2026-09-02 18:02:43",
+    "source": "arbeitnow",
+    "title": "Senior Graphic and UI Designer",
+    "company": "BeInCrypto",
+    "location": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/beincrypto/senior-graphic-and-ui-designer-london-69553",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Graphic Arts and Communication Design"
+    ],
+    "remote": true,
+    "description": "<p><strong>About BeInCrypto</strong></p>\n<p>BeInCrypto is a part of the media group BeInNews Ltd, a global newsroom and research team covering institutional finance and digital assets as they intersect: regulation, trading infrastructure, and market structure - backed by original data and a team reporting from every major time zone. Our 100+ journalists and analysts operate across 50+ countries, publishing in 26 languages. We are official media partners at Money20/20, Digital Assets Forum London, Korea Blockchain Week, Token2049, Proof of Talk, and other leading industry events.</p>\n<p><strong>About the role</strong></p>\n<p>We’re searching for a Senior Graphic Designer to redefine how the world’s leading crypto media brand looks and feels as we evolve into an institutional-grade financial intelligence platform. This is a role for someone who loves creating visually striking concepts as much as crafting polished digital experiences. Around 60% of your time will be dedicated to graphic and visual design (editorial covers, campaigns, presentations, branding, and key visuals), while 40% will focus on web and UI design, shaping landing pages, website sections, and digital interfaces. You’ll have the freedom to bring bold ideas to life, influence our visual direction, and build work seen by millions of users and the industry’s biggest players.</p>\n<h2>Tasks</h2>\n<ul>\n<li>Lead the evolution of BeInCrypto’s visual identity across digital products, editorial, marketing, and sales materials.</li>\n<li>Create concept-driven editorial covers, social media covers, one-pagers, banners, reports, infographics, presentations, and key creative assets that communicate complex ideas through compelling visual storytelling.</li>\n<li>Design website pages, landing pages, UI components, and web sections in collaboration with the Lead UX Designer.</li>\n<li>Develop and present creative concepts for campaigns, product launches, and special projects from idea to final execution.</li>\n<li>Ensure ",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "IT",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
