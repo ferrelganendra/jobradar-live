@@ -5,7 +5,19 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Wed, 02 Sep 2026 07:14:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 07:46:12 +0000</lastBuildDate>
+    <item>
+      <title>DMS Systemadministrator (m/w/d) - Full Remote aus Bayern</title>
+      <link>https://www.arbeitnow.com/jobs/companies/dwwa-personalberatung-gmbh/dms-systemadministrator-full-remote-aus-bayern-dusseldorf-72888</link>
+      <guid isPermaLink="false">108029</guid>
+      <pubDate>Wed, 02 Sep 2026 07:46:08 +0000</pubDate>
+      <description>&lt;p&gt;Stellenbeschreibung&lt;/p&gt; &lt;p&gt;Du suchst einen sicheren Job als &lt;strong&gt;ECM / DMS Systemadministrator (m/w/d)&lt;/strong&gt; in Vollzeit mit bis zu 100% Remote-Anteil? Möchtest du die digitale Transformation in Bayern aktiv mitgestalten und auf eine verlässliche, krisenfeste Basis bauen? Suchst du ein eingespieltes Team mit starkem Rückhalt, flachen Hierarchien und individuellen Entwicklungsmöglichkeiten</description>
+      <category>HR</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Düsseldorf</job:location>
+      <job:company>DWWA Personalberatung GmbH</job:company>
+    </item>
     <item>
       <title>Data Scientist</title>
       <link>https://glints.com/id/opportunities/jobs/data-scientist/d68e0ffc-5e69-4510-920d-c63a51b8cdc9</link>
@@ -601,18 +613,6 @@
       <job:salary></job:salary>
       <job:location>Kelurahan Penjaringan, Jakarta, Indonesia</job:location>
       <job:company>Decision Tree Indonesia</job:company>
-    </item>
-    <item>
-      <title>Junior Data Analyst</title>
-      <link>https://glints.com/id/opportunities/jobs/junior-data-analyst/75cad698-173b-4deb-ad14-41cfbae3710c</link>
-      <guid isPermaLink="false">106531</guid>
-      <pubDate>Wed, 02 Sep 2026 03:09:26 +0000</pubDate>
-      <description>Junior Data Analyst Parlént World Responsibilities Merancang, membangun, dan memelihara skrip otomatisasi (automation &amp; scripting) untuk efisiensi alur kerja data operasional. Melakukan pembersihan, transformasi, dan pemrosesan data (data cleaning &amp; processing) dari berbagai sumber agar siap dianalisis. Mengintegrasikan sistem menggunakan REST API dan format JSON untuk pertukaran data antar aplika</description>
-      <category>Teknologi</category>
-      <job:remote>false</job:remote>
-      <job:salary>Rp 1,5-2jt</job:salary>
-      <job:location>Kab. Bantul</job:location>
-      <job:company></job:company>
     </item>
   </channel>
 </rss>

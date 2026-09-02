@@ -104425,5 +104425,30 @@
     "id_city": "jakarta",
     "job_type": "full",
     "is_foreign": false
+  },
+  {
+    "id": 108029,
+    "created_at": "2026-09-02 07:46:08",
+    "source": "arbeitnow",
+    "title": "DMS Systemadministrator (m/w/d) - Full Remote aus Bayern",
+    "company": "DWWA Personalberatung GmbH",
+    "location": "Düsseldorf",
+    "url": "https://www.arbeitnow.com/jobs/companies/dwwa-personalberatung-gmbh/dms-systemadministrator-full-remote-aus-bayern-dusseldorf-72888",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "IT"
+    ],
+    "remote": true,
+    "description": "<p>Stellenbeschreibung</p>\n<p>Du suchst einen sicheren Job als <strong>ECM / DMS Systemadministrator (m/w/d)</strong> in Vollzeit mit bis zu 100% Remote-Anteil? Möchtest du die digitale Transformation in Bayern aktiv mitgestalten und auf eine verlässliche, krisenfeste Basis bauen? Suchst du ein eingespieltes Team mit starkem Rückhalt, flachen Hierarchien und individuellen Entwicklungsmöglichkeiten?</p>\n<p><strong>Über das Unternehmen:</strong></p>\n<ul>\n<li><strong>Etablierter Marktführer:</strong> Als dynamische Ausgründung mit über 1.000 Kunden treibst du als Marktführer in Bayern die Digitalisierung voran.</li>\n<li><strong>Maximale Krisensicherheit:</strong> Ein stabiles, zukunftssicheres Fundament bietet dir auch in unruhigen Zeiten verlässliche Beständigkeit.</li>\n<li><strong>Wertschätzendes Arbeitsumfeld</strong>: Flache Hierarchien, sehr geringe Fluktuation und gelebte Agilität prägen die Zusammenarbeit.</li>\n<li><strong>Strukturierte Entwicklung:</strong> Individuelle Weiterbildungen und eine eigene Online-Lernplattform sichern deine langfristige Perspektive.</li>\n<li>Den Namen des Unternehmens und noch vieles mehr erzählen wir dir, sobald du dich bei uns meldest. Versprochen!</li>\n</ul>\n<h2>Aufgaben</h2>\n<p><strong>Deine Aufgaben:</strong></p>\n<ul>\n<li><strong>Verlässliche Projektbegleitung:</strong> Du begleitest DMS-Projekte im kommunalen Umfeld partnerschaftlich zum Erfolg.</li>\n<li><strong>Anforderungsanalyse</strong>: Du nimmst fachliche und technische Kundenanforderungen strukturiert auf und analysierst diese präzise.</li>\n<li><strong>Praxisnahe Implementierung:</strong> Du übernimmst die Konfiguration und Migration der bewährten DMS-Lösung komXwork.</li>\n<li><strong>Wissenstransfer:</strong> Du führst zielgerichtete Schulungen sowie Workshops für Anwenderinnen und Projektbeteiligte souverän durch.</li>\n<li><strong>Nahtlose Betreuung:</strong> Du unterstützt bei Tests, Produktivsetzungen und der nachhaltigen Absicherung des laufenden Betriebs.</li>\n<li",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "HR",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
