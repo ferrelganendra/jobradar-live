@@ -106538,5 +106538,31 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 111607,
+    "created_at": "2026-09-02 17:32:10",
+    "source": "remoteok",
+    "title": "Motorista Salvador BA",
+    "company": "GrupoNewChase",
+    "location": "Salvador",
+    "url": "https://remoteOK.com/remote-jobs/remote-motorista-salvador-ba-gruponewchase-1137285",
+    "salary": "",
+    "tags": [
+      "c",
+      "exec",
+      "excel"
+    ],
+    "remote": true,
+    "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Lainnya",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
