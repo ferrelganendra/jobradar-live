@@ -105905,5 +105905,35 @@
     "id_city": null,
     "job_type": "intern",
     "is_foreign": true
+  },
+  {
+    "id": 110167,
+    "created_at": "2026-09-02 13:25:14",
+    "source": "remoteok",
+    "title": "Car Wash Attendant",
+    "company": "Hertz",
+    "location": "Etobicoke",
+    "url": "https://remoteOK.com/remote-jobs/remote-car-wash-attendant-hertz-1137276",
+    "salary": "",
+    "tags": [
+      "education",
+      "customer support",
+      "recruiter",
+      "non tech",
+      "hr",
+      "marketing",
+      "travel"
+    ],
+    "remote": true,
+    "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Lainnya",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]

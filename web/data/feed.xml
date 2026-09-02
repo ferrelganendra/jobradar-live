@@ -5,7 +5,19 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Wed, 02 Sep 2026 12:54:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:25:15 +0000</lastBuildDate>
+    <item>
+      <title>Car Wash Attendant</title>
+      <link>https://remoteOK.com/remote-jobs/remote-car-wash-attendant-hertz-1137276</link>
+      <guid isPermaLink="false">110167</guid>
+      <pubDate>Wed, 02 Sep 2026 13:25:14 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Etobicoke</job:location>
+      <job:company>Hertz</job:company>
+    </item>
     <item>
       <title>Advisory Board (100%) (w/m/d), Bayern, hybrid</title>
       <link>https://www.arbeitnow.com/jobs/companies/highcoordination-gmbh/advisory-board-100-bayern-hybrid-singen-362491</link>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>BetterHelp</job:company>
-    </item>
-    <item>
-      <title>Software Engineer - Data Infrastructure - OpenSearch/ElasticSearch</title>
-      <link>https://jobicy.com/jobs/149994-software-engineer-data-infrastructure-opensearch-elasticsearch</link>
-      <guid isPermaLink="false">108382</guid>
-      <pubDate>Wed, 02 Sep 2026 08:17:12 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Canonical</job:company>
     </item>
   </channel>
 </rss>
