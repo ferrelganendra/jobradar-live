@@ -105611,5 +105611,27 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 109088,
+    "created_at": "2026-09-02 10:19:53",
+    "source": "jobicy",
+    "title": "Senior Payroll Analyst",
+    "company": "DoorDash",
+    "location": "",
+    "url": "https://jobicy.com/jobs/147870-senior-payroll-analyst",
+    "salary": "",
+    "tags": [],
+    "remote": true,
+    "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "HR",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
