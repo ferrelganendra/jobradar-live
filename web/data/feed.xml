@@ -5,13 +5,25 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Thu, 03 Sep 2026 16:17:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 16:48:12 +0000</lastBuildDate>
+    <item>
+      <title>Nix / NixOS / Nixpkgs Software Engineering Intern</title>
+      <link>https://www.arbeitnow.com/jobs/companies/atvari-gmbh/nix-nixos-nixpkgs-software-engineering-intern-luneburg-296907</link>
+      <guid isPermaLink="false">118640</guid>
+      <pubDate>Thu, 03 Sep 2026 16:48:12 +0000</pubDate>
+      <description>&lt;p&gt;atvari is a technology company specializing in software and cloud architecture, custom software engineering, cloud engineering, DevOps, and IT consulting. The team is passionate about building robust, modern solutions with a strong focus on Rust, Nix / NixOS / Nixpkgs, and open-source technologies. atvari values clean, maintainable code and collaborative engineering practices. Applicants can ex</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Lüneburg</job:location>
+      <job:company>atvari GmbH</job:company>
+    </item>
     <item>
       <title>Projektleiter Datacenter Elektrotechnik (m/w/d)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/hypertrics-gmbh/remote-projektleiter-datacenter-elektrotechnik-frankfurt-am-main-303996</link>
-      <guid isPermaLink="false">118531</guid>
-      <pubDate>Thu, 03 Sep 2026 16:17:05 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Projektleiter Datacenter Elektrotechnik (m/w/d)&lt;/strong&gt;&lt;/p&gt;&lt;p style="text-align:start;"&gt;Standort: Frankfurt | Vollzeit | Unbefristet&lt;/p&gt;&lt;p style="text-align:start;"&gt;Für unseren Auftraggeber, ein spezialisiertes GU-Unternehmen im Bereich Rechenzentrumsbau – von der Planung über den Bau bis zur Modernisierung technisch anspruchsvoller Anlagen im laufenden Betrieb – suchen wir im exklusiv</description>
+      <link>https://www.arbeitnow.com/jobs/companies/hypertrics-gmbh/remote-projektleiter-datacenter-elektrotechnik-dusseldorf-499910</link>
+      <guid isPermaLink="false">118716</guid>
+      <pubDate>Thu, 03 Sep 2026 16:48:12 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Projektleiter Datacenter Elektrotechnik (m/w/d)&lt;/strong&gt;&lt;/p&gt;&lt;p style="text-align:start;"&gt;Standort: Düsseldorf | Vollzeit | Unbefristet&lt;/p&gt;&lt;p style="text-align:start;"&gt;Für unseren Auftraggeber, ein spezialisiertes GU-Unternehmen im Bereich Rechenzentrumsbau – von der Planung über den Bau bis zur Modernisierung technisch anspruchsvoller Anlagen im laufenden Betrieb – suchen wir im exklusi</description>
       <category>Teknologi</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location>Münster</job:location>
       <job:company>paselo GmbH</job:company>
-    </item>
-    <item>
-      <title>AI Research Engineer</title>
-      <link>https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-ai-research-engineer-236229</link>
-      <guid isPermaLink="false">115874</guid>
-      <pubDate>Thu, 03 Sep 2026 07:58:45 +0000</pubDate>
-      <description>&lt;h1 style="text-align: center;"&gt;&lt;span style="color: rgb(126, 140, 141);"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style="font-family: tahoma, arial, helvetica, sans-serif;"&gt;AI Research Engineer&lt;/span&gt;&lt;/span&gt;&lt;/h1&gt; &lt;p style="text-align: center;"&gt;&lt;span style="color: rgb(126, 140, 141); font-family: tahoma, arial, helvetica, sans-serif;"&gt;&amp;nbsp; &lt;/span&gt;&lt;span style="font-family: tahoma, arial, helvetic</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>prolific</job:company>
     </item>
   </channel>
 </rss>
