@@ -5,7 +5,19 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Thu, 03 Sep 2026 00:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 01:17:34 +0000</lastBuildDate>
+    <item>
+      <title>Field Officer Bendigo</title>
+      <link>https://remoteOK.com/remote-jobs/remote-field-officer-bendigo-department-of-justice-and-community-safety-victoria-1137267</link>
+      <guid isPermaLink="false">113718</guid>
+      <pubDate>Thu, 03 Sep 2026 01:17:33 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Bendigo</job:location>
+      <job:company>Department of Justice and Community Safety, Victoria</job:company>
+    </item>
     <item>
       <title>Project Manager, Gaming Localization Production</title>
       <link>https://www.arbeitnow.com/jobs/companies/lilt-production/remote-project-manager-gaming-localization-production-101568</link>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Housecall Pro</job:company>
-    </item>
-    <item>
-      <title>Deal Desk Analyst</title>
-      <link>https://jobicy.com/jobs/152373-deal-desk-analyst-3</link>
-      <guid isPermaLink="false">111062</guid>
-      <pubDate>Wed, 02 Sep 2026 16:00:37 +0000</pubDate>
-      <description></description>
-      <category>Data</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Apollo.io</job:company>
     </item>
   </channel>
 </rss>
