@@ -5,12 +5,24 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Thu, 03 Sep 2026 08:29:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 09:01:19 +0000</lastBuildDate>
+    <item>
+      <title>Full Stack Product Engineer (m/w/d) - Bling Schule</title>
+      <link>https://www.arbeitnow.com/jobs/companies/bling/full-stack-product-engineer-bling-schule-berlin-393109</link>
+      <guid isPermaLink="false">116121</guid>
+      <pubDate>Thu, 03 Sep 2026 09:01:04 +0000</pubDate>
+      <description>&lt;h2&gt;Deine Mission&lt;/h2&gt; &lt;p&gt;Wir bauen den ersten Payment-Dienstleister, mit dem Schulen und Kitas in Deutschland wirklich alles bargeldlos abwickeln können und suchen Verstärkung. Als Product Engineer im Bling Schule Team übernimmst du von Tag eins an echte Ownership: viel Freiheit, kurze Wege und die Chance, ein Produkt von Grund auf mitzugestalten und unsere bestehenden Systeme weiterzuentwickeln.</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Berlin</job:location>
+      <job:company>Bling</job:company>
+    </item>
     <item>
       <title>Project Manager, Gaming Localization Production</title>
-      <link>https://www.arbeitnow.com/jobs/companies/lilt-production/remote-project-manager-gaming-localization-production-101568</link>
-      <guid isPermaLink="false">116003</guid>
-      <pubDate>Thu, 03 Sep 2026 08:29:48 +0000</pubDate>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/lilt-production/remote-project-manager-gaming-localization-production-164320</link>
+      <guid isPermaLink="false">116244</guid>
+      <pubDate>Thu, 03 Sep 2026 09:01:04 +0000</pubDate>
       <description>&lt;h2&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/h2&gt;&lt;p style="min-height:1.5em"&gt;We're looking for a Project Manager to own the day-to-day delivery of a large-scale localization program for a multinational gaming publisher. This customer ships localized content across dozens of titles, platforms and languages, and the program spans in-game text, marketing and UA content, cinematics and trailers, and supporting</description>
       <category>Marketing</category>
       <job:remote>true</job:remote>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location>York</job:location>
       <job:company>City of York Council</job:company>
-    </item>
-    <item>
-      <title>Senior Graphic and UI Designer</title>
-      <link>https://www.arbeitnow.co.uk/jobs/companies/beincrypto/senior-graphic-and-ui-designer-london-69553</link>
-      <guid isPermaLink="false">111717</guid>
-      <pubDate>Wed, 02 Sep 2026 18:02:43 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;About BeInCrypto&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;BeInCrypto is a part of the media group BeInNews Ltd, a global newsroom and research team covering institutional finance and digital assets as they intersect: regulation, trading infrastructure, and market structure - backed by original data and a team reporting from every major time zone. Our 100+ journalists and analysts operate across 50+ countries, p</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>London</job:location>
-      <job:company>BeInCrypto</job:company>
     </item>
   </channel>
 </rss>
