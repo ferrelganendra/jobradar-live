@@ -107326,18 +107326,43 @@
     "is_foreign": true
   },
   {
-    "id": 114617,
-    "created_at": "2026-09-03 04:21:25",
+    "id": 114864,
+    "created_at": "2026-09-03 04:52:29",
+    "source": "arbeitnow",
+    "title": "DevOps Engineer (100% remote)",
+    "company": "Tether Operations Limited",
+    "location": "Remote job",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/devops-engineer-100-remote-united-kindom-290590",
+    "salary": "",
+    "tags": [
+      "Data",
+      "Remote"
+    ],
+    "remote": true,
+    "description": "<p><strong><em><span style=\"color:#121317\">Join Tether and Shape the Future of Digital Finance</span></em></strong></p><p><span style=\"color:#121317\">At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens across blockchains. By harnessing the power of blockchain technology, Tether enables you to store, send, and receive digital tokens instantly, securely, and globally, all at a fraction of the cost. Transparency is the bedrock of everything we do, ensuring trust in every transaction.</span></p><p style=\"min-height: 1.7em;\"></p><p><strong><em><span style=\"color:#121317\">Innovate with Tether</span></em></strong></p><p><strong><span style=\"color:#121317\">Tether Finance: </span></strong><span style=\"color:#121317\">Our innovative product suite features the world’s most trusted stablecoin, </span><strong><span style=\"color:#121317\">USDT</span></strong><span style=\"color:#121317\">, relied upon by hundreds of millions worldwide, alongside pioneering digital asset tokenization services.</span></p><p><span style=\"color:#121317\">But that’s just the beginning:</span></p><p><strong><span style=\"color:#121317\">Tether Power: </span></strong><span style=\"color:#121317\">Driving sustainable growth, our energy solutions optimize excess power for Bitcoin mining using eco-friendly practices in state-of-the-art, geo-diverse facilities.</span></p><p><strong><span style=\"color:#121317\">Tether Data: </span></strong><span style=\"color:#121317\">Fueling breakthroughs in AI and peer-to-peer technology, we reduce infrastructure costs and enhance global communications with cutting-edge solutions like </span><strong><span style=\"color:#121317\">KEET</span></strong><span style=\"color:#121317\">, our flagship app that redefines secure and private data sharing.</span></p><p><strong><span style=\"color:#121317\">Tether E",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "SWE",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 114878,
+    "created_at": "2026-09-03 04:52:29",
     "source": "arbeitnow",
     "title": "Project Manager, Gaming Localization Production",
     "company": "LILT (Production)",
     "location": "Remote",
-    "url": "https://www.arbeitnow.com/jobs/companies/lilt-production/remote-project-manager-gaming-localization-production-101568",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/lilt-production/remote-project-manager-gaming-localization-production-164320",
     "salary": "",
     "tags": [
       "Production"
     ],
-    "remote": true,
+    "remote": false,
     "description": "<h2><strong>About the Role</strong></h2><p style=\"min-height:1.5em\">We're looking for a Project Manager to own the day-to-day delivery of a large-scale localization program for a multinational gaming publisher. This customer ships localized content across dozens of titles, platforms and languages, and the program spans in-game text, marketing and UA content, cinematics and trailers, and supporting print and digital collateral.</p><p style=\"min-height:1.5em\">You'll act as a key operational point of contact for the account, coordinating linguists, DTP and video specialists, and internal stakeholders to hit release-critical deadlines. This is a hands-on delivery role for someone who has managed localization programs for a game publisher before and is comfortable owning complex, multi-workstream schedules under tight deadlines.</p><h2><strong>Key Responsibilities</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Own end-to-end delivery of localization projects for the account, from initial quoting and scoping through scheduling, resourcing and budget tracking, to final delivery and invoicing, across multiple concurrent titles and languages.</p></li><li><p style=\"min-height:1.5em\">Manage transcreation and marketing localization workstreams, ensuring tone, intent and cultural nuance are preserved for user acquisition, marketing and in-game copy.</p></li><li><p style=\"min-height:1.5em\">Coordinate subtitling, voiceover (AI and human) and video localization for trailers, cinematics and other video assets, including timing, rendering, editing and final QC of localized video files.</p></li><li><p style=\"min-height:1.5em\">Oversee desktop publishing (DTP) workflows for localized packaging, manuals and marketing collateral, working with DTP specialists to maintain layout fidelity across languages.</p></li><li><p style=\"min-height:1.5em\">Run thorough linguistic and mechanical/functional QC on every project, tracking issues to resolution and feeding recurrin",
     "requirements": "",
     "benefits": "",
