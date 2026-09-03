@@ -108911,5 +108911,56 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 119325,
+    "created_at": "2026-09-03 18:21:23",
+    "source": "remoteok",
+    "title": "Data Entry Clerk",
+    "company": "Astrek Careers",
+    "location": "",
+    "url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-astrek-careers-1137286",
+    "salary": "",
+    "tags": [
+      "non tech",
+      "data entry",
+      "admin",
+      "ops"
+    ],
+    "remote": true,
+    "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 119326,
+    "created_at": "2026-09-03 18:21:23",
+    "source": "remoteok",
+    "title": "Grades Person",
+    "company": "Wilco Contractors Northwest Inc.",
+    "location": "Edmonton",
+    "url": "https://remoteOK.com/remote-jobs/remote-grades-person-wilco-contractors-northwest-inc-1137293",
+    "salary": "",
+    "tags": [
+      "math"
+    ],
+    "remote": true,
+    "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Lainnya",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "contract",
+    "is_foreign": true
   }
 ]
