@@ -5,7 +5,19 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Fri, 04 Sep 2026 09:18:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 09:49:25 +0000</lastBuildDate>
+    <item>
+      <title>Senior Technical Architect - Hybrid (Product / Platform) (m/f/d)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/implico-gmbh/senior-technical-architect-hybrid-product-platform-hamburg-434079</link>
+      <guid isPermaLink="false">123458</guid>
+      <pubDate>Fri, 04 Sep 2026 09:49:25 +0000</pubDate>
+      <description>&lt;br&gt;&lt;strong&gt;Your mission&lt;/strong&gt;&lt;p&gt;Cloud Native Node.js &amp; AI-enabled Product with SAP Private Cloud Integration | Senior / Principal Level &lt;br&gt;&lt;br&gt;As Senior Technical Architect – Hybrid, you own the technical design across our two worlds: the cloud-native, AI-enabled product line built on modern Node.js architectures, and its integration into the SAP Private Cloud platform landscape. &lt;br&gt;Your foc</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Hamburg</job:location>
+      <job:company>Implico Gmbh</job:company>
+    </item>
     <item>
       <title>Customer Engineer - Jylland, Denmark</title>
       <link>https://jobicy.com/jobs/150210-customer-engineer-jylland-denmark</link>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location>Germany</job:location>
       <job:company>Gurobioptimization</job:company>
-    </item>
-    <item>
-      <title>Public Area Attendant</title>
-      <link>https://remoteOK.com/remote-jobs/remote-public-area-attendant-four-seasons-1137297</link>
-      <guid isPermaLink="false">120274</guid>
-      <pubDate>Thu, 03 Sep 2026 23:17:09 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Nassau</job:location>
-      <job:company>Four Seasons</job:company>
     </item>
   </channel>
 </rss>
