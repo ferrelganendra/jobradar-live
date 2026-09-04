@@ -112021,5 +112021,29 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 124132,
+    "created_at": "2026-09-04 11:53:38",
+    "source": "arbeitnow",
+    "title": "Senior AI Engineer (Remote)",
+    "company": "Finom",
+    "location": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/finom/senior-ai-engineer-remote-berlin-199448",
+    "salary": "",
+    "tags": [
+      "Artificial intelligence"
+    ],
+    "remote": false,
+    "description": "<div><strong style=\"font-size: 16px;\">About Finom</strong></div>\n<div>&nbsp;</div>\n<div>Finom is a European tech startup headquartered in Amsterdam, and we’re on a journey towards revolutionizing the financial landscape for entrepreneurs worldwide. Our mission is to develop an all-in-one financial B2B solution that integrates banking functions, accounting, financial management, and invoicing into a seamless, mobile-first platform.</div>\n<div>&nbsp;</div>\n<div>We recently closed a <strong>€115 million Series C equity round</strong> (around $133 million), bringing our total funding to approximately $346 million. This significant investment follows a $105 million growth funding round from General Catalyst, a long-term backer since 2021 known for supporting companies like Airbnb, HubSpot, KAYAK, and Stripe.</div>\n<div>&nbsp;</div>\n<div>Finom's platform goes beyond traditional banking, offering invoicing and a growing suite of features, including AI-enabled accounting, aiming to simplify financial management for entrepreneurs. We're actively expanding our reach across key EU markets like Germany, France, the Netherlands, Italy, and Spain.</div>\n<div>&nbsp;</div>\n<div>At Finom, we’re not just redefining the entrepreneurial experience — we’re empowering our employees to make a real difference. Your work matters, and your impact extends far beyond product metrics. We nurture innovation and an inspiring work environment where bold ideas thrive, prioritizing thorough research, swift implementation of solutions, and ensuring that every effort we make benefits our users, employees, partners, and our business as a whole.</div>\n<div>&nbsp;</div>\n<div>Maintaining our start-up spirit, we prioritize thorough research, swift implementation of solutions, and ensuring that every effort we make benefits our users, employees, partners, and, of course, our business.</div><div><br></div><p>We are looking for a <strong>Senior AI Engineer</strong> to design, build, and operate AI systems tha",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "AI",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
