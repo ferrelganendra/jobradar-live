@@ -5,7 +5,127 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Fri, 04 Sep 2026 08:47:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 09:18:22 +0000</lastBuildDate>
+    <item>
+      <title>Customer Engineer - Jylland, Denmark</title>
+      <link>https://jobicy.com/jobs/150210-customer-engineer-jylland-denmark</link>
+      <guid isPermaLink="false">123414</guid>
+      <pubDate>Fri, 04 Sep 2026 09:18:21 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>NCR Voyix</job:company>
+    </item>
+    <item>
+      <title>Helpdesk Support Agent</title>
+      <link>https://jobicy.com/jobs/150148-helpdesk-support-agent</link>
+      <guid isPermaLink="false">123415</guid>
+      <pubDate>Fri, 04 Sep 2026 09:18:21 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>LevelUp</job:company>
+    </item>
+    <item>
+      <title>Part Time Remote Psychiatric Nurse Practitioner - Fee For Service</title>
+      <link>https://jobicy.com/jobs/150151-part-time-remote-psychiatric-nurse-practitioner-fee-for-service-2</link>
+      <guid isPermaLink="false">123416</guid>
+      <pubDate>Fri, 04 Sep 2026 09:18:21 +0000</pubDate>
+      <description></description>
+      <category>Healthcare</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Thriveworks</job:company>
+    </item>
+    <item>
+      <title>Part Time Remote Licensed Talk Therapist - Fee For Service</title>
+      <link>https://jobicy.com/jobs/150149-part-time-remote-licensed-talk-therapist-fee-for-service</link>
+      <guid isPermaLink="false">123417</guid>
+      <pubDate>Fri, 04 Sep 2026 09:18:21 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Thriveworks</job:company>
+    </item>
+    <item>
+      <title>Clinical Provider (Broome - Australia)</title>
+      <link>https://jobicy.com/jobs/150146-clinical-provider-broome-australia</link>
+      <guid isPermaLink="false">123418</guid>
+      <pubDate>Fri, 04 Sep 2026 09:18:21 +0000</pubDate>
+      <description></description>
+      <category>Healthcare</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Intellect</job:company>
+    </item>
+    <item>
+      <title>Senior Software Engineer - MAAS</title>
+      <link>https://jobicy.com/jobs/150127-senior-software-engineer-maas</link>
+      <guid isPermaLink="false">123419</guid>
+      <pubDate>Fri, 04 Sep 2026 09:18:21 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Canonical</job:company>
+    </item>
+    <item>
+      <title>Care Manager</title>
+      <link>https://jobicy.com/jobs/150169-care-manager</link>
+      <guid isPermaLink="false">123420</guid>
+      <pubDate>Fri, 04 Sep 2026 09:18:21 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Centene Corporation</job:company>
+    </item>
+    <item>
+      <title>C, Golang Software Engineer working on dqlite, a Raft extension for SQLite</title>
+      <link>https://jobicy.com/jobs/150128-c-golang-software-engineer-working-on-dqlite-a-raft-extension-for-sqlite</link>
+      <guid isPermaLink="false">123421</guid>
+      <pubDate>Fri, 04 Sep 2026 09:18:21 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Canonical</job:company>
+    </item>
+    <item>
+      <title>Engineering Manager - Python and K8s</title>
+      <link>https://jobicy.com/jobs/150121-engineering-manager-python-and-k8s</link>
+      <guid isPermaLink="false">123422</guid>
+      <pubDate>Fri, 04 Sep 2026 09:18:21 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Canonical</job:company>
+    </item>
+    <item>
+      <title>Technology Alliances Manager</title>
+      <link>https://jobicy.com/jobs/150165-technology-alliances-manager</link>
+      <guid isPermaLink="false">123423</guid>
+      <pubDate>Fri, 04 Sep 2026 09:18:21 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>NetBox Labs</job:company>
+    </item>
     <item>
       <title>Account Executive (SaaS) - Bilingual English / Spanish</title>
       <link>https://jobicy.com/jobs/150164-account-executive-saas-bilingual-english-spanish</link>
@@ -485,126 +605,6 @@
       <job:salary></job:salary>
       <job:location>Nassau</job:location>
       <job:company>Four Seasons</job:company>
-    </item>
-    <item>
-      <title>Backend Engineer III</title>
-      <link>https://jobicy.com/jobs/152499-backend-engineer-iii</link>
-      <guid isPermaLink="false">120275</guid>
-      <pubDate>Thu, 03 Sep 2026 23:17:09 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Monzo</job:company>
-    </item>
-    <item>
-      <title>Director of Acquisition Marketing</title>
-      <link>https://jobicy.com/jobs/152498-director-of-acquisition-marketing</link>
-      <guid isPermaLink="false">120276</guid>
-      <pubDate>Thu, 03 Sep 2026 23:17:09 +0000</pubDate>
-      <description></description>
-      <category>Marketing</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Who Gives A Crap</job:company>
-    </item>
-    <item>
-      <title>Senior Product Manager, AI and Endpoint</title>
-      <link>https://jobicy.com/jobs/152497-senior-product-manager-ai-and-endpoint</link>
-      <guid isPermaLink="false">120277</guid>
-      <pubDate>Thu, 03 Sep 2026 23:17:09 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Teramind</job:company>
-    </item>
-    <item>
-      <title>Director of Engineering, Cloud &amp; Reliability</title>
-      <link>https://jobicy.com/jobs/152496-director-of-engineering-cloud-reliability-2</link>
-      <guid isPermaLink="false">120278</guid>
-      <pubDate>Thu, 03 Sep 2026 23:17:09 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Boulevard</job:company>
-    </item>
-    <item>
-      <title>Backend Engineer - Platform - Stacks | Sweden | Remote</title>
-      <link>https://jobicy.com/jobs/152495-backend-engineer-platform-stacks-sweden-remote</link>
-      <guid isPermaLink="false">120279</guid>
-      <pubDate>Thu, 03 Sep 2026 23:17:09 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Grafana Labs</job:company>
-    </item>
-    <item>
-      <title>Anaplan Support Analyst</title>
-      <link>https://jobicy.com/jobs/152494-anaplan-support-analyst</link>
-      <guid isPermaLink="false">120280</guid>
-      <pubDate>Thu, 03 Sep 2026 23:17:09 +0000</pubDate>
-      <description></description>
-      <category>Support</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Monzo</job:company>
-    </item>
-    <item>
-      <title>AP/AR Lead</title>
-      <link>https://jobicy.com/jobs/152493-ap-ar-lead</link>
-      <guid isPermaLink="false">120281</guid>
-      <pubDate>Thu, 03 Sep 2026 23:17:09 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Who Gives A Crap</job:company>
-    </item>
-    <item>
-      <title>Mid-Market Customer Success Manager EMEA</title>
-      <link>https://jobicy.com/jobs/152492-mid-market-customer-success-manager-emea-2</link>
-      <guid isPermaLink="false">120282</guid>
-      <pubDate>Thu, 03 Sep 2026 23:17:09 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Teramind</job:company>
-    </item>
-    <item>
-      <title>Creative Director</title>
-      <link>https://jobicy.com/jobs/152491-creative-director</link>
-      <guid isPermaLink="false">120283</guid>
-      <pubDate>Thu, 03 Sep 2026 23:17:09 +0000</pubDate>
-      <description></description>
-      <category>Design</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Boulevard</job:company>
-    </item>
-    <item>
-      <title>Backend Engineer - Platform - Stacks | Spain | Remote</title>
-      <link>https://jobicy.com/jobs/152490-backend-engineer-platform-stacks-spain-remote</link>
-      <guid isPermaLink="false">120284</guid>
-      <pubDate>Thu, 03 Sep 2026 23:17:09 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Grafana Labs</job:company>
     </item>
   </channel>
 </rss>
