@@ -111196,5 +111196,29 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 121970,
+    "created_at": "2026-09-04 05:08:52",
+    "source": "arbeitnow",
+    "title": "Senior Strategist, Data & AI (Remote - US, UK, Nigeria, Ethiopia, India or Rwanda)",
+    "company": "Resolvetosavelives",
+    "location": "United States, Nigeria, Ethiopia, India or Rwanda",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/resolvetosavelives/senior-strategist-data-ai-remote-us-uk-nigeria-ethiopia-india-or-rwanda-united-states-nigeria-ethiopia-india-or-rwanda-298614",
+    "salary": "",
+    "tags": [
+      "Executive Office"
+    ],
+    "remote": false,
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span class=&quot;TextRun SCXW142035299 BCX0&quot; lang=&quot;EN-US&quot; data-contrast=&quot;auto&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW142035299 BCX0&quot;&gt;Resolve to Save Lives (RTSL)&lt;/span&gt;&lt;/span&gt;&lt;span data-contrast=&quot;none&quot;&gt; is a global health organization that partners locally and globally to create and scale solutions to the world’s deadliest &lt;/span&gt;&lt;span data-contrast=&quot;none&quot;&gt;health threats. &lt;/span&gt;&lt;span data-contrast=&quot;none&quot;&gt;Millions of people die from preventable health threats. We collaborate to close the gap between proven, life-saving solutions and the people who need them. &lt;/span&gt;&lt;span data-contrast=&quot;none&quot;&gt;Since 2017, &lt;/span&gt;&lt;span data-contrast=&quot;none&quot;&gt;we’ve&lt;/span&gt;&lt;span data-contrast=&quot;none&quot;&gt; worked with governments and other partners in more than 60 countries to save millions of lives. We work toward a future where people live&lt;/span&gt; &lt;span data-contrast=&quot;none&quot;&gt;longer, healthier lives, communities flourish, and economies thrive. This is an ambitious vision, and it inspires us and our partners to make progress every day.&lt;/span&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Position Purpose:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The &lt;strong&gt;Senior Strategist, Data &amp;amp; AI&lt;/strong&gt; strengthens the capacity of RTSL and its government partners to use data, digital systems, and artificial intelligence to improve public health programs and decision-making. Working across RTSL&#39;s program portfolio, the role brings together public health strategy, data architecture, digital transformation, and AI governance to identify high-value opportunities and help translate them into practical, sustainable approaches.&lt;/p&gt;\n&lt;p&gt;The Senior Strategist advises progr",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
