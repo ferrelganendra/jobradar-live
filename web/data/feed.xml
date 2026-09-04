@@ -5,7 +5,55 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Fri, 04 Sep 2026 15:32:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 16:03:12 +0000</lastBuildDate>
+    <item>
+      <title>Working Student, Website &amp; Organic (m/f/d)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/chaos/remote-working-student-website-organic-karlsruhe-162168</link>
+      <guid isPermaLink="false">125473</guid>
+      <pubDate>Fri, 04 Sep 2026 16:03:11 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;**This position is based in Germany with hybrid or remote working options. Applicants must hold a valid work/residence permit for the respective location.**&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height: 1.7em;"&gt;&lt;/p&gt;&lt;p&gt;Chaos is a leading global software company that provides world-class visualization and design solutions, empowering creative minds to bring ideas to life.&lt;/p&gt;&lt;p style="min-height: 1.7</description>
+      <category>Marketing</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote job</job:location>
+      <job:company>Chaos</job:company>
+    </item>
+    <item>
+      <title>Senior Infrastructure DevOps Engineer (100% Remote Germany)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/innocraft/senior-infrastructure-devops-engineer-100-remote-germany-frankfurt-381413</link>
+      <guid isPermaLink="false">125477</guid>
+      <pubDate>Fri, 04 Sep 2026 16:03:11 +0000</pubDate>
+      <description>&lt;div&gt; &lt;p&gt;Architect and scale the cloud platform behind a mission-critical SaaS product used globally.&lt;br&gt;Own infrastructure strategy, reliability, and automation while influencing engineering at scale, reporting to the Cloud DevOps Team Leader.&lt;/p&gt; &lt;/div&gt;&lt;br&gt;&lt;strong&gt;About Innocraft &amp; Matomo&lt;/strong&gt;&lt;br&gt;&lt;div&gt; &lt;p&gt;Matomo is an open-source analytics platform trusted by enterprises, public institutions</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Frankfurt</job:location>
+      <job:company>Innocraft</job:company>
+    </item>
+    <item>
+      <title>QA Engineer</title>
+      <link>https://remoteOK.com/remote-jobs/remote-qa-engineer-sunnydata-1137300</link>
+      <guid isPermaLink="false">125602</guid>
+      <pubDate>Fri, 04 Sep 2026 16:03:11 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>SunnyData</job:company>
+    </item>
+    <item>
+      <title>Store Manager BOSS Store Plaza Las Americas</title>
+      <link>https://remoteOK.com/remote-jobs/remote-store-manager-boss-store-plaza-las-americas-hugo-boss-1137301</link>
+      <guid isPermaLink="false">125603</guid>
+      <pubDate>Fri, 04 Sep 2026 16:03:11 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>San Juan</job:location>
+      <job:company>HUGO BOSS</job:company>
+    </item>
     <item>
       <title>Produktentwickler (Lebensmittel) (m/w/d)</title>
       <link>https://www.arbeitnow.com/jobs/companies/omos-media-gmbh/remote-produktentwickler-lebensmittel-432671</link>
@@ -557,54 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Nebius</job:company>
-    </item>
-    <item>
-      <title>Site Reliability Engineer in Network Infrastructure</title>
-      <link>https://jobicy.com/jobs/150130-site-reliability-engineer-in-network-infrastructure</link>
-      <guid isPermaLink="false">123066</guid>
-      <pubDate>Fri, 04 Sep 2026 08:16:15 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Nebius</job:company>
-    </item>
-    <item>
-      <title>Revenue Accountant</title>
-      <link>https://jobicy.com/jobs/150126-revenue-accountant</link>
-      <guid isPermaLink="false">123067</guid>
-      <pubDate>Fri, 04 Sep 2026 08:16:15 +0000</pubDate>
-      <description></description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Canonical</job:company>
-    </item>
-    <item>
-      <title>Senior Software Engineer (Backend)</title>
-      <link>https://jobicy.com/jobs/150125-senior-software-engineer-backend</link>
-      <guid isPermaLink="false">123068</guid>
-      <pubDate>Fri, 04 Sep 2026 08:16:15 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Canonical</job:company>
-    </item>
-    <item>
-      <title>Systems &amp; Controls Accountant</title>
-      <link>https://jobicy.com/jobs/150124-systems-controls-accountant</link>
-      <guid isPermaLink="false">123069</guid>
-      <pubDate>Fri, 04 Sep 2026 08:16:15 +0000</pubDate>
-      <description></description>
-      <category>Finance</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Canonical</job:company>
     </item>
   </channel>
 </rss>
