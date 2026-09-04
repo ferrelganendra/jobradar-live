@@ -5,7 +5,31 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Fri, 04 Sep 2026 10:51:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 11:22:37 +0000</lastBuildDate>
+    <item>
+      <title>Urban walker</title>
+      <link>https://remoteOK.com/remote-jobs/remote-urban-walker-walkr-turn-your-google-meet-walk-friendly-1137296</link>
+      <guid isPermaLink="false">124113</guid>
+      <pubDate>Fri, 04 Sep 2026 11:22:36 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>London Area</job:location>
+      <job:company>walkr - turn your Google Meet walk-friendly</job:company>
+    </item>
+    <item>
+      <title>Office Maid</title>
+      <link>https://remoteOK.com/remote-jobs/remote-office-maid-hacksaw-gaming-1137306</link>
+      <guid isPermaLink="false">124114</guid>
+      <pubDate>Fri, 04 Sep 2026 11:22:36 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Msida</job:location>
+      <job:company>Hacksaw Gaming</job:company>
+    </item>
     <item>
       <title>Freelancer/in (m/w/d) Recruiting</title>
       <link>https://www.arbeitnow.com/jobs/companies/ohawo-gmbh/freelancer-in-recruiting-dusseldorf-67573</link>
@@ -581,30 +605,6 @@
       <job:salary></job:salary>
       <job:location>Remote - United Kingdom</job:location>
       <job:company>Rasa</job:company>
-    </item>
-    <item>
-      <title>Engineering Manager</title>
-      <link>https://www.arbeitnow.co.uk/jobs/companies/relay/engineering-manager-london-409630</link>
-      <guid isPermaLink="false">121108</guid>
-      <pubDate>Fri, 04 Sep 2026 02:32:56 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;Relay is fundamentally reshaping how goods move in an online era.&lt;/strong&gt; Backed by Europe’s largest-ever logistics Series A ($35M), led by deep-tech investors Plural (whose portfolio spans fusion energy and space exploration), Relay is scaling faster than 99.98% of venture-backed startups. We're assembling the most talent-dense team the logistics industry has </description>
-      <category>Marketing</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>London - Hybrid</job:location>
-      <job:company>Relay</job:company>
-    </item>
-    <item>
-      <title>Graduate Software Engineer</title>
-      <link>https://www.arbeitnow.co.uk/jobs/companies/relay/graduate-software-engineer-london-465973</link>
-      <guid isPermaLink="false">121109</guid>
-      <pubDate>Fri, 04 Sep 2026 02:32:56 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;Relay is fundamentally reshaping how goods move in an online era.&lt;/strong&gt; Backed by Europe’s largest-ever logistics Series A ($35M), led by deep-tech investors Plural (whose portfolio spans fusion energy and space exploration), Relay is scaling faster than 99.98% of venture-backed startups. We're assembling the most talent-dense team the logistics industry has </description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>London - Hybrid</job:location>
-      <job:company>Relay</job:company>
     </item>
   </channel>
 </rss>
