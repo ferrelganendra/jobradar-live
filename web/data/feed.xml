@@ -5,7 +5,43 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Fri, 04 Sep 2026 06:42:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 07:14:14 +0000</lastBuildDate>
+    <item>
+      <title>Machine Learning Engineer / MLOps Engineer (m/w/d)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/machine-learning-engineer-mlops-engineer-stuttgart-493718</link>
+      <guid isPermaLink="false">122562</guid>
+      <pubDate>Fri, 04 Sep 2026 07:14:14 +0000</pubDate>
+      <description>&lt;p&gt;Du baust produktive KI-Systeme (LLM, RAG, Agenten) für große Kunden im öffentlichen Sektor. Kein Prototyp für die Schublade, sondern Software, die im Regelbetrieb läuft.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Wer wir sind&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Rockstardevelopers, gegründet 2015, Büros in Stuttgart und München. Aus hunderten Projekten für Enterprise- und Mittelstandskunden wissen wir, wie man Software baut, die im Ernstfall </description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Stuttgart</job:location>
+      <job:company>Rockstardevelopers GmbH</job:company>
+    </item>
+    <item>
+      <title>Senior Site Reliability Engineer / SRE - Kubernetes &amp; Hybrid Cloud (m/f/d)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/factfinder/senior-site-reliability-engineer-sre-kubernetes-hybrid-cloud-berlin-136254</link>
+      <guid isPermaLink="false">122563</guid>
+      <pubDate>Fri, 04 Sep 2026 07:14:14 +0000</pubDate>
+      <description>&lt;h2&gt;Introduction&lt;/h2&gt; &lt;h2&gt;At a glance&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Location &amp;workmodel:Berlin, hybrid&lt;/li&gt; &lt;li&gt;Tech stack:Kubernetes on our own servers, Harvester (KubeVirt), Argo CD/Flux, Prometheus/Grafana, Longhorn/Ceph&lt;/li&gt; &lt;li&gt;Team:A growing SRE team – you report to our CTPO for now and to the Team Lead SREwe'rehiring next; two system administrators in Pforzheim run the physical hardware&lt;/li&gt; &lt;li&gt;Process:In</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Berlin</job:location>
+      <job:company>FactFinder</job:company>
+    </item>
+    <item>
+      <title>(Senior) Marketing Manager - Events &amp; Partnerships (d/w/m*)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/pixxio/senior-marketing-manager-events-partnerships-hybrid-munchen-248774</link>
+      <guid isPermaLink="false">122581</guid>
+      <pubDate>Fri, 04 Sep 2026 07:14:14 +0000</pubDate>
+      <description>&lt;br&gt;&lt;strong&gt;Warum wir?&lt;/strong&gt;&lt;p&gt;Bei &lt;strong&gt;pixx.io&lt;/strong&gt; bist du Teil eines ambitionierten und unterstützenden Teams, das ein gemeinsames Ziel verfolgt: Unseren über 1.600 Kunden eine erstklassige SaaS-Lösung für Digital Asset Management (DAM) zu bieten und gleichzeitig neue Unternehmen von unserer Software zu begeistern. Gemeinsam machen wir digitales Arbeiten smarter und erfolgreicher – un</description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Hybrid/München</job:location>
+      <job:company>Pixxio</job:company>
+    </item>
     <item>
       <title>Senior Strategist, Data &amp; AI (Remote - US, UK, Nigeria, Ethiopia, India or Rwanda)</title>
       <link>https://www.arbeitnow.co.uk/jobs/companies/resolvetosavelives/senior-strategist-data-ai-remote-us-uk-nigeria-ethiopia-india-or-rwanda-united-states-nigeria-ethiopia-india-or-rwanda-298614</link>
@@ -569,42 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Vonage</job:company>
-    </item>
-    <item>
-      <title>Account Executive, Mid Market (Midwest)</title>
-      <link>https://jobicy.com/jobs/152479-account-executive-mid-market-midwest</link>
-      <guid isPermaLink="false">120075</guid>
-      <pubDate>Thu, 03 Sep 2026 22:25:27 +0000</pubDate>
-      <description></description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Samsara</job:company>
-    </item>
-    <item>
-      <title>Sales Development Representative (Portuguese Speaking)</title>
-      <link>https://jobicy.com/jobs/152478-sales-development-representative-portuguese-speaking</link>
-      <guid isPermaLink="false">120076</guid>
-      <pubDate>Thu, 03 Sep 2026 22:25:27 +0000</pubDate>
-      <description></description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Vonage</job:company>
-    </item>
-    <item>
-      <title>Account Executive, Majors (Select) - UK&amp;I</title>
-      <link>https://jobicy.com/jobs/152477-account-executive-majors-select-uki</link>
-      <guid isPermaLink="false">120077</guid>
-      <pubDate>Thu, 03 Sep 2026 22:25:27 +0000</pubDate>
-      <description></description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Samsara</job:company>
     </item>
   </channel>
 </rss>
