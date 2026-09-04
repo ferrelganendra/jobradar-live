@@ -5,7 +5,19 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Fri, 04 Sep 2026 11:53:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 12:24:41 +0000</lastBuildDate>
+    <item>
+      <title>MRO Buyer</title>
+      <link>https://remoteOK.com/remote-jobs/remote-mro-buyer-u-p-pro-1137303</link>
+      <guid isPermaLink="false">124458</guid>
+      <pubDate>Fri, 04 Sep 2026 12:24:41 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Visakhapatnam Rural mandal</job:location>
+      <job:company>U.P.PRO</job:company>
+    </item>
     <item>
       <title>Senior AI Engineer (Remote)</title>
       <link>https://www.arbeitnow.com/jobs/companies/finom/senior-ai-engineer-remote-berlin-199448</link>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location>Kirkwall</job:location>
       <job:company>Scottish Police Authority</job:company>
-    </item>
-    <item>
-      <title>Senior Manager, Clinical Operations</title>
-      <link>https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/remote-senior-manager-clinical-operations-363761</link>
-      <guid isPermaLink="false">121102</guid>
-      <pubDate>Fri, 04 Sep 2026 02:32:56 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Position Summary:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The Senior Manager, Clinical Operations – Clinical Process Owner is responsible for leading the governance, harmonization, and continuous improvement of Clinical Operations processes across the organization. The role owns the development, simplification, alignment, and lifecycle management of Clinical Operations SOPs, work instructions, tools, templates</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Precisionmedicinegroup</job:company>
     </item>
   </channel>
 </rss>
