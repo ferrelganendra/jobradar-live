@@ -114325,5 +114325,29 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 130916,
+    "created_at": "2026-09-05 08:08:24",
+    "source": "arbeitnow",
+    "title": "Courses and Memberships Sales Associate",
+    "company": "Pmmalliance",
+    "location": "Hybrid or Fully Remote",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/pmmalliance/courses-and-memberships-sales-associate-dalston-247170",
+    "salary": "",
+    "tags": [
+      "Sales"
+    ],
+    "remote": false,
+    "description": "<h2>The Company</h2><p style=\"min-height:1.5em\">When it comes to digital communities, <strong>The Alliance</strong> is leading the way. Product marketing, sales enablement, product-led growth, AI, customer success, CMOs, you name it, we’re home to thriving communities for them all.</p><p style=\"min-height:1.5em\">With <strong>160,000+ professionals</strong> across our communities and a constant stream of certifications, memberships, and learning products, we help individuals and teams grow faster in their careers. We work with some of the world’s most recognisable companies and pride ourselves on being a <strong>high-impact learning partner</strong>, not just another events business.</p><p style=\"min-height:1.5em\">We’re ambitious, we move quickly, and we’re still early in the journey. That means real ownership, a steep learning curve, and plenty of opportunity to shape what comes next.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><h2>About the Role</h2><p style=\"min-height:1.5em\">We’re hiring <strong>Sales Associates</strong> to join our <strong>Education &amp; Membership Sales team</strong>, people with energy, curiosity, and the drive to build a career in commercial roles.</p><p style=\"min-height:1.5em\">Your primary focus will be selling our <strong>professionals certifications,  memberships, and online learning solutions</strong> in global markets. You will manage the end-to-end cycle while getting comfortable with engaging senior decision-makers at leading tech companies. Over time, this role can progress into more senior sales or specialist commercial paths across the business.</p><p style=\"min-height:1.5em\">This role is not about arriving fully formed, it’s about building and proving confidence, capability, and momentum through doing.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><h2>W",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
