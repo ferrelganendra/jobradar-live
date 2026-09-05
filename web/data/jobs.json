@@ -114008,5 +114008,53 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 128811,
+    "created_at": "2026-09-05 01:53:38",
+    "source": "arbeitnow",
+    "title": "Head of SEO",
+    "company": "1St%20Formations",
+    "location": "Covent Garden - Hybrid",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/1st20formations/head-of-seo-london-131211",
+    "salary": "",
+    "tags": [
+      "Marketing"
+    ],
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\"><strong>About 1st Formations</strong></p><p style=\"min-height:1.5em\">At 1st Formations, we empower entrepreneurs to start, run, and grow their businesses with confidence.</p><p style=\"min-height:1.5em\">Running a business shouldn’t be slowed down by company formation, statutory compliance, accounting, or payroll. From day one, these essentials should be seamless, reliable, and intelligently handled — freeing founders to focus on building and scaling.</p><p style=\"min-height:1.5em\">We’re a leading UK provider of company formation and compliance services, building a modern, fully integrated technology platform that supports founders at every stage of their journey. Our platform brings together formation, compliance, accounting, payroll, and ongoing business support in one cohesive experience.</p><p style=\"min-height:1.5em\">No stitched-together services.<br />No legacy workflows disguised as software.</p><p style=\"min-height:1.5em\">Just a single, scalable platform built for ambitious founders who want to move fast, stay compliant, and grow with confidence.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Why Join Us Now?</strong></p><p style=\"min-height:1.5em\">You’ll be joining a business with strong momentum, clear direction, and real opportunity for progression.</p><p style=\"min-height:1.5em\">· £18m annual revenue, including £9m ARR</p><p style=\"min-height:1.5em\">· Over 1 million companies formed</p><p style=\"min-height:1.5em\">· Certified B Corp and Carbon Neutral Business</p><p style=\"min-height:1.5em\">· Forecast to grow 5x–10x over the next three years</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>The Role</strong></p><p style=\"min-height:1.5em\">We are looking for a strategic and data-driven Head of SEO to lead and scale our organic growth efforts. In this key leadership role, you will be responsible for developing and executing a comprehensive SEO strategy that boosts visibility, drives qual",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 128813,
+    "created_at": "2026-09-05 01:53:38",
+    "source": "arbeitnow",
+    "title": "Enterprise Sales Development Representative (SDR)",
+    "company": "Pencil",
+    "location": "United Kingdom - Manchester (remote)",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/pencil/enterprise-sales-development-representative-sdr-manchester-124126",
+    "salary": "USD 25K",
+    "tags": [
+      "Growth"
+    ],
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\">Some of the world's biggest brands already run their advertising on our AI platform. We're moving fast, want to help us build the pipeline that gets us there?</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">At Pencil, we've built the operating system for AI-made advertising, the platform that aggregates every major AI model, so creative and marketing teams go from brief to finished asset without stitching tools together themselves. Our mission is to make AI the default in advertising without replacing creative people and we're leading that shift today: running production at scale for some of the world's biggest brands like L'Oréal, Unilever, Bayer, Diageo, and more with the legal, security, and procurement rigor enterprise clients require.<br />We're backed by The Brandtech Group, a $4B marketing technology company that also owns Oliver and Jellyfish, giving us the scale and reach to work with the world's largest advertisers.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>What we're looking for</strong>: A driven Senior Sales Development Representative with a genuine enthusiasm for AI, to drive our enterprise and mid-market growth. In this role, you'll identify and qualify new leads, build pipeline, and schedule meetings and demos for our enterprise and mid-market sales teams. You'll play a key role in bringing net-new clients to Pencil, working deals starting at $25K in annual contract value. This role and its process have already been validated and you'll be instrumental in driving a significant share of the opportunities we create.</p><p style=\"min-height:1.5em\">At Pencil, we believe that great work comes from great people. We foster a culture of collaboration, creativity and continuous learning, where your ideas are valued and your growth is supported. With flexible working from home arrangements, a focus on innovation and a team that celebrates wins together, Pencil is a place where you can make",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "IT",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]

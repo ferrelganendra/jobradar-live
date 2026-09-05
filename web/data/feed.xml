@@ -5,7 +5,31 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Sat, 05 Sep 2026 01:22:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 01:53:42 +0000</lastBuildDate>
+    <item>
+      <title>Head of SEO</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/1st20formations/head-of-seo-london-131211</link>
+      <guid isPermaLink="false">128811</guid>
+      <pubDate>Sat, 05 Sep 2026 01:53:38 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;About 1st Formations&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;At 1st Formations, we empower entrepreneurs to start, run, and grow their businesses with confidence.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Running a business shouldn’t be slowed down by company formation, statutory compliance, accounting, or payroll. From day one, these essentials should be seamless, reliabl</description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Covent Garden - Hybrid</job:location>
+      <job:company>1St%20Formations</job:company>
+    </item>
+    <item>
+      <title>Enterprise Sales Development Representative (SDR)</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/pencil/enterprise-sales-development-representative-sdr-manchester-124126</link>
+      <guid isPermaLink="false">128813</guid>
+      <pubDate>Sat, 05 Sep 2026 01:53:38 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;Some of the world's biggest brands already run their advertising on our AI platform. We're moving fast, want to help us build the pipeline that gets us there?&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;At Pencil, we've built the operating system for AI-made advertising, the platform that aggregates every major AI model, so creative and marketing team</description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary>USD 25K</job:salary>
+      <job:location>United Kingdom - Manchester (remote)</job:location>
+      <job:company>Pencil</job:company>
+    </item>
     <item>
       <title>Sales Executive - Germany (Remote)</title>
       <link>https://www.arbeitnow.com/jobs/companies/anyvan/sales-executive-germany-remote-236584</link>
@@ -581,30 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Worldly</job:company>
-    </item>
-    <item>
-      <title>Technical Consultant, S/4HANA</title>
-      <link>https://jobicy.com/jobs/152524-technical-consultant-s-4hana</link>
-      <guid isPermaLink="false">126096</guid>
-      <pubDate>Fri, 04 Sep 2026 17:36:27 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Ramp</job:company>
-    </item>
-    <item>
-      <title>Product Security Analyst</title>
-      <link>https://jobicy.com/jobs/152523-product-security-analyst</link>
-      <guid isPermaLink="false">126097</guid>
-      <pubDate>Fri, 04 Sep 2026 17:36:27 +0000</pubDate>
-      <description></description>
-      <category>Data</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>HackerOne</job:company>
     </item>
   </channel>
 </rss>
