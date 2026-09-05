@@ -115062,5 +115062,29 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 131817,
+    "created_at": "2026-09-05 10:45:18",
+    "source": "arbeitnow",
+    "title": "Business Development Representative",
+    "company": "Dualentry",
+    "location": "London, UK (Hybrid)",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/dualentry/business-development-representative-london-34530",
+    "salary": "",
+    "tags": [
+      "Sales"
+    ],
+    "remote": false,
+    "description": "<h1><strong>About DualEntry</strong></h1><p style=\"min-height:1.5em\">DualEntry is building the OS for finance.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><p style=\"min-height:1.5em\">Every business needs a financial system of record, yet the world's largest fintech market ($220B+) still runs on software from the 1990s. DualEntry's AI-native ERP automates accounting from data entry to close, so finance teams move faster, spend less and incur less risk.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><p style=\"min-height:1.5em\">In just 2 years we've raised $100M+ from Lightspeed, Khosla Ventures, Contrary and Google Ventures and earned the trust of customers from $5M ARR to publicly traded companies.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><p style=\"min-height:1.5em\">We hire <em><strong>outliers</strong></em> - people who have achieved difficult things, in their careers or beyond. You'll find leaders, colleagues who've competed at the highest levels of sport, performed on Broadway, trained with UFC champions and founded the country’s largest Python community.</p><p style=\"min-height:1.5em\"></p><div><div style=\"left:0;width:100%;height:0;position:relative;padding-bottom:56.338%\"><iframe src=\"https://embedded-media.ashbyhq.com/embed/90a003a5-39b1-4b2c-b1f7-cd8c1761ad1d/b986c500-921d-4566-bb1d-a9bd0644237d\" style=\"top:0;left:0;width:100%;height:100%;position:absolute;border:0\" allowfullscreen scrolling=\"no\" allow=\"encrypted-media *; picture-in-picture *;\" sandbox=\"allow-scripts allow-same-origin allow-presentation\"></iframe></div></div><p style=\"min-height:1.5em\"></p><h1><strong>Where You'll Create Impact</strong></h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Drive high-volume ERP lead generation and engage with prospects</p></li><li><p style=\"min-height:1.5em\">GTM process improvement and experimentation (creative outbound strategies, sales velocity improvements, etc.)</p></li><",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
