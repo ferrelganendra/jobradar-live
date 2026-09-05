@@ -113962,19 +113962,43 @@
     "is_foreign": true
   },
   {
-    "id": 128242,
-    "created_at": "2026-09-05 00:20:25",
+    "id": 128381,
+    "created_at": "2026-09-05 00:51:28",
+    "source": "arbeitnow",
+    "title": "Werkstudent (m/w/d) - Finance & Beratung (unternehmerisch, leistungsbasiert)",
+    "company": "Kevin Kehr",
+    "location": "Homeoffice",
+    "url": "https://www.arbeitnow.com/jobs/companies/kevin-kehr/remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-381067",
+    "salary": "",
+    "tags": [
+      "Remote"
+    ],
+    "remote": true,
+    "description": "<p><span style=\"color:#000000\">Du studierst und willst mehr als einen „Nebenjob“? Du willst Verantwortung, klare Ziele und ein Umfeld, in dem Leistung zählt? Dann ist diese Werkstudentenrolle dein Einstieg in die Finanzberatung, mit strukturiertem Onboarding, Coaching und einem klaren Weg in ein Trainee-Programm.</span></p><p><span style=\"color:#000000\">Diese Rolle ist unternehmerisch geprägt und bietet dir die Möglichkeit, dich aktiv einzubringen, Verantwortung zu übernehmen und dich fachlich wie persönlich weiterzuentwickeln. Leistung und Eigeninitiative spielen dabei eine zentrale Rolle, gleichzeitig wirst du durch strukturiertes Onboarding, Coaching und ein erfahrenes Team unterstützt.</span></p><p><span style=\"color:#000000\">Sehr gute Deutschkenntnisse (C1+) sind erforderlich, da die Ausbildung, die Kommunikation im Team sowie die Perspektive Richtung IHK vollständig auf Deutsch stattfinden.</span></p><p style=\"min-height: 1.7em;\"></p><h3 style=\"text-align:start;\"><strong>Dein Aufgabenbereich</strong></h3><p><span style=\"color:#000000\">Startphase (erste Wochen):</span></p><ul><li><p><strong>Terminaufbau:</strong> Du vereinbarst Kundentermine (Telefon, Netzwerk, Leads) und baust eine saubere Pipeline auf.</p></li><li><p><strong>Prozesslernen:</strong> Du lernst Gesprächsleitfäden, Bedarfsermittlung, Nachbereitung und Dokumentationsstandards.</p></li><li><p><strong>Performance-Optimierung:</strong> Du arbeitest mit KPIs, bekommst Feedback und verbesserst systematisch deine Ergebnisse. </p></li></ul><p style=\"min-height: 1.7em;\"></p><p>Im weiteren Verlauf: </p><ul><li><p><strong>Analyse &amp; Vorbereitung:</strong> Du unterstützt bei der Analyse von Kundensituationen und bereitest Beratungsunterlagen strukturiert vor.</p></li></ul><ul><li><p><strong>Kundenkontakt:</strong><span style=\"color:#000000\"> Du begleitest Gespräche (je nach Stand), übernimmst Follow-ups und sorgst für klare nächste Schritte.</span></p></li><li><p><strong>Dokumentation &amp; Organisation:<",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Finance",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 128519,
+    "created_at": "2026-09-05 00:51:28",
     "source": "arbeitnow",
     "title": "Sales Executive - Germany (Remote)",
     "company": "AnyVan",
     "location": "Remote",
-    "url": "https://www.arbeitnow.com/jobs/companies/anyvan/sales-executive-germany-remote-236584",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/anyvan/sales-executive-germany-remote-361508",
     "salary": "",
     "tags": [
       "Commercial"
     ],
-    "remote": true,
-    "description": "<p style=\"min-height:1.5em\">Got Drive?  Join AnyVan as we make moving anything, anywhere miles better and build a career that moves just as fast.  <br /></p><p style=\"min-height:1.5em\"><br />Back in 2009, our Chairman Angus saw half-empty vans everywhere and knew there had to be a better way!  That's how AnyVan began.   He set out to create the world's most efficient logistics technology and help halve the number of wasted miles by filling those empty vans.   <br /></p><p style=\"min-height:1.5em\"><br />Since then we've become the nation's favourite way to move, with over 150k five-star reviews and 5 million customers in the UK and Europe.  Our team of 400 AnyVanners across London, Cape Town and Bogota is proving that moving doesn't have to cost the earth by helping save 8,520 tonnes of Carbon each year.   <br /> </p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Big Energy. Big Deals. Big Paydays.<br /><br /></strong>Tired of jobs that feel like groundhog day? At AnyVan, you get the thrill of the chase <em>without</em> the boring stuff. We hand you warm leads, you bring the hustle, and together we make big moves (literally…we move houses, pianos, hot tubs, you name it - we've got a van for that!).</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Your Day-to-Day</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Speak with German customers (in German) who <em>already need us</em> (warm leads only).</p></li><li><p style=\"min-height:1.5em\">Build trust, upsell smartly, and close with confidence.</p></li><li><p style=\"min-height:1.5em\">Manage your pipeline like it’s your own business.</p></li><li><p style=\"min-height:1.5em\">Collaborate with your manager to keep levelling up.</p></li><li><p style=\"min-height:1.5em\">Share insights that help shape our growth.</p><p style=\"min-height:1.5em\"></p></li></ul><p style=\"min-height:1.5em\"><strong>What You Won’t Be Doing</strong></p><ul style=\"min-height:1.5em\"><li><p ",
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\">Got Drive?  Join AnyVan as we make moving anything, anywhere miles better and build a career that moves just as fast.  <br /></p><p style=\"min-height:1.5em\"><br />Back in 2009, our CEO Angus saw half-empty vans everywhere and knew there had to be a better way!  That's how AnyVan began.   He set out to create the world's most efficient logistics technology and help halve the number of wasted miles by filling those empty vans.   <br /></p><p style=\"min-height:1.5em\"><br />Since then we've become the nation's favourite way to move, with over 150k five-star reviews and 5 million customers in the UK and Europe.  Our team of 400 AnyVanners across London, Cape Town and Bogota is proving that moving doesn't have to cost the earth by helping save 8,520 tonnes of Carbon each year.   <br /> </p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Big Energy. Big Deals. Big Paydays.<br /><br /></strong>Tired of jobs that feel like groundhog day? At AnyVan, you get the thrill of the chase <em>without</em> the boring stuff. We hand you warm leads, you bring the hustle, and together we make big moves (literally…we move houses, pianos, hot tubs, you name it - we've got a van for that!).</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Your Day-to-Day</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Speak with German customers (in German) who <em>already need us</em> (warm leads only).</p></li><li><p style=\"min-height:1.5em\">Build trust, upsell smartly, and close with confidence.</p></li><li><p style=\"min-height:1.5em\">Manage your pipeline like it’s your own business.</p></li><li><p style=\"min-height:1.5em\">Collaborate with your manager to keep levelling up.</p></li><li><p style=\"min-height:1.5em\">Share insights that help shape our growth.</p><p style=\"min-height:1.5em\"></p></li></ul><p style=\"min-height:1.5em\"><strong>What You Won’t Be Doing</strong></p><ul style=\"min-height:1.5em\"><li><p style",
     "requirements": "",
     "benefits": "",
     "is_it": false,
