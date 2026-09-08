@@ -118452,13 +118452,85 @@
     "is_foreign": true
   },
   {
-    "id": 135771,
-    "created_at": "2026-09-08 19:06:41",
+    "id": 135908,
+    "created_at": "2026-09-08 19:51:21",
+    "source": "arbeitnow",
+    "title": "Director, Customer Success, EMEA",
+    "company": "gitlab",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-director-customer-success-emea-103361",
+    "salary": "",
+    "tags": [
+      "Customer Success"
+    ],
+    "remote": false,
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt;\n&lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt;\n&lt;p&gt;*&lt;em&gt;Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;Position overview&lt;/h3&gt;\n&lt;p&gt;GitLab is looking for a strategic, commercially minded, and operationally rigorous Director of Customer Success to lead our EMEA Customer Success Management &amp;amp; Architecture (CSMA) and Customer Success Engineering (CSE) organizations.&lt;/p&gt;\n&lt;p&gt;This leader will own the regional customer-success operating model across relationship management, adoption archit",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Marketing",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 135909,
+    "created_at": "2026-09-08 19:51:21",
+    "source": "arbeitnow",
+    "title": "Product Manager",
+    "company": "remotewoman",
+    "location": "Remote • Germany, Canada, France",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/remotewoman/remote-product-manager-345853",
+    "salary": "",
+    "tags": [
+      "Product & Engineering"
+    ],
+    "remote": false,
+    "description": "&lt;h1&gt;&lt;span style=&quot;font-size: 14pt; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;strong&gt;About Upsun (formerly Platform.sh)&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Upsun is the cloud application platform humans and robots love. It is built for today’s hybrid teams, where AI agents write and test code and humans focus on solving the problems that really matter. Developers, DevOps engineers, and platform teams use Upsun to build, ship, and scale confidently without wrestling with backend infrastructure. We give you your time back. You get:&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Predictable performance, even at scale &lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Secure, compliant environments by default&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Real-time observability and profiling built in &lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Cloning, configuration, and provisioning in seconds&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;AI-ready features that plug directly into your stack &lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;The name says it all. &quot;Up&quot; means uptime, reliability, and acceleration. &quot;Sun&quot; reflects our follow-the-sun-support, a 24x7, globally distributed support team keeping the lights on while you rest. Our core belief is that software should power brighter solutions and greater innovation. &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Upsunners are a remote, global workforce, an",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "IT",
+    "industry": "Support",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 135912,
+    "created_at": "2026-09-08 19:51:21",
+    "source": "arbeitnow",
+    "title": "Senior Mobile Engineer",
+    "company": "Relay",
+    "location": "London - Hybrid",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/relay/senior-mobile-engineer-london-410384",
+    "salary": "",
+    "tags": [
+      "Technology"
+    ],
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\"><strong>Relay is fundamentally reshaping how goods move in an online era.</strong> Backed by Europe’s largest-ever logistics Series A ($35M), led by deep-tech investors Plural (whose portfolio spans fusion energy and space exploration), Relay is scaling faster than 99.98% of venture-backed startups. We're assembling the most talent-dense team the logistics industry has ever seen</p><p style=\"min-height:1.5em\"><strong>Relay’s Mission is</strong> to <strong>free commerce from friction</strong>. Today, high delivery costs act as a hidden tax on e-commerce, quietly shaping what can be sold online and limiting who can participate. We envision a world where <strong>more goods move more freely between more people</strong>, making the online shopping experience seamless and accessible to everyone.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>THE TEAM<br /></strong>• <strong>~110 people</strong>, more than <strong>half</strong> in engineering, product and data<br />• <strong>45+ advanced degrees</strong> across computer science, mathematics and operations research<br />• <strong>Thousands</strong> of data points captured, calculated, analysed and predicted for every single parcel we handle<br />• An intellectually vibrant culture of <strong>first‑principles thinking</strong>, tight feedback loops and relentless experimentation</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Work Alongside Industry Leaders</strong></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Diego Protas – Director of Engineering</strong></p><p style=\"min-height:1.5em\">Diego, an expert in distributed systems and hardware architecture, merging physical computing with enterprise-scale infrastructure. Previously directing teams of 170+ engineers at Mercado Libre and orchestrating large-scale ML-based inference at Meta. At Relay, Diego’s infectious enthusiasm and hands-on leadership are redefining the boundarie",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Marketing",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 135961,
+    "created_at": "2026-09-08 19:51:21",
     "source": "arbeitnow",
     "title": "Talent Lead",
     "company": "Whitecircle",
     "location": "Remote",
-    "url": "https://www.arbeitnow.fr/jobs/companies/whitecircle/remote-talent-lead-416964",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/whitecircle/remote-talent-lead-46275",
     "salary": "",
     "tags": [
       "Operations"
