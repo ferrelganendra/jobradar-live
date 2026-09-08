@@ -102080,30 +102080,6 @@
     "is_foreign": false
   },
   {
-    "id": 107800,
-    "created_at": "2026-09-02 07:14:11",
-    "source": "arbeitnow",
-    "title": "On Holiday Support Agent",
-    "company": "loveholidays",
-    "location": "Remote",
-    "url": "https://www.arbeitnow.com/jobs/companies/loveholidays/remote-on-holiday-support-agent-210367",
-    "salary": "",
-    "tags": [
-      "Customer Experience"
-    ],
-    "remote": true,
-    "description": "<p style=\"min-height:1.5em\"><strong>Why loveholidays?</strong></p><p style=\"min-height:1.5em\">At loveholidays - <strong>we trailblaze together</strong>. We’re on a mission to open the world to everyone, giving our customers’ unlimited choice, unmatched ease and unmissable value for their next getaway. Our team is the driving force behind our role as our customers’ personal holiday expert - the smart way to get away.</p><p style=\"min-height:1.5em\">Here, we're doing things differently to open the world to everyone, and our <em>Customer Experience team</em> is at the forefront of <strong>driving cutting-edge innovation</strong>. Join our fast-growing business where your ideas are heard and new thinking shapes how millions book their holidays.</p><p style=\"min-height:1.5em\">You'll <strong>accelerate your growth</strong> in our fast-paced environment, tackling daily challenges and learning from inspiring leaders and teammates. Be <strong>empowered to create impact for our future</strong> by shaping the most-loved package holiday experience for millions. As we pursue <strong>ambitious plans to expand across Europe</strong>, you'll be part of a fun-loving international community achieving great things together.<br /><br /></p><p style=\"min-height:1.5em\"><strong>About the team:</strong></p><p style=\"min-height:1.5em\">The On Holiday Support team helps customers resolve issues that arise while they are away. This can include transfer problems, accommodation concerns, supplier issues, flight disruption and other unexpected situations that may affect a customer’s holiday.</p><p style=\"min-height:1.5em\">Customers may contact us when they are tired, worried, frustrated or unsure what to do next. Our role is to listen, understand what has happened and take ownership of finding the most appropriate resolution.</p><p style=\"min-height:1.5em\">You will be part of the UK On Holiday Support team and report to an On Holiday Support Team Leader. You will also work closely with colleagues ",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
-    "industry": "Marketing",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 107820,
     "created_at": "2026-09-02 07:14:11",
     "source": "arbeitnow",
@@ -117849,13 +117825,86 @@
     "is_foreign": true
   },
   {
-    "id": 135018,
-    "created_at": "2026-09-08 17:31:00",
+    "id": 135113,
+    "created_at": "2026-09-08 18:03:11",
+    "source": "arbeitnow",
+    "title": "Praktikant:in als LLM /RAG & Machine Learning Engineer (m/w/d)",
+    "company": "U-Glow GmbH",
+    "location": "Mülheim",
+    "url": "https://www.arbeitnow.com/jobs/companies/u-glow-gmbh/praktikantin-als-llm-rag-machine-learning-engineer-mulheim-96338",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Software Development"
+    ],
+    "remote": true,
+    "description": "<p>Du willst in einem jungen Tech-Team arbeiten und begeisterst Dich für KI, LLM und RAG für industrielle Einsatzzwecke? Dann werde Teil unseres Machine Learning Expert Teams und hilf uns dabei, Spezialwissen über ChatBots zugänglich zu machen!</p>\n<p>Wir entwickeln KI-basierte Lösungen, die für Betriebspersonal, Trainings und Schulungen zum Einsatz kommt und bei einer nachhaltigen Kompetenzentwicklung unterstützt.</p>\n<h2>Aufgaben</h2>\n<ul>\n<li>Du entwickelst KI-Systeme bestehend aus LLM, RAG, Datenbanken, Parsern, digitalen Avataren und individuellen Python-Funktionen</li>\n<li>Du analysierst die Retrieval-Qualität und Usability systematisch und optimierst eigenständig</li>\n<li>Du setzt generative KI für Vibe Coding ein, um schnell hochwerte Software zu implementieren</li>\n<li>Du entwickelst eine Pipelines und Modelle in Python und stellst die Qualität über ein anspruchsvolles Testskonzept sicher</li>\n<li>Du unterstützt dabei, die Pipeline-Architektur zu optimieren</li>\n<li>Du nimmst an kurzen Team-Meetings teil und arbeitest eng mit verschiedenen Abteilungen zusammen.</li>\n</ul>\n<h2>Qualifikation</h2>\n<ul>\n<li>Du studierst Informatik, Data Science, Geo-Informatik oder ein verwandtes Fach.</li>\n<li>Du hast Erfahrung mit Python, Cursor oder VS-Code und GIT</li>\n<li>Du hast Interesse an LLM, RAG und digitalen Avataren</li>\n<li>Du arbeitest strukturiert, selbstständig und lösungsorientiert.</li>\n<li>Du bringst idealerweise erste GitHub-Projekte, Commits oder eigene Repositories mit.</li>\n<li>Du hast Lust, Verantwortung zu übernehmen und neue Technologien auszuprobieren.</li>\n<li>Du verfügst über sehr gute Deutsch- und Englischkenntnisse.</li>\n</ul>\n<h2>Benefits</h2>\n<ul>\n<li>\n<p>Arbeiten an einem echten Zukunftsprojekt mit starkem Fokus auf Nachhaltigkeit und gesellschaftlichem Impact</p>\n</li>\n<li>\n<p>Wertvolle Portfolio-Projekte für deinen späteren Berufsweg</p>\n</li>\n<li>\n<p>Learning by Doing: die Möglichkeit, dich eigenverantwortlich auszutesten</p>\n</li>\n<li>\n<p>",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "AI",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 135279,
+    "created_at": "2026-09-08 18:03:11",
+    "source": "arbeitnow",
+    "title": "AI Benchmark Engineer | Native Language Specialist - French (France) - Remote",
+    "company": "LILT (Production)",
+    "location": "France (Remote)",
+    "url": "https://www.arbeitnow.fr/jobs/companies/lilt-production/ai-benchmark-engineer-native-language-specialist-french-france-remote-paris-387805",
+    "salary": "",
+    "tags": [
+      "LiltLancer Community"
+    ],
+    "remote": false,
+    "description": "<h2><strong>About The Opportunity</strong></h2><p style=\"min-height:1.5em\">We are building a rigorous, verifiable evaluation suite of Terminal-Bench tasks designed to test the limits of large language models on multilingual software challenges. Our goal is to measure multilingual robustness across prompt language effects, non-English data processing, and complex locale/encoding edge cases in terminal workflows.</p><p style=\"min-height:1.5em\">We are seeking experienced native-speaking software engineers to design, build, and validate these benchmarks. You will create high-signal, high-quality tasks that genuinely test a model's ability to handle multilingual environments without relying on English translation crutches.</p><p style=\"min-height:1.5em\"><strong>Note this is a remote, freelance opportunity</strong></p><p style=\"min-height:1.5em\"></p><h2><strong>What You’ll Deliver </strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Task Engineering: Evaluating Coding Agents.</p></li><li><p style=\"min-height:1.5em\">Asset Creation: Build realistic task environments using datasets and files in your native language. <em>Crucially, these assets must remain in the target language to genuinely measure multilingual handling.</em></p></li><li><p style=\"min-height:1.5em\">Prompting &amp; Translation: finding failure points where AI does not work, in your native language</p></li><li><p style=\"min-height:1.5em\"> Implementation &amp; Verification: Support the development of robust solutions (reference implementations) and write highly reliable, deterministic verifier scripts (using rubric-based judging only when strictly necessary).</p></li><li><p style=\"min-height:1.5em\">Calibration &amp; Execution: Analyze execution logs and calibrate task difficulty (Easy to Very Hard) using standard Terminal-Bench run configurations against various model tiers (Haiku, Sonnet, Opus).</p></li><li><p style=\"min-height:1.5em\">Quality Assurance: Participate in a rigorous, 4-layer ",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 135280,
+    "created_at": "2026-09-08 18:03:11",
+    "source": "arbeitnow",
+    "title": "On Holiday Support Agent",
+    "company": "loveholidays",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.fr/jobs/companies/loveholidays/remote-on-holiday-support-agent-145515",
+    "salary": "",
+    "tags": [
+      "Customer Experience"
+    ],
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\"><strong>Why loveholidays?</strong></p><p style=\"min-height:1.5em\">At loveholidays - <strong>we trailblaze together</strong>. We’re on a mission to open the world to everyone, giving our customers’ unlimited choice, unmatched ease and unmissable value for their next getaway. Our team is the driving force behind our role as our customers’ personal holiday expert - the smart way to get away.</p><p style=\"min-height:1.5em\">Here, we're doing things differently to open the world to everyone, and our <em>Customer Experience team</em> is at the forefront of <strong>driving cutting-edge innovation</strong>. Join our fast-growing business where your ideas are heard and new thinking shapes how millions book their holidays.</p><p style=\"min-height:1.5em\">You'll <strong>accelerate your growth</strong> in our fast-paced environment, tackling daily challenges and learning from inspiring leaders and teammates. Be <strong>empowered to create impact for our future</strong> by shaping the most-loved package holiday experience for millions. As we pursue <strong>ambitious plans to expand across Europe</strong>, you'll be part of a fun-loving international community achieving great things together.<br /><br /></p><p style=\"min-height:1.5em\"><strong>About the team:</strong></p><p style=\"min-height:1.5em\">The On Holiday Support team helps customers resolve issues that arise while they are away. This can include transfer problems, accommodation concerns, supplier issues, flight disruption and other unexpected situations that may affect a customer’s holiday.</p><p style=\"min-height:1.5em\">Customers may contact us when they are tired, worried, frustrated or unsure what to do next. Our role is to listen, understand what has happened and take ownership of finding the most appropriate resolution.</p><p style=\"min-height:1.5em\">You will be part of the UK On Holiday Support team and report to an On Holiday Support Team Leader. You will also work closely with colleagues ",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Marketing",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 135294,
+    "created_at": "2026-09-08 18:03:11",
     "source": "arbeitnow",
     "title": "Talent Lead",
     "company": "Whitecircle",
     "location": "Remote",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/whitecircle/remote-talent-lead-46275",
+    "url": "https://www.arbeitnow.fr/jobs/companies/whitecircle/remote-talent-lead-416964",
     "salary": "",
     "tags": [
       "Operations"
