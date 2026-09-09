@@ -119313,5 +119313,35 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 138579,
+    "created_at": "2026-09-09 02:47:53",
+    "source": "remoteok",
+    "title": "Social Comms",
+    "company": "NOPE",
+    "location": "",
+    "url": "https://remoteOK.com/remote-jobs/remote-social-comms-nope-1137314",
+    "salary": "",
+    "tags": [
+      "marketing",
+      "education",
+      "technical",
+      "content writing",
+      "social media",
+      "ai",
+      "social"
+    ],
+    "remote": true,
+    "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Lainnya",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]

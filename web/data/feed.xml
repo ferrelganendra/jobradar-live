@@ -5,7 +5,19 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Wed, 09 Sep 2026 02:15:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 02:47:54 +0000</lastBuildDate>
+    <item>
+      <title>Social Comms</title>
+      <link>https://remoteOK.com/remote-jobs/remote-social-comms-nope-1137314</link>
+      <guid isPermaLink="false">138579</guid>
+      <pubDate>Wed, 09 Sep 2026 02:47:53 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>NOPE</job:company>
+    </item>
     <item>
       <title>Infrastructure &amp; Cloud Engineer (m-f-d)</title>
       <link>https://www.arbeitnow.com/jobs/companies/fsc/infrastructure-cloud-engineer-m-f-d-bonn-germany-hybrid-342782</link>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location>Berlin - hybrid</job:location>
       <job:company>Eye Security</job:company>
-    </item>
-    <item>
-      <title>Director of Operations - Germany (m/w/d)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/roadsurfer/remote-director-of-operations-germany-354902</link>
-      <guid isPermaLink="false">135603</guid>
-      <pubDate>Tue, 08 Sep 2026 19:06:41 +0000</pubDate>
-      <description>&lt;h2&gt;&lt;strong&gt;Warum roadsurfer?&lt;/strong&gt;&lt;/h2&gt;&lt;p style="min-height:1.5em"&gt;&lt;/p&gt;&lt;ul style="min-height:1.5em"&gt;&lt;li&gt;&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;TEAMSPIRIT &amp; TEAMEVENTS:&lt;/strong&gt; Freu dich auf eine kollegiale Atmosphäre mit flachen Hierarchien, jede Menge Spaß und großartigem Teamspirit. Regelmäßige Teamevent kannst du bei uns genauso erwarten wie Ausflüge mit unseren Campern!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p style=</description>
-      <category>Marketing</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote (Germany)</job:location>
-      <job:company>Roadsurfer</job:company>
     </item>
   </channel>
 </rss>
