@@ -121271,5 +121271,30 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 144710,
+    "created_at": "2026-09-09 16:41:00",
+    "source": "arbeitnow",
+    "title": "Senior Berater (w/m/d) - Customer Communication / Output Management",
+    "company": "Pentadoc Gruppe",
+    "location": "Würzburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/pentadoc-gruppe/senior-berater-customer-communication-output-management-wurzburg-270763",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Consulting"
+    ],
+    "remote": true,
+    "description": "<p>Pentadoc sucht erfahrene <strong>Senior Berater*innen</strong> (w/m/d) im Bereich <strong>Output Management</strong> bzw. Customer Communication Management mit dem Schwerpunkt im deutschen <strong>Privatversicherungsmarkt</strong>.</p>\n<p>CCM-Systeme dienen als zentrale Plattform für alle Kundenkommunikationsprozesse und sind auf professionelle Einzel- und Massenkommunikation mit großen Dokumentenvolumina ausgerichtet. Das Tätigkeitsspektrum umfasst daher:</p>\n<p>• Datenintegration aus vorgelagerten Systemen</p>\n<p>• Erstellung, Gestaltung und Verwaltung von Content</p>\n<p>• Bereitstellung für den richtigen Ausgabekanal</p>\n<h2><strong>Deine Verantwortlichkeiten bei uns</strong></h2>\n<ul>\n<li>Projektsteuerung: Du hast die Leitung bei der Planung, Steuerung und Umsetzung von Output Management Projekten inne oder unterstützt direkt die Gesamtprojektleiter*innen.</li>\n<li>Konzeption und IT-Architektur: Du übernimmst die Entwicklung von CCM Architekturkonzepten und berätst im Rahmen der Lösungsauswahl und anschließender Realisierung.</li>\n<li>Fachkonzeption: Dem jeweiligen Projektauftrag entsprechend übernimmst du die Erstellung und Prüfung von Fachkonzepten für Kommunikationsbausteine und Templates (Briefvorlagenmigration)</li>\n<li>Strategische Beratung und Anforderungsmanagement: Du berätst zu Kommunikationsstrategien (z. B. Omnichannel, Individualisierung, Automatisierung) und organisierst und priorisierst fachlicher sowie technischer Anforderungen. Die Entwicklung von Zielbildern für zukunftsfähiges CCM ist zentraler Bestandteile deiner Tätigkeit.</li>\n</ul>\n<h2><strong>Dein neuer Arbeitsalltag</strong></h2>\n<ul>\n<li>Du übst deine Tätigkeit in einem dezentral organisierten Unternehmen aus, das heißt, dein Hauptarbeitsplatz ist zu 80-90% dein Home-Office am Wohnsitz</li>\n<li>Entsprechend deiner Verantwortung im Projekt sowie dem Projektbedarf angemessen nimmst du eigenverantwortlich auch Vor-Ort-Tätigkeiten wahr.</li>\n<li>Deinen Arbeitsalltag strukturierst du im R",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Marketing",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
