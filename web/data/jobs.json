@@ -119461,5 +119461,60 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 141002,
+    "created_at": "2026-09-09 08:28:49",
+    "source": "arbeitnow",
+    "title": "Senior Accountant - Hybrid - NL/BE/DE/LU/FR",
+    "company": "Valsoft Corp",
+    "location": "France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/valsoft-corp/remote-senior-accountant-hybrid-nl-be-de-lu-fr-france-221968",
+    "salary": "",
+    "tags": [
+      "Accounting/Auditing",
+      "Computer Software",
+      "Helios Software Group",
+      "Remote"
+    ],
+    "remote": true,
+    "description": "<p><strong>Helios Software Group</strong>&nbsp;is looking for an eager and self-motivated Senior Accountant to join our growing team.</p><p>As the Senior Accountant, you will work alongside the Senior Director of Finance and the Head of Finance.</p><p>This hybrid role includes occasional travel to our other group offices for period closings, statutory audits and team collaboration.</p><p><u><strong>What your day will look like:</strong></u></p><ul><li>Perform financial <u>period close tasks and complex journal entries</u>/accounting analysis,</li><li>Perform <u>Balance Sheet analysis</u> and reviews, including <u>reconciliations</u> of accounts,</li><li>Follow up with Vendors/Suppliers regarding missing invoices, full accountability on the <u>cost accruals</u> for the <u>P&amp;L review</u>, </li><li>Process <u>payments, bank transfers</u>, and ensure that approvals are adequate,</li><li><u>Reconcile inter-company</u> transactions,</li><li>Prepare and process payroll tax returns, VAT returns &amp; intra-community (ICP) declarations for local entities,</li><li>Ensure that key controls and procedures are respected and implemented where needed,</li><li>Preparing <u>financial KPIs</u> and reviewing for <u>accuracy,</u></li><li> Lead annual statutory <u>audits</u> completion, yearly <u>closing of financial statements and tax filings</u>, and ad-hoc compliance requirements,</li><li>Prepare ad-hoc performance analysis and management reporting,</li><li>Perform monthly variance analysis of actual vs. plan (budget/forecast),</li><li>Support Head of Finance in oversight of AP/AR analysts, including review of their work, coaching and onboarding. Supervise &amp; assist the team and make sure the whole team delivers in a timely manner,</li><li>Participate in special projects.</li></ul><p><u><strong>About You:</strong></u></p><ul><li>Minimum of 5 years of experience.</li><li>Multi-currency and multi-divisional experience are key requirements.</li><li>A professional qualification in",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 141003,
+    "created_at": "2026-09-09 08:28:49",
+    "source": "arbeitnow",
+    "title": "(Senior) CRM Manager:in (m/w/d)",
+    "company": "Pomelo Co",
+    "location": "Hybrid",
+    "url": "https://www.arbeitnow.fr/jobs/companies/pomelo-co/senior-crm-managerin-hybrid-486700",
+    "salary": "",
+    "tags": [
+      "CRM",
+      "CRM Manager",
+      "Marketing",
+      "Marketing Manager",
+      "hybrid"
+    ],
+    "remote": false,
+    "description": "<br><strong>Intro</strong><p><p>Du liebst moderne Haarpflege, weißt wie man Kundinnen und Kunden entlang des gesamten Lifecycles begleitet? Wir suchen eine Person im CRM Management, dessen Ziel es ist, den Customer-Lifetime-Value messbar zu steigern und nachhaltige Markenbeziehungen aufzubauen.</p><p><br>Das klingt nach Dir? Dann werde Teil unseres Teams und bringe unsere Brand als (Senior) CRM Manager:in (m/w/d) auf das nächste Level. Du bist Teil des Marketing Teams und arbeitest eng mit einer weiteren CRM Managerin zusammen, um die CRM-Strategie über alle Marken hinweg aktiv mitzugestalten und weiterzuentwickeln.</p><p><br>Kurz zu uns: MONDRIAN:LABS betreibt in Berlin zwei eigenständige Beauty-Marken: SHYNE und Pomélo+Co.: beide mit einer loyalen D2C-Kundenbasis und wachsenden B2B-Partnerschaften across Europa, unter anderem mit DM, Rossmann, Boots und Bipa. </p></p><br><strong>Deine Aufgaben</strong><p><ul><li><p>Verantwortung für CRM, Lifecycle Marketing und Kundenbindung über alle Märkte hinweg mit klarem Fokus auf Wachstum, Wiederkäufe und Customer Lifetime Value</p></li><li><p>Du planst, optimierst und setzt Multi-Channel-Journeys inkl. Automatisierungen und Personalisierungen um </p></li><li><p>Durchführung und Auswertung von A/B-Tests sowie Ableitung und Umsetzung datenbasierter Entscheidungen zur kontinuierlichen Optimierung</p></li><li><p>Aufbau, Pflege und Weiterentwicklung von Loyalty-Programmen inklusive Kundenumfragen</p></li><li><p>Nutzung von Analytics und KPIs zur datenbasierten Entscheidungsfindung</p></li><li><p>Entwicklung von kreativen Kampagnen zur Steigerung von Engagement und Customer Lifetime Value</p></li></ul></p><br><strong>Über Dich</strong><p><ul><li><p>Mindestens 3–5 Jahre Erfahrung im CRM mit Verantwortung für Lifecycle- und Kundenbindungsmaßnahmen</p></li><li><p>Sehr gute Kenntnisse und technische Affinität in CRM-Tools als Grundlage für skalierbare und performante CRM-Setups (nice to know aber kein Muss: Klaviyo)</p></li><li><p>En",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Marketing",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
