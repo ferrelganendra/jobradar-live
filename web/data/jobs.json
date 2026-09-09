@@ -120488,13 +120488,63 @@
     "is_foreign": true
   },
   {
-    "id": 143169,
-    "created_at": "2026-09-09 13:04:30",
+    "id": 143258,
+    "created_at": "2026-09-09 13:35:29",
+    "source": "arbeitnow",
+    "title": "(Senior) Backend Developer Java (m/w/d)",
+    "company": "WPS Management GmbH",
+    "location": "Paderborn",
+    "url": "https://www.arbeitnow.com/jobs/companies/wps-management-gmbh/senior-backend-developer-java-paderborn-154798",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Software Development"
+    ],
+    "remote": true,
+    "description": "<p><strong>#WE ❤️ PROCUREMENT</strong></p>\n<p>Die WPS Management GmbH ist ein inhabergeführtes Unternehmen mit über 20 Jahren Erfahrungen am Einkaufsmarkt und Pionier auf dem Gebiet eProcurement. Wir entwickeln und implementieren mit unseren wegweisenden Produkten Lösungen zur Abdeckung aller Anforderungen im Source-to-Pay Bereich und gehören damit zu den internationalen Marktführern.<br>\nIn unserem Team von über 100 Mitarbeitenden kannst Du früh Verantwortung übernehmen und Deine eigenen kreativen Ideen einbringen. Du profitierst von erfahrenen, hilfsbereiten Kolleg:innen, kontinuierlicher Weiterbildung, authentischer Unternehmenskommunikation und flexiblen Arbeitszeiten. Lass uns gemeinsam unsere Zukunft gestalten! ✌️</p>\n<h2>Aufgaben</h2>\n<ul>\n<li>Du wirst Teil eines dynamischen Teams, tauschst aktiv Dein Wissen aus, ergreifst Eigeninitiative und machst Verbesserungsvorschläge.</li>\n<li>Du übernimmst die technische Verantwortung für unser Software-Produkt und bist dafür zuständig, das Rückgrat unserer Plattform selbstständig zu warten, auszubauen und zu verbessern.</li>\n<li>Du entwickelst nachhaltige Lösungen für komplexe Anforderungen und achtest dabei auf eine langfristig wartbare Softwarearchitektur.</li>\n<li>Du arbeitest mit modernen AI-Assisted-Development-Tools wie Claude Code und nutzt diese, um Entwicklungsprozesse effizienter zu gestalten und Software in hoher Qualität auszuliefern.</li>\n<li>Durch Deine sorgfältige und pragmatische Arbeitsweise bist Du in der Lage sauberen, skalierbaren und wartbaren Code zu schreiben.</li>\n<li>Dabei arbeitest Du mit den aktuellen Java-Versionen sowie modernsten Cloud-Anwendungen wie Google Container Engine und Google Compute Engine.</li>\n<li>Du erstellst und implementierst Microservices in Containern mit Docker und Kubernetes.</li>\n<li>Du arbeitest eng mit unserem Product Owner an der Auslieferung von Features.</li>\n</ul>\n<h2>Qualifikation</h2>\n<ul>\n<li>Du hast Dein Studium in der Informatik erfolgreich abgeschlossen od",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 143263,
+    "created_at": "2026-09-09 13:35:29",
+    "source": "arbeitnow",
+    "title": "Co-Founder / CTO",
+    "company": "Baumetric",
+    "location": "Halle (Saale)",
+    "url": "https://www.arbeitnow.com/jobs/companies/baumetric/co-founder-cto-halle-saale-1305",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Software Development"
+    ],
+    "remote": true,
+    "description": "<p>Technische:r Mitgründer:in gesucht: Backend &#x26; Data Engineer</p>\n<p>Wir sind Ben und Franz, Gründer von Baumetric. Baumetric erhebt im Auftrag von Unternehmen aus der Immobilienwirtschaft und großen Kommunen Daten von Bestandsgebäuden vor Ort mit LiDAR, Thermografie, 360° und Drohne. Diese Daten werden von uns verarbeitet und analysiert. Die Analysedaten helfen unseren Kunden, bei Sanierungen und Management ihrer Gebäude bessere Entscheidungen zu treffen und somit Geld einzusparen. Wir sind ein branchenerfahrenes Team und haben in Mitteldeutschland bereits mehrere große Unternehmen und Kommunen als Partner - zur Umsetzung brauchen wir aber noch dich.</p>\n<p>Du baust als Mitgründer / CTO unsere Datenmodelle, erst als Entwickler:in, perspektivisch als CTO mit eigenem Team.</p>\n<h2>Aufgaben</h2>\n<p>-Du besitzt unsere Technik: Architektur, Datenmodell und Stack-Wahl liegen bei dir</p>\n<p>-LiDAR-Punktwolken, Wärmebilder, 360°- und Drohnenaufnahmen in einem gemeinsamen Datenmodell zusammenführen</p>\n<p>-Entwicklung einer automatisierten Pipeline von den Rohdaten bis zum auswertbaren Gebäudemodell</p>\n<p>-Erste Auswertungen und Kennwerte ableiten, mit denen unsere Partner Sanierungen priorisieren</p>\n<h2>Qualifikation</h2>\n<p>-Du bist im Master, der Promotion (oder hast frisch abgeschlossen) in Informatik bzw. einem vergleichbaren Studiengang oder hast bereits einschlägige Erfahrung</p>\n<p>-erste Backend-Expertise wünschenswert</p>\n<p>-Daten-Architekt: Leidenschaft für Datenstrukturen und Pipeline-Design - Punktwolken-/Geodaten-Erfahrung ist ein Plus</p>\n<p>-Verhandlungssicheres Deutsch - unsere Partner sind regionale Kommunen &#x26; Wohnungsunternehmen</p>\n<h2>Benefits</h2>\n<p>-Du wirst gleichberechtigter Teil des Gründerteams: Erhalte Unternehmensanteile, Aussicht auf ein staatliches Gründer-Stipendium (1.000–3.000 €/Monat)</p>\n<p>-Validierter Markt: mehrere Partner warten auf den Prototyp - du baust für echte Nutzer</p>\n<p>-Anschluss an öffentliche F&#x26;E-Förde",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Design",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 143423,
+    "created_at": "2026-09-09 13:35:29",
     "source": "arbeitnow",
     "title": "Director, Customer Success, EMEA",
     "company": "gitlab",
     "location": "Remote",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-director-customer-success-emea-103361",
+    "url": "https://www.arbeitnow.fr/jobs/companies/gitlab/remote-director-customer-success-emea-413771",
     "salary": "",
     "tags": [
       "Customer Success"
@@ -120512,13 +120562,13 @@
     "is_foreign": true
   },
   {
-    "id": 143170,
-    "created_at": "2026-09-09 13:04:30",
+    "id": 143424,
+    "created_at": "2026-09-09 13:35:29",
     "source": "arbeitnow",
     "title": "Product Manager",
     "company": "remotewoman",
-    "location": "Remote • Germany, Canada, France",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/remotewoman/remote-product-manager-345853",
+    "location": "Remote • Germany, Canada, Spain or the UK",
+    "url": "https://www.arbeitnow.fr/jobs/companies/remotewoman/remote-product-manager-350008",
     "salary": "",
     "tags": [
       "Product & Engineering"
