@@ -119365,5 +119365,101 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 140476,
+    "created_at": "2026-09-09 07:26:51",
+    "source": "arbeitnow",
+    "title": "Senior Product Engineer II",
+    "company": "prolific",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-senior-product-engineer-ii-435263",
+    "salary": "",
+    "tags": [
+      "Engineering"
+    ],
+    "remote": false,
+    "description": "&lt;h1 style=&quot;text-align: center;&quot;&gt;Senior Product Engineer II&lt;/h1&gt;\n&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: tahoma, arial, helvetica, sans-serif; color: rgb(126, 140, 141);&quot;&gt;Team: Engineering&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: tahoma, arial, helvetica, sans-serif; color: rgb(126, 140, 141);&quot;&gt;&lt;em&gt;&amp;nbsp;&amp;nbsp;Prolific&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: tahoma, arial, helvetica, sans-serif;&quot;&gt;Prolific is not just another player in the AI space – we are the architects of the human data infrastructure that&#39;s reshaping the landscape of AI development. In a world where foundational AI technologies are increasingly commoditized, it&#39;s the quality and diversity of human-generated data that truly differentiates products and models.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: tahoma, arial, helvetica, sans-serif; color: rgb(126, 140, 141);&quot;&gt;&lt;em&gt;The role&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p data-start=&quot;88&quot; data-end=&quot;548&quot;&gt;&lt;span style=&quot;font-family: tahoma, arial, helvetica, sans-serif;&quot;&gt;As a Senior Product Engineer II you will be the senior technical contributor for your team, partnering with the Engineering Manager to set technical direction and ensure delivery excellence. You will balance hands-on contribution with technical leadership, serving as the go-to person for technical decisions and architecture within your team&#39;s domain. You are increasingly outward-facing, representing your team&#39;s technical work beyond its boundaries.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: tahoma, arial, helvetica, sans-serif; color: rgb(126, 140, 141);&quot;&gt;&lt",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 140477,
+    "created_at": "2026-09-09 07:26:51",
+    "source": "arbeitnow",
+    "title": "Senior Platform Engineering Manager",
+    "company": "prolific",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-senior-platform-engineering-manager-376659",
+    "salary": "",
+    "tags": [
+      "Engineering"
+    ],
+    "remote": false,
+    "description": "&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: #7e8c8d;&quot;&gt;Senior Platform Engineering Manager&lt;/span&gt;&lt;/h2&gt;\n&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: rgb(126, 140, 141);&quot;&gt;Engineering&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Prolific is not just another player in the AI space – we are the architects of the human data infrastructure that&#39;s reshaping the landscape of AI development. As our Platform Engineering Manager, you will lead our Cloud Platform and SRE teams, taking charge of the technical foundation and reliability that allows Prolific to scale securely and efficiently.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;Why Prolific&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;At Prolific, our product development group is a powerhouse of Engineering, Platform, Product, Data, Design, and Research – all working in lockstep. You&#39;ll thrive in cross-functional teams, each with a clear mission and the freedom to self-organize and innovate towards the best possible outcomes. We&#39;re passionate about moving fast and continuously improving, and we champion strong engineering principles and a culture of strong ownership.&lt;/p&gt;\n&lt;p&gt;As a Senior Platform Engineering Manager, you&#39;ve built deep technical credibility as a senior individual contributor, solving complex infrastructure and business problems firsthand,before progressing into building high-performing teams and raising the bar through structured management practices.&lt;/p&gt;\n&lt;p&gt;Your expertise will directly impact the technical excellence of your teams&#39; work. You&#39;ll be instrumental in driving technical decision-making and collaboratively building scalable, resilient, and maintainable systems that power the future of AI.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;What you&#39;ll be doing&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&a",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 140486,
+    "created_at": "2026-09-09 07:26:51",
+    "source": "arbeitnow",
+    "title": "Lead Business Analyst, Process & automation (London | remote)",
+    "company": "Lightspeedhq",
+    "location": "Remote in the UK",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/lightspeedhq/lead-business-analyst-process-automation-london-remote-495940",
+    "salary": "",
+    "tags": [
+      "Operations"
+    ],
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\"><strong>Hi there! Thanks for stopping by 👋</strong></p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><p style=\"min-height:1.5em\">Are you actively looking for a new opportunity? Or just checking the market? Well… you might just be in the right place!</p><p style=\"min-height:1.5em\">We’re looking for a Lead Business Analyst, Process &amp; Automation to join our Capital and Payments team. Process &amp; Automation is a small team working across the operations behind payments, lending, underwriting, risk, and billing. We find operational friction, diagnose root causes, and build the process, data, tooling, and automation solutions that fix it.</p><p style=\"min-height:1.5em\">You will own projects end to end: find where a process is failing or create toil, prove it with data, design something better, coordinate the build with stakeholders, and stay with it until the receiving team owns it and the numbers have moved. AI is a default tool in how we work rather than a separate initiative.</p><p style=\"min-height:1.5em\">This is a hands-on individual-contributor role with full ownership of your projects.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><p style=\"min-height:1.5em\"><strong>What you’ll be doing:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Define</strong>: map end-to-end flows, trace handoffs, and understand how a process actually runs rather than how it is documented.</p></li><li><p style=\"min-height:1.5em\"><strong>Diagnose</strong>: separate root causes from symptoms and quantify where time, money, and customers are being lost.</p></li><li><p style=\"min-height:1.5em\"><strong>Design</strong>: turn what you find into clear requirements, better flows, and delivery plans with measurable success criteria, then build or coordinate the automation, tooling, data, and controls they depend on.</p></li><li>",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "IT",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 140487,
+    "created_at": "2026-09-09 07:26:51",
+    "source": "arbeitnow",
+    "title": "Lead Business Analyst, Process & Automation (Belfast | remote)",
+    "company": "Lightspeedhq",
+    "location": "Belfast",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/lightspeedhq/lead-business-analyst-process-automation-belfast-remote-309459",
+    "salary": "",
+    "tags": [
+      "Operations"
+    ],
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\"><strong>Hi there! Thanks for stopping by 👋</strong></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Are you actively looking for a new opportunity? Or just checking the market? Well… you might just be in the right place!</p><p style=\"min-height:1.5em\">We’re looking for a Lead Business Analyst, Process &amp; Automation to join our Capital and Payments team. Process &amp; Automation is a small team working across the operations behind payments, lending, underwriting, risk, and billing. We find operational friction, diagnose root causes, and build the process, data, tooling, and automation solutions that fix it.</p><p style=\"min-height:1.5em\">You will own projects end to end: find where a process is failing or create toil, prove it with data, design something better, coordinate the build with stakeholders, and stay with it until the receiving team owns it and the numbers have moved. AI is a default tool in how we work rather than a separate initiative.</p><p style=\"min-height:1.5em\">This is a hands-on individual-contributor role with full ownership of your projects.<br /></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>What you’ll be doing:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Define</strong>: map end-to-end flows, trace handoffs, and understand how a process actually runs rather than how it is documented.</p></li><li><p style=\"min-height:1.5em\"><strong>Diagnose</strong>: separate root causes from symptoms and quantify where time, money, and customers are being lost.</p></li><li><p style=\"min-height:1.5em\"><strong>Design</strong>: turn what you find into clear requirements, better flows, and delivery plans with measurable success criteria, then build or coordinate the automation, tooling, data, and controls they depend on.</p></li><li><p style=\"min-height:1.5em\"><strong>Instrument</strong>: lead testing and launch readiness, trac",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "IT",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
