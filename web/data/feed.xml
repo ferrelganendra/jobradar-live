@@ -5,7 +5,31 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Wed, 09 Sep 2026 14:37:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 15:07:51 +0000</lastBuildDate>
+    <item>
+      <title>FOH</title>
+      <link>https://remoteOK.com/remote-jobs/remote-foh-the-burgers-priest-1137328</link>
+      <guid isPermaLink="false">144210</guid>
+      <pubDate>Wed, 09 Sep 2026 15:07:50 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Toronto</job:location>
+      <job:company>The Burger's Priest</job:company>
+    </item>
+    <item>
+      <title>Â SUPERVISEUR 26 27</title>
+      <link>https://remoteOK.com/remote-jobs/remote-superviseur-26-27-the-home-depot-canada-1137329</link>
+      <guid isPermaLink="false">144211</guid>
+      <pubDate>Wed, 09 Sep 2026 15:07:50 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Regina</job:location>
+      <job:company>The Home Depot Canada</job:company>
+    </item>
     <item>
       <title>Werkstudent (m/w/d) Sales &amp; Marketing</title>
       <link>https://www.arbeitnow.com/jobs/companies/parasus-gmbh/werkstudent-sales-marketing-frankfurt-am-main-272730</link>
@@ -581,30 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Tremendous</job:company>
-    </item>
-    <item>
-      <title>Senior Product Manager - Prepaid Cards</title>
-      <link>https://jobicy.com/jobs/152853-senior-product-manager-prepaid-cards</link>
-      <guid isPermaLink="false">142033</guid>
-      <pubDate>Wed, 09 Sep 2026 10:30:50 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Tremendous</job:company>
-    </item>
-    <item>
-      <title>Lead Applied Scientist, Marketing</title>
-      <link>https://jobicy.com/jobs/152852-lead-applied-scientist-marketing</link>
-      <guid isPermaLink="false">142034</guid>
-      <pubDate>Wed, 09 Sep 2026 10:30:50 +0000</pubDate>
-      <description></description>
-      <category>Marketing</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Launch Potato</job:company>
     </item>
   </channel>
 </rss>
