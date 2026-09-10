@@ -5,12 +5,36 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Thu, 10 Sep 2026 00:59:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 01:31:53 +0000</lastBuildDate>
+    <item>
+      <title>Senior Commercial Counsel</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/deepgram/remote-senior-commercial-counsel-460153</link>
+      <guid isPermaLink="false">148260</guid>
+      <pubDate>Thu, 10 Sep 2026 01:31:51 +0000</pubDate>
+      <description>&lt;h1&gt;&lt;strong&gt;Company Overview&lt;/strong&gt;&lt;/h1&gt;&lt;p style="min-height:1.5em"&gt;Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voice offerings that are ‘Powered by Deepgram’, inc</description>
+      <category>Design</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>EMEA | Remote</job:location>
+      <job:company>Deepgram</job:company>
+    </item>
+    <item>
+      <title>Software Engineer P2P - Search Team (100% Remote, Worldwide)</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/software-engineer-p2p-search-team-100-remote-worldwide-london-405442</link>
+      <guid isPermaLink="false">148261</guid>
+      <pubDate>Thu, 10 Sep 2026 01:31:51 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Join Tether and Shape the Future of Digital Finance&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens across blockchains. By harnessing the power of blockchain technology, </description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote job</job:location>
+      <job:company>Tether Operations Limited</job:company>
+    </item>
     <item>
       <title>SRE Manager</title>
-      <link>https://www.arbeitnow.fr/jobs/companies/parity/remote-sre-manager-92368</link>
-      <guid isPermaLink="false">148089</guid>
-      <pubDate>Thu, 10 Sep 2026 00:59:39 +0000</pubDate>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/parity/remote-sre-manager-9140</link>
+      <guid isPermaLink="false">148278</guid>
+      <pubDate>Thu, 10 Sep 2026 01:31:51 +0000</pubDate>
       <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Parity is one of the world's most experienced core blockchain infrastructure companies, having built and pioneered some of the most advanced technologies in the blockchain sector. Parity was founded by Dr. Gavin Wood, co-founder and former CTO of Ethereum, the primary engineer behind the Ethereum Virtual Machine (</description>
       <category>Teknologi</category>
       <job:remote>true</job:remote>
@@ -581,30 +605,6 @@
       <job:salary></job:salary>
       <job:location>Colmworth</job:location>
       <job:company>Steel Build Ltd</job:company>
-    </item>
-    <item>
-      <title>Jumbo San Pedro Supervisor Abarrotes</title>
-      <link>https://remoteOK.com/remote-jobs/remote-jumbo-san-pedro-supervisor-abarrotes-centro-cuesta-nacional-1137362</link>
-      <guid isPermaLink="false">147134</guid>
-      <pubDate>Wed, 09 Sep 2026 21:57:39 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>San Pedro de MacorÃ­s</job:location>
-      <job:company>Centro Cuesta Nacional</job:company>
-    </item>
-    <item>
-      <title>Customer Experience - Dental Lab Technician (Germany)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/dandy/remote-customer-experience-dental-lab-technician-germany-113001</link>
-      <guid isPermaLink="false">146637</guid>
-      <pubDate>Wed, 09 Sep 2026 21:24:47 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;Dandy is transforming the massive and antiquated dental industry—an industry worth over $400B. Backed by some of the world’s leading venture capital firms, we’re on an ambitious mission to simplify and modernize every function of the dental practice through technology. As we expand our reach globally, Dandy is building the operating system for dental offices around the </description>
-      <category>Support</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Germany - Remote</job:location>
-      <job:company>Dandy</job:company>
     </item>
   </channel>
 </rss>
