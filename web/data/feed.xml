@@ -5,7 +5,55 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Thu, 10 Sep 2026 09:27:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 09:57:34 +0000</lastBuildDate>
+    <item>
+      <title>SRE Manager</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/parity/remote-sre-manager-9140</link>
+      <guid isPermaLink="false">152107</guid>
+      <pubDate>Thu, 10 Sep 2026 09:57:34 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Parity is one of the world's most experienced core blockchain infrastructure companies, having built and pioneered some of the most advanced technologies in the blockchain sector. Parity was founded by Dr. Gavin Wood, co-founder and former CTO of Ethereum, the primary engineer behind the Ethereum Virtual Machine (</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>Parity</job:company>
+    </item>
+    <item>
+      <title>Senior Manager, FP&amp;A</title>
+      <link>https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-manager-fpa-72959</link>
+      <guid isPermaLink="false">152133</guid>
+      <pubDate>Thu, 10 Sep 2026 09:57:34 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;Camunda is &lt;strong&gt;the enterprise platform for agentic orchestration&lt;/strong&gt;, enabling organizations to coordinate &lt;strong&gt;AI agents, people, and systems &lt;/strong&gt;across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at</description>
+      <category>Finance</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>Camunda</job:company>
+    </item>
+    <item>
+      <title>Senior Software Engineer, Backend - Data Streaming</title>
+      <link>https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-backend-data-streaming-362952</link>
+      <guid isPermaLink="false">152134</guid>
+      <pubDate>Thu, 10 Sep 2026 09:57:34 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;Camunda is &lt;strong&gt;the enterprise platform for agentic orchestration&lt;/strong&gt;, enabling organizations to coordinate &lt;strong&gt;AI agents, people, and systems &lt;/strong&gt;across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>Camunda</job:company>
+    </item>
+    <item>
+      <title>Senior Software Engineer, Backend - Data Layer</title>
+      <link>https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-backend-data-layer-395284</link>
+      <guid isPermaLink="false">152135</guid>
+      <pubDate>Thu, 10 Sep 2026 09:57:34 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;Camunda is &lt;strong&gt;the enterprise platform for agentic orchestration&lt;/strong&gt;, enabling organizations to coordinate &lt;strong&gt;AI agents, people, and systems &lt;/strong&gt;across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>Camunda</job:company>
+    </item>
     <item>
       <title>Senior Data Scientist (German-speaking)</title>
       <link>https://www.arbeitnow.com/jobs/companies/dataiku/remote-senior-data-scientist-german-speaking-224551</link>
@@ -29,42 +77,6 @@
       <job:salary></job:salary>
       <job:location>Remote (Germany)</job:location>
       <job:company>Roadsurfer</job:company>
-    </item>
-    <item>
-      <title>Senior Manager, FP&amp;A</title>
-      <link>https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-manager-fpa-274281</link>
-      <guid isPermaLink="false">151753</guid>
-      <pubDate>Thu, 10 Sep 2026 09:26:59 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;Camunda is &lt;strong&gt;the enterprise platform for agentic orchestration&lt;/strong&gt;, enabling organizations to coordinate &lt;strong&gt;AI agents, people, and systems &lt;/strong&gt;across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at</description>
-      <category>Finance</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Camunda</job:company>
-    </item>
-    <item>
-      <title>Senior Software Engineer, Backend - Data Streaming</title>
-      <link>https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-data-streaming-333804</link>
-      <guid isPermaLink="false">151754</guid>
-      <pubDate>Thu, 10 Sep 2026 09:26:59 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;Camunda is &lt;strong&gt;the enterprise platform for agentic orchestration&lt;/strong&gt;, enabling organizations to coordinate &lt;strong&gt;AI agents, people, and systems &lt;/strong&gt;across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Camunda</job:company>
-    </item>
-    <item>
-      <title>Senior Software Engineer, Backend - Data Layer</title>
-      <link>https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-data-layer-479869</link>
-      <guid isPermaLink="false">151755</guid>
-      <pubDate>Thu, 10 Sep 2026 09:26:59 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;Camunda is &lt;strong&gt;the enterprise platform for agentic orchestration&lt;/strong&gt;, enabling organizations to coordinate &lt;strong&gt;AI agents, people, and systems &lt;/strong&gt;across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Camunda</job:company>
     </item>
     <item>
       <title>Senior Dynamics 365 Consultant (m/w/d)</title>
@@ -137,30 +149,6 @@
       <job:salary></job:salary>
       <job:location>Remote Deutschland</job:location>
       <job:company>Bikeleasing</job:company>
-    </item>
-    <item>
-      <title>Senior Customer Success Engineer</title>
-      <link>https://www.arbeitnow.co.uk/jobs/companies/mitti/remote-senior-customer-success-engineer-94290</link>
-      <guid isPermaLink="false">151841</guid>
-      <pubDate>Thu, 10 Sep 2026 09:26:59 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;Why join us?&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Mitti by SafetyCulture is a global tech company, just not the kind you're picturing. Our almost 1,000-person team builds tools that make work better for the three billion frontline workers who keep the world moving. We've got big tech scale, without the sign-off layers or corporate theatre. Every permanent tea</description>
-      <category>Design</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote: UK</job:location>
-      <job:company>Mitti</job:company>
-    </item>
-    <item>
-      <title>SRE Manager</title>
-      <link>https://www.arbeitnow.fr/jobs/companies/parity/remote-sre-manager-92368</link>
-      <guid isPermaLink="false">151903</guid>
-      <pubDate>Thu, 10 Sep 2026 09:26:59 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Parity is one of the world's most experienced core blockchain infrastructure companies, having built and pioneered some of the most advanced technologies in the blockchain sector. Parity was founded by Dr. Gavin Wood, co-founder and former CTO of Ethereum, the primary engineer behind the Ethereum Virtual Machine (</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Parity</job:company>
     </item>
     <item>
       <title>HIS Sales Strategy Executive - Ambulatory Care Revenue Cycle</title>
@@ -605,6 +593,18 @@
       <job:salary></job:salary>
       <job:location>Remote job</job:location>
       <job:company>Tether Operations Limited</job:company>
+    </item>
+    <item>
+      <title>Lead Business Analyst, Process &amp; Automation (Berlin | remote)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/lightspeedhq/lead-business-analyst-process-automation-berlin-remote-342685</link>
+      <guid isPermaLink="false">147647</guid>
+      <pubDate>Thu, 10 Sep 2026 00:27:36 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;Hi there! Thanks for stopping by 👋&lt;/strong&gt;&lt;/p&gt;&lt;div style="min-height:1.2em;margin-top:0;margin-bottom:0"&gt; &lt;/div&gt;&lt;p style="min-height:1.5em"&gt;Are you actively looking for a new opportunity? Or just checking the market? Well… you might just be in the right place!&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;We’re looking for a Lead Business Analyst, Process &amp; Automation to join</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote in Germany</job:location>
+      <job:company>Lightspeedhq</job:company>
     </item>
   </channel>
 </rss>
