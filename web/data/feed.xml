@@ -5,18 +5,42 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Thu, 10 Sep 2026 03:15:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 03:45:23 +0000</lastBuildDate>
+    <item>
+      <title>SRE Manager</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/parity/remote-sre-manager-9140</link>
+      <guid isPermaLink="false">149241</guid>
+      <pubDate>Thu, 10 Sep 2026 03:45:22 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Parity is one of the world's most experienced core blockchain infrastructure companies, having built and pioneered some of the most advanced technologies in the blockchain sector. Parity was founded by Dr. Gavin Wood, co-founder and former CTO of Ethereum, the primary engineer behind the Ethereum Virtual Machine (</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>Parity</job:company>
+    </item>
     <item>
       <title>Director, Customer Success, EMEA</title>
-      <link>https://www.arbeitnow.com/jobs/companies/gitlab/remote-director-customer-success-emea-429624</link>
-      <guid isPermaLink="false">148892</guid>
-      <pubDate>Thu, 10 Sep 2026 03:15:00 +0000</pubDate>
+      <link>https://www.arbeitnow.fr/jobs/companies/gitlab/remote-director-customer-success-emea-413771</link>
+      <guid isPermaLink="false">149308</guid>
+      <pubDate>Thu, 10 Sep 2026 03:45:22 +0000</pubDate>
       <description>&lt;div class="content-intro"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</description>
       <category>Marketing</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
       <job:location>Remote</job:location>
       <job:company>gitlab</job:company>
+    </item>
+    <item>
+      <title>Senior Salesforce Developer (Temporary)</title>
+      <link>https://www.arbeitnow.fr/jobs/companies/angi/senior-salesforce-developer-temporary-aix-en-provence-393279</link>
+      <guid isPermaLink="false">149314</guid>
+      <pubDate>Thu, 10 Sep 2026 03:45:22 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;For over 30 years, Angi has powered the future of the home services industry, creating an environment where homeowners and pros benefit from more jobs done well.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;For homeowners, our platform is a reliable way to find skilled pros. For pros, we're a reliable business partner who helps them find the winnable work they want, when they want. F</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Hybrid - France - Aix-en-Provence</job:location>
+      <job:company>Angi</job:company>
     </item>
     <item>
       <title>Staff Product Manager: Product Discovery Engine</title>
@@ -31,18 +55,6 @@
       <job:company>Constructor</job:company>
     </item>
     <item>
-      <title>Senior Salesforce Developer (Temporary)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/angi/senior-salesforce-developer-temporary-berlin-231535</link>
-      <guid isPermaLink="false">148908</guid>
-      <pubDate>Thu, 10 Sep 2026 03:15:00 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;For over 30 years, Angi has powered the future of the home services industry, creating an environment where homeowners and pros benefit from more jobs done well.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;For homeowners, our platform is a reliable way to find skilled pros. For pros, we're a reliable business partner who helps them find the winnable work they want, when they want. F</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Hybrid - Germany - Berlin</job:location>
-      <job:company>Angi</job:company>
-    </item>
-    <item>
       <title>Tutor/Lehrkraft Produkt/Projekt/Change Management (all genders)</title>
       <link>https://www.arbeitnow.com/jobs/companies/stackfuel/tutor-lehrkraft-produkt-projekt-change-management-all-genders-berlin-448650</link>
       <guid isPermaLink="false">148910</guid>
@@ -53,18 +65,6 @@
       <job:salary></job:salary>
       <job:location>Remote - Germany</job:location>
       <job:company>Stackfuel</job:company>
-    </item>
-    <item>
-      <title>SRE Manager</title>
-      <link>https://www.arbeitnow.fr/jobs/companies/parity/remote-sre-manager-92368</link>
-      <guid isPermaLink="false">149056</guid>
-      <pubDate>Thu, 10 Sep 2026 03:15:00 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Parity is one of the world's most experienced core blockchain infrastructure companies, having built and pioneered some of the most advanced technologies in the blockchain sector. Parity was founded by Dr. Gavin Wood, co-founder and former CTO of Ethereum, the primary engineer behind the Ethereum Virtual Machine (</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Parity</job:company>
     </item>
     <item>
       <title>Senior Product Manager Digital Health (m/f/d)</title>
