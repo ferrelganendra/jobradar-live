@@ -5,7 +5,19 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Thu, 10 Sep 2026 16:39:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:10:14 +0000</lastBuildDate>
+    <item>
+      <title>Senior AI Engineer - Notebooks</title>
+      <link>https://www.arbeitnow.fr/jobs/companies/datadog/remote-senior-ai-engineer-notebooks-116524</link>
+      <guid isPermaLink="false">155453</guid>
+      <pubDate>Thu, 10 Sep 2026 17:10:13 +0000</pubDate>
+      <description>&lt;p&gt;Datadog Notebooks provide customers with a collaborative surface for ad-hoc data analysis, technical documentation, incident postmortems and runbooks. The power and flexibility of Notebooks also makes it the perfect place to integrate AI tools that can augment user workflows. Our vision is that in Notebooks users can collaborate with each other and with AI agents seamlessly.&lt;/p&gt; &lt;p&gt;We are looki</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>Datadog</job:company>
+    </item>
     <item>
       <title>(Senior) Social Media Manager:in (m/w/d) - Köln/Hmaburg/Remote</title>
       <link>https://www.arbeitnow.com/jobs/companies/trafficdesign-gmbh/senior-social-media-managerin-koln-hmaburg-remote-cologne-164044</link>
@@ -31,18 +43,6 @@
       <job:company>trafficdesign GmbH</job:company>
     </item>
     <item>
-      <title>Senior AI Engineer - Notebooks</title>
-      <link>https://www.arbeitnow.com/jobs/companies/datadog/remote-senior-ai-engineer-notebooks-115121</link>
-      <guid isPermaLink="false">155066</guid>
-      <pubDate>Thu, 10 Sep 2026 16:39:32 +0000</pubDate>
-      <description>&lt;p&gt;Datadog Notebooks provide customers with a collaborative surface for ad-hoc data analysis, technical documentation, incident postmortems and runbooks. The power and flexibility of Notebooks also makes it the perfect place to integrate AI tools that can augment user workflows. Our vision is that in Notebooks users can collaborate with each other and with AI agents seamlessly.&lt;/p&gt; &lt;p&gt;We are looki</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Datadog</job:company>
-    </item>
-    <item>
       <title>Payroll Specialist</title>
       <link>https://www.arbeitnow.co.uk/jobs/companies/sona/payroll-specialist-london-397466</link>
       <guid isPermaLink="false">155165</guid>
@@ -53,18 +53,6 @@
       <job:salary></job:salary>
       <job:location>Hybrid - London</job:location>
       <job:company>Sona</job:company>
-    </item>
-    <item>
-      <title>Senior Customer Success Engineer</title>
-      <link>https://www.arbeitnow.co.uk/jobs/companies/mitti/remote-senior-customer-success-engineer-94290</link>
-      <guid isPermaLink="false">155194</guid>
-      <pubDate>Thu, 10 Sep 2026 16:39:32 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;Why join us?&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Mitti by SafetyCulture is a global tech company, just not the kind you're picturing. Our almost 1,000-person team builds tools that make work better for the three billion frontline workers who keep the world moving. We've got big tech scale, without the sign-off layers or corporate theatre. Every permanent tea</description>
-      <category>Design</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote: UK</job:location>
-      <job:company>Mitti</job:company>
     </item>
     <item>
       <title>SRE Manager</title>
@@ -605,6 +593,18 @@
       <job:salary></job:salary>
       <job:location>Remote</job:location>
       <job:company>gitlab</job:company>
+    </item>
+    <item>
+      <title>Senior Salesforce Developer (Temporary)</title>
+      <link>https://www.arbeitnow.fr/jobs/companies/angi/senior-salesforce-developer-temporary-aix-en-provence-393279</link>
+      <guid isPermaLink="false">151676</guid>
+      <pubDate>Thu, 10 Sep 2026 08:56:30 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;For over 30 years, Angi has powered the future of the home services industry, creating an environment where homeowners and pros benefit from more jobs done well.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;For homeowners, our platform is a reliable way to find skilled pros. For pros, we're a reliable business partner who helps them find the winnable work they want, when they want. F</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Hybrid - France - Aix-en-Provence</job:location>
+      <job:company>Angi</job:company>
     </item>
   </channel>
 </rss>
