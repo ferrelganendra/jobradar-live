@@ -123721,30 +123721,6 @@
     "is_foreign": true
   },
   {
-    "id": 147754,
-    "created_at": "2026-09-10 00:27:36",
-    "source": "arbeitnow",
-    "title": "SRE Manager",
-    "company": "Parity",
-    "location": "Remote",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/parity/remote-sre-manager-9140",
-    "salary": "",
-    "tags": [
-      "Acceleration"
-    ],
-    "remote": false,
-    "description": "<p style=\"min-height:1.5em\"><strong>About Us</strong></p><p style=\"min-height:1.5em\">Parity is one of the world's most experienced core blockchain infrastructure companies, having built and pioneered some of the most advanced technologies in the blockchain sector. Parity was founded by Dr. Gavin Wood, co-founder and former CTO of Ethereum, the primary engineer behind the Ethereum Virtual Machine (EVM), inventor of the Solidity programming language, and primary author of the Ethereum Yellowpaper.</p><p style=\"min-height:1.5em\"><strong>People in Our Collective Are</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Highly motivated to contribute to Parity’s mission and be part of something bigger</p></li><li><p style=\"min-height:1.5em\">Excited to work on projects that are groundbreaking and complex</p></li><li><p style=\"min-height:1.5em\">Autonomous workers that self-initiate, but also collaborate well with others</p></li><li><p style=\"min-height:1.5em\">Taking maximum accountability and having minimum ego at work</p></li><li><p style=\"min-height:1.5em\">Comfortable with chaos and adapting to the ever-changing Web3 space</p></li><li><p style=\"min-height:1.5em\">Continuously educating themselves about Parity and the wider ecosystem</p></li></ul><p style=\"min-height:1.5em\"><strong>About the Team</strong></p><p style=\"min-height:1.5em\">The SRE team is responsible for the infrastructure that makes the Polkadot platform and technology work: test and production network environments, deployment pipelines, observability, and the systems that developers, node operators, and end-user applications across the ecosystem rely on. This spans the full stack from runtime and parachain development environments through to infrastructure supporting live applications and events.</p><p style=\"min-height:1.5em\">We run environments at different stability tiers, from fast-moving test networks with daily automated updates to production networks with 24/7 on-call coverage. It's",
-    "requirements": "",
-    "benefits": "",
-    "is_it": true,
-    "role": "SWE",
-    "industry": "Teknologi",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 147877,
     "created_at": "2026-09-10 00:27:36",
     "source": "remoteok",
@@ -125134,6 +125110,30 @@
     ],
     "remote": true,
     "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "SWE",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 148089,
+    "created_at": "2026-09-10 00:59:39",
+    "source": "arbeitnow",
+    "title": "SRE Manager",
+    "company": "Parity",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.fr/jobs/companies/parity/remote-sre-manager-92368",
+    "salary": "",
+    "tags": [
+      "Acceleration"
+    ],
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\"><strong>About Us</strong></p><p style=\"min-height:1.5em\">Parity is one of the world's most experienced core blockchain infrastructure companies, having built and pioneered some of the most advanced technologies in the blockchain sector. Parity was founded by Dr. Gavin Wood, co-founder and former CTO of Ethereum, the primary engineer behind the Ethereum Virtual Machine (EVM), inventor of the Solidity programming language, and primary author of the Ethereum Yellowpaper.</p><p style=\"min-height:1.5em\"><strong>People in Our Collective Are</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Highly motivated to contribute to Parity’s mission and be part of something bigger</p></li><li><p style=\"min-height:1.5em\">Excited to work on projects that are groundbreaking and complex</p></li><li><p style=\"min-height:1.5em\">Autonomous workers that self-initiate, but also collaborate well with others</p></li><li><p style=\"min-height:1.5em\">Taking maximum accountability and having minimum ego at work</p></li><li><p style=\"min-height:1.5em\">Comfortable with chaos and adapting to the ever-changing Web3 space</p></li><li><p style=\"min-height:1.5em\">Continuously educating themselves about Parity and the wider ecosystem</p></li></ul><p style=\"min-height:1.5em\"><strong>About the Team</strong></p><p style=\"min-height:1.5em\">The SRE team is responsible for the infrastructure that makes the Polkadot platform and technology work: test and production network environments, deployment pipelines, observability, and the systems that developers, node operators, and end-user applications across the ecosystem rely on. This spans the full stack from runtime and parachain development environments through to infrastructure supporting live applications and events.</p><p style=\"min-height:1.5em\">We run environments at different stability tiers, from fast-moving test networks with daily automated updates to production networks with 24/7 on-call coverage. It's",
     "requirements": "",
     "benefits": "",
     "is_it": true,
