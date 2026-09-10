@@ -5,7 +5,31 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Thu, 10 Sep 2026 21:17:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 22:02:17 +0000</lastBuildDate>
+    <item>
+      <title>Senior Salesforce Developer (Temporary)</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/angi/senior-salesforce-developer-temporary-london-357731</link>
+      <guid isPermaLink="false">157252</guid>
+      <pubDate>Thu, 10 Sep 2026 22:02:16 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;For over 30 years, Angi has powered the future of the home services industry, creating an environment where homeowners and pros benefit from more jobs done well.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;For homeowners, our platform is a reliable way to find skilled pros. For pros, we're a reliable business partner who helps them find the winnable work they want, when they want. F</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Hybrid - United Kingdom - London</job:location>
+      <job:company>Angi</job:company>
+    </item>
+    <item>
+      <title>Senior AI Engineer - Notebooks</title>
+      <link>https://www.arbeitnow.fr/jobs/companies/datadog/remote-senior-ai-engineer-notebooks-116524</link>
+      <guid isPermaLink="false">157335</guid>
+      <pubDate>Thu, 10 Sep 2026 22:02:16 +0000</pubDate>
+      <description>&lt;p&gt;Datadog Notebooks provide customers with a collaborative surface for ad-hoc data analysis, technical documentation, incident postmortems and runbooks. The power and flexibility of Notebooks also makes it the perfect place to integrate AI tools that can augment user workflows. Our vision is that in Notebooks users can collaborate with each other and with AI agents seamlessly.&lt;/p&gt; &lt;p&gt;We are looki</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>Datadog</job:company>
+    </item>
     <item>
       <title>Senior Content Marketing Manager - SEO/GEO &amp; Blog (m/w/d)</title>
       <link>https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-senior-content-marketing-manager-seo-geo-blog-schoppingen-276304</link>
@@ -29,30 +53,6 @@
       <job:salary></job:salary>
       <job:location>Stuttgart</job:location>
       <job:company>Shyftplan</job:company>
-    </item>
-    <item>
-      <title>Senior AI Engineer - Notebooks</title>
-      <link>https://www.arbeitnow.com/jobs/companies/datadog/remote-senior-ai-engineer-notebooks-115121</link>
-      <guid isPermaLink="false">156989</guid>
-      <pubDate>Thu, 10 Sep 2026 21:17:03 +0000</pubDate>
-      <description>&lt;p&gt;Datadog Notebooks provide customers with a collaborative surface for ad-hoc data analysis, technical documentation, incident postmortems and runbooks. The power and flexibility of Notebooks also makes it the perfect place to integrate AI tools that can augment user workflows. Our vision is that in Notebooks users can collaborate with each other and with AI agents seamlessly.&lt;/p&gt; &lt;p&gt;We are looki</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Datadog</job:company>
-    </item>
-    <item>
-      <title>Senior Salesforce Developer (Temporary)</title>
-      <link>https://www.arbeitnow.fr/jobs/companies/angi/senior-salesforce-developer-temporary-aix-en-provence-393279</link>
-      <guid isPermaLink="false">157122</guid>
-      <pubDate>Thu, 10 Sep 2026 21:17:03 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;For over 30 years, Angi has powered the future of the home services industry, creating an environment where homeowners and pros benefit from more jobs done well.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;For homeowners, our platform is a reliable way to find skilled pros. For pros, we're a reliable business partner who helps them find the winnable work they want, when they want. F</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Hybrid - France - Aix-en-Provence</job:location>
-      <job:company>Angi</job:company>
     </item>
     <item>
       <title>Director, Pharmacometrics</title>
