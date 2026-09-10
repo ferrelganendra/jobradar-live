@@ -126347,37 +126347,13 @@
     "is_foreign": true
   },
   {
-    "id": 153291,
-    "created_at": "2026-09-10 12:31:58",
-    "source": "arbeitnow",
-    "title": "Senior Customer Success Engineer",
-    "company": "Mitti",
-    "location": "Remote: UK",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/mitti/remote-senior-customer-success-engineer-94290",
-    "salary": "",
-    "tags": [
-      "GTM"
-    ],
-    "remote": false,
-    "description": "<p style=\"min-height:1.5em\"><strong>Why join us?</strong></p><p style=\"min-height:1.5em\">Mitti by SafetyCulture is a global tech company, just not the kind you're picturing. Our almost 1,000-person team builds tools that make work better for the three billion frontline workers who keep the world moving. We've got big tech scale, without the sign-off layers or corporate theatre. Every permanent team member gets equity, so when we grow, you do too. This next chapter is about scaling smart, powered by AI, a clear vision and real ownership. </p><p style=\"min-height:1.5em\">Big tech impact, without the big tech ick.</p><p style=\"min-height:1.5em\">This role exists to unlock technical value for Mitti’s customers by designing and delivering scalable integrations. It bridges the gap between Go-to-Market (GTM) and Product, Design &amp; Engineering (PDE) to accelerate time-to-value within defined scope, timeline, and budget.</p><p style=\"min-height:1.5em\"><br /><strong>About You</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Technical Expertise:</strong> You have strong hands-on experience with SQL, relational databases, APIs, enterprise integration patterns, and scripting languages (e.g., Python, JavaScript, Ruby, Golang).</p></li><li><p style=\"min-height:1.5em\"><strong>Language &amp; Communication:</strong> You possess proven ability to explain complex technical concepts effortlessly to both engineers and business stakeholders.</p></li><li><p style=\"min-height:1.5em\"><strong>AI Leverage:</strong> You fluently use AI coding assistants and automation tools to accelerate spec drafting, data analysis, and code development securely.</p></li><li><p style=\"min-height:1.5em\"><strong>Mindset &amp; Approach:</strong> You are a self-directed, customer-first problem solver who context-switches easily, balances standard methodologies with edge-case judgment, and prioritises team success.<br /></p></li></ul><p style=\"min-height:1.5em\"><strong>How Will I Sp",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
-    "industry": "Design",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
-    "id": 153354,
-    "created_at": "2026-09-10 12:31:58",
+    "id": 153557,
+    "created_at": "2026-09-10 13:03:00",
     "source": "arbeitnow",
     "title": "SRE Manager",
     "company": "Parity",
     "location": "Remote",
-    "url": "https://www.arbeitnow.fr/jobs/companies/parity/remote-sre-manager-92368",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/parity/remote-sre-manager-9140",
     "salary": "",
     "tags": [
       "Acceleration"
