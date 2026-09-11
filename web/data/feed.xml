@@ -5,7 +5,19 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Fri, 11 Sep 2026 22:55:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 23:38:02 +0000</lastBuildDate>
+    <item>
+      <title>Regional Field CTO</title>
+      <link>https://www.arbeitnow.fr/jobs/companies/blackduck/remote-regional-field-cto-389762</link>
+      <guid isPermaLink="false">167742</guid>
+      <pubDate>Fri, 11 Sep 2026 23:38:01 +0000</pubDate>
+      <description>&lt;div class="content-intro"&gt;&lt;p&gt;Black Duck Software, Inc. helps organizations build secure, high-quality software, minimizing risks while maximizing speed and productivity. Black Duck, a recognized pioneer in application security, provides SAST, SCA, and DAST solutions that enable teams to quickly find and fix vulnerabilities and defects in proprietary code, open source components, and application b</description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>EMEA, Remote (Black Duck has entities in UK, Germany, Netherlands, Italy, Ireland, Finland, Sweden)</job:location>
+      <job:company>Blackduck</job:company>
+    </item>
     <item>
       <title>UX/UI Designer | Intch</title>
       <link>https://www.arbeitnow.com/jobs/companies/hirehire/remote-ux-ui-designer-intch-383599</link>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Luna Physical Therapy</job:company>
-    </item>
-    <item>
-      <title>Field CTO</title>
-      <link>https://jobicy.com/jobs/153045-field-cto</link>
-      <guid isPermaLink="false">165157</guid>
-      <pubDate>Fri, 11 Sep 2026 16:45:09 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Sigma Computing</job:company>
     </item>
   </channel>
 </rss>

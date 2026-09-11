@@ -131126,5 +131126,29 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 167742,
+    "created_at": "2026-09-11 23:38:01",
+    "source": "arbeitnow",
+    "title": "Regional Field CTO",
+    "company": "Blackduck",
+    "location": "EMEA, Remote (Black Duck has entities in UK, Germany, Netherlands, Italy, Ireland, Finland, Sweden)",
+    "url": "https://www.arbeitnow.fr/jobs/companies/blackduck/remote-regional-field-cto-389762",
+    "salary": "",
+    "tags": [
+      "2030 - Sales Engineers (GQP)"
+    ],
+    "remote": false,
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Black Duck Software, Inc. helps organizations build secure, high-quality software, minimizing risks while maximizing speed and productivity. Black Duck, a recognized pioneer in application security, provides SAST, SCA, and DAST solutions that enable teams to quickly find and fix vulnerabilities and defects in proprietary code, open source components, and application behavior. With a combination of industry-leading tools, services, and expertise, only Black Duck helps organizations maximize security and quality in DevSecOps and throughout the software development life cycle.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Regional Field Chief Technology Officer&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Location: EMEA, Remote (Black Duck has entities in UK, Germany, Netherlands, France, Italy, Ireland, Finland, Sweden)&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Black Duck® meets the board-level risks of modern software with True Scale Application Security, ensuring uncompromised trust in software for the regulated, AI-powered world. Only Black Duck solutions free organizations from tradeoffs between speed, accuracy, and compliance at scale while eliminating security, regulatory, and licensing risks. Whether in the cloud or on premises, Black Duck is the only choice for securing mission-critical software everywhere code happens. With Black Duck, security leaders can make smarter decisions and unleash business innovation with confidence.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are looking for a Regional Field Chief Technology Officer to serve as a senior technical executive, trusted advisor, and public voice of our technology strategy in the market. In this role, the Regional Field CTO will operate at the intersection of technology, sales, and the customer — engaging directly with C-level and technical leaders at our most strategic customer accounts, translating our AI-driven platform",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
