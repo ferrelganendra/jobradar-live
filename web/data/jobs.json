@@ -128544,17 +128544,17 @@
     "is_foreign": true
   },
   {
-    "id": 160217,
-    "created_at": "2026-09-11 06:27:08",
+    "id": 160450,
+    "created_at": "2026-09-11 06:58:09",
     "source": "arbeitnow",
     "title": "Automation Engineer (gn) - 40 Std, (hybrid) (München)",
     "company": "42Watt",
     "location": "München",
-    "url": "https://www.arbeitnow.com/jobs/companies/42watt/automation-engineer-gn-40-std-hybrid-munchen-444678",
+    "url": "https://www.arbeitnow.com/jobs/companies/42watt/automation-engineer-gn-40-std-hybrid-munchen-46187",
     "salary": "",
     "tags": [],
     "remote": false,
-    "description": "<br><strong>Deine Aufgaben</strong><p><ul><li>Du <strong>baust und betreibst</strong> unsere n8n-Automationen und verbindest <strong>CRM, Customer-Support-Tools, E-Mail und Kalender</strong> zu nahtlosen Workflows – von der <strong>KI-gestützten Ticket-Klassifizierung</strong> über intelligentes <strong>Eskalations-Routing</strong> bis hin zu automatischen Benachrichtigungen bei kritischen Ereignissen.</li><li>Du entwickelst <strong>Automationslogik und Workflow-Regeln</strong> in unserem Support-Tool und sorgst dafür, dass unser <strong>Eskalationsmodell</strong> technisch sauber abgebildet und Informationen <strong>zuverlässig zwischen den Systemen synchronisiert</strong> werden.</li><li>Du integrierst <strong>KI-Bausteine</strong> dort in unsere Automationen, wo sie echten <strong>Zeitgewinn und Mehrwert</strong> schaffen. Gleichzeitig denkst du <strong>Datenschutz und Datenminimierung</strong> von Anfang an mit: Welche Daten an ein Modell übermittelt werden dürfen und welche nicht, ist für dich Teil eines guten Designs.</li><li>Du baust mit <strong>Sicherheits- und Qualitätsbewusstsein</strong> statt nach dem Prinzip „ship and pray“: Neue Flows werden zunächst <strong>inaktiv getestet</strong>, mit realistischen Testfällen geprüft und mit <strong>Deduplication-Logik, Fallbacks und Fehlerbehandlung</strong> ausgestattet, bevor sie produktiv gehen.</li><li>Du arbeitest eng mit <strong>Operations und Customer Success</strong> zusammen, übersetzt <strong>operative Pain Points</strong> in konkrete, robuste Automationen und kommunizierst <strong>proaktiv und transparent</strong>, wo ein Flow steht und warum etwas gegebenenfalls länger dauert.</li><li>Du nutzt <strong>KI-Tools wie Claude oder Cursor</strong> selbstverständlich als Hebel, um <strong>schneller zu bauen, neue Lösungen auszuprobieren und Dinge umzusetzen</strong>, die du ohne diese Werkzeuge vielleicht gar nicht entwickelt hättest.</li></ul></p><br><strong>Dein Profil</strong><p><ul><li>Du hast bereits Erf",
+    "description": "<br><strong>Deine Aufgaben</strong><p><p style=\"line-height:1.38;margin-top:12pt;margin-bottom:12pt;\"><span style=\"font-size:10.5pt;font-family:Arial, Helvetica, sans-serif;color:rgb(0,0,0);background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">Wir arbeiten über ein zertifiziertes Netzwerk lokaler Handwerkspartner – ohne eigene Installationskapazitäten. Der Erfolg unseres Geschäftsmodells hängt direkt davon ab, wie gut wir dieses <strong>Partnernetzwerk aufbauen</strong>, <strong>auslasten</strong> und <strong>kommerziell steuern</strong>. Für diese zentrale Rolle suchen wir eine <strong>erfahrene Führungspersönlichkeit</strong>, die unser <strong>Partnership Team leitet</strong> und gleichzeitig <strong>operativ</strong> in wichtige Verhandlungen mit Handwerkspartnern, OEMs und Großhandel eingebunden ist. Das Partnership Management ist eine Kernfunktion bei 42watt – zu deinen Aufgaben gehören:</span></p><ul style=\"margin-top:0px;margin-bottom:0px;\"><li style=\"list-style-type:disc;font-size:10.5pt;font-family:Arial, Helvetica, sans-serif;color:rgb(0,0,0);background-color:transparent;font-style:normal;text-decoration:none;\"><p style=\"line-height:1.38;margin-top:12pt;margin-bottom:0pt;\"><span style=\"font-size:10.5pt;color:rgb(0,0,0);background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">Du treibst den <strong>deutschlandweiten Ausbau</strong> unseres Handwerkspartner-Netzwerks voran und schaffst damit die <strong>notwendigen Kapazitäten</strong> für das weitere Wachstum von 42watt.</span></p></li><li style=\"list-style-type:disc;font-size:10.5pt;font-family:Arial, Helvetica, sans-serif;color:rgb(0,0,0);background-color:transparent;font-style:normal;text-decoration:none;\"><p style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:10.5pt;color:rgb(0,0,0);background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">Du gewinnst <strong>neue, leistungsstarke Hand",
     "requirements": "",
     "benefits": "",
     "is_it": false,
@@ -128566,13 +128566,37 @@
     "is_foreign": true
   },
   {
-    "id": 160305,
-    "created_at": "2026-09-11 06:27:08",
+    "id": 160550,
+    "created_at": "2026-09-11 06:58:09",
+    "source": "arbeitnow",
+    "title": "Senior Salesforce Developer (Temporary)",
+    "company": "Angi",
+    "location": "Hybrid - United Kingdom - London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/angi/senior-salesforce-developer-temporary-london-357731",
+    "salary": "",
+    "tags": [
+      "Technology"
+    ],
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\">For over 30 years, Angi has powered the future of the home services industry, creating an environment where homeowners and pros benefit from more jobs done well.</p><p style=\"min-height:1.5em\">For homeowners, our platform is a reliable way to find skilled pros. For pros, we're a reliable business partner who helps them find the winnable work they want, when they want. For employees, we're an amazing place to call home. We can't wait to welcome you.</p><p style=\"min-height:1.5em\"><strong>Angi at a glance:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Founded in 1995 as Angie’s List and rebranded in 2021</p></li><li><p style=\"min-height:1.5em\">Global company with 9 brands in 8 countries and employees worldwide</p></li><li><p style=\"min-height:1.5em\">Homeowners have turned to us for 300 million home projects and counting</p></li></ul><p style=\"min-height:1.5em\">Angi is seeking a Temporary Senior Salesforce Developer to join our Sales and Care Tooling team. In this role, you will design and implement functionality that supports our Sales and Care organizations, and help integrate our Salesforce instance with a new global, technical platform.</p><p style=\"min-height:1.5em\">You will work closely with seven Salesforce specialists and a Product Manager to deliver against team objectives.</p><p style=\"min-height:1.5em\">Our team works fluently with Visual Studio Code, Git, and SFDX CI/CD, and has recently adopted AI-assisted development to significantly increase output. We deploy to production an average of three times per day.</p><p style=\"min-height:1.5em\">Our guiding philosophy is \"Salesforce flows first.\" Most business features are built by administrators using Flow. Engineers partner with senior administrators to maintain a coherent package architecture and to design and develop custom components where Flow isn't a fit.</p><p style=\"min-height:1.5em\"><strong>Technology Stack</strong></p><p style=\"min-height:1.5em\">On",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 160609,
+    "created_at": "2026-09-11 06:58:09",
     "source": "arbeitnow",
     "title": "Senior Software Engineer, Engineering Operations",
     "company": "Camunda",
     "location": "Remote",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-engineering-operations-22311",
+    "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-engineering-operations-29349",
     "salary": "",
     "tags": [
       "Products"
@@ -128590,13 +128614,13 @@
     "is_foreign": true
   },
   {
-    "id": 160306,
-    "created_at": "2026-09-11 06:27:08",
+    "id": 160610,
+    "created_at": "2026-09-11 06:58:09",
     "source": "arbeitnow",
     "title": "Senior Software Engineer, Backend - Data Streaming",
     "company": "Camunda",
     "location": "Remote",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-backend-data-streaming-281046",
+    "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-backend-data-streaming-362952",
     "salary": "",
     "tags": [
       "Products"
@@ -128614,13 +128638,13 @@
     "is_foreign": true
   },
   {
-    "id": 160307,
-    "created_at": "2026-09-11 06:27:08",
+    "id": 160611,
+    "created_at": "2026-09-11 06:58:09",
     "source": "arbeitnow",
     "title": "Senior Software Engineer, Backend - Data Layer",
     "company": "Camunda",
     "location": "Remote",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-backend-data-layer-223436",
+    "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-backend-data-layer-395284",
     "salary": "",
     "tags": [
       "Products"
@@ -128631,30 +128655,6 @@
     "benefits": "",
     "is_it": true,
     "role": "SWE",
-    "industry": "Teknologi",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
-    "id": 160403,
-    "created_at": "2026-09-11 06:27:08",
-    "source": "arbeitnow",
-    "title": "Senior Salesforce Developer (Temporary)",
-    "company": "Angi",
-    "location": "Hybrid - France - Aix-en-Provence",
-    "url": "https://www.arbeitnow.fr/jobs/companies/angi/senior-salesforce-developer-temporary-aix-en-provence-393279",
-    "salary": "",
-    "tags": [
-      "Technology"
-    ],
-    "remote": false,
-    "description": "<p style=\"min-height:1.5em\">For over 30 years, Angi has powered the future of the home services industry, creating an environment where homeowners and pros benefit from more jobs done well.</p><p style=\"min-height:1.5em\">For homeowners, our platform is a reliable way to find skilled pros. For pros, we're a reliable business partner who helps them find the winnable work they want, when they want. For employees, we're an amazing place to call home. We can't wait to welcome you.</p><p style=\"min-height:1.5em\"><strong>Angi at a glance:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Founded in 1995 as Angie’s List and rebranded in 2021</p></li><li><p style=\"min-height:1.5em\">Global company with 9 brands in 8 countries and employees worldwide</p></li><li><p style=\"min-height:1.5em\">Homeowners have turned to us for 300 million home projects and counting</p></li></ul><p style=\"min-height:1.5em\">Angi is seeking a Temporary Senior Salesforce Developer to join our Sales and Care Tooling team. In this role, you will design and implement functionality that supports our Sales and Care organizations, and help integrate our Salesforce instance with a new global, technical platform.</p><p style=\"min-height:1.5em\">You will work closely with seven Salesforce specialists and a Product Manager to deliver against team objectives.</p><p style=\"min-height:1.5em\">Our team works fluently with Visual Studio Code, Git, and SFDX CI/CD, and has recently adopted AI-assisted development to significantly increase output. We deploy to production an average of three times per day.</p><p style=\"min-height:1.5em\">Our guiding philosophy is \"Salesforce flows first.\" Most business features are built by administrators using Flow. Engineers partner with senior administrators to maintain a coherent package architecture and to design and develop custom components where Flow isn't a fit.</p><p style=\"min-height:1.5em\"><strong>Technology Stack</strong></p><p style=\"min-height:1.5em\">On",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
     "industry": "Teknologi",
     "remote_ok": true,
     "id_city": null,
