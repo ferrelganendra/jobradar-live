@@ -128686,37 +128686,63 @@
     "is_foreign": true
   },
   {
-    "id": 162006,
-    "created_at": "2026-09-11 10:03:34",
+    "id": 162096,
+    "created_at": "2026-09-11 10:33:56",
     "source": "arbeitnow",
-    "title": "Senior Salesforce Developer (Temporary)",
-    "company": "Angi",
-    "location": "Hybrid - United Kingdom - London",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/angi/senior-salesforce-developer-temporary-london-357731",
+    "title": "UGC Creator - Food Content",
+    "company": "ReciMe",
+    "location": "Hamburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/recime/ugc-creator-food-content-hamburg-80521",
     "salary": "",
     "tags": [
-      "Technology"
+      "Remote",
+      "Social Media Manager"
     ],
-    "remote": false,
-    "description": "<p style=\"min-height:1.5em\">For over 30 years, Angi has powered the future of the home services industry, creating an environment where homeowners and pros benefit from more jobs done well.</p><p style=\"min-height:1.5em\">For homeowners, our platform is a reliable way to find skilled pros. For pros, we're a reliable business partner who helps them find the winnable work they want, when they want. For employees, we're an amazing place to call home. We can't wait to welcome you.</p><p style=\"min-height:1.5em\"><strong>Angi at a glance:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Founded in 1995 as Angie’s List and rebranded in 2021</p></li><li><p style=\"min-height:1.5em\">Global company with 9 brands in 8 countries and employees worldwide</p></li><li><p style=\"min-height:1.5em\">Homeowners have turned to us for 300 million home projects and counting</p></li></ul><p style=\"min-height:1.5em\">Angi is seeking a Temporary Senior Salesforce Developer to join our Sales and Care Tooling team. In this role, you will design and implement functionality that supports our Sales and Care organizations, and help integrate our Salesforce instance with a new global, technical platform.</p><p style=\"min-height:1.5em\">You will work closely with seven Salesforce specialists and a Product Manager to deliver against team objectives.</p><p style=\"min-height:1.5em\">Our team works fluently with Visual Studio Code, Git, and SFDX CI/CD, and has recently adopted AI-assisted development to significantly increase output. We deploy to production an average of three times per day.</p><p style=\"min-height:1.5em\">Our guiding philosophy is \"Salesforce flows first.\" Most business features are built by administrators using Flow. Engineers partner with senior administrators to maintain a coherent package architecture and to design and develop custom components where Flow isn't a fit.</p><p style=\"min-height:1.5em\"><strong>Technology Stack</strong></p><p style=\"min-height:1.5em\">On",
+    "remote": true,
+    "description": "<p>ReciMe ist die am schnellsten wachsende Koch-App der Welt und hilft mehr als 15 Millionen Nutzern dabei, Rezepte von Social Media zu speichern und daraus Essenspläne sowie Einkaufslisten zu erstellen.</p>\n<p>Wir sind seit Monaten unter den Top 10 Apps in der Kategorie „Essen &#x26; Trinken\" im US App Store und expandieren aktuell auch nach Deutschland!</p>\n<p>Jetzt suchen wir UGC Creator für unser kleines, ambitioniertes Team! Du erstellst wöchtenlich neue Koch- und Rezeptvideos für ReciMe – Skript, Dreh und Schnitt komplett aus einer Hand.</p>\n<p>Du verdienst eine Provision basierend auf dem Meta &#x26; TikTok Werbebudget, je mehr Videos du erstellen kannst und je besser diese skalieren, desto mehr kannst du verdienen (bis zu 10.000 $ im Monat).</p>\n<h2>Aufgaben</h2>\n<ul>\n<li>Skripten, Filmen und Schneiden von Reels für bezahlte Anzeigen für Meta und TikTok</li>\n<li>Kochen vor der Kamera – das meiste von dem, was du erstellst, bist du selbst in der Küche, wie du die App tatsächlich nutzt</li>\n<li>Eigene Ansätze und Hooks mitbringen, statt auf ein detailliertes Briefing für jede Anzeige zu warten</li>\n<li>Schnelle Umsetzung – Dreh und Schnitt in derselben Woche</li>\n<li>Die Performance-Daten deiner eigenen Anzeigen nutzen, um diese zu optimieren</li>\n<li>Lernen, was im gesamten Creator-Team funktioniert, und dieses Wissen dementsprechend anwenden</li>\n</ul>\n<h2>Qualifikation</h2>\n<ul>\n<li>Du kochst gerne und hast kein Problem damit vor der Kamera zu stehen</li>\n<li>Eine Küche, in der du jederzeit drehen kannst</li>\n<li>Nachgewiesene Erfahrung als UGC Creator – ein Portfolio an Kurzvideo-Content, das du selbst geskriptet, gedreht und geschnitten hast</li>\n<li>Du hast die nötigen Editing Skills um aus deinem Rohmaterial schnell fertige Clips zu schneiden</li>\n<li>Nice to have: Eigene Reichweite im Bereich Food oder Home Cooking</li>\n</ul>\n<h2>Benefits</h2>\n<ul>\n<li>Dies ist eine freiberufliche Position - du brauchst ein Gewerbe um uns deine Leistung in Rechnung zu ",
     "requirements": "",
     "benefits": "",
     "is_it": false,
     "role": "other",
-    "industry": "Teknologi",
+    "industry": "Marketing",
     "remote_ok": true,
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
   },
   {
-    "id": 162038,
-    "created_at": "2026-09-11 10:03:34",
+    "id": 162098,
+    "created_at": "2026-09-11 10:33:56",
+    "source": "arbeitnow",
+    "title": "Projektkoordinator Produktentwicklung (m/w/d) unbefristet in Vollzeit",
+    "company": "Pets Nature GmbH",
+    "location": "Fellbach",
+    "url": "https://www.arbeitnow.com/jobs/companies/pets-nature-gmbh/projektkoordinator-produktentwicklung-unbefristet-in-vollzeit-fellbach-247268",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Marketing and Communication"
+    ],
+    "remote": true,
+    "description": "<p><strong>„Wir verstehen Tiere“ – und das seit über 25 Jahren.</strong></p>\n<p>Als eines der führenden Markenhäuser im Premium-Petfood-Segment entwickeln und vertreiben wir artgerechte Ernährung für Hunde und Katzen. Unsere Leidenschaft gilt hochwertigen Rezepturen, ehrlicher Qualität und Produkten, die dem natürlichen Verhalten von Tieren entsprechen.</p>\n<p>Mit unserem starken Markenportfolio – <strong>Lucky Lou, Lucky Jim, catz finefood, Chewies, Yummeez, PURBELLO und Pets Nature®</strong> – gehören wir zu den innovativsten Anbietern im deutschsprachigen Petfood-Markt.</p>\n<p>Wir vereinen <strong>Markenentwicklung, Produktkompetenz und selektive Distribution</strong> unter einem Dach – immer mit dem Ziel, das Wohl von Hunden und Katzen in den Mittelpunkt zu stellen.</p>\n<p><strong>Deine Rolle bei uns</strong></p>\n<p>Bei Pets Nature bringst du Struktur in komplexe Projekte und Menschen zusammen. Du koordinierst die Entwicklung neuer Produkte für Hunde und Katzen – von der ersten Idee bis zur Markteinführung. Als zentrale Ansprechperson für die Projektkoordination sorgst du für transparente Projektpläne, klare Zuständigkeiten und verlässliche Abstimmungen. Du berichtest an den Head of Marketing; fachliche Entscheidungen und Freigaben liegen bei den jeweiligen Fachabteilungen. Die Rolle umfasst keine Budgetverantwortung.</p>\n<h2>Aufgaben</h2>\n<ul>\n<li>Du koordinierst unsere Produktentwicklungsprojekte von der ersten Idee bis zur Markteinführung.</li>\n<li>Du erstellst und pflegst Projektpläne in Asana – mit klaren Meilensteinen, Zuständigkeiten und Abhängigkeiten.</li>\n<li>Du koordinierst die Zusammenarbeit zwischen Brand Management, Produktentwicklung, Einkauf, Qualitätsmanagement, Design und Marketing.</li>\n<li>Du erkennst Terminrisiken und Ressourcenengpässe frühzeitig, stimmst Gegenmaßnahmen mit den beteiligten Teams ab und holst notwendige Entscheidungen ein.</li>\n<li>Du organisierst und moderierst Projektbesprechungen. Entscheidungen, nächste Schritte und Vera",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Marketing",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 162248,
+    "created_at": "2026-09-11 10:33:56",
     "source": "arbeitnow",
     "title": "Senior Software Engineer, Engineering Operations",
     "company": "Camunda",
     "location": "Remote",
-    "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-engineering-operations-29349",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-engineering-operations-22311",
     "salary": "",
     "tags": [
       "Products"
@@ -128734,13 +128760,13 @@
     "is_foreign": true
   },
   {
-    "id": 162039,
-    "created_at": "2026-09-11 10:03:34",
+    "id": 162249,
+    "created_at": "2026-09-11 10:33:56",
     "source": "arbeitnow",
     "title": "Senior Software Engineer, Backend - Data Streaming",
     "company": "Camunda",
     "location": "Remote",
-    "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-backend-data-streaming-362952",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-backend-data-streaming-281046",
     "salary": "",
     "tags": [
       "Products"
@@ -128758,13 +128784,13 @@
     "is_foreign": true
   },
   {
-    "id": 162040,
-    "created_at": "2026-09-11 10:03:34",
+    "id": 162250,
+    "created_at": "2026-09-11 10:33:56",
     "source": "arbeitnow",
     "title": "Senior Software Engineer, Backend - Data Layer",
     "company": "Camunda",
     "location": "Remote",
-    "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-backend-data-layer-395284",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-backend-data-layer-223436",
     "salary": "",
     "tags": [
       "Products"
@@ -128775,6 +128801,30 @@
     "benefits": "",
     "is_it": true,
     "role": "SWE",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 162304,
+    "created_at": "2026-09-11 10:33:56",
+    "source": "arbeitnow",
+    "title": "Senior Salesforce Developer (Temporary)",
+    "company": "Angi",
+    "location": "Hybrid - France - Aix-en-Provence",
+    "url": "https://www.arbeitnow.fr/jobs/companies/angi/senior-salesforce-developer-temporary-aix-en-provence-393279",
+    "salary": "",
+    "tags": [
+      "Technology"
+    ],
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\">For over 30 years, Angi has powered the future of the home services industry, creating an environment where homeowners and pros benefit from more jobs done well.</p><p style=\"min-height:1.5em\">For homeowners, our platform is a reliable way to find skilled pros. For pros, we're a reliable business partner who helps them find the winnable work they want, when they want. For employees, we're an amazing place to call home. We can't wait to welcome you.</p><p style=\"min-height:1.5em\"><strong>Angi at a glance:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Founded in 1995 as Angie’s List and rebranded in 2021</p></li><li><p style=\"min-height:1.5em\">Global company with 9 brands in 8 countries and employees worldwide</p></li><li><p style=\"min-height:1.5em\">Homeowners have turned to us for 300 million home projects and counting</p></li></ul><p style=\"min-height:1.5em\">Angi is seeking a Temporary Senior Salesforce Developer to join our Sales and Care Tooling team. In this role, you will design and implement functionality that supports our Sales and Care organizations, and help integrate our Salesforce instance with a new global, technical platform.</p><p style=\"min-height:1.5em\">You will work closely with seven Salesforce specialists and a Product Manager to deliver against team objectives.</p><p style=\"min-height:1.5em\">Our team works fluently with Visual Studio Code, Git, and SFDX CI/CD, and has recently adopted AI-assisted development to significantly increase output. We deploy to production an average of three times per day.</p><p style=\"min-height:1.5em\">Our guiding philosophy is \"Salesforce flows first.\" Most business features are built by administrators using Flow. Engineers partner with senior administrators to maintain a coherent package architecture and to design and develop custom components where Flow isn't a fit.</p><p style=\"min-height:1.5em\"><strong>Technology Stack</strong></p><p style=\"min-height:1.5em\">On",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
     "industry": "Teknologi",
     "remote_ok": true,
     "id_city": null,
