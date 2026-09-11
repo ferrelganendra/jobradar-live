@@ -130781,5 +130781,54 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 166245,
+    "created_at": "2026-09-11 19:44:32",
+    "source": "arbeitnow",
+    "title": "Enterprise Account Executive (EMEA)",
+    "company": "Drata",
+    "location": "Remote - EMEA",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/drata/remote-enterprise-account-executive-emea-48795",
+    "salary": "",
+    "tags": [
+      "Sales"
+    ],
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\">Drata is building the trust layer between great companies - automating compliance, managing risk, and helping organizations prove trust continuously as they scale. We're Dratanauts: a global crew of 600+ professionals united by a culture that rewards integrity, ownership, and raising the bar, no matter where in the world we're working from.<br /><br /><strong>Why Join the Drata Team? </strong><br />At Drata, you're not maintaining legacy compliance software - you're building the agentic AI platform defining what trust looks like for the next generation of companies. Here's what makes the work itself worth showing up for:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Problems without a playbook:</strong> You'll work at the edge of AI and security, building agentic governance, continuous compliance, and real-time trust verification to solve problems that don't have an established answer yet. You're writing it as you go.</p></li><li><p style=\"min-height:1.5em\"><strong>Real ownership, not just process:</strong> Our values center on owning outcomes and raising the bar, not checking boxes. You're expected to have opinions and back them.</p></li><li><p style=\"min-height:1.5em\"><strong>A seat at the table:</strong> Your perspective is unique and valued. Open debate and diverse viewpoints are built into how decisions actually get made here, at every level.</p></li><li><p style=\"min-height:1.5em\"><strong>Growth at rocketship speed:</strong> Drata is scaling fast, which means scope grows fast too. High performers get more ownership, visibility, and experience.</p></li><li><p style=\"min-height:1.5em\"><strong>A crew, not just coworkers:</strong> Dratanauts consistently describe a \"come as you are\" culture with sharp, curious people—the kind of team that makes hard problems genuinely fun to solve. See <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://drata.com/about/careers/life\">what they say here</a> and follow us o",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "IT",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 166250,
+    "created_at": "2026-09-11 19:44:32",
+    "source": "arbeitnow",
+    "title": "Senior Pipeline TD - Film 2D",
+    "company": "Framestore",
+    "location": "Remote job",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/framestore/remote-senior-pipeline-td-film-2d-london-448943",
+    "salary": "",
+    "tags": [
+      "Technology",
+      "Remote"
+    ],
+    "remote": true,
+    "description": "<p>Location: London, UK (Hybrid or Fully Remote within the UK), unfortunately we cannot support VISA + relocation for this role.</p><p style=\"min-height: 1.7em;\"></p><p>The multi-Oscar-winning creative Film &amp; Episodic Studio at Framestore has worked with some of the greatest storytellers in film today. Collaborating with directors and producers across the complete filmmaking process to help design, plan and create beautiful images, we focus on finding innovative creative solutions to support their vision and set new standards for visual effects in cinema.</p><p style=\"min-height: 1.7em;\"></p><p>Framestore combines talent and technology to bring life to everything we create. Driven by creativity and inspired by the future, we set out every day to reframe the possible.</p><p style=\"min-height: 1.7em;\"></p><h4>About the role</h4><p>This is a new role within our team. As a Senior Pipeline Technical Director for Film 2D, you'll play a central role in building a resilient, intelligent VFX pipeline that removes technical friction and keeps our artists focused on creative delivery. You'll focus on supporting and enhancing production workflows across our 2D division, covering Compositing, Paint &amp; Roto, Editorial, and Review Tools.</p><p style=\"min-height: 1.7em;\"></p><p>From building robust Python tools to pioneering practical machine learning integrations (such as Switchlight, SAM3, and ComfyUI workflows), you'll help automate complex tasks and streamline shot delivery. Working closely with artist supervisors, heads of department, and our global pipeline team across London, Montreal, Melbourne, and Mumbai, you'll combine strong software engineering practices with a grounded, production-focused approach.</p><p style=\"min-height: 1.7em;\"></p><p><strong>What you’ll do</strong></p><ul><li><p>Develop, test, and maintain artist-friendly Python and PySide tools across our 2D workflows.</p></li><li><p>Integrate practical machine learning solutions into our active pipeline t",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "HR",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
