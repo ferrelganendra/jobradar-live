@@ -129155,30 +129155,5 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
-  },
-  {
-    "id": 163560,
-    "created_at": "2026-09-11 13:39:04",
-    "source": "arbeitnow",
-    "title": "SAP Berechtigungsmanager (m/w/d)",
-    "company": "Pertemps ERP",
-    "location": "Frankfurt am Main",
-    "url": "https://www.arbeitnow.com/jobs/companies/pertemps-erp/sap-berechtigungsmanager-frankfurt-am-main-415276",
-    "salary": "",
-    "tags": [
-      "Remote",
-      "IT"
-    ],
-    "remote": true,
-    "description": "<p><strong>SAP Berechtigungsmanager (m/w/d) – Schwerpunkt S/4HANA</strong></p>\n<p><strong>📍 NRW/Remote</strong></p>\n<ul>\n<li><strong>Freiberuflich/Selbstständig</strong></li>\n<li><strong>Vollzeit, 100%</strong> (Teilzeit auch möglich)</li>\n<li><strong>Start: Oktober</strong></li>\n<li><strong>Deutsch: verhandlungssicher (C1)</strong></li>\n</ul>\n<p><strong>Projekt</strong></p>\n<p>Berechtigungs- und Benutzeradministration in einer komplexen SAP-Systemlandschaft, eingebettet in ein agiles Team mit direktem Fachbereichskontakt.</p>\n<h2>Aufgaben</h2>\n<ul>\n<li>SAP-Berechtigungs- &#x26; Benutzeradministration</li>\n<li>Auswertungen in SAP GRC Access Control</li>\n<li>Analyse &#x26; Lösung von Berechtigungsproblemen</li>\n<li>Automatisierung von Berechtigungs-/Userprozessen</li>\n<li>Erfahrung mit folgenden SAP IT-Lösungen von Vorteil: Fiori, BTP, HANA DB, ABAP S/4, XAMS</li>\n</ul>\n<h2>Qualifikation</h2>\n<ul>\n<li>Studium oder vergleichbare Ausbildung (Wirtschaftsinformatik, Informatik, BWL o. ä.)</li>\n<li>Praxis in SAP-Berechtigungsverwaltung</li>\n<li>Erste Erfahrung mit S/4HANA, Fiori oder BTP</li>\n<li>Selbstständige, lösungsorientierte Arbeitsweise</li>\n</ul>\n<p><strong>📩 Interesse? Meld dich mit Profil, Verfügbarkeit und Tagessatz.</strong></p>\n<p>Find more <a href=\"https://www.arbeitnow.com/english-speaking-jobs\">English Speaking Jobs in Germany</a> on Arbeitnow</a>",
-    "requirements": "",
-    "benefits": "",
-    "is_it": true,
-    "role": "IT",
-    "industry": "Teknologi",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
   }
 ]

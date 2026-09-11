@@ -5,7 +5,7 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Fri, 11 Sep 2026 13:39:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 14:10:04 +0000</lastBuildDate>
     <item>
       <title>Senior IT Systems Engineer (Linux) (w/m/d)</title>
       <link>https://www.arbeitnow.com/jobs/companies/noris-network-ag/senior-it-systems-engineer-linux-nuremberg-423883</link>
@@ -29,18 +29,6 @@
       <job:salary></job:salary>
       <job:location>Berlin</job:location>
       <job:company>Unseen Media GmbH</job:company>
-    </item>
-    <item>
-      <title>SAP Berechtigungsmanager (m/w/d)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/pertemps-erp/sap-berechtigungsmanager-frankfurt-am-main-415276</link>
-      <guid isPermaLink="false">163560</guid>
-      <pubDate>Fri, 11 Sep 2026 13:39:04 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;SAP Berechtigungsmanager (m/w/d) – Schwerpunkt S/4HANA&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;📍 NRW/Remote&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Freiberuflich/Selbstständig&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Vollzeit, 100%&lt;/strong&gt; (Teilzeit auch möglich)&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Start: Oktober&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Deutsch: verhandlungssicher (C1)&lt;/strong&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Projekt&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Berechtigungs- und </description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Frankfurt am Main</job:location>
-      <job:company>Pertemps ERP</job:company>
     </item>
     <item>
       <title>Senior Software Engineer, Engineering Operations</title>
@@ -605,6 +593,18 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>CertiK</job:company>
+    </item>
+    <item>
+      <title>Customer Support Coach - NORAM</title>
+      <link>https://jobicy.com/jobs/152986-customer-support-coach-noram</link>
+      <guid isPermaLink="false">158087</guid>
+      <pubDate>Fri, 11 Sep 2026 00:35:55 +0000</pubDate>
+      <description></description>
+      <category>Support</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Cloudbeds</job:company>
     </item>
   </channel>
 </rss>
