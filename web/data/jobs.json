@@ -128487,30 +128487,6 @@
     "is_foreign": true
   },
   {
-    "id": 158696,
-    "created_at": "2026-09-11 02:50:28",
-    "source": "arbeitnow",
-    "title": "Senior Salesforce Developer (Temporary)",
-    "company": "Angi",
-    "location": "Hybrid - United Kingdom - London",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/angi/senior-salesforce-developer-temporary-london-357731",
-    "salary": "",
-    "tags": [
-      "Technology"
-    ],
-    "remote": false,
-    "description": "<p style=\"min-height:1.5em\">For over 30 years, Angi has powered the future of the home services industry, creating an environment where homeowners and pros benefit from more jobs done well.</p><p style=\"min-height:1.5em\">For homeowners, our platform is a reliable way to find skilled pros. For pros, we're a reliable business partner who helps them find the winnable work they want, when they want. For employees, we're an amazing place to call home. We can't wait to welcome you.</p><p style=\"min-height:1.5em\"><strong>Angi at a glance:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Founded in 1995 as Angie’s List and rebranded in 2021</p></li><li><p style=\"min-height:1.5em\">Global company with 9 brands in 8 countries and employees worldwide</p></li><li><p style=\"min-height:1.5em\">Homeowners have turned to us for 300 million home projects and counting</p></li></ul><p style=\"min-height:1.5em\">Angi is seeking a Temporary Senior Salesforce Developer to join our Sales and Care Tooling team. In this role, you will design and implement functionality that supports our Sales and Care organizations, and help integrate our Salesforce instance with a new global, technical platform.</p><p style=\"min-height:1.5em\">You will work closely with seven Salesforce specialists and a Product Manager to deliver against team objectives.</p><p style=\"min-height:1.5em\">Our team works fluently with Visual Studio Code, Git, and SFDX CI/CD, and has recently adopted AI-assisted development to significantly increase output. We deploy to production an average of three times per day.</p><p style=\"min-height:1.5em\">Our guiding philosophy is \"Salesforce flows first.\" Most business features are built by administrators using Flow. Engineers partner with senior administrators to maintain a coherent package architecture and to design and develop custom components where Flow isn't a fit.</p><p style=\"min-height:1.5em\"><strong>Technology Stack</strong></p><p style=\"min-height:1.5em\">On",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
-    "industry": "Teknologi",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 158737,
     "created_at": "2026-09-11 02:50:28",
     "source": "arbeitnow",
@@ -128535,13 +128511,37 @@
     "is_foreign": true
   },
   {
-    "id": 158756,
-    "created_at": "2026-09-11 02:50:28",
+    "id": 158899,
+    "created_at": "2026-09-11 03:21:09",
+    "source": "arbeitnow",
+    "title": "Senior AI Engineer - Notebooks",
+    "company": "Datadog",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/datadog/remote-senior-ai-engineer-notebooks-115121",
+    "salary": "",
+    "tags": [
+      "Dev Eng"
+    ],
+    "remote": true,
+    "description": "&lt;p&gt;Datadog Notebooks provide customers with a collaborative surface for ad-hoc data analysis, technical documentation, incident postmortems and runbooks. The power and flexibility of Notebooks also makes it the perfect place to integrate AI tools that can augment user workflows. Our vision is that in Notebooks users can collaborate with each other and with AI agents seamlessly.&lt;/p&gt;\n&lt;p&gt;We are looking for a product-oriented Senior Software Engineer to help build the AI-assisted workflows that are becoming central to how customers use Notebooks. In this role you will work closely with product and design, and own platforms for analysis workflows and context discovery. There is a real opportunity for impact here: turning Notebooks into the tool that helps customers go from uncertainty to answer, and making that knowledge retrievable and reusable across Datadog products.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What You’ll Do&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead the design and delivery of AI-powered product experiences for Notebooks and adjacent surfaces&lt;/li&gt;\n&lt;li&gt;Develop systems that combine deterministic product capabilities with LLM-powered experiences to deliver trustworthy and explainable customer outcomes&lt;/li&gt;\n&lt;li&gt;Partner closely with Product: Work hand-in-hand with the Product Manager to translate customer problems, adoption signals, and roadmap goals into concrete technical decisions and iterations&lt;/li&gt;\n&lt;li&gt;Build experiences that enable Datadog capabilities to operate within third-party AI platforms, agents, and conversational environments&lt;/li&gt;\n&lt;li&gt;Provide technical leadership and m",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "AI",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 158915,
+    "created_at": "2026-09-11 03:21:09",
     "source": "arbeitnow",
     "title": "Senior Software Engineer, Engineering Operations",
     "company": "Camunda",
     "location": "Remote",
-    "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-engineering-operations-29349",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-engineering-operations-22311",
     "salary": "",
     "tags": [
       "Products"
@@ -128559,13 +128559,13 @@
     "is_foreign": true
   },
   {
-    "id": 158757,
-    "created_at": "2026-09-11 02:50:28",
+    "id": 158916,
+    "created_at": "2026-09-11 03:21:09",
     "source": "arbeitnow",
     "title": "Senior Software Engineer, Backend - Data Streaming",
     "company": "Camunda",
     "location": "Remote",
-    "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-backend-data-streaming-362952",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-backend-data-streaming-281046",
     "salary": "",
     "tags": [
       "Products"
@@ -128583,13 +128583,13 @@
     "is_foreign": true
   },
   {
-    "id": 158758,
-    "created_at": "2026-09-11 02:50:28",
+    "id": 158917,
+    "created_at": "2026-09-11 03:21:09",
     "source": "arbeitnow",
     "title": "Senior Software Engineer, Backend - Data Layer",
     "company": "Camunda",
     "location": "Remote",
-    "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-backend-data-layer-395284",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-backend-data-layer-223436",
     "salary": "",
     "tags": [
       "Products"
@@ -128607,23 +128607,23 @@
     "is_foreign": true
   },
   {
-    "id": 158764,
-    "created_at": "2026-09-11 02:50:28",
+    "id": 159013,
+    "created_at": "2026-09-11 03:21:09",
     "source": "arbeitnow",
-    "title": "Senior AI Engineer - Notebooks",
-    "company": "Datadog",
-    "location": "Remote",
-    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/remote-senior-ai-engineer-notebooks-116524",
+    "title": "Senior Salesforce Developer (Temporary)",
+    "company": "Angi",
+    "location": "Hybrid - France - Aix-en-Provence",
+    "url": "https://www.arbeitnow.fr/jobs/companies/angi/senior-salesforce-developer-temporary-aix-en-provence-393279",
     "salary": "",
     "tags": [
-      "Dev Eng"
+      "Technology"
     ],
     "remote": false,
-    "description": "&lt;p&gt;Datadog Notebooks provide customers with a collaborative surface for ad-hoc data analysis, technical documentation, incident postmortems and runbooks. The power and flexibility of Notebooks also makes it the perfect place to integrate AI tools that can augment user workflows. Our vision is that in Notebooks users can collaborate with each other and with AI agents seamlessly.&lt;/p&gt;\n&lt;p&gt;We are looking for a product-oriented Senior Software Engineer to help build the AI-assisted workflows that are becoming central to how customers use Notebooks. In this role you will work closely with product and design, and own platforms for analysis workflows and context discovery. There is a real opportunity for impact here: turning Notebooks into the tool that helps customers go from uncertainty to answer, and making that knowledge retrievable and reusable across Datadog products.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What You’ll Do&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead the design and delivery of AI-powered product experiences for Notebooks and adjacent surfaces&lt;/li&gt;\n&lt;li&gt;Develop systems that combine deterministic product capabilities with LLM-powered experiences to deliver trustworthy and explainable customer outcomes&lt;/li&gt;\n&lt;li&gt;Partner closely with Product: Work hand-in-hand with the Product Manager to translate customer problems, adoption signals, and roadmap goals into concrete technical decisions and iterations&lt;/li&gt;\n&lt;li&gt;Build experiences that enable Datadog capabilities to operate within third-party AI platforms, agents, and conversational environments&lt;/li&gt;\n&lt;li&gt;Provide technical leadership and m",
+    "description": "<p style=\"min-height:1.5em\">For over 30 years, Angi has powered the future of the home services industry, creating an environment where homeowners and pros benefit from more jobs done well.</p><p style=\"min-height:1.5em\">For homeowners, our platform is a reliable way to find skilled pros. For pros, we're a reliable business partner who helps them find the winnable work they want, when they want. For employees, we're an amazing place to call home. We can't wait to welcome you.</p><p style=\"min-height:1.5em\"><strong>Angi at a glance:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Founded in 1995 as Angie’s List and rebranded in 2021</p></li><li><p style=\"min-height:1.5em\">Global company with 9 brands in 8 countries and employees worldwide</p></li><li><p style=\"min-height:1.5em\">Homeowners have turned to us for 300 million home projects and counting</p></li></ul><p style=\"min-height:1.5em\">Angi is seeking a Temporary Senior Salesforce Developer to join our Sales and Care Tooling team. In this role, you will design and implement functionality that supports our Sales and Care organizations, and help integrate our Salesforce instance with a new global, technical platform.</p><p style=\"min-height:1.5em\">You will work closely with seven Salesforce specialists and a Product Manager to deliver against team objectives.</p><p style=\"min-height:1.5em\">Our team works fluently with Visual Studio Code, Git, and SFDX CI/CD, and has recently adopted AI-assisted development to significantly increase output. We deploy to production an average of three times per day.</p><p style=\"min-height:1.5em\">Our guiding philosophy is \"Salesforce flows first.\" Most business features are built by administrators using Flow. Engineers partner with senior administrators to maintain a coherent package architecture and to design and develop custom components where Flow isn't a fit.</p><p style=\"min-height:1.5em\"><strong>Technology Stack</strong></p><p style=\"min-height:1.5em\">On",
     "requirements": "",
     "benefits": "",
-    "is_it": true,
-    "role": "AI",
+    "is_it": false,
+    "role": "other",
     "industry": "Teknologi",
     "remote_ok": true,
     "id_city": null,
