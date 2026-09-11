@@ -5,7 +5,19 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Fri, 11 Sep 2026 19:44:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 20:34:57 +0000</lastBuildDate>
+    <item>
+      <title>Senior Sales Engineer - MENA</title>
+      <link>https://www.arbeitnow.fr/jobs/companies/sardine/remote-senior-sales-engineer-mena-418834</link>
+      <guid isPermaLink="false">166545</guid>
+      <pubDate>Fri, 11 Sep 2026 20:34:55 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;Who we are:&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Sardine is the leading agentic risk platform for fighting financial crime. Our integrated solution unifies data across risk teams to help organizations stop fraud in real time, prevent AI-driven attacks, and automate fraud and AML operations. Sardine’s platform is strengthened by one of the fastest-growing frau</description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>Sardine</job:company>
+    </item>
     <item>
       <title>Enterprise Account Executive (EMEA)</title>
       <link>https://www.arbeitnow.co.uk/jobs/companies/drata/remote-enterprise-account-executive-emea-48795</link>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Binance</job:company>
-    </item>
-    <item>
-      <title>Senior Sales Engineer | NYC Tri-State</title>
-      <link>https://jobicy.com/jobs/153027-senior-sales-engineer-nyc-tri-state</link>
-      <guid isPermaLink="false">165172</guid>
-      <pubDate>Fri, 11 Sep 2026 16:45:09 +0000</pubDate>
-      <description></description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>ExtraHop</job:company>
     </item>
   </channel>
 </rss>

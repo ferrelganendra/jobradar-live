@@ -130830,5 +130830,29 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 166545,
+    "created_at": "2026-09-11 20:34:55",
+    "source": "arbeitnow",
+    "title": "Senior Sales Engineer - MENA",
+    "company": "Sardine",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.fr/jobs/companies/sardine/remote-senior-sales-engineer-mena-418834",
+    "salary": "",
+    "tags": [
+      "Sales"
+    ],
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\"><strong>Who we are:</strong></p><p style=\"min-height:1.5em\">Sardine is the leading agentic risk platform for fighting financial crime. Our integrated solution unifies data across risk teams to help organizations stop fraud in real time, prevent AI-driven attacks, and automate fraud and AML operations. Sardine’s platform is strengthened by one of the fastest-growing fraud consortiums in the market, spanning more than 6 billion profiled devices, 800 million consumers, and 3 million businesses worldwide. Leading companies including FIS, GoDaddy, Intuit, Edward Jones, ZoomInfo, and Checkout.com rely on Sardine to secure and grow trust in their products.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Our culture:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">We have hubs in the Bay Area, NYC, Austin, Toronto, and São Paulo. However, we maintain a remote-first work culture. #WorkFromAnywhere</p></li><li><p style=\"min-height:1.5em\">We hire talented, self-motivated individuals with extreme ownership and high growth orientation. </p></li><li><p style=\"min-height:1.5em\">We value performance and not hours worked. We believe you shouldn't have to miss your family dinner, your kid's school play, friends get-together, or doctor's appointments for the sake of adhering to an arbitrary work schedule.</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Location:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Remote MENA - Preference for Dubai</p></li><li><p style=\"min-height:1.5em\"><strong>Please note:</strong> This role will require up to <strong>50% travel. </strong></p></li><li><p style=\"min-height:1.5em\">From Home / Beach / Mountain / Cafe / Anywhere!</p></li><li><p style=\"min-height:1.5em\">We are a remote-first company with a globally distributed team. You can find your productive zone and work from there.</p></li></ul><div style=\"min-height:1.2em",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
