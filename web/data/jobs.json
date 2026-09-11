@@ -128638,23 +128638,47 @@
     "is_foreign": true
   },
   {
-    "id": 161528,
-    "created_at": "2026-09-11 09:02:12",
+    "id": 161616,
+    "created_at": "2026-09-11 09:33:12",
     "source": "arbeitnow",
-    "title": "Senior Salesforce Developer (Temporary)",
-    "company": "Angi",
-    "location": "Hybrid - United Kingdom - London",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/angi/senior-salesforce-developer-temporary-london-357731",
+    "title": "Senior A/R Manager - E-Commerce & Meldewesen (all genders)",
+    "company": "Glow25",
+    "location": "Remote - Europe Only",
+    "url": "https://www.arbeitnow.com/jobs/companies/glow25/remote-senior-a-r-manager-e-commerce-meldewesen-all-genders-293405",
     "salary": "",
     "tags": [
-      "Technology"
+      "Finance / Legal / BI"
     ],
     "remote": false,
-    "description": "<p style=\"min-height:1.5em\">For over 30 years, Angi has powered the future of the home services industry, creating an environment where homeowners and pros benefit from more jobs done well.</p><p style=\"min-height:1.5em\">For homeowners, our platform is a reliable way to find skilled pros. For pros, we're a reliable business partner who helps them find the winnable work they want, when they want. For employees, we're an amazing place to call home. We can't wait to welcome you.</p><p style=\"min-height:1.5em\"><strong>Angi at a glance:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Founded in 1995 as Angie’s List and rebranded in 2021</p></li><li><p style=\"min-height:1.5em\">Global company with 9 brands in 8 countries and employees worldwide</p></li><li><p style=\"min-height:1.5em\">Homeowners have turned to us for 300 million home projects and counting</p></li></ul><p style=\"min-height:1.5em\">Angi is seeking a Temporary Senior Salesforce Developer to join our Sales and Care Tooling team. In this role, you will design and implement functionality that supports our Sales and Care organizations, and help integrate our Salesforce instance with a new global, technical platform.</p><p style=\"min-height:1.5em\">You will work closely with seven Salesforce specialists and a Product Manager to deliver against team objectives.</p><p style=\"min-height:1.5em\">Our team works fluently with Visual Studio Code, Git, and SFDX CI/CD, and has recently adopted AI-assisted development to significantly increase output. We deploy to production an average of three times per day.</p><p style=\"min-height:1.5em\">Our guiding philosophy is \"Salesforce flows first.\" Most business features are built by administrators using Flow. Engineers partner with senior administrators to maintain a coherent package architecture and to design and develop custom components where Flow isn't a fit.</p><p style=\"min-height:1.5em\"><strong>Technology Stack</strong></p><p style=\"min-height:1.5em\">On",
+    "description": "<p style=\"min-height:1.5em\"><strong>Willkommen bei Glow25! <br /></strong>Wir sind ein dynamisches, schnell wachsendes Beauty- und Pro-Aging-Unternehmen mit Sitz in Berlin. Unsere Herzensmission: Glow-Momente, die bleiben – für unsere Community und für uns als Team.<br /><br />Arbeit bei Glow25 soll inspirieren, begeistern und Spaß machen. Deshalb suchen wir kluge, empathische Menschen, die Verantwortung übernehmen und mit uns wachsen.</p><p style=\"min-height:1.5em\"><br />Werde Teil von Glow25 und hilf uns, Beauty neu zu definieren. Wir freuen uns darauf, dich kennenzulernen!<br /></p><p style=\"min-height:1.5em\"><strong>Das sind unsere aktuellen Herausforderungen und perspektivischen Ziele:</strong></p><p style=\"min-height:1.5em\">Glow25 skaliert: Über Marketplaces (Amazon, Zalando, DM), mehrere Länder, verschiedene Zahlungsdienstleister – und unser Accounting muss mithalten. Unser Finance-Team baut eine moderne A/R-Landschaft auf, die diesen Komplexitäten standhält. Wir brauchen einen erfahrenen Senior A/R Manager (all genders), der Prozesse denkt, Automation treibt und gleichzeitig fachlich führt.<br /><br />Du wirst den <strong>Order2Cash-Prozess</strong> neu strukturieren – von automatisiertem Marketplace-Settlement über intelligente Cash Application bis zu fehlersicheren, internationalen Meldungen.<br /></p><p style=\"min-height:1.5em\"><strong>In diesem Bereich brauchen wir Deine Unterstützung:</strong></p><p style=\"min-height:1.5em\">Prozesse &amp; Skalierung<br />- Du entwickelst unsere Accounting-Systemlandschaft weiter und treibst die Automatisierung entlang des gesamten Order2Cash-Prozesses voran – vom Marketplace-Settlement bis zur Verbuchung.<br />- Du strukturierst unser internationales Meldewesen (OSS, USt-VA, Zusammenfassungsmeldung) und führst es in einen einheitlichen, tool-gestützten Prozess für alle Länder zusammen.<br />- Du optimierst <strong>Cash Application</strong> und <strong>Bankabstimmung</strong> über alle Zahlungsdienstleister hinweg (z. B.",
     "requirements": "",
     "benefits": "",
     "is_it": false,
     "role": "other",
+    "industry": "Marketing",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 161617,
+    "created_at": "2026-09-11 09:33:12",
+    "source": "arbeitnow",
+    "title": "Senior AI Product Engineer",
+    "company": "Cosuno",
+    "location": "Berlin/Remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-ai-product-engineer-berlin-51652",
+    "salary": "",
+    "tags": [
+      "Tech"
+    ],
+    "remote": false,
+    "description": "<h2>Your mission</h2><p style=\"min-height:1.5em\">Join our team and build the intelligent systems at the core of Cosuno's platform.</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Generative AI: Build and improve our LLM-powered systems that navigate the complex, often messy tendering workflow.</p></li><li><p style=\"min-height:1.5em\">Ship end-to-end into the product: Own features from model/agent through API to the TypeScript front-end — backend service, API, and the integration into the web app.</p></li><li><p style=\"min-height:1.5em\">Collaborate across teams: Work with Product, Engineering, and Data to translate business problems into shipped AI features.</p></li><li><p style=\"min-height:1.5em\">Maintain production AI: Monitoring, alerting, and continuous improvement of everything we deploy.</p></li></ul><p style=\"min-height:1.5em\"></p><h2>Your profile</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">TypeScript, React, Node: Non-negotiable. You're comfortable shipping into our web app end-to-end — front-end, backend service, API.</p></li><li><p style=\"min-height:1.5em\">Strong Python: You have 5+ years writing production-grade Python. You write clean, well-structured code.</p></li><li><p style=\"min-height:1.5em\">End-to-end product delivery: You've shipped AI-powered features into a production web app and owned the integration from research code to real users.</p></li><li><p style=\"min-height:1.5em\">LLM application depth: You have deep hands-on experience building and deploying LLM/agent systems — RAG, tool use, multi-step reasoning, evals.</p></li><li><p style=\"min-height:1.5em\">Backend engineering skills: You design APIs, data pipelines, and services.</p></li><li><p style=\"min-height:1.5em\">Product mindset: You're comfortable with ambiguity and can judge when something is good enough to ship.</p></li><li><p style=\"min-height:1.5em\">Sharp problem solver: You look at a complex system, quickly identify what matters, and decide what to do",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "AI",
     "industry": "Teknologi",
     "remote_ok": true,
     "id_city": null,
@@ -128662,13 +128686,13 @@
     "is_foreign": true
   },
   {
-    "id": 161560,
-    "created_at": "2026-09-11 09:02:12",
+    "id": 161756,
+    "created_at": "2026-09-11 09:33:12",
     "source": "arbeitnow",
     "title": "Senior Software Engineer, Engineering Operations",
     "company": "Camunda",
     "location": "Remote",
-    "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-engineering-operations-29349",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-engineering-operations-22311",
     "salary": "",
     "tags": [
       "Products"
@@ -128686,13 +128710,13 @@
     "is_foreign": true
   },
   {
-    "id": 161561,
-    "created_at": "2026-09-11 09:02:12",
+    "id": 161757,
+    "created_at": "2026-09-11 09:33:12",
     "source": "arbeitnow",
     "title": "Senior Software Engineer, Backend - Data Streaming",
     "company": "Camunda",
     "location": "Remote",
-    "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-backend-data-streaming-362952",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-backend-data-streaming-281046",
     "salary": "",
     "tags": [
       "Products"
@@ -128710,13 +128734,13 @@
     "is_foreign": true
   },
   {
-    "id": 161562,
-    "created_at": "2026-09-11 09:02:12",
+    "id": 161758,
+    "created_at": "2026-09-11 09:33:12",
     "source": "arbeitnow",
     "title": "Senior Software Engineer, Backend - Data Layer",
     "company": "Camunda",
     "location": "Remote",
-    "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-backend-data-layer-395284",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-backend-data-layer-223436",
     "salary": "",
     "tags": [
       "Products"
@@ -128727,6 +128751,30 @@
     "benefits": "",
     "is_it": true,
     "role": "SWE",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 161827,
+    "created_at": "2026-09-11 09:33:12",
+    "source": "arbeitnow",
+    "title": "Senior Salesforce Developer (Temporary)",
+    "company": "Angi",
+    "location": "Hybrid - France - Aix-en-Provence",
+    "url": "https://www.arbeitnow.fr/jobs/companies/angi/senior-salesforce-developer-temporary-aix-en-provence-393279",
+    "salary": "",
+    "tags": [
+      "Technology"
+    ],
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\">For over 30 years, Angi has powered the future of the home services industry, creating an environment where homeowners and pros benefit from more jobs done well.</p><p style=\"min-height:1.5em\">For homeowners, our platform is a reliable way to find skilled pros. For pros, we're a reliable business partner who helps them find the winnable work they want, when they want. For employees, we're an amazing place to call home. We can't wait to welcome you.</p><p style=\"min-height:1.5em\"><strong>Angi at a glance:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Founded in 1995 as Angie’s List and rebranded in 2021</p></li><li><p style=\"min-height:1.5em\">Global company with 9 brands in 8 countries and employees worldwide</p></li><li><p style=\"min-height:1.5em\">Homeowners have turned to us for 300 million home projects and counting</p></li></ul><p style=\"min-height:1.5em\">Angi is seeking a Temporary Senior Salesforce Developer to join our Sales and Care Tooling team. In this role, you will design and implement functionality that supports our Sales and Care organizations, and help integrate our Salesforce instance with a new global, technical platform.</p><p style=\"min-height:1.5em\">You will work closely with seven Salesforce specialists and a Product Manager to deliver against team objectives.</p><p style=\"min-height:1.5em\">Our team works fluently with Visual Studio Code, Git, and SFDX CI/CD, and has recently adopted AI-assisted development to significantly increase output. We deploy to production an average of three times per day.</p><p style=\"min-height:1.5em\">Our guiding philosophy is \"Salesforce flows first.\" Most business features are built by administrators using Flow. Engineers partner with senior administrators to maintain a coherent package architecture and to design and develop custom components where Flow isn't a fit.</p><p style=\"min-height:1.5em\"><strong>Technology Stack</strong></p><p style=\"min-height:1.5em\">On",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
     "industry": "Teknologi",
     "remote_ok": true,
     "id_city": null,
