@@ -128638,13 +128638,37 @@
     "is_foreign": true
   },
   {
-    "id": 161278,
-    "created_at": "2026-09-11 08:31:10",
+    "id": 161528,
+    "created_at": "2026-09-11 09:02:12",
+    "source": "arbeitnow",
+    "title": "Senior Salesforce Developer (Temporary)",
+    "company": "Angi",
+    "location": "Hybrid - United Kingdom - London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/angi/senior-salesforce-developer-temporary-london-357731",
+    "salary": "",
+    "tags": [
+      "Technology"
+    ],
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\">For over 30 years, Angi has powered the future of the home services industry, creating an environment where homeowners and pros benefit from more jobs done well.</p><p style=\"min-height:1.5em\">For homeowners, our platform is a reliable way to find skilled pros. For pros, we're a reliable business partner who helps them find the winnable work they want, when they want. For employees, we're an amazing place to call home. We can't wait to welcome you.</p><p style=\"min-height:1.5em\"><strong>Angi at a glance:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Founded in 1995 as Angie’s List and rebranded in 2021</p></li><li><p style=\"min-height:1.5em\">Global company with 9 brands in 8 countries and employees worldwide</p></li><li><p style=\"min-height:1.5em\">Homeowners have turned to us for 300 million home projects and counting</p></li></ul><p style=\"min-height:1.5em\">Angi is seeking a Temporary Senior Salesforce Developer to join our Sales and Care Tooling team. In this role, you will design and implement functionality that supports our Sales and Care organizations, and help integrate our Salesforce instance with a new global, technical platform.</p><p style=\"min-height:1.5em\">You will work closely with seven Salesforce specialists and a Product Manager to deliver against team objectives.</p><p style=\"min-height:1.5em\">Our team works fluently with Visual Studio Code, Git, and SFDX CI/CD, and has recently adopted AI-assisted development to significantly increase output. We deploy to production an average of three times per day.</p><p style=\"min-height:1.5em\">Our guiding philosophy is \"Salesforce flows first.\" Most business features are built by administrators using Flow. Engineers partner with senior administrators to maintain a coherent package architecture and to design and develop custom components where Flow isn't a fit.</p><p style=\"min-height:1.5em\"><strong>Technology Stack</strong></p><p style=\"min-height:1.5em\">On",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 161560,
+    "created_at": "2026-09-11 09:02:12",
     "source": "arbeitnow",
     "title": "Senior Software Engineer, Engineering Operations",
     "company": "Camunda",
     "location": "Remote",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-engineering-operations-22311",
+    "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-engineering-operations-29349",
     "salary": "",
     "tags": [
       "Products"
@@ -128662,13 +128686,13 @@
     "is_foreign": true
   },
   {
-    "id": 161279,
-    "created_at": "2026-09-11 08:31:10",
+    "id": 161561,
+    "created_at": "2026-09-11 09:02:12",
     "source": "arbeitnow",
     "title": "Senior Software Engineer, Backend - Data Streaming",
     "company": "Camunda",
     "location": "Remote",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-backend-data-streaming-281046",
+    "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-backend-data-streaming-362952",
     "salary": "",
     "tags": [
       "Products"
@@ -128686,13 +128710,13 @@
     "is_foreign": true
   },
   {
-    "id": 161280,
-    "created_at": "2026-09-11 08:31:10",
+    "id": 161562,
+    "created_at": "2026-09-11 09:02:12",
     "source": "arbeitnow",
     "title": "Senior Software Engineer, Backend - Data Layer",
     "company": "Camunda",
     "location": "Remote",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-backend-data-layer-223436",
+    "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-backend-data-layer-395284",
     "salary": "",
     "tags": [
       "Products"
@@ -128703,30 +128727,6 @@
     "benefits": "",
     "is_it": true,
     "role": "SWE",
-    "industry": "Teknologi",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
-    "id": 161349,
-    "created_at": "2026-09-11 08:31:10",
-    "source": "arbeitnow",
-    "title": "Senior Salesforce Developer (Temporary)",
-    "company": "Angi",
-    "location": "Hybrid - France - Aix-en-Provence",
-    "url": "https://www.arbeitnow.fr/jobs/companies/angi/senior-salesforce-developer-temporary-aix-en-provence-393279",
-    "salary": "",
-    "tags": [
-      "Technology"
-    ],
-    "remote": false,
-    "description": "<p style=\"min-height:1.5em\">For over 30 years, Angi has powered the future of the home services industry, creating an environment where homeowners and pros benefit from more jobs done well.</p><p style=\"min-height:1.5em\">For homeowners, our platform is a reliable way to find skilled pros. For pros, we're a reliable business partner who helps them find the winnable work they want, when they want. For employees, we're an amazing place to call home. We can't wait to welcome you.</p><p style=\"min-height:1.5em\"><strong>Angi at a glance:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Founded in 1995 as Angie’s List and rebranded in 2021</p></li><li><p style=\"min-height:1.5em\">Global company with 9 brands in 8 countries and employees worldwide</p></li><li><p style=\"min-height:1.5em\">Homeowners have turned to us for 300 million home projects and counting</p></li></ul><p style=\"min-height:1.5em\">Angi is seeking a Temporary Senior Salesforce Developer to join our Sales and Care Tooling team. In this role, you will design and implement functionality that supports our Sales and Care organizations, and help integrate our Salesforce instance with a new global, technical platform.</p><p style=\"min-height:1.5em\">You will work closely with seven Salesforce specialists and a Product Manager to deliver against team objectives.</p><p style=\"min-height:1.5em\">Our team works fluently with Visual Studio Code, Git, and SFDX CI/CD, and has recently adopted AI-assisted development to significantly increase output. We deploy to production an average of three times per day.</p><p style=\"min-height:1.5em\">Our guiding philosophy is \"Salesforce flows first.\" Most business features are built by administrators using Flow. Engineers partner with senior administrators to maintain a coherent package architecture and to design and develop custom components where Flow isn't a fit.</p><p style=\"min-height:1.5em\"><strong>Technology Stack</strong></p><p style=\"min-height:1.5em\">On",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
     "industry": "Teknologi",
     "remote_ok": true,
     "id_city": null,
