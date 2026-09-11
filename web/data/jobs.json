@@ -130657,5 +130657,55 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 165205,
+    "created_at": "2026-09-11 17:16:08",
+    "source": "arbeitnow",
+    "title": "(Senior) Go-to-Market Scaling Manager - Germany (m/f/d)",
+    "company": "1KOMMA5˚",
+    "location": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-go-to-market-scaling-manager-germany-berlin-307706",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Software Development"
+    ],
+    "remote": true,
+    "description": "<h2>1KOMMA5°</h2>\n<p>At <strong>1KOMMA5°</strong>, we pursue a clear vision: <strong>Living on wind and sunlight forever for free</strong>. To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it?</p>\n<p>We bring together regional craftsmanship and scalable software: We don't think of solar, batteries, heat pumps, and e-mobility as isolated components, but control them as an intelligent, integrated overall system in our virtual power plant. Directly connected to the electricity market – in real time, fully automated. This way, energy is used when it is available from renewables and particularly cost-effective. By 2030, our goal is to transition 1.5 million households to renewable energies. Over 3,000 people are working towards this every day, at more than 80 locations worldwide, from Finland to Australia.</p>\n<p><strong>Want to take responsibility and build solutions that truly matter? Apply now and help us shape the energy world of tomorrow.</strong></p>\n<p>Learn about our Product &#x26; Tech team!</p>\n<h2>Deine Position</h2>\n<p>Heartbeat AI is our energy optimisation platform that always provides our customers with the cleanest and cheapest energy. As the (<strong>Senior) Go-to-Market Scaling Manager - Germany,</strong> your first focus is optimising the performance, positioning, and monetisation of Heartbeat AI within our largest and most established market while adding new products to it and making sure our new customer-facing features get seen. You will take ownership of what's already working and what isn't, fine-tuning pricing, packaging, and go-to-market execution while working closely across Product, Tech, Sales, and Marketing to keep the German market performing at its full potential.</p>\n<ul>\n<li>You own the performance and monetisation of Heartbeat AI within the German market, working to continuously optimise what's already in place rather than build from zero.</li>\n<li>You fine-tune pricing and pa",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 165207,
+    "created_at": "2026-09-11 17:16:08",
+    "source": "arbeitnow",
+    "title": "Head of Sales (m/w/d)",
+    "company": "Pont Connects e.K.",
+    "location": "Düsseldorf",
+    "url": "https://www.arbeitnow.com/jobs/companies/pont-connects-ek/head-of-sales-dusseldorf-172826",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "IT"
+    ],
+    "remote": true,
+    "description": "<p>Für meinen langjähringen Kunden bin ich auf der Suche nach einem Head of Sales (m/w/d)</p>\n<p>Wir suchen einen <strong>Head of Sales (m/w/d)</strong>, der nicht nur selbst erfolgreich verkaufen kann, sondern vor allem andere Vertriebler erfolgreich macht.</p>\n<p>In dieser Rolle übernimmst du die Verantwortung für die <strong>vertriebliche Performance und Weiterentwicklung unseres gesamten Key Account Teams</strong>. Du führst als Player-Coach, entwickelst unsere KAMs individuell weiter und sorgst dafür, dass aus guten Vertriebsmitarbeitern zunehmend selbstständige und strategisch agierende Umsatzträger werden.</p>\n<p>Dabei geht es nicht darum, die schwierigsten Deals selbst zu übernehmen. Dein Erfolg zeigt sich daran, dass dein Team diese Deals zunehmend selbst erfolgreich abschließt.</p>\n<h2>Aufgaben</h2>\n<p>Führung &#x26; Coaching</p>\n<ul>\n<li>Du kennst die Stärken und Entwicklungsfelder deiner KAMs und entwickelst sie gezielt weiter.</li>\n<li>Du definierst gemeinsam mit deinen Teammitgliedern konkrete Entwicklungsziele und Maßnahmen.</li>\n<li>Du coachst direkt an realen Accounts, Opportunities und Kundensituationen.</li>\n<li>Du entwickelst deine KAMs insbesondere in den Bereichen <strong>Neukundenakquisition, strategisches Account Management, Value Selling, Entscheider-Management, Verhandlung und Closing</strong>.</li>\n<li>Du bereitest wichtige Kundentermine und Verhandlungen gemeinsam mit deinen KAMs vor und reflektierst diese anschließend.</li>\n<li>Du gibst Verantwortung nicht an dich, sondern <strong>an dein Team zurück</strong> und entwickelst dadurch Selbstständigkeit und Ownership.</li>\n</ul>\n<p>Vertriebssteuerung &#x26; Performance</p>\n<ul>\n<li>Du übersetzt unsere Unternehmens- und Sales-Ziele in klare Ziele und Erwartungen für das Team.</li>\n<li>Du verantwortest gemeinsam mit den KAMs <strong>Umsatz, Pipeline, Account-Entwicklung und Neukundenakquisition</strong>.</li>\n<li>Du stellst eine belastbare Pipeline und einen realistischen Forecast sicher.</li",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
