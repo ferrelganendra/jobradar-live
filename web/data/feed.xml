@@ -5,12 +5,36 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Sat, 12 Sep 2026 09:50:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 10:21:07 +0000</lastBuildDate>
+    <item>
+      <title>Associate, Paid Social</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/angi/associate-paid-social-london-108645</link>
+      <guid isPermaLink="false">172581</guid>
+      <pubDate>Sat, 12 Sep 2026 10:21:06 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;For over 30 years, Angi has powered the future of the home services industry, creating an environment where homeowners and pros benefit from more jobs done well.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;For homeowners, our platform is a reliable way to find skilled pros. For pros, we're a reliable business partner who helps them find the winnable work they want, when they want. F</description>
+      <category>Marketing</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Hybrid - United Kingdom - London</job:location>
+      <job:company>Angi</job:company>
+    </item>
+    <item>
+      <title>Senior Product Manager, Data Infrastructure</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/angi/senior-product-manager-data-infrastructure-london-139663</link>
+      <guid isPermaLink="false">172582</guid>
+      <pubDate>Sat, 12 Sep 2026 10:21:06 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;For over 30 years, Angi has powered the future of the home services industry, creating an environment where homeowners and pros benefit from more jobs done well.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;For homeowners, our platform is a reliable way to find skilled pros. For pros, we're a reliable business partner who helps them find the winnable work they want, when they want. F</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Hybrid - United Kingdom - London</job:location>
+      <job:company>Angi</job:company>
+    </item>
     <item>
       <title>Senior Sales Engineer - MENA</title>
-      <link>https://www.arbeitnow.fr/jobs/companies/sardine/remote-senior-sales-engineer-mena-418834</link>
-      <guid isPermaLink="false">172436</guid>
-      <pubDate>Sat, 12 Sep 2026 09:50:42 +0000</pubDate>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/sardine/remote-senior-sales-engineer-mena-307260</link>
+      <guid isPermaLink="false">172592</guid>
+      <pubDate>Sat, 12 Sep 2026 10:21:06 +0000</pubDate>
       <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;Who we are:&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Sardine is the leading agentic risk platform for fighting financial crime. Our integrated solution unifies data across risk teams to help organizations stop fraud in real time, prevent AI-driven attacks, and automate fraud and AML operations. Sardine’s platform is strengthened by one of the fastest-growing frau</description>
       <category>Sales</category>
       <job:remote>true</job:remote>
@@ -451,18 +475,6 @@
       <job:company>Framestore</job:company>
     </item>
     <item>
-      <title>Senior Product Manager, Data Infrastructure</title>
-      <link>https://www.arbeitnow.com/jobs/companies/angi/senior-product-manager-data-infrastructure-berlin-47693</link>
-      <guid isPermaLink="false">165668</guid>
-      <pubDate>Fri, 11 Sep 2026 18:32:48 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;For over 30 years, Angi has powered the future of the home services industry, creating an environment where homeowners and pros benefit from more jobs done well.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;For homeowners, our platform is a reliable way to find skilled pros. For pros, we're a reliable business partner who helps them find the winnable work they want, when they want. F</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Hybrid - Germany - Berlin</job:location>
-      <job:company>Angi</job:company>
-    </item>
-    <item>
       <title>Senior Backend Engineer - Core Engine / Decision Intelligence (m/w/d)</title>
       <link>https://www.arbeitnow.com/jobs/companies/taledo-gmbh/remote-senior-backend-engineer-core-engine-decision-intelligence-deutschlandweit-13391</link>
       <guid isPermaLink="false">165674</guid>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Ashby</job:company>
-    </item>
-    <item>
-      <title>Analyst II, Credit</title>
-      <link>https://jobicy.com/jobs/153067-analyst-ii-credit</link>
-      <guid isPermaLink="false">165137</guid>
-      <pubDate>Fri, 11 Sep 2026 16:45:09 +0000</pubDate>
-      <description></description>
-      <category>Data</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Affirm</job:company>
     </item>
   </channel>
 </rss>
