@@ -130608,30 +130608,6 @@
     "is_foreign": true
   },
   {
-    "id": 167742,
-    "created_at": "2026-09-11 23:38:01",
-    "source": "arbeitnow",
-    "title": "Regional Field CTO",
-    "company": "Blackduck",
-    "location": "EMEA, Remote (Black Duck has entities in UK, Germany, Netherlands, Italy, Ireland, Finland, Sweden)",
-    "url": "https://www.arbeitnow.fr/jobs/companies/blackduck/remote-regional-field-cto-389762",
-    "salary": "",
-    "tags": [
-      "2030 - Sales Engineers (GQP)"
-    ],
-    "remote": false,
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Black Duck Software, Inc. helps organizations build secure, high-quality software, minimizing risks while maximizing speed and productivity. Black Duck, a recognized pioneer in application security, provides SAST, SCA, and DAST solutions that enable teams to quickly find and fix vulnerabilities and defects in proprietary code, open source components, and application behavior. With a combination of industry-leading tools, services, and expertise, only Black Duck helps organizations maximize security and quality in DevSecOps and throughout the software development life cycle.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Regional Field Chief Technology Officer&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Location: EMEA, Remote (Black Duck has entities in UK, Germany, Netherlands, France, Italy, Ireland, Finland, Sweden)&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Black Duck® meets the board-level risks of modern software with True Scale Application Security, ensuring uncompromised trust in software for the regulated, AI-powered world. Only Black Duck solutions free organizations from tradeoffs between speed, accuracy, and compliance at scale while eliminating security, regulatory, and licensing risks. Whether in the cloud or on premises, Black Duck is the only choice for securing mission-critical software everywhere code happens. With Black Duck, security leaders can make smarter decisions and unleash business innovation with confidence.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are looking for a Regional Field Chief Technology Officer to serve as a senior technical executive, trusted advisor, and public voice of our technology strategy in the market. In this role, the Regional Field CTO will operate at the intersection of technology, sales, and the customer — engaging directly with C-level and technical leaders at our most strategic customer accounts, translating our AI-driven platform",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
-    "industry": "Sales",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 168049,
     "created_at": "2026-09-12 00:10:52",
     "source": "remoteok",
@@ -132234,28 +132210,6 @@
     "is_foreign": true
   },
   {
-    "id": 175121,
-    "created_at": "2026-09-12 16:32:08",
-    "source": "jobicy",
-    "title": "Advertising Paid Search Manager - Ecommerce",
-    "company": "Rithum",
-    "location": "",
-    "url": "https://jobicy.com/jobs/153098-advertising-paid-search-manager-ecommerce-2",
-    "salary": "",
-    "tags": [],
-    "remote": true,
-    "description": "",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
-    "industry": "Marketing",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 175122,
     "created_at": "2026-09-12 16:32:08",
     "source": "jobicy",
@@ -132542,13 +132496,61 @@
     "is_foreign": true
   },
   {
-    "id": 175708,
-    "created_at": "2026-09-12 18:04:29",
+    "id": 175852,
+    "created_at": "2026-09-12 18:35:35",
+    "source": "arbeitnow",
+    "title": "Regional Field CTO",
+    "company": "Blackduck",
+    "location": "EMEA, Remote (Black Duck has entities in UK, Netherlands, France, Italy, Ireland, Finland, Sweden)",
+    "url": "https://www.arbeitnow.com/jobs/companies/blackduck/remote-regional-field-cto-78962",
+    "salary": "",
+    "tags": [
+      "2030 - Sales Engineers (GQP)"
+    ],
+    "remote": false,
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Black Duck Software, Inc. helps organizations build secure, high-quality software, minimizing risks while maximizing speed and productivity. Black Duck, a recognized pioneer in application security, provides SAST, SCA, and DAST solutions that enable teams to quickly find and fix vulnerabilities and defects in proprietary code, open source components, and application behavior. With a combination of industry-leading tools, services, and expertise, only Black Duck helps organizations maximize security and quality in DevSecOps and throughout the software development life cycle.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Regional Field Chief Technology Officer&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Location: EMEA, Remote (Black Duck has entities in UK, Germany, Netherlands, France, Italy, Ireland, Finland, Sweden)&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Black Duck® meets the board-level risks of modern software with True Scale Application Security, ensuring uncompromised trust in software for the regulated, AI-powered world. Only Black Duck solutions free organizations from tradeoffs between speed, accuracy, and compliance at scale while eliminating security, regulatory, and licensing risks. Whether in the cloud or on premises, Black Duck is the only choice for securing mission-critical software everywhere code happens. With Black Duck, security leaders can make smarter decisions and unleash business innovation with confidence.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are looking for a Regional Field Chief Technology Officer to serve as a senior technical executive, trusted advisor, and public voice of our technology strategy in the market. In this role, the Regional Field CTO will operate at the intersection of technology, sales, and the customer — engaging directly with C-level and technical leaders at our most strategic customer accounts, translating our AI-driven platform",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 175954,
+    "created_at": "2026-09-12 18:35:35",
+    "source": "arbeitnow",
+    "title": "Senior Sales Engineer - MENA",
+    "company": "Sardine",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/sardine/remote-senior-sales-engineer-mena-307260",
+    "salary": "",
+    "tags": [
+      "Sales"
+    ],
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\"><strong>Who we are:</strong></p><p style=\"min-height:1.5em\">Sardine is the leading agentic risk platform for fighting financial crime. Our integrated solution unifies data across risk teams to help organizations stop fraud in real time, prevent AI-driven attacks, and automate fraud and AML operations. Sardine’s platform is strengthened by one of the fastest-growing fraud consortiums in the market, spanning more than 6 billion profiled devices, 800 million consumers, and 3 million businesses worldwide. Leading companies including FIS, GoDaddy, Intuit, Edward Jones, ZoomInfo, and Checkout.com rely on Sardine to secure and grow trust in their products.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Our culture:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">We have hubs in the Bay Area, NYC, Austin, Toronto, and São Paulo. However, we maintain a remote-first work culture. #WorkFromAnywhere</p></li><li><p style=\"min-height:1.5em\">We hire talented, self-motivated individuals with extreme ownership and high growth orientation. </p></li><li><p style=\"min-height:1.5em\">We value performance and not hours worked. We believe you shouldn't have to miss your family dinner, your kid's school play, friends get-together, or doctor's appointments for the sake of adhering to an arbitrary work schedule.</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Location:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Remote MENA - Preference for Dubai</p></li><li><p style=\"min-height:1.5em\"><strong>Please note:</strong> This role will require up to <strong>50% travel. </strong></p></li><li><p style=\"min-height:1.5em\">From Home / Beach / Mountain / Cafe / Anywhere!</p></li><li><p style=\"min-height:1.5em\">We are a remote-first company with a globally distributed team. You can find your productive zone and work from there.</p></li></ul><div style=\"min-height:1.2em",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 175985,
+    "created_at": "2026-09-12 18:35:35",
     "source": "arbeitnow",
     "title": "Associate, Paid Social",
     "company": "Angi",
-    "location": "Hybrid - United Kingdom - London",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/angi/associate-paid-social-london-108645",
+    "location": "Hybrid - France - Aix-en-Provence",
+    "url": "https://www.arbeitnow.fr/jobs/companies/angi/associate-paid-social-aix-en-provence-117052",
     "salary": "",
     "tags": [
       "Marketing"
@@ -132566,13 +132568,13 @@
     "is_foreign": true
   },
   {
-    "id": 175709,
-    "created_at": "2026-09-12 18:04:29",
+    "id": 175986,
+    "created_at": "2026-09-12 18:35:35",
     "source": "arbeitnow",
     "title": "Senior Product Manager, Data Infrastructure",
     "company": "Angi",
-    "location": "Hybrid - United Kingdom - London",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/angi/senior-product-manager-data-infrastructure-london-139663",
+    "location": "Hybrid - France - Aix-en-Provence",
+    "url": "https://www.arbeitnow.fr/jobs/companies/angi/senior-product-manager-data-infrastructure-aix-en-provence-265619",
     "salary": "",
     "tags": [
       "Product"
@@ -132590,13 +132592,13 @@
     "is_foreign": true
   },
   {
-    "id": 175721,
-    "created_at": "2026-09-12 18:04:29",
+    "id": 175991,
+    "created_at": "2026-09-12 18:35:35",
     "source": "arbeitnow",
     "title": "UX/UI Designer | Intch",
     "company": "Hirehire",
     "location": "Remote",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/hirehire/remote-ux-ui-designer-intch-188753",
+    "url": "https://www.arbeitnow.fr/jobs/companies/hirehire/remote-ux-ui-designer-intch-450285",
     "salary": "",
     "tags": [
       "Product Design"
@@ -132614,24 +132616,22 @@
     "is_foreign": true
   },
   {
-    "id": 175814,
-    "created_at": "2026-09-12 18:04:29",
-    "source": "arbeitnow",
-    "title": "Senior Sales Engineer - MENA",
-    "company": "Sardine",
-    "location": "Remote",
-    "url": "https://www.arbeitnow.fr/jobs/companies/sardine/remote-senior-sales-engineer-mena-418834",
+    "id": 176056,
+    "created_at": "2026-09-12 18:35:35",
+    "source": "jobicy",
+    "title": "Advertising Paid Search Manager - Ecommerce",
+    "company": "Rithum",
+    "location": "",
+    "url": "https://jobicy.com/jobs/151072-advertising-paid-search-manager-ecommerce",
     "salary": "",
-    "tags": [
-      "Sales"
-    ],
-    "remote": false,
-    "description": "<p style=\"min-height:1.5em\"><strong>Who we are:</strong></p><p style=\"min-height:1.5em\">Sardine is the leading agentic risk platform for fighting financial crime. Our integrated solution unifies data across risk teams to help organizations stop fraud in real time, prevent AI-driven attacks, and automate fraud and AML operations. Sardine’s platform is strengthened by one of the fastest-growing fraud consortiums in the market, spanning more than 6 billion profiled devices, 800 million consumers, and 3 million businesses worldwide. Leading companies including FIS, GoDaddy, Intuit, Edward Jones, ZoomInfo, and Checkout.com rely on Sardine to secure and grow trust in their products.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Our culture:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">We have hubs in the Bay Area, NYC, Austin, Toronto, and São Paulo. However, we maintain a remote-first work culture. #WorkFromAnywhere</p></li><li><p style=\"min-height:1.5em\">We hire talented, self-motivated individuals with extreme ownership and high growth orientation. </p></li><li><p style=\"min-height:1.5em\">We value performance and not hours worked. We believe you shouldn't have to miss your family dinner, your kid's school play, friends get-together, or doctor's appointments for the sake of adhering to an arbitrary work schedule.</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Location:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Remote MENA - Preference for Dubai</p></li><li><p style=\"min-height:1.5em\"><strong>Please note:</strong> This role will require up to <strong>50% travel. </strong></p></li><li><p style=\"min-height:1.5em\">From Home / Beach / Mountain / Cafe / Anywhere!</p></li><li><p style=\"min-height:1.5em\">We are a remote-first company with a globally distributed team. You can find your productive zone and work from there.</p></li></ul><div style=\"min-height:1.2em",
+    "tags": [],
+    "remote": true,
+    "description": "",
     "requirements": "",
     "benefits": "",
     "is_it": false,
     "role": "other",
-    "industry": "Sales",
+    "industry": "Marketing",
     "remote_ok": true,
     "id_city": null,
     "job_type": "full",
