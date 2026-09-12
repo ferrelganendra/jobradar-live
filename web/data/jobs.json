@@ -119697,30 +119697,6 @@
     "is_foreign": true
   },
   {
-    "id": 143908,
-    "created_at": "2026-09-09 14:37:30",
-    "source": "arbeitnow",
-    "title": "Senior Customer Success Engineer",
-    "company": "veeamsoftware",
-    "location": "Remote",
-    "url": "https://www.arbeitnow.fr/jobs/companies/veeamsoftware/remote-senior-customer-success-engineer-390555",
-    "salary": "",
-    "tags": [
-      "WW Customer Success 1009886"
-    ],
-    "remote": false,
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;elementToProof&quot;&gt;\n&lt;p&gt;Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security, and AI risk. Headquartered in Seattle with offices in more than 30 countries, Veeam protects over 550,000 customers worldwide, who trust Veeam to keep their businesses running. Join us as we go fearlessly forward together, growing, learning, and making a real impact for some of the world’s biggest brands.&lt;/p&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;h4&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;&lt;span data-teams=&quot;true&quot;&gt;The ideal candidate will be naturally collaborative, articulate, extremely organized, have a solid technical understanding of Veeam products, and motivated by maximizing customer success and outcomes. Soft skills combined with technical skills are key in this role. As a Customer Success Engineer, you are the primary technical owner driving long-term customer outcomes across the Veeam Data Platform. You’ll lead onboarding, adoption, and optimization; proactively identify churn risk, migrations, and upsell opportunities; and apply deep disaster recovery and resilience (DR&amp;amp;R) expertise to conduct recovery simulations, DRMM assessments, and quarterly resilience reporting for measurable customer value&lt;/span&gt;&lt;/p&gt;\n&lt;h4 id=&quot;id-📝JobDescription&amp;amp;JobPostGuidelines-WhatYou’llDo.1&quot;&gt;&lt;strong&gt;What You’ll Do&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Configure customer accounts; customize backup policies and storage; facilitate onboarding; orient stakeholders; walk through admin portals; introduce support channels.&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&g",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
-    "industry": "Marketing",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 144210,
     "created_at": "2026-09-09 15:07:50",
     "source": "remoteok",
@@ -131640,13 +131616,61 @@
     "is_foreign": true
   },
   {
-    "id": 173577,
-    "created_at": "2026-09-12 12:40:12",
+    "id": 173795,
+    "created_at": "2026-09-12 13:12:57",
+    "source": "arbeitnow",
+    "title": "Senior Customer Success Engineer",
+    "company": "veeamsoftware",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/veeamsoftware/remote-senior-customer-success-engineer-254529",
+    "salary": "",
+    "tags": [
+      "WW Customer Success 1009886"
+    ],
+    "remote": false,
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;elementToProof&quot;&gt;\n&lt;p&gt;Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security, and AI risk. Headquartered in Seattle with offices in more than 30 countries, Veeam protects over 550,000 customers worldwide, who trust Veeam to keep their businesses running. Join us as we go fearlessly forward together, growing, learning, and making a real impact for some of the world’s biggest brands.&lt;/p&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;h4&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;&lt;span data-teams=&quot;true&quot;&gt;The ideal candidate will be naturally collaborative, articulate, extremely organized, have a solid technical understanding of Veeam products, and motivated by maximizing customer success and outcomes. Soft skills combined with technical skills are key in this role. As a Customer Success Engineer, you are the primary technical owner driving long-term customer outcomes across the Veeam Data Platform. You’ll lead onboarding, adoption, and optimization; proactively identify churn risk, migrations, and upsell opportunities; and apply deep disaster recovery and resilience (DR&amp;amp;R) expertise to conduct recovery simulations, DRMM assessments, and quarterly resilience reporting for measurable customer value&lt;/span&gt;&lt;/p&gt;\n&lt;h4 id=&quot;id-📝JobDescription&amp;amp;JobPostGuidelines-WhatYou’llDo.1&quot;&gt;&lt;strong&gt;What You’ll Do&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Configure customer accounts; customize backup policies and storage; facilitate onboarding; orient stakeholders; walk through admin portals; introduce support channels.&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&g",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Marketing",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 173796,
+    "created_at": "2026-09-12 13:12:57",
+    "source": "arbeitnow",
+    "title": "Senior Solutions Architect, MSP",
+    "company": "purestorage",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/purestorage/remote-senior-solutions-architect-msp-380617",
+    "salary": "",
+    "tags": [
+      "Sales"
+    ],
+    "remote": false,
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem.&lt;/p&gt;\n&lt;p&gt;This type of work—work that changes the world—is what the tech industry was founded on. So, if you&#39;re ready to seize the endless opportunities and leave your mark, come join us.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;THE ROLE&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Everpure is building a global practice for Managed Service Providers from zero: The program, the proposition, and the wins that prove it out. As Senior Solutions Architect, MSP, you&#39;re the technical front line: helping define how Everpure goes to market with MSPs, then taking that straight to the field to win deals. You&#39;ll work shoulder-to-shoulder with MSP architects and their end customers, fluent in cost-per-tenant economics one minute and whiteboarding architecture the next. There&#39;s no playbook yet; you&#39;ll be building it and proving it, deal by deal.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;WHAT YOU&#39;LL DO&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own technical leadership of MSP opportunities end to end: discovery, solution design, sizing, competitive positioning, POCs and technical close.&lt;/li&gt;\n&lt;li&gt;Define the end-to-end service architecture — multi-tenancy, automation, provisioning, operational model and integration into the MSP&#39;s existing stack.&lt;/li&gt;\n&lt;li&gt;Model and influence the commercial construct: unit economics, cost per tenant, Evergreen//One and consumption models.&lt;/li&gt;\n&lt;li&gt;Displace competitors in MSP environments and position the full platform — FlashArray, FlashBlade, Portworx and Everpure Data Int",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 173912,
+    "created_at": "2026-09-12 13:12:57",
     "source": "arbeitnow",
     "title": "Senior Sales Engineer - MENA",
     "company": "Sardine",
     "location": "Remote",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/sardine/remote-senior-sales-engineer-mena-307260",
+    "url": "https://www.arbeitnow.fr/jobs/companies/sardine/remote-senior-sales-engineer-mena-418834",
     "salary": "",
     "tags": [
       "Sales"
