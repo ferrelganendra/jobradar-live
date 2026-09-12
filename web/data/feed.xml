@@ -5,12 +5,24 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Sat, 12 Sep 2026 03:11:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 03:42:17 +0000</lastBuildDate>
+    <item>
+      <title>Working Student - Finance</title>
+      <link>https://www.arbeitnow.com/jobs/companies/apheris/remote-working-student-finance-381383</link>
+      <guid isPermaLink="false">169297</guid>
+      <pubDate>Sat, 12 Sep 2026 03:42:12 +0000</pubDate>
+      <description>&lt;br&gt;&lt;strong&gt;About Apheris&lt;/strong&gt;&lt;p&gt;&lt;span style="color:rgb(66,66,66);font-family:Montserrat, sans-serif, Inter, Arial, Helvetica, sans-serif;font-size:14px;font-style:normal;font-weight:400;text-transform:none;background-color:rgb(255,255,255);display:inline;"&gt;At Apheris, we are building the future of how AI is applied in pharmaceutical R&amp;D. We enable leading pharmaceutical teams to discover and </description>
+      <category>Finance</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Germany - Remote</job:location>
+      <job:company>Apheris</job:company>
+    </item>
     <item>
       <title>(Senior) Software Engineer - Data Integration Focus - Remote (m/f/d)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/praxipal/senior-software-engineer-data-integration-focus-remote-416977</link>
-      <guid isPermaLink="false">169046</guid>
-      <pubDate>Sat, 12 Sep 2026 03:11:15 +0000</pubDate>
+      <link>https://www.arbeitnow.fr/jobs/companies/praxipal/senior-software-engineer-data-integration-focus-remote-345260</link>
+      <guid isPermaLink="false">169443</guid>
+      <pubDate>Sat, 12 Sep 2026 03:42:12 +0000</pubDate>
       <description>&lt;p style="min-height:1.5em"&gt;At praxipal, we are building an AI-powered healthcare admin workforce to address the global shortage of medical staff.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Medical assistants are too valuable to spend their days chasing callbacks, cleaning up schedules, sending repetitive messages, or wrestling with invoicing and documentation workflows. Staff should spend time on patients. T</description>
       <category>Teknologi</category>
       <job:remote>true</job:remote>
@@ -20,9 +32,9 @@
     </item>
     <item>
       <title>Senior Sales Engineer - MENA</title>
-      <link>https://www.arbeitnow.com/jobs/companies/sardine/remote-senior-sales-engineer-mena-179937</link>
-      <guid isPermaLink="false">169051</guid>
-      <pubDate>Sat, 12 Sep 2026 03:11:15 +0000</pubDate>
+      <link>https://www.arbeitnow.fr/jobs/companies/sardine/remote-senior-sales-engineer-mena-418834</link>
+      <guid isPermaLink="false">169461</guid>
+      <pubDate>Sat, 12 Sep 2026 03:42:12 +0000</pubDate>
       <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;Who we are:&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Sardine is the leading agentic risk platform for fighting financial crime. Our integrated solution unifies data across risk teams to help organizations stop fraud in real time, prevent AI-driven attacks, and automate fraud and AML operations. Sardine’s platform is strengthened by one of the fastest-growing frau</description>
       <category>Sales</category>
       <job:remote>true</job:remote>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>AlertMedia</job:company>
-    </item>
-    <item>
-      <title>Customer Success Manager</title>
-      <link>https://jobicy.com/jobs/153052-customer-success-manager-45</link>
-      <guid isPermaLink="false">165149</guid>
-      <pubDate>Fri, 11 Sep 2026 16:45:09 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Ping Identity</job:company>
     </item>
   </channel>
 </rss>
