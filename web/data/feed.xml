@@ -5,7 +5,31 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Fri, 11 Sep 2026 23:38:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 00:10:53 +0000</lastBuildDate>
+    <item>
+      <title>Engineering Manager TLM Platform</title>
+      <link>https://remoteOK.com/remote-jobs/remote-engineering-manager-tlm-platform-harper-1137380</link>
+      <guid isPermaLink="false">168049</guid>
+      <pubDate>Sat, 12 Sep 2026 00:10:52 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>San Francisco</job:location>
+      <job:company>Harper</job:company>
+    </item>
+    <item>
+      <title>Senior Communications Officer Strategic Communications</title>
+      <link>https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379</link>
+      <guid isPermaLink="false">168050</guid>
+      <pubDate>Sat, 12 Sep 2026 00:10:52 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>United States</job:location>
+      <job:company>GiveWell</job:company>
+    </item>
     <item>
       <title>Regional Field CTO</title>
       <link>https://www.arbeitnow.fr/jobs/companies/blackduck/remote-regional-field-cto-389762</link>
@@ -581,30 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Fleetio</job:company>
-    </item>
-    <item>
-      <title>Senior Software Engineer, Front End / Full Stack</title>
-      <link>https://jobicy.com/jobs/153047-senior-software-engineer-front-end-full-stack</link>
-      <guid isPermaLink="false">165155</guid>
-      <pubDate>Fri, 11 Sep 2026 16:45:09 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Grove Collaborative</job:company>
-    </item>
-    <item>
-      <title>Manager, RTM Operations- Physical Therapy</title>
-      <link>https://jobicy.com/jobs/153046-manager-rtm-operations-physical-therapy</link>
-      <guid isPermaLink="false">165156</guid>
-      <pubDate>Fri, 11 Sep 2026 16:45:09 +0000</pubDate>
-      <description></description>
-      <category>Healthcare</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Luna Physical Therapy</job:company>
     </item>
   </channel>
 </rss>
