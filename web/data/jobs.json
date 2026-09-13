@@ -133482,30 +133482,6 @@
     "is_foreign": true
   },
   {
-    "id": 180937,
-    "created_at": "2026-09-13 09:21:08",
-    "source": "arbeitnow",
-    "title": "Senior Product Manager (Full Remote - Europe)",
-    "company": "EverAI",
-    "location": "Germany",
-    "url": "https://www.arbeitnow.com/jobs/companies/everai/senior-product-manager-full-remote-europe-germany-35518",
-    "salary": "",
-    "tags": [
-      "R&D"
-    ],
-    "remote": false,
-    "description": "<h1>Our Vision &amp; Products</h1><p style=\"min-height:1.5em\"><em><strong>🚀 EverAI — Building the Future of AI Companionship</strong></em></p><p style=\"min-height:1.5em\"><em>One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World</em></p><p style=\"min-height:1.5em\"><em>50 Million Users in 2 years — Help Us Reach 100M first, 500M next</em></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">At <strong>EverAI</strong>, we’re shaping what it means to connect with AI. With <strong>50 million users and counting</strong>, we're not just building products — we're creating entirely new categories.</p><p style=\"min-height:1.5em\">Our flagship product is the <strong>world’s largest AI companionship platform</strong>, redefining relationships for millions. It is governed by our proprietary moderation system, EverGuard — an internal AI designed to ensure everything we build is <strong>safe, ethical, and human-first</strong>.</p><p style=\"min-height:1.5em\"><em>And we’re only just getting started!</em></p><p style=\"min-height:1.5em\"></p><h1>Our Team</h1><p style=\"min-height:1.5em\">We are an enthusiastic, passionate and hardworking team of ≈ 100 people. Our founding team has strong entrepreneurial experience building and scaling web products from 0 to IPO.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Alexis Soulopoulos </strong>[CEO]</p><p style=\"min-height:1.5em\"><em>• 10+ years in Tech Executive Leadership</em></p><p style=\"min-height:1.5em\"><em>• Co-Founder Mad Paws Holdings (from 0 to IPO)</em></p><p style=\"min-height:1.5em\"><em>• Forbes 30 under 30 + Deloitte TechFast50 ’22 &amp; ‘23</em></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Michael Monin</strong> [Co-founder &amp; CTO]</p><p style=\"min-height:1.5em\"><em>• 10+ years as CTO / COO (web2/web3), 3 years in AI/LLM</em></p><p style=\"min-height:1.5em\"><em>• Serial-entrepreneur: MTK Digital (exited / 0-&gt;$20m revenue) and Zipchat (AI Chatbot for",
-    "requirements": "",
-    "benefits": "",
-    "is_it": true,
-    "role": "IT",
-    "industry": "Sales",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 181033,
     "created_at": "2026-09-13 09:21:08",
     "source": "arbeitnow",
@@ -133548,6 +133524,30 @@
     "is_it": true,
     "role": "AI",
     "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 181244,
+    "created_at": "2026-09-13 09:51:37",
+    "source": "arbeitnow",
+    "title": "Senior Product Manager (Full Remote - Europe)",
+    "company": "EverAI",
+    "location": "United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/everai/senior-product-manager-full-remote-europe-united-kingdom-427914",
+    "salary": "",
+    "tags": [
+      "R&D"
+    ],
+    "remote": false,
+    "description": "<h1>Our Vision &amp; Products</h1><p style=\"min-height:1.5em\"><em><strong>🚀 EverAI — Building the Future of AI Companionship</strong></em></p><p style=\"min-height:1.5em\"><em>One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World</em></p><p style=\"min-height:1.5em\"><em>50 Million Users in 2 years — Help Us Reach 100M first, 500M next</em></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">At <strong>EverAI</strong>, we’re shaping what it means to connect with AI. With <strong>50 million users and counting</strong>, we're not just building products — we're creating entirely new categories.</p><p style=\"min-height:1.5em\">Our flagship product is the <strong>world’s largest AI companionship platform</strong>, redefining relationships for millions. It is governed by our proprietary moderation system, EverGuard — an internal AI designed to ensure everything we build is <strong>safe, ethical, and human-first</strong>.</p><p style=\"min-height:1.5em\"><em>And we’re only just getting started!</em></p><p style=\"min-height:1.5em\"></p><h1>Our Team</h1><p style=\"min-height:1.5em\">We are an enthusiastic, passionate and hardworking team of ≈ 100 people. Our founding team has strong entrepreneurial experience building and scaling web products from 0 to IPO.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Alexis Soulopoulos </strong>[CEO]</p><p style=\"min-height:1.5em\"><em>• 10+ years in Tech Executive Leadership</em></p><p style=\"min-height:1.5em\"><em>• Co-Founder Mad Paws Holdings (from 0 to IPO)</em></p><p style=\"min-height:1.5em\"><em>• Forbes 30 under 30 + Deloitte TechFast50 ’22 &amp; ‘23</em></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Michael Monin</strong> [Co-founder &amp; CTO]</p><p style=\"min-height:1.5em\"><em>• 10+ years as CTO / COO (web2/web3), 3 years in AI/LLM</em></p><p style=\"min-height:1.5em\"><em>• Serial-entrepreneur: MTK Digital (exited / 0-&gt;$20m revenue) and Zipchat (AI Chatbot for",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "IT",
+    "industry": "Sales",
     "remote_ok": true,
     "id_city": null,
     "job_type": "full",
