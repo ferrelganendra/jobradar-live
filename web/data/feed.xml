@@ -5,7 +5,31 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Sun, 13 Sep 2026 23:04:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 23:58:40 +0000</lastBuildDate>
+    <item>
+      <title>Associate Director, Integrated Marketing - Pilotage Stratégique du Marché France</title>
+      <link>https://www.arbeitnow.fr/jobs/companies/inautalent/remote-associate-director-integrated-marketing-pilotage-strategique-du-marche-france-340399</link>
+      <guid isPermaLink="false">186446</guid>
+      <pubDate>Sun, 13 Sep 2026 23:58:39 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Inautalent recrute, pour le compte d'un de ses clients — un acteur international du secteur des applications lifestyle et relationnelles, en croissance active sur le marché français — un(e) Associate Director, Integrated Marketing, en charge du pilotage stratégique du marché France.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Le défi :&lt;/strong&gt; ce poste consiste à identifier soi-même les enjeux et opportuni</description>
+      <category>Marketing</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>France</job:location>
+      <job:company>Inautalent</job:company>
+    </item>
+    <item>
+      <title>SAP SuccessFactors Consultant (m/w/d)</title>
+      <link>https://www.arbeitnow.fr/jobs/companies/ibs-schreiber-gmbh/remote-sap-successfactors-consultant-208816</link>
+      <guid isPermaLink="false">186450</guid>
+      <pubDate>Sun, 13 Sep 2026 23:58:39 +0000</pubDate>
+      <description>&lt;br&gt;&lt;strong&gt;Deine Aufgaben&lt;/strong&gt;&lt;p&gt;Als &lt;strong&gt;SAP SuccessFactors Consultant (m/w/d)&lt;/strong&gt; gestaltest du gemeinsam mit uns die sichere SAP-Welt von morgen. Dich erwarten spannende Prüfungs- und Beratungsprojekte rund um moderne SAP-Technologien wie S/4HANA, SuccessFactors, SAP BTP und innovative Security-Lösungen. Wenn du technologische Neugier, Beratungskompetenz und Begeisterung für KI-ges</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>IBS Schreiber GmbH</job:company>
+    </item>
     <item>
       <title>Technischer Senior Projektmanager (m/w/d)</title>
       <link>https://www.arbeitnow.com/jobs/companies/vitagroup/remote-technischer-senior-projektmanager-306441</link>
@@ -581,30 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Carrot</job:company>
-    </item>
-    <item>
-      <title>Associate, Paid Social</title>
-      <link>https://www.arbeitnow.com/jobs/companies/angi/associate-paid-social-berlin-414277</link>
-      <guid isPermaLink="false">183730</guid>
-      <pubDate>Sun, 13 Sep 2026 15:31:25 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;For over 30 years, Angi has powered the future of the home services industry, creating an environment where homeowners and pros benefit from more jobs done well.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;For homeowners, our platform is a reliable way to find skilled pros. For pros, we're a reliable business partner who helps them find the winnable work they want, when they want. F</description>
-      <category>Marketing</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Hybrid - Germany - Berlin</job:location>
-      <job:company>Angi</job:company>
-    </item>
-    <item>
-      <title>Kubernetes Administrator/Private Cloud Engineer (m/w/d)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-90810</link>
-      <guid isPermaLink="false">183731</guid>
-      <pubDate>Sun, 13 Sep 2026 15:31:25 +0000</pubDate>
-      <description>&lt;p&gt;Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Homeoffice</job:location>
-      <job:company>virtual7 GmbH</job:company>
     </item>
   </channel>
 </rss>
