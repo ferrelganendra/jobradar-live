@@ -135111,5 +135111,29 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 188865,
+    "created_at": "2026-09-14 06:32:35",
+    "source": "arbeitnow",
+    "title": "Senior Backend Engineer - Databases Pyroscope | Germany | Remote",
+    "company": "grafanalabs",
+    "location": "",
+    "url": "https://www.arbeitnow.com/jobs/companies/grafanalabs/senior-backend-engineer-databases-pyroscope-germany-remote-136629",
+    "salary": "",
+    "tags": [
+      "R&D : Databases"
+    ],
+    "remote": false,
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, including Anthropic, Bloomberg, NVIDIA, Microsoft, and Salesforce, rely on Grafana Labs. We are a 100% remote company with team members across 40+ countries, backed by leading investors including Lightspeed Venture Partners, Sequoia Capital, GIC, Coatue, J.P. Morgan, CapitalG, and Lead Edge Capital. Learn more at &lt;u&gt;&lt;span&gt;&lt;a href=&quot;http://grafana.com&quot; target=&quot;_blank&quot;&gt;grafana.com&lt;/a&gt;&lt;/span&gt;&lt;/u&gt; and follow us on &lt;u&gt;&lt;span&gt;&lt;a href=&quot;https://www.linkedin.com/company/grafana-labs/&quot; target=&quot;_blank&quot;&gt;LinkedIn&lt;/a&gt;&lt;/span&gt;&lt;/u&gt; and &lt;u&gt;&lt;span&gt;&lt;a href=&quot;https://twitter.com/grafana&quot; target=&quot;_blank&quot;&gt;X&lt;/a&gt;&lt;/span&gt;&lt;/u&gt;&lt;u&gt;.&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;We’re scaling fast and staying true to what makes us different: an open-source legacy, a global collaborative culture, and a passion for meaningful work. Our team thrives in an innovation-driven environment where transparency, autonomy, and trust fuel everything we do.&lt;/p&gt;\n&lt;p&gt;You may not meet every requirement, and that’s okay. If this role excites you, we’d love you to raise your hand for what could be a truly career-defining opportunity.&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;This is a remote position. W",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "SWE",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]

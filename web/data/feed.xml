@@ -5,7 +5,19 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Mon, 14 Sep 2026 06:01:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 06:32:36 +0000</lastBuildDate>
+    <item>
+      <title>Senior Backend Engineer - Databases Pyroscope | Germany | Remote</title>
+      <link>https://www.arbeitnow.com/jobs/companies/grafanalabs/senior-backend-engineer-databases-pyroscope-germany-remote-136629</link>
+      <guid isPermaLink="false">188865</guid>
+      <pubDate>Mon, 14 Sep 2026 06:32:35 +0000</pubDate>
+      <description>&lt;div class="content-intro"&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to A</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>grafanalabs</job:company>
+    </item>
     <item>
       <title>DevOps Engineer - CIMAR</title>
       <link>https://www.arbeitnow.co.uk/jobs/companies/deephealth/remote-devops-engineer-cimar-london-437460</link>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Axiom</job:company>
-    </item>
-    <item>
-      <title>Sr. Customer Success Manager - Pharma (Bilingual - Spanish &amp; English Required)</title>
-      <link>https://jobicy.com/jobs/153156-sr-customer-success-manager-pharma-bilingual-spanish-english-required</link>
-      <guid isPermaLink="false">184208</guid>
-      <pubDate>Sun, 13 Sep 2026 16:02:26 +0000</pubDate>
-      <description></description>
-      <category>Healthcare</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>H1</job:company>
     </item>
   </channel>
 </rss>
