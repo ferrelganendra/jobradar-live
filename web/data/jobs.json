@@ -136277,5 +136277,29 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 191265,
+    "created_at": "2026-09-14 11:24:21",
+    "source": "arbeitnow",
+    "title": "Senior/Staff Product Designer | JetBrains",
+    "company": "Hirehire",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.fr/jobs/companies/hirehire/remote-senior-staff-product-designer-jetbrains-430614",
+    "salary": "",
+    "tags": [
+      "Product Design"
+    ],
+    "remote": false,
+    "description": "<h2><strong>About JetBrains Air</strong></h2><p style=\"min-height:1.5em\">JetBrains has been building developer tools since 2000 — including IntelliJ IDEA, Kotlin, TeamCity, and more, now trusted by 15M+ developers at 287K companies worldwide. The company is 100% private, profitable, and driven by a single thesis: great tools make developers better.</p><p style=\"min-height:1.5em\"><strong>Air</strong> is what JetBrains is building next: an agentic development environment where multiple AI agents run tasks in parallel while the developer stays in control. It’s a genuinely new kind of developer tool — spanning a native desktop app, an expanding web experience, and cloud-based automations. It’s the next frontier after IDEs: not just helping developers write code, but helping them orchestrate it.</p><p style=\"min-height:1.5em\">The Air design team is two people now — and you’d be the third. Your primary focus will be the <strong>web surface</strong> and the <strong>automations sub-team</strong>: an emerging part of the product that is ready for dedicated design ownership, with a real opportunity to raise the bar and shape the experience from the ground up.</p><p style=\"min-height:1.5em\"></p><h2><strong>What you’ll be working on</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Design the web interface for Air: team management, automation setup, and a results overview</p></li><li><p style=\"min-height:1.5em\">Shape the design process for the automations sub-team, working directly with developers to establish review and handoff practices</p></li><li><p style=\"min-height:1.5em\">Take features from ambiguous briefs to shipped interfaces</p></li><li><p style=\"min-height:1.5em\">Contribute to the shared design system: add and maintain components in Figma as the product grows</p></li><li><p style=\"min-height:1.5em\">Vibe-code and use AI for prototyping when it helps move ideas forward faster</p></li><li><p style=\"min-height:1.5em\">Participate in cross-team demo",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Design",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
