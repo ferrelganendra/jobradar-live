@@ -135135,5 +135135,56 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 189348,
+    "created_at": "2026-09-14 07:34:44",
+    "source": "arbeitnow",
+    "title": "Projektleiter (m/w/d) TGA / Energietechnik für Hotels",
+    "company": "Enerdies Energieberatung",
+    "location": "Ankum",
+    "url": "https://www.arbeitnow.com/jobs/companies/enerdies-energieberatung/projektleiter-tga-energietechnik-fur-hotels-ankum-416010",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Engineering"
+    ],
+    "remote": true,
+    "description": "<p>Sie begleiten Hotels bei der technischen und energetischen Weiterentwicklung ihrer Gebäude und Anlagen. Dabei verbinden Sie technische Planung mit Projektleitung und begleiten unsere Kunden von der ersten Bestandsaufnahme über die Entwicklung geeigneter Lösungen bis zur Umsetzung.</p>\n<p>Im Mittelpunkt stehen die technische Gebäudeausrüstung und moderne Energietechnik – zum Beispiel Heizungsanlagen, Wärmepumpen, PV, Speicher und intelligente Energiesteuerung. Sie müssen dabei nicht aus der klassischen Energieberatung kommen: Entscheidend sind technisches Verständnis, Interesse an Gebäudetechnik und die Fähigkeit, Projekte strukturiert voranzubringen.</p>\n<h2>Aufgaben</h2>\n<p>• Sie übernehmen technische Projekte für unsere Hotelkunden – von der Bestandsaufnahme über die Planung bis zur Begleitung der Umsetzung.</p>\n<p>• Sie führen Vor-Ort-Begehungen durch, analysieren vorhandene Heizungs- und Gebäudetechnik und entwickeln gemeinsam mit unserem Team passende technische Lösungen.</p>\n<p>• Sie planen und bewerten beispielsweise Heizungsanlagen, Wärmepumpen, PV-Anlagen, Batteriespeicher und weitere Komponenten der technischen Gebäudeausrüstung.</p>\n<p>• Sie begleiten die Umsetzung, stimmen sich mit Fachunternehmen und Kunden ab, prüfen technische Angebote und behalten Termine, Qualität und Kosten im Blick.</p>\n<p>• Sie arbeiten an unseren Lösungen zur intelligenten Energiesteuerung von Hotels mit und bringen Ihr technisches Verständnis in die Weiterentwicklung ein.</p>\n<p>• Sie erklären unseren Kunden technische Zusammenhänge und Empfehlungen verständlich und begleiten sie als zentraler Ansprechpartner durch das Projekt.</p>\n<h2>Qualifikation</h2>\n<p><strong>Erforderlich:</strong></p>\n<p>• Studium, Techniker- oder vergleichbare Qualifikation im Bereich Versorgungstechnik, TGA, Gebäudetechnik, Energietechnik, Bauingenieurwesen oder einem verwandten technischen Bereich</p>\n<p>• Gutes technisches Verständnis für Gebäude und deren Anlagentechnik</p>\n<p>• Interesse daran, ",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "HR",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 189356,
+    "created_at": "2026-09-14 07:34:44",
+    "source": "arbeitnow",
+    "title": "Senior Key Account & Business Development Manager (m/w/d)",
+    "company": "Crevel Europe GmbH",
+    "location": "Hilden",
+    "url": "https://www.arbeitnow.com/jobs/companies/crevel-europe-gmbh/senior-key-account-business-development-manager-hilden-262495",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Management",
+      "Team Leader"
+    ],
+    "remote": true,
+    "description": "<p>Du wirst Teil von Crevel Europe, einem globalen Importeur für mexikanische und amerikanische Lebensmittel in Europa. Mit einem Portfolio von mehr als 1.500 Produkten – von Mainstream- bis zu unabhängigen Marken – arbeiten wir mit B2B-Kunden in 33 europäischen Ländern. Wir gelten als Maßstab für den internationalen Lebensmittelimport in Europa!</p>\n<p>Für die nächste Wachstumsphase in Deutschland suchen wir jemanden, der neue Kunden gewinnt, Kanäle erschließt und starke Handelsbeziehungen aufbaut – und der dabei den gesamten Prozess seiner Accounts eigenständig von Anfang bis Ende verantwortet.</p>\n<h2>Aufgaben</h2>\n<p>Du verbindest strategisches Key Account Management mit proaktivem Business Development - von der ersten Chance bis zum erfolgreichen Sell-in und der eigenständigen, laufenden Betreuung deiner Kunden. Du berichtest an den Head of Commercial DACH und arbeitest im Team mit zwei weiteren Key Account Managern, verantwortest aber deine eigenen Accounts vollständig von A bis Z.</p>\n<p>Neukunden &#x26; Kanäle Du baust dir deine eigene Pipeline auf und erschließt neue Kunden in LEH, Discount, Drogerie, Großhandel, Foodservice und E-Commerce.</p>\n<p>Key Account Management Du verantwortest Umsatz, Marge und Listungen bei deinen strategischen Kunden und baust vertrauensvolle Beziehungen zu Einkäufern auf.</p>\n<p>Sell-in &#x26; Launches Du entwickelst überzeugende Sell-in-Stories und bringst gemeinsam mit Trade Marketing neue Produkte und Aktivierungen erfolgreich in den Handel.</p>\n<p>Eigenständige Kundenbetreuung Die Kunden, die du gewinnst, betreust du eigenständig über den gesamten Zyklus - inklusive administrativer Aufgaben wie Rechnungsstellung (über unser ERP-System Odoo). Bei uns liegt die Verantwortung für einen Account bei einer Person, nicht verteilt über mehrere Abteilungen.</p>\n<p>Reisetätigkeit Du besuchst deine Kunden regelmäßig vor Ort in Deutschland - die Reisetätigkeit richtet sich nach den Kunden, die du betreust.</p>\n<h2>Qualifikation</h2>\n<p",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
