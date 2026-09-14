@@ -139180,5 +139180,29 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 194229,
+    "created_at": "2026-09-14 20:30:35",
+    "source": "arbeitnow",
+    "title": "Sales Account Executive - Cybersecurity",
+    "company": "Crowdsec",
+    "location": "Remote job",
+    "url": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-375022",
+    "salary": "",
+    "tags": [
+      "Remote"
+    ],
+    "remote": true,
+    "description": "<p>Passionate about Cybersecurity, open-source or network effect products? Interested in Sales? </p><p>Join CrowdSec to build a safer internet for everyone.</p><p style=\"min-height: 1.7em;\"></p><p><strong><span style=\"font-size:1.3em\">What we do</span></strong></p><p>We aim to deter opportunistic and organized cybercrime through an Internet-scale, real-time security network. This network is powered by hundreds of thousands of servers sharing the aggression they block with our open-source software. By coupling this local behavior analysis and sharing its findings within our community, we create a real-time map of IP addresses used by cybercriminals, a large-scale reputation system, and a Crowd-Sourced Cyber Threat Intelligence of unprecedented magnitude that will counter the vast majority of technical hacks.</p><p style=\"min-height: 1.7em;\"></p><p><strong><span style=\"font-size:1.3em\">Who We Are</span></strong></p><p>CrowdSec is a human-sized team of cybersecurity experts. Most of the team has worked remotely since day 1. The CrowdSec solution is used in 180+ countries, it is a well-known, unique, collaborative, open-source security solution that protects hundreds thousands of users. We are animated by a mission: making the Internet a safer place, all together.</p><p style=\"min-height: 1.7em;\"></p><p><strong><span style=\"font-size:1.3em\">Role</span></strong></p><p>As an Account Executive (AE), you will work with the Sales team to help them scale, create new opportunities, interact with them, convert them to Leads, and take the accounts to signature. This will be done in collaboration with the BDRs, presales, Marketing, and Support teams to ensure the most pleasant customer journey.<br></p> <br> <p><strong>Must-have</strong></p><ul><li><p>A track record of success in selling Cybersecurity software solutions</p></li><li><p>A pre-existing customer/contact base to work on to kickstart your tenure</p></li><li><p>Knowledges of fundamental cybersecurity mechanism</p></li><l",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
