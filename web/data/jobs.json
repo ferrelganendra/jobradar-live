@@ -135086,5 +135086,30 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 188001,
+    "created_at": "2026-09-14 04:28:23",
+    "source": "arbeitnow",
+    "title": "DevOps Engineer - CIMAR",
+    "company": "DeepHealth",
+    "location": "Remote job",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/deephealth/remote-devops-engineer-cimar-london-437460",
+    "salary": "",
+    "tags": [
+      "Business and Product",
+      "Remote"
+    ],
+    "remote": true,
+    "description": "<p class=\"Paragraph SCXW266388420 BCX0\" style=\"text-align:start;\"><strong><span style=\"color:#A10693\">Company Overview&nbsp;&nbsp;</span></strong></p><p style=\"min-height: 1.7em;\"></p><p class=\"MsoNormal\">CIMAR UK Ltd, now a part of DeepHealth, is a leading provider in the SaaS (Software-as-a-Service) healthcare sector, specialising in advanced cloud-based image management solutions. Our technology empowers healthcare organisations to optimise image management processes, enhance patient care, and streamline workflows through seamless integration and actionable data insights.</p><p class=\"MsoNormal\" style=\"min-height: 1.7em;\"></p><p><strong><span style=\"color:#A10693\">Job Summary&nbsp;</span></strong><br></p><p>The DevOps Engineer is a hands-on engineering role within the Platform Engineering team, responsible for supporting and evolving DeepHealth's AWS-based infrastructure, Kubernetes platforms, CI/CD tooling, and operational processes. Working closely with the Senior Platform Engineer, this role focuses on infrastructure automation, cloud operations, platform reliability, and continuous improvement. The DevOps Engineer plays an important part in helping development teams deliver software efficiently while ensuring that DeepHealth's infrastructure remains secure, scalable, and resilient.</p><p style=\"min-height: 1.7em;\"></p><p><strong><span style=\"color:#A10693\">Essential Duties and Responsibilities:&nbsp;</span></strong></p><p class=\"MsoListParagraphCxSpFirst\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Design, build, and maintain AWS cloud infrastructure using Infrastructure as Code tooling (Terraform or equivalent), ensuring consistency, repeatability, and version control.</p><p class=\"MsoListParagraphCxSpMiddle\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Manage and improve Kubernetes platforms (EKS or similar), including cluster configuration, scaling, upgrades, and reliability.</p><p class=\"MsoListParagraphCxSpMiddle\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build, maintain",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "SWE",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
