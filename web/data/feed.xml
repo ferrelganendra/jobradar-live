@@ -5,7 +5,19 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Mon, 14 Sep 2026 02:55:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 03:26:15 +0000</lastBuildDate>
+    <item>
+      <title>Werkstudent Customer Service (m/w/d) Hybrid</title>
+      <link>https://www.arbeitnow.com/jobs/companies/verivox/werkstudent-customer-service-hybrid-heidelberg-202500</link>
+      <guid isPermaLink="false">187468</guid>
+      <pubDate>Mon, 14 Sep 2026 03:26:15 +0000</pubDate>
+      <description>&lt;br&gt;&lt;strong&gt;Werde Teil des Verivox Teams&lt;/strong&gt;&lt;p&gt;&lt;span style="font-family:Verdana, Geneva, sans-serif;font-size:14px;"&gt;Du möchtest neben deinem Studium praktische Erfahrung sammeln und suchst einen flexiblen Job mit echter Verantwortung?&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-family:Verdana, Geneva, sans-serif;font-size:14px;"&gt;&lt;span style="font-family:Verdana, Geneva, sans-serif;font-size:14px;"&gt;Du wi</description>
+      <category>Support</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Heidelberg</job:location>
+      <job:company>Verivox</job:company>
+    </item>
     <item>
       <title>Senior Backend Engineer (Go) (m/w/d)</title>
       <link>https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-senior-backend-engineer-go-berlin-391760</link>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>H1</job:company>
-    </item>
-    <item>
-      <title>Account Executive, Enterprise Intelligence</title>
-      <link>https://jobicy.com/jobs/153149-account-executive-enterprise-intelligence</link>
-      <guid isPermaLink="false">184210</guid>
-      <pubDate>Sun, 13 Sep 2026 16:02:26 +0000</pubDate>
-      <description></description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>AlphaSense</job:company>
     </item>
   </channel>
 </rss>
