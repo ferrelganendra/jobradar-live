@@ -135036,5 +135036,55 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 186533,
+    "created_at": "2026-09-14 00:49:43",
+    "source": "arbeitnow",
+    "title": "Senior Backend Engineer (Go) (m/w/d)",
+    "company": "Recare Deutschland GmbH",
+    "location": "Remote job",
+    "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-senior-backend-engineer-go-berlin-391760",
+    "salary": "",
+    "tags": [
+      "Engineering",
+      "Remote"
+    ],
+    "remote": true,
+    "description": "<p class=\"p1\"><br></p><p class=\"p1\"><strong>About us<br></strong></p><p class=\"p1\">As one of Germany's leading HealthTech companies, we are transforming discharge management by making it technology driven, patient centered, and free of bureaucracy. In addition to our market leading SaaS platform, we are developing AI solutions that radically simplify processes in clinics and for aftercare providers, relieve the burden on healthcare professionals, and put the focus back on patients. We currently connect over two thirds of all German hospitals with more than 650 rehabilitation clinics, and over 25,000 care and homecare providers. With around 120 employees from a broad range of nations, we are continuing to grow and are looking for people with the right attitude who want to improve the healthcare system alongside us.</p><p class=\"p1\" style=\"min-height: 1.7em;\"></p><p class=\"p1\">We're now going far beyond our core business, aiming to eliminate bureaucracy and admin in hospitals with a whole portfolio of AI products.<br></p><p class=\"p1\"><strong>What you'll work on<br></strong></p><p class=\"p1\">Aftercare provider operations are becoming increasingly complex and data driven. Bringing change is very hard, but we're not afraid. You'll build features that help care facilities, rehabilitation centers, and healthcare chains better allocate resources, unlock actionable insights from patient data, and integrate Recare seamlessly into their internal systems.</p><p class=\"p1\">Our ambitious roadmap focuses on expanding our marketplace's receiver side with enhanced analytics tools, B2C platforms connecting providers directly with patients, expanded API integrations, and much more.</p><p class=\"p1\">Secure communication is at our core. Our solution provides end to end encryption for healthcare professionals to safely exchange messages and patient data through both our applications and external API integrations.<br><br><br></p><p class=\"p1\">In this role, you will:<br></p><p style=\"min-",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "SWE",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 186535,
+    "created_at": "2026-09-14 00:49:43",
+    "source": "arbeitnow",
+    "title": "Senior Product Performance Analyst (m/f/d)",
+    "company": "Trusted Shops SE (DE)",
+    "location": "Remote job",
+    "url": "https://www.arbeitnow.com/jobs/companies/trusted-shops-se-de/remote-senior-product-performance-analyst-cologne-163841",
+    "salary": "",
+    "tags": [
+      "Tech",
+      "Remote"
+    ],
+    "remote": true,
+    "description": "<p><strong>About Trusted Shops</strong></p><p>Trusted Shops creates digital trust between people, businesses, and AI Agents. Every day, millions of consumers rely on our solutions to make confident online decisions, while businesses use our products to build trust, strengthen customer relationships, and grow sustainably.</p><p>With around 700 colleagues across Europe, more than 25,000 online shops, and over 40 million consumers in our Community of Trust, we are helping shape a safer and more transparent digital world. But trust is not only at the heart of our products, it also shapes how we work together. We believe in collaboration, ownership, and the freedom to do your best work through a flexible hybrid work culture. Join us and help create a digital world where trust, transparency, and meaningful connections drive every interaction.</p><p style=\"min-height: 1.7em;\"></p><p>To strengthen our Product Department, we are looking for a</p><h2>Senior Product Performance Analyst (m/f/d) </h2><p>(Hybrid in Cologne or Berlin / Full-time / Permanent contract)</p><p style=\"min-height: 1.7em;\"></p><p>As a Senior Product Performance Analyst, you'll turn scattered data into clear direction: unified KPIs, consistent dashboards, and actionable insights that influence product strategy and prioritization. Working closely with Product Managers and Product leadership, you'll help create a scalable data foundation that enables measurable decision-making across our Product organization. Your work will ensure that product investments, outcomes, and customer impact are guided by reliable data and transparent performance measurements.</p><p style=\"min-height: 1.7em;\"></p><h3>Your Responsibilities</h3><ul><li><p>Identify business requirements for data streams based on business processes and customer journeys and manage them independently.</p></li><li><p>Turn data into clear stories: build high-quality standard reports, dashboards, and visualizations for a wide range of stakeholder groups.",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Finance",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]

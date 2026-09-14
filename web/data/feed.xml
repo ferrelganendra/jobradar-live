@@ -5,7 +5,31 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Sun, 13 Sep 2026 23:58:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 00:49:44 +0000</lastBuildDate>
+    <item>
+      <title>Senior Backend Engineer (Go) (m/w/d)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-senior-backend-engineer-go-berlin-391760</link>
+      <guid isPermaLink="false">186533</guid>
+      <pubDate>Mon, 14 Sep 2026 00:49:43 +0000</pubDate>
+      <description>&lt;p class="p1"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="p1"&gt;&lt;strong&gt;About us&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p class="p1"&gt;As one of Germany's leading HealthTech companies, we are transforming discharge management by making it technology driven, patient centered, and free of bureaucracy. In addition to our market leading SaaS platform, we are developing AI solutions that radically simplify processes in clinics and for aftercare provider</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote job</job:location>
+      <job:company>Recare Deutschland GmbH</job:company>
+    </item>
+    <item>
+      <title>Senior Product Performance Analyst (m/f/d)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/trusted-shops-se-de/remote-senior-product-performance-analyst-cologne-163841</link>
+      <guid isPermaLink="false">186535</guid>
+      <pubDate>Mon, 14 Sep 2026 00:49:43 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;About Trusted Shops&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Trusted Shops creates digital trust between people, businesses, and AI Agents. Every day, millions of consumers rely on our solutions to make confident online decisions, while businesses use our products to build trust, strengthen customer relationships, and grow sustainably.&lt;/p&gt;&lt;p&gt;With around 700 colleagues across Europe, more than 25,000 online shops</description>
+      <category>Finance</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote job</job:location>
+      <job:company>Trusted Shops SE (DE)</job:company>
+    </item>
     <item>
       <title>Associate Director, Integrated Marketing - Pilotage Stratégique du Marché France</title>
       <link>https://www.arbeitnow.fr/jobs/companies/inautalent/remote-associate-director-integrated-marketing-pilotage-strategique-du-marche-france-340399</link>
@@ -581,30 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>AlphaSense</job:company>
-    </item>
-    <item>
-      <title>Principal Customer Success Manager - Pharma</title>
-      <link>https://jobicy.com/jobs/153147-principal-customer-success-manager-pharma</link>
-      <guid isPermaLink="false">184211</guid>
-      <pubDate>Sun, 13 Sep 2026 16:02:26 +0000</pubDate>
-      <description></description>
-      <category>Healthcare</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>H1</job:company>
-    </item>
-    <item>
-      <title>Business Intelligence Analyst</title>
-      <link>https://jobicy.com/jobs/153151-business-intelligence-analyst</link>
-      <guid isPermaLink="false">184212</guid>
-      <pubDate>Sun, 13 Sep 2026 16:02:26 +0000</pubDate>
-      <description></description>
-      <category>Data</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Carrot</job:company>
     </item>
   </channel>
 </rss>
