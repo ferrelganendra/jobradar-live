@@ -5,7 +5,19 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Tue, 15 Sep 2026 08:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 08:33:17 +0000</lastBuildDate>
+    <item>
+      <title>Senior Account Executive (Europe, 100% remote)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/limeflight/senior-account-executive-europe-100-remote-berlin-76973</link>
+      <guid isPermaLink="false">198631</guid>
+      <pubDate>Tue, 15 Sep 2026 08:33:16 +0000</pubDate>
+      <description>&lt;p style=";"&gt;Join our fully remote, mission-driven team dedicated to pioneering &lt;strong&gt;sustainable inflight service management&lt;/strong&gt;. Work on innovative technology solutions with global impact, collaborate within a diverse, international environment, and continuously enhance your skills through ongoing learning opportunities.&lt;/p&gt;&lt;p style=";"&gt;&lt;/p&gt;&lt;p style=";"&gt;Headquartered in Zurich, Switzerlan</description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Berlin</job:location>
+      <job:company>LimeFlight</job:company>
+    </item>
     <item>
       <title>Social Media Manager im Kreativbereich (m/w/d)</title>
       <link>https://www.arbeitnow.com/jobs/companies/picmondoo-gmbh/social-media-manager-im-kreativbereich-langweid-am-lech-323732</link>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location>Berlin</job:location>
       <job:company>Dschungel Marketing GmbH</job:company>
-    </item>
-    <item>
-      <title>KI Automation &amp; Content Builder (m/w/d)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/meetergo-gmbh/ki-automation-content-builder-cologne-270474</link>
-      <guid isPermaLink="false">193887</guid>
-      <pubDate>Mon, 14 Sep 2026 19:49:34 +0000</pubDate>
-      <description>&lt;p&gt;Ich suche gerade jemanden für meetergo.&lt;/p&gt; &lt;p&gt;Und nein, keinen klassischen Marketer.&lt;/p&gt; &lt;p&gt;Ich suche jemanden, der Dinge baut.&lt;/p&gt; &lt;p&gt;Jemanden, der sich Unternehmen anschaut und sofort denkt:&lt;/p&gt; &lt;p&gt;&lt;strong&gt;„Das kann man doch automatisieren.“&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Bei meetergo bauen wir eine europäische Business-Suite für Unternehmen: Terminbuchung,&lt;/p&gt; &lt;p&gt;Workflows, CRM, Formulare, E-Signaturen, K</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Cologne</job:location>
-      <job:company>meetergo GmbH</job:company>
     </item>
   </channel>
 </rss>

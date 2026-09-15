@@ -139547,5 +139547,30 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 198631,
+    "created_at": "2026-09-15 08:33:16",
+    "source": "arbeitnow",
+    "title": "Senior Account Executive (Europe, 100% remote)",
+    "company": "LimeFlight",
+    "location": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/limeflight/senior-account-executive-europe-100-remote-berlin-76973",
+    "salary": "",
+    "tags": [
+      "Other",
+      "bachelor's degree"
+    ],
+    "remote": false,
+    "description": "<p style=\";\">Join our fully remote, mission-driven team dedicated to pioneering <strong>sustainable inflight service management</strong>. Work on innovative technology solutions with global impact, collaborate within a diverse, international environment, and continuously enhance your skills through ongoing learning opportunities.</p><p style=\";\"></p><p style=\";\">Headquartered in Zurich, Switzerland with team members across 11 countries, we offer a dynamic and engaging company culture that celebrates creativity, collaboration, and inclusion.</p><h4><strong>About the role</strong></h4><p style=\";\">We are on a mission to contribute to a <strong>zero-waste future</strong> by drastically reducing food waste, fuel consumption, costs, and most importantly, <strong>CO₂ emissions</strong> in the airline industry. Every role in our company is a direct contributor to this vision and as a Senior Account Executive, you will be at the heart of the team that makes it possible.</p><p style=\";\"></p><p style=\";\">You will report directly to one of the founders and work closely with Account Executives, Marketing, Product Management, Customer Success, and the broader founding team.</p><p style=\";\"></p><p style=\";\">This is not a traditional SaaS sales role focused on high-volume transactions. Our customers are airlines, our sales cycles are complex, and our relationships often span many years.</p><p style=\";\"></p><p style=\";\">You will be responsible for building and executing strategic sales plans, identifying and developing new opportunities, and managing enterprise sales cycles from initial engagement through to contract signature.</p><p style=\";\"></p><p style=\";\">Rather than relying solely on inbound demand, you will proactively identify target airlines, build stakeholder relationships, and develop opportunities through a structured account-based sales approach.</p><p style=\";\"></p><p style=\";\">We are looking for someone who has already built pipeline, navigated complex airline buying",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
