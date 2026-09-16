@@ -142067,13 +142067,13 @@
     "is_foreign": true
   },
   {
-    "id": 210680,
-    "created_at": "2026-09-16 10:33:15",
+    "id": 210917,
+    "created_at": "2026-09-16 11:14:26",
     "source": "arbeitnow",
     "title": "Product Manager | Intch",
     "company": "Hirehire",
     "location": "Remote",
-    "url": "https://www.arbeitnow.fr/jobs/companies/hirehire/remote-product-manager-intch-52127",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/hirehire/remote-product-manager-intch-287630",
     "salary": "",
     "tags": [
       "Product Management"
@@ -142091,13 +142091,13 @@
     "is_foreign": true
   },
   {
-    "id": 210752,
-    "created_at": "2026-09-16 10:33:15",
+    "id": 210989,
+    "created_at": "2026-09-16 11:14:26",
     "source": "jobicy",
     "title": "Manager, Mobility - APAC",
     "company": "Remote",
     "location": "",
-    "url": "https://jobicy.com/jobs/149303-manager-mobility-apac-2",
+    "url": "https://jobicy.com/jobs/146419-manager-mobility-apac",
     "salary": "",
     "tags": [],
     "remote": true,
@@ -142113,13 +142113,13 @@
     "is_foreign": true
   },
   {
-    "id": 210753,
-    "created_at": "2026-09-16 10:33:15",
+    "id": 210990,
+    "created_at": "2026-09-16 11:14:26",
     "source": "jobicy",
     "title": "Support Engineering Manager (APAC)",
     "company": "Supabase",
     "location": "",
-    "url": "https://jobicy.com/jobs/146230-support-engineering-manager-apac",
+    "url": "https://jobicy.com/jobs/149306-support-engineering-manager-apac-2",
     "salary": "",
     "tags": [],
     "remote": true,
