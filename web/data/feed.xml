@@ -5,7 +5,31 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Wed, 16 Sep 2026 02:46:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 03:19:07 +0000</lastBuildDate>
+    <item>
+      <title>Endear - Product Designer</title>
+      <link>https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-endear-product-designer-432321</link>
+      <guid isPermaLink="false">207131</guid>
+      <pubDate>Wed, 16 Sep 2026 03:19:06 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;Location:&lt;/strong&gt; Remote, US-based&lt;br /&gt;&lt;strong&gt;Team:&lt;/strong&gt; Product &amp; Design — IRL&lt;br /&gt;&lt;strong&gt;Type:&lt;/strong&gt; Full-Time, Employee&lt;br /&gt;&lt;strong&gt;Compensation:&lt;/strong&gt; $100K–$129K base&lt;br /&gt;&lt;strong&gt;Target Start:&lt;/strong&gt; January 2027 or earlier&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;&lt;/p&gt;&lt;h3&gt;&lt;strong&gt;Our Story&lt;/strong&gt;&lt;/h3&gt;&lt;p style="min-height:1.5em"&gt;At Endear, we’re b</description>
+      <category>Marketing</category>
+      <job:remote>true</job:remote>
+      <job:salary>USD 100K-$129K</job:salary>
+      <job:location>Remote</job:location>
+      <job:company>Eleve Talent</job:company>
+    </item>
+    <item>
+      <title>Data Architecture Consultant (m/w/d)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/invensity-group/data-architecture-consultant-wiesbaden-hybrid-221115</link>
+      <guid isPermaLink="false">207143</guid>
+      <pubDate>Wed, 16 Sep 2026 03:19:06 +0000</pubDate>
+      <description>&lt;br&gt;&lt;strong&gt;Welcome&lt;/strong&gt;&lt;p&gt;Du möchtest komplexe Datenlandschaften gestalten und Unternehmen beim Aufbau zukunftsfähiger Datenarchitekturen unterstützen? Dann bist du bei INVENSITY genau richtig. Als internationale Technologie- und Innovationsberatung begleiten wir unsere Kunden bei anspruchsvollen Digitalisierungs-, Transformations- und Migrationsprojekten.&lt;br&gt;&lt;br&gt;Dein Beitrag: Als Data Archit</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Wiesbaden (Hybrid)</job:location>
+      <job:company>Invensity Group</job:company>
+    </item>
     <item>
       <title>Senior Creative Strategist (all genders)</title>
       <link>https://www.arbeitnow.fr/jobs/companies/wecreate-germany/senior-creative-strategist-all-genders-hybrid-355142</link>
@@ -581,30 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Mozilla</job:company>
-    </item>
-    <item>
-      <title>Customer Solution Architect, Team Lead</title>
-      <link>https://jobicy.com/jobs/153329-customer-solution-architect-team-lead</link>
-      <guid isPermaLink="false">203072</guid>
-      <pubDate>Tue, 15 Sep 2026 17:52:05 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Supabase</job:company>
-    </item>
-    <item>
-      <title>Data Analytics and Insights Team Lead (CX)</title>
-      <link>https://jobicy.com/jobs/153324-data-analytics-and-insights-team-lead-cx-2</link>
-      <guid isPermaLink="false">203073</guid>
-      <pubDate>Tue, 15 Sep 2026 17:52:05 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Who Gives A Crap</job:company>
     </item>
   </channel>
 </rss>
