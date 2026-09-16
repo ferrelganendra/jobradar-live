@@ -141737,5 +141737,54 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 207702,
+    "created_at": "2026-09-16 04:20:58",
+    "source": "arbeitnow",
+    "title": "Talent Lead at AIOS- Remote, $100-200k inc equity",
+    "company": "AIOS (YC W20/S21)",
+    "location": "Remote (UK hours)",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/aios-yc-w20s21/talent-lead-at-aios-remote-100-200k-inc-equity-blackburn-451208",
+    "salary": "",
+    "tags": [
+      "Company"
+    ],
+    "remote": false,
+    "description": "<h1>About AIOS</h1><p style=\"min-height:1.5em\"><strong>AIOS is building the world’s first full-stack AI doctor.</strong></p><p style=\"min-height:1.5em\">We’re at $400M ARR, growing from $10M/yr 12 months ago. We’re the world’s fastest growing AI doctor.</p><p style=\"min-height:1.5em\">We’re faithfully serving &gt;200k/mo patients via Bolt Pharmacy, our main UK brand. We’re profitable.</p><p style=\"min-height:1.5em\">Our strategy exists at the intersection of two strong theses:</p><ol style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">The AI doctor that wins will get to escape velocity using GLP-1s, the fastest growing consumer product in history.</p></li><li><p style=\"min-height:1.5em\">The $2T European healthcare market is overlooked by the most talented builders.</p></li></ol><p style=\"min-height:1.5em\">Our master plan:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Step 0 → $100M/yr by end of 2025</strong>: We went from $10M to $100M in 6 months serving the UK GLP-1 market.</p></li><li><p style=\"min-height:1.5em\"><strong>Step 1 → $1B ARR by end of 2026</strong>: Over the last 12 months we've grown from 3k to 150k UK active GLP-1 patients. We’ll continue this growth curve to hit $1B ARR.</p></li><li><p style=\"min-height:1.5em\"><strong>Step 2 → $10B ARR by end of 2028</strong>: Blitzscale Europe. We’ll be Europe’s largest GLP-1 provider.</p></li><li><p style=\"min-height:1.5em\"><strong>Step 3 → $100B/yr by end of 2031</strong>: Get regulatory approval across Europe for our Full Autonomous Prescribing (FAP) system. Win contracts at scale with European payers to mass replace human labor. We’ll be the dominant full-stack AI doctor in Europe.</p></li><li><p style=\"min-height:1.5em\"><strong>Step 4 → $1T/yr by end of 2035</strong>: With one line of code and zero human time, you can use AIOS to treat any patient globally with any medication.</p></li></ul><p style=\"min-height:1.5em\">In so doing, we’ll become the world’s first trillion-dollar healt",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Marketing",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 207706,
+    "created_at": "2026-09-16 04:20:58",
+    "source": "arbeitnow",
+    "title": "Sales Director - UK (m/f/t)",
+    "company": "Zeotap",
+    "location": "Remote job",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/zeotap/remote-sales-director-uk-london-471494",
+    "salary": "",
+    "tags": [
+      "Sales",
+      "Remote"
+    ],
+    "remote": true,
+    "description": "<p><strong><span style=\"font-size:1.1em\">About Zeotap</span></strong></p><p>Founded in Berlin in 2014, Zeotap started with a mission to provide high-quality data to marketers. As we evolved, we recognized a greater challenge: helping brands create personalized, multi-channel experiences in a world that demands strict data privacy and compliance. This drive led to the launch of Zeotap’s Customer Data Platform (CDP) in 2020—a powerful, AI-native SaaS suite built on Google Cloud that empowers brands to unlock and activate customer data securely.</p><p>Today, Zeotap is trusted by some of the world’s most innovative brands, including Virgin Media O2, Amazon, and Audi, to create engaging, data-driven customer experiences that drive better business outcomes across marketing, sales, and service. With an unique background in high-quality data solutions, Zeotap is a leader in the European CDP market, empowering enterprises with a secure, privacy-first solution to harness the full potential of their customer data.</p><h3>The Role</h3><ul class=\"posting-requirements plain-list\"><li><p>Your core responsibility is to drive Zeotap’s sales , build pipeline and increase market share in the UK market</p></li><li><p>You initiate contacts through outbound email, LinkedIn campaigns, cold calls , events etc.</p></li><li><p>Strategically focus and target your territory to close new business, leveraging the BDR team and providing direction / guidance to your sales prospecting team.</p><p>You will position Zeotap as an innovative customer data platform</p></li><li><p>You adhere to Zeotap’s company, privacy and information security policies and procedures. You complete all the assigned awareness trainings on time</p></li></ul><h3></h3><h3>Our Investment in You</h3><ul class=\"posting-requirements plain-list\"><li><p>Competitive compensation &amp; benefits</p></li><li><p>Unmatched Global support system</p></li><li><p>Fast-paced, collaborative, &amp; fun culture</p></li><li><p>Exposure &amp; acc",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
