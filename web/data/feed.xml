@@ -5,12 +5,36 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Wed, 16 Sep 2026 09:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 09:31:13 +0000</lastBuildDate>
+    <item>
+      <title>Working Student, Growth &amp; Strategy (m/f/d)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/chaos/remote-working-student-growth-strategy-karlsruhe-265104</link>
+      <guid isPermaLink="false">210044</guid>
+      <pubDate>Wed, 16 Sep 2026 09:31:12 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;**This position is based in Germany with hybrid or remote working options. Applicants must hold a valid work/residence permit for the respective location.**&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height: 1.7em;"&gt;&lt;/p&gt;&lt;p&gt;Chaos is a leading global software company that provides world-class visualization and design solutions, empowering creative minds to bring ideas to life.&lt;/p&gt;&lt;p style="min-height: 1.7</description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote job</job:location>
+      <job:company>Chaos</job:company>
+    </item>
+    <item>
+      <title>Junior Urban Development Specialist (m/w/d)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/syte-gmbh/junior-urban-development-specialist-munster-174696</link>
+      <guid isPermaLink="false">210066</guid>
+      <pubDate>Wed, 16 Sep 2026 09:31:12 +0000</pubDate>
+      <description>&lt;h2&gt;Deine Mission&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;Verbinde deine Expertise in Architektur oder Städtebau mit moderner Technologie.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Als &lt;strong&gt;Junior Urban Development Specialist (m/w/d)&lt;/strong&gt; lieferst du unseren Kunden professionelle, digitale Machbarkeitsstudien zu ihren Projekten. Als Teil des Professional Services Teams bei syte übersetzt du städtebauliche Komplexität in baurechtlich fundie</description>
+      <category>Design</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Münster</job:location>
+      <job:company>syte GmbH</job:company>
+    </item>
     <item>
       <title>Product Manager | Intch</title>
-      <link>https://www.arbeitnow.co.uk/jobs/companies/hirehire/remote-product-manager-intch-287630</link>
-      <guid isPermaLink="false">209925</guid>
-      <pubDate>Wed, 16 Sep 2026 09:00:09 +0000</pubDate>
+      <link>https://www.arbeitnow.fr/jobs/companies/hirehire/remote-product-manager-intch-52127</link>
+      <guid isPermaLink="false">210187</guid>
+      <pubDate>Wed, 16 Sep 2026 09:31:12 +0000</pubDate>
       <description>&lt;h2&gt;About Intch&lt;/h2&gt;&lt;p style="min-height:1.5em"&gt;Intch is a professional social network with a marketplace for part-time work. You can think of it as a professional network built for senior specialists who take on meaningful contracts alongside their main work. A typical contract lasts from three to six months. The product is used in 140 countries and is available in up to 20 languages. Intch has f</description>
       <category>Marketing</category>
       <job:remote>true</job:remote>
@@ -20,9 +44,9 @@
     </item>
     <item>
       <title>Manager, Mobility - APAC</title>
-      <link>https://jobicy.com/jobs/146419-manager-mobility-apac</link>
-      <guid isPermaLink="false">210012</guid>
-      <pubDate>Wed, 16 Sep 2026 09:00:09 +0000</pubDate>
+      <link>https://jobicy.com/jobs/149303-manager-mobility-apac-2</link>
+      <guid isPermaLink="false">210259</guid>
+      <pubDate>Wed, 16 Sep 2026 09:31:12 +0000</pubDate>
       <description></description>
       <category>Lainnya</category>
       <job:remote>true</job:remote>
@@ -32,9 +56,9 @@
     </item>
     <item>
       <title>Support Engineering Manager (APAC)</title>
-      <link>https://jobicy.com/jobs/149306-support-engineering-manager-apac-2</link>
-      <guid isPermaLink="false">210013</guid>
-      <pubDate>Wed, 16 Sep 2026 09:00:09 +0000</pubDate>
+      <link>https://jobicy.com/jobs/146230-support-engineering-manager-apac</link>
+      <guid isPermaLink="false">210260</guid>
+      <pubDate>Wed, 16 Sep 2026 09:31:12 +0000</pubDate>
       <description></description>
       <category>Support</category>
       <job:remote>true</job:remote>
@@ -581,30 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Wheel</job:company>
-    </item>
-    <item>
-      <title>Deal Desk Analyst</title>
-      <link>https://jobicy.com/jobs/153340-deal-desk-analyst-5</link>
-      <guid isPermaLink="false">203546</guid>
-      <pubDate>Tue, 15 Sep 2026 18:54:12 +0000</pubDate>
-      <description></description>
-      <category>Data</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Mural</job:company>
-    </item>
-    <item>
-      <title>Sales Engineer, Commercial</title>
-      <link>https://jobicy.com/jobs/153342-sales-engineer-commercial</link>
-      <guid isPermaLink="false">203547</guid>
-      <pubDate>Tue, 15 Sep 2026 18:54:12 +0000</pubDate>
-      <description></description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Socket</job:company>
     </item>
   </channel>
 </rss>
