@@ -5,7 +5,31 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Wed, 16 Sep 2026 07:27:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 07:58:27 +0000</lastBuildDate>
+    <item>
+      <title>Manager, Mobility - APAC</title>
+      <link>https://jobicy.com/jobs/146419-manager-mobility-apac</link>
+      <guid isPermaLink="false">209524</guid>
+      <pubDate>Wed, 16 Sep 2026 07:58:25 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Remote</job:company>
+    </item>
+    <item>
+      <title>Support Engineering Manager (APAC)</title>
+      <link>https://jobicy.com/jobs/149306-support-engineering-manager-apac-2</link>
+      <guid isPermaLink="false">209525</guid>
+      <pubDate>Wed, 16 Sep 2026 07:58:25 +0000</pubDate>
+      <description></description>
+      <category>Support</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Supabase</job:company>
+    </item>
     <item>
       <title>Project Director</title>
       <link>https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/remote-project-director-232277</link>
@@ -581,30 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Quantum Metric</job:company>
-    </item>
-    <item>
-      <title>Product Designer</title>
-      <link>https://www.arbeitnow.com/jobs/companies/samacoaching/remote-product-designer-germany-344392</link>
-      <guid isPermaLink="false">203101</guid>
-      <pubDate>Tue, 15 Sep 2026 18:23:08 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Sama &lt;/strong&gt;is a B2B platform that enables employers to provide hyper-tailored development through unlimited professional coaching—right from a user-friendly app (sama.io).&lt;/p&gt;&lt;p&gt;Come join our amazing team working to elevate the corporate environment by allowing employees to be their best productive selves. We’re building the future of work! &lt;/p&gt;&lt;p&gt;Ready to be a part of a team of high</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Germany</job:location>
-      <job:company>Samacoaching</job:company>
-    </item>
-    <item>
-      <title>Working Student - Visual Design / Communication Design(gn), starting at 12h per week, hybrid (Munich)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/42watt/working-student-visual-design-communication-designgn-starting-at-12h-per-week-hybrid-munich-munchen-356416</link>
-      <guid isPermaLink="false">203108</guid>
-      <pubDate>Tue, 15 Sep 2026 18:23:08 +0000</pubDate>
-      <description>&lt;br&gt;&lt;strong&gt;What You'll Do&lt;/strong&gt;&lt;p&gt;&lt;ul&gt;&lt;li style="font-style:normal;font-weight:400;text-transform:none;color:rgb(0,0,0);"&gt;You help us bring the topics of heat pumps, energy-efficient renovations, and 42watt to life.&lt;/li&gt;&lt;li style="font-style:normal;font-weight:400;text-transform:none;color:rgb(0,0,0);"&gt;You work on exciting communication formats for web, social media, and print — from (info) gr</description>
-      <category>Marketing</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>München</job:location>
-      <job:company>42Watt</job:company>
     </item>
   </channel>
 </rss>
