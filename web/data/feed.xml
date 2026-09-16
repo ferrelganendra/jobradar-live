@@ -5,18 +5,30 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:04:17 +0000</lastBuildDate>
     <item>
       <title>Automation Engineer (gn) - 40 Std, (hybrid) (München)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/42watt/automation-engineer-gn-40-std-hybrid-munchen-68428</link>
-      <guid isPermaLink="false">205515</guid>
-      <pubDate>Tue, 15 Sep 2026 23:33:08 +0000</pubDate>
-      <description>&lt;br&gt;&lt;strong&gt;Deine Aufgaben&lt;/strong&gt;&lt;p&gt;&lt;ul&gt;&lt;li&gt;Du &lt;strong&gt;baust und betreibst&lt;/strong&gt; unsere n8n-Automationen und verbindest &lt;strong&gt;CRM, Customer-Support-Tools, E-Mail und Kalender&lt;/strong&gt; zu nahtlosen Workflows – von der &lt;strong&gt;KI-gestützten Ticket-Klassifizierung&lt;/strong&gt; über intelligentes &lt;strong&gt;Eskalations-Routing&lt;/strong&gt; bis hin zu automatischen Benachrichtigungen bei kritischen Ereigni</description>
+      <link>https://www.arbeitnow.com/jobs/companies/42watt/automation-engineer-gn-40-std-hybrid-munchen-420813</link>
+      <guid isPermaLink="false">205750</guid>
+      <pubDate>Wed, 16 Sep 2026 00:04:16 +0000</pubDate>
+      <description>&lt;br&gt;&lt;strong&gt;Deine Aufgaben&lt;/strong&gt;&lt;p&gt;&lt;p style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"&gt;&lt;span style="font-size:10.5pt;font-family:Arial, Helvetica, sans-serif;color:rgb(0,0,0);background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;"&gt;Wir arbeiten über ein zertifiziertes Netzwerk lokaler Handwerkspartner – ohne eigene Installationskapazitäten. Der Erfolg un</description>
       <category>Teknologi</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
       <job:location>München</job:location>
       <job:company>42Watt</job:company>
+    </item>
+    <item>
+      <title>Sr Solutions Architect</title>
+      <link>https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394</link>
+      <guid isPermaLink="false">205905</guid>
+      <pubDate>Wed, 16 Sep 2026 00:04:16 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>ExtraHop</job:company>
     </item>
     <item>
       <title>Senior Customer Success Manager - UK</title>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location>Walldorf</job:location>
       <job:company>Käsmayr GmbH</job:company>
-    </item>
-    <item>
-      <title>Senior DevOps / Platform Engineer, AI Infrastructure (m/f/x)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/maia/senior-devops-platform-engineer-ai-infrastructure-leipzig-223621</link>
-      <guid isPermaLink="false">201272</guid>
-      <pubDate>Tue, 15 Sep 2026 14:15:09 +0000</pubDate>
-      <description>&lt;p&gt;MAIA is the AI platform built for companies where generic AI tools break down because the data is complex, the stakes are high, and precision matters.&lt;/p&gt; &lt;p&gt;We work on the difficult parts of enterprise AI: understanding complex documents, integrating AI into real workflows, making organisational knowledge accessible, and operating the underlying systems reliably and securely.&lt;/p&gt; &lt;p&gt;As our cus</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Leipzig</job:location>
-      <job:company>MAIA</job:company>
     </item>
   </channel>
 </rss>
