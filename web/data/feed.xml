@@ -5,7 +5,31 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Wed, 16 Sep 2026 13:33:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 14:04:51 +0000</lastBuildDate>
+    <item>
+      <title>Manager, Mobility - APAC</title>
+      <link>https://jobicy.com/jobs/149303-manager-mobility-apac-2</link>
+      <guid isPermaLink="false">212182</guid>
+      <pubDate>Wed, 16 Sep 2026 14:04:50 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Remote</job:company>
+    </item>
+    <item>
+      <title>Support Engineering Manager (APAC)</title>
+      <link>https://jobicy.com/jobs/146230-support-engineering-manager-apac</link>
+      <guid isPermaLink="false">212183</guid>
+      <pubDate>Wed, 16 Sep 2026 14:04:50 +0000</pubDate>
+      <description></description>
+      <category>Support</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Supabase</job:company>
+    </item>
     <item>
       <title>Android Developer (m/w/d)</title>
       <link>https://www.arbeitnow.com/jobs/companies/buesken-strategy-consulting/android-developer-dusseldorf-455241</link>
@@ -89,30 +113,6 @@
       <job:salary></job:salary>
       <job:location>Remote job</job:location>
       <job:company>The Config Team</job:company>
-    </item>
-    <item>
-      <title>Manager, Mobility - APAC</title>
-      <link>https://jobicy.com/jobs/146419-manager-mobility-apac</link>
-      <guid isPermaLink="false">211949</guid>
-      <pubDate>Wed, 16 Sep 2026 13:33:44 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Remote</job:company>
-    </item>
-    <item>
-      <title>Support Engineering Manager (APAC)</title>
-      <link>https://jobicy.com/jobs/149306-support-engineering-manager-apac-2</link>
-      <guid isPermaLink="false">211950</guid>
-      <pubDate>Wed, 16 Sep 2026 13:33:44 +0000</pubDate>
-      <description></description>
-      <category>Support</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Supabase</job:company>
     </item>
     <item>
       <title>Product Manager | Intch</title>
