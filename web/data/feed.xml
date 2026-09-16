@@ -5,7 +5,31 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:10:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:43:39 +0000</lastBuildDate>
+    <item>
+      <title>HubSpot CRM Consultant - Sales, Marketing &amp; Service Hub (m/w/d)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/itelligy-digital-experts-gmbh-co-kg/hubspot-crm-consultant-sales-marketing-service-hub-freiburg-im-breisgau-411974</link>
+      <guid isPermaLink="false">206402</guid>
+      <pubDate>Wed, 16 Sep 2026 01:43:38 +0000</pubDate>
+      <description>&lt;p&gt;itelligy - digital experts ist eine dynamische IT-Beratung, die sich auf CRM-, ERP- und digitale Geschäftsprozesslösungen spezialisiert hat. Wir arbeiten mit führenden Plattformen wie HubSpot und Microsoft Dynamics 365 und integrieren diese nahtlos in die IT-Infrastruktur unserer Kunden. Unser Ziel ist es, digitale Transformationen voranzutreiben und Kunden zu helfen, effizientere und datenbasi</description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Freiburg im Breisgau</job:location>
+      <job:company>itelligy - digital experts GmbH &amp; Co. KG</job:company>
+    </item>
+    <item>
+      <title>Product Manager | Intch</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/hirehire/remote-product-manager-intch-287630</link>
+      <guid isPermaLink="false">206497</guid>
+      <pubDate>Wed, 16 Sep 2026 01:43:38 +0000</pubDate>
+      <description>&lt;h2&gt;About Intch&lt;/h2&gt;&lt;p style="min-height:1.5em"&gt;Intch is a professional social network with a marketplace for part-time work. You can think of it as a professional network built for senior specialists who take on meaningful contracts alongside their main work. A typical contract lasts from three to six months. The product is used in 140 countries and is available in up to 20 languages. Intch has f</description>
+      <category>Marketing</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>Hirehire</job:company>
+    </item>
     <item>
       <title>Werkstudent Growth Associate (m/w/d)</title>
       <link>https://www.arbeitnow.com/jobs/companies/eneto-gmbh/werkstudent-growth-associate-berlin-132806</link>
@@ -581,30 +605,6 @@
       <job:salary></job:salary>
       <job:location>Berlin</job:location>
       <job:company>Amperecloud GmbH</job:company>
-    </item>
-    <item>
-      <title>Enterprise Account Executive (Hybrid - London office)</title>
-      <link>https://www.arbeitnow.co.uk/jobs/companies/astronomer/enterprise-account-executive-hybrid-london-office-428377</link>
-      <guid isPermaLink="false">202244</guid>
-      <pubDate>Tue, 15 Sep 2026 16:19:16 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow®. Astro accelerates building reliable data products that unlock insights, unleash AI value, and powers data-driven applications. Trusted by more than 800 of the world's leadi</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>London</job:location>
-      <job:company>Astronomer</job:company>
-    </item>
-    <item>
-      <title>Financial Analys - German language skills essential</title>
-      <link>https://www.arbeitnow.com/jobs/companies/nextcloud/financial-analys-german-language-skills-essential-stuttgart-320716</link>
-      <guid isPermaLink="false">201712</guid>
-      <pubDate>Tue, 15 Sep 2026 15:17:01 +0000</pubDate>
-      <description>&lt;p&gt;We are looking for an analytical, commercially minded Financial Analyst to strengthen our Finance function and support the company through its next stage of growth. This role combines FP&amp;A, financial modeling, reporting, and German HGB expertise with a strong focus on building scalable finance processes, systems, and decision-support capabilities.&lt;/p&gt; &lt;p&gt;You will work closely with Accounting, S</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Stuttgart</job:location>
-      <job:company>Nextcloud</job:company>
     </item>
   </channel>
 </rss>
