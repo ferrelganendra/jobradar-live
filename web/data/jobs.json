@@ -147608,30 +147608,6 @@
     "is_foreign": true
   },
   {
-    "id": 220208,
-    "created_at": "2026-09-17 21:45:32",
-    "source": "arbeitnow",
-    "title": "Founding Account Executive, New Business",
-    "company": "Fyxer",
-    "location": "Remote",
-    "url": "https://www.arbeitnow.com/jobs/companies/fyxer/remote-founding-account-executive-new-business-100736",
-    "salary": "",
-    "tags": [
-      "Sales"
-    ],
-    "remote": true,
-    "description": "<h1>About Fyxer </h1><p style=\"min-height:1.5em\">Fyxer launched in May 2024 and hit $1M in revenue across 3,000 paid users without spending a dollar on marketing. We've since gone from $1M to $30M ARR and raised a Series B led by Madrona, with Lakestar, 20VC and Marc Benioff behind us.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Far more people start using Fyxer every month than we can speak to. Nobody owns turning those users into paying teams. That's the biggest surface in the company, and it's this seat.</p><p style=\"min-height:1.5em\"></p><h2>The role</h2><p style=\"min-height:1.5em\">You work accounts where someone is already using the product. One person trying Fyxer is often a door into a 500-person company. Spot those fast, get to the people who sign, prove out the pattern so it repeats.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">You run the full cycle. First touch, discovery, demo, pricing, close. No handoffs.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">You also write the first version of everything: the pitch, the sequences, the objection handling, the qualification bar. None of it exists yet. What you prove out is what the next reps get trained on.</p><h2><br />What we're looking for</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">30+ deals you closed yourself in the last 12 months, and quota hit in two of your last three measured periods</p></li><li><p style=\"min-height:1.5em\">Excellent communication and interpersonal skills, with the ability to build and maintain relationships with stakeholders at all levels of an organization</p></li><li><p style=\"min-height:1.5em\">You've worked without a playbook, or built one where none existed</p></li></ul><p style=\"min-height:1.5em\">Three years in or twelve. We care what you've done, not where you did it.</p><p style=\"min-height:1.5em\"></p><h2>How we work</h2><p style=\"min-height:1.5em\">Time with customers is the only thing that compounds. Ever",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
-    "industry": "Sales",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 220209,
     "created_at": "2026-09-17 21:45:32",
     "source": "arbeitnow",
@@ -147675,6 +147651,30 @@
     "is_it": true,
     "role": "SWE",
     "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 220645,
+    "created_at": "2026-09-17 22:28:16",
+    "source": "arbeitnow",
+    "title": "Founding Account Executive, New Business",
+    "company": "Fyxer",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.fr/jobs/companies/fyxer/remote-founding-account-executive-new-business-419404",
+    "salary": "",
+    "tags": [
+      "Sales"
+    ],
+    "remote": false,
+    "description": "<h1>About Fyxer </h1><p style=\"min-height:1.5em\">Fyxer launched in May 2024 and hit $1M in revenue across 3,000 paid users without spending a dollar on marketing. We've since gone from $1M to $30M ARR and raised a Series B led by Madrona, with Lakestar, 20VC and Marc Benioff behind us.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Far more people start using Fyxer every month than we can speak to. Nobody owns turning those users into paying teams. That's the biggest surface in the company, and it's this seat.</p><p style=\"min-height:1.5em\"></p><h2>The role</h2><p style=\"min-height:1.5em\">You work accounts where someone is already using the product. One person trying Fyxer is often a door into a 500-person company. Spot those fast, get to the people who sign, prove out the pattern so it repeats.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">You run the full cycle. First touch, discovery, demo, pricing, close. No handoffs.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">You also write the first version of everything: the pitch, the sequences, the objection handling, the qualification bar. None of it exists yet. What you prove out is what the next reps get trained on.</p><h2><br />What we're looking for</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">30+ deals you closed yourself in the last 12 months, and quota hit in two of your last three measured periods</p></li><li><p style=\"min-height:1.5em\">Excellent communication and interpersonal skills, with the ability to build and maintain relationships with stakeholders at all levels of an organization</p></li><li><p style=\"min-height:1.5em\">You've worked without a playbook, or built one where none existed</p></li></ul><p style=\"min-height:1.5em\">Three years in or twelve. We care what you've done, not where you did it.</p><p style=\"min-height:1.5em\"></p><h2>How we work</h2><p style=\"min-height:1.5em\">Time with customers is the only thing that compounds. Ever",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
     "remote_ok": true,
     "id_city": null,
     "job_type": "full",
