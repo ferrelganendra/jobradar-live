@@ -145516,30 +145516,6 @@
     "is_foreign": true
   },
   {
-    "id": 214320,
-    "created_at": "2026-09-17 05:41:10",
-    "source": "arbeitnow",
-    "title": "Director of National Accounts",
-    "company": "Access Destination Services",
-    "location": "Remote",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/access-destination-services/remote-director-of-national-accounts-96592",
-    "salary": "",
-    "tags": [
-      "National"
-    ],
-    "remote": false,
-    "description": "<p style=\"min-height:1.5em\"><strong>Access Your Potential.</strong><br />Join us to create and deliver experiences that inspire people, spark connection, and bring imagination to life—while having a lot of fun doing it.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We are seeking a Director of National Accounts!</p><p style=\"min-height:1.5em\"></p><h2><strong>About the Job</strong></h2><p style=\"min-height:1.5em\">The Director of National Accounts plays a key leadership role in driving strategic growth across Access’ high-value national clients and prospects. This person will develop and execute account strategies designed to expand revenue, strengthen client loyalty, and deepen long-term partnerships.</p><p style=\"min-height:1.5em\">This role is highly focused on proactive business development, cross-market collaboration, and ensuring national account strategies are executed consistently across local teams. The Director will serve as both a strategic partner and relationship leader, representing Access at the highest levels of client engagement.</p><p style=\"min-height:1.5em\"></p><h2><strong>What You'll Be Doing</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Manage a national account pipeline exceeding $12.5M annually, driving progress against revenue, new business, and account growth goals.</p></li><li><p style=\"min-height:1.5em\">Develop and execute strategic account plans that strengthen year-over-year relationships and expand client share-of-wallet.</p></li><li><p style=\"min-height:1.5em\">Build and maintain relationships with key client stakeholders, gathering insights and ensuring proposals and deliverables align with their priorities.</p></li><li><p style=\"min-height:1.5em\">Represent Access in the field, supporting local teams and maintaining strong client engagement across markets.</p></li><li><p style=\"min-height:1.5em\">Prepare strategic presentations, manage RFP responses, and ensure timely, thoughtful follow-up with",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
-    "industry": "Sales",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 214380,
     "created_at": "2026-09-17 05:41:10",
     "source": "arbeitnow",
@@ -145590,13 +145566,13 @@
     "is_foreign": true
   },
   {
-    "id": 214413,
-    "created_at": "2026-09-17 05:41:10",
+    "id": 214455,
+    "created_at": "2026-09-17 06:12:12",
     "source": "arbeitnow",
     "title": "Performance Marketing Manager, Paid Search",
     "company": "Angi",
-    "location": "Hybrid - France - Aix-en-Provence",
-    "url": "https://www.arbeitnow.fr/jobs/companies/angi/performance-marketing-manager-paid-search-aix-en-provence-296258",
+    "location": "Hybrid - Germany - Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/angi/performance-marketing-manager-paid-search-berlin-25283",
     "salary": "",
     "tags": [
       "Marketing"
@@ -145608,6 +145584,30 @@
     "is_it": false,
     "role": "other",
     "industry": "Marketing",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 214617,
+    "created_at": "2026-09-17 06:12:12",
+    "source": "arbeitnow",
+    "title": "Director of National Accounts",
+    "company": "Access Destination Services",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.fr/jobs/companies/access-destination-services/remote-director-of-national-accounts-92457",
+    "salary": "",
+    "tags": [
+      "National"
+    ],
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\"><strong>Access Your Potential.</strong><br />Join us to create and deliver experiences that inspire people, spark connection, and bring imagination to life—while having a lot of fun doing it.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We are seeking a Director of National Accounts!</p><p style=\"min-height:1.5em\"></p><h2><strong>About the Job</strong></h2><p style=\"min-height:1.5em\">The Director of National Accounts plays a key leadership role in driving strategic growth across Access’ high-value national clients and prospects. This person will develop and execute account strategies designed to expand revenue, strengthen client loyalty, and deepen long-term partnerships.</p><p style=\"min-height:1.5em\">This role is highly focused on proactive business development, cross-market collaboration, and ensuring national account strategies are executed consistently across local teams. The Director will serve as both a strategic partner and relationship leader, representing Access at the highest levels of client engagement.</p><p style=\"min-height:1.5em\"></p><h2><strong>What You'll Be Doing</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Manage a national account pipeline exceeding $12.5M annually, driving progress against revenue, new business, and account growth goals.</p></li><li><p style=\"min-height:1.5em\">Develop and execute strategic account plans that strengthen year-over-year relationships and expand client share-of-wallet.</p></li><li><p style=\"min-height:1.5em\">Build and maintain relationships with key client stakeholders, gathering insights and ensuring proposals and deliverables align with their priorities.</p></li><li><p style=\"min-height:1.5em\">Represent Access in the field, supporting local teams and maintaining strong client engagement across markets.</p></li><li><p style=\"min-height:1.5em\">Prepare strategic presentations, manage RFP responses, and ensure timely, thoughtful follow-up with",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
     "remote_ok": true,
     "id_city": null,
     "job_type": "full",
