@@ -147705,18 +147705,18 @@
     "is_foreign": true
   },
   {
-    "id": 223443,
-    "created_at": "2026-09-18 06:38:03",
+    "id": 223875,
+    "created_at": "2026-09-18 07:09:11",
     "source": "arbeitnow",
     "title": "Support Coordinators",
     "company": "LILT (Production)",
     "location": "Remote",
-    "url": "https://www.arbeitnow.com/jobs/companies/lilt-production/remote-support-coordinators-152140",
+    "url": "https://www.arbeitnow.fr/jobs/companies/lilt-production/remote-support-coordinators-5281",
     "salary": "",
     "tags": [
       "Production"
     ],
-    "remote": true,
+    "remote": false,
     "description": "<h3><strong>About the role</strong></h3><p style=\"min-height:1.5em\">We're looking for two Payment Support Coordinators to join our Expert Services &amp; Operations (ES&amp;O) team on a short-term contract basis. You'll work directly on our linguist payment queue, helping to clear a backlog of payment requests and restoring a reliable, responsive experience for our global network of expert linguists.</p><p style=\"min-height:1.5em\">This is a high-impact, hands-on role. You'll be triaging, investigating, and resolving payment issues across multiple systems, working closely with our existing coordinators and escalating to finance and engineering where needed.</p><h3><strong>What you'll be doing</strong></h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Triaging and responding to incoming payment support tickets in Jira, prioritising by urgency and issue type</p></li><li><p style=\"min-height:1.5em\">Investigating payment failures, discrepancies, and delays across the Lilt platform, Tipalti, Salesforce, and third-party processors (PayPal, Payoneer)</p></li><li><p style=\"min-height:1.5em\">Resolving common issues including: Tipalti profile corrections, 2FA resets, banking detail mismatches, and manual offline payment (OPM) re-logging</p></li><li><p style=\"min-height:1.5em\">Communicating clearly and empathetically with linguists to gather information and provide timely updates</p></li><li><p style=\"min-height:1.5em\">Escalating technical breakages (e.g. platform stats sync issues) and rate discrepancies to the relevant internal teams</p></li><li><p style=\"min-height:1.5em\">Maintaining accurate ticket notes and contributing to weekly reporting on queue volume and SLA adherence</p></li></ul><h3><strong>What we're looking for</strong></h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Experience in a payments, finance operations, or customer/vendor support role</p></li><li><p style=\"min-height:1.5em\">Comfortable working across multiple systems simulta",
     "requirements": "",
     "benefits": "",
