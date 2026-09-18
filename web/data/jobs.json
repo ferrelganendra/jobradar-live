@@ -92120,30 +92120,6 @@
     "is_foreign": true
   },
   {
-    "id": 101316,
-    "created_at": "2026-08-31 20:02:39",
-    "source": "arbeitnow",
-    "title": "Senior/Staff Frontend Engineer (React) - Remote friendly",
-    "company": "Qonto",
-    "location": "Berlin",
-    "url": "https://www.arbeitnow.com/jobs/companies/qonto/senior-staff-frontend-engineer-react-remote-friendly-berlin-25013",
-    "salary": "",
-    "tags": [
-      "Web"
-    ],
-    "remote": false,
-    "description": "<div>\n<p><strong><span style=\"font-size: 18px;\">Our mission and customers: </span></strong><span style=\"font-size: 16px;\">We are creating the freedom for SMEs to succeed by delivering Europe's leading finance workspace </span><span style=\"font-size: 16px;\">with banking at its core, augmented by financial tools. We are proud to be </span><a href=\"https://www.trustpilot.com/review/qonto.com\" style=\"font-size: 16px;\"><em><strong>rated 4.8 on Trustpilot</strong></em></a><strong><em><a href=\"https://www.trustpilot.com/review/qonto.com\">,</a></em></strong><strong style=\"font-size: 16px;\"><em>&nbsp;</em></strong><span style=\"font-size: 16px;\">based on 55,000+ reviews. </span><a href=\"https://qonto.com/en/careers/culture\" style=\"font-size: 16px;\"><strong><em>Our culture</em></strong></a><strong style=\"font-size: 16px;\"><em>&nbsp;</em></strong><span style=\"font-size: 16px;\">puts customer satisfaction at the core of what we do, as proven by our Net Promoter Score of 75 <em>(more about our culture <strong><a href=\"https://medium.com/qonto-way/the-qonto-way-our-culture-is-our-strategy-90defd4895f9\">here</a></strong>).</em></span></p>\n<p><strong><span style=\"font-size: 18px;\">Our journey:&nbsp;</span></strong><span style=\"font-size: 16px;\">Founded in 2017 by<strong>&nbsp;</strong></span><a href=\"https://www.linkedin.com/in/aprot/\"><span style=\"font-size: 16px;\"><em><strong>Alexandre</strong></em></span></a><span style=\"font-size: 16px;\"> and </span><a href=\"https://www.linkedin.com/in/steveanavi/\"><span style=\"font-size: 16px;\"><strong><em>Steve</em></strong></span></a><span style=\"font-size: 16px;\"><strong><em>,</em></strong> Qonto has grown to 1,600+ Qontoers serving over 600,000+ customers across 8 European countries. We have been profitable since 2023, and we are just getting started.</span></p>\n<p><strong><span style=\"font-size: 18px;\">Our beliefs: </span></strong><span style=\"font-size: 16px;\">We hire for skills and potential. With 80+ nationalities, 45% women, of which 56",
-    "requirements": "",
-    "benefits": "",
-    "is_it": true,
-    "role": "SWE",
-    "industry": "Teknologi",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 101324,
     "created_at": "2026-08-31 20:02:39",
     "source": "arbeitnow",
@@ -147699,6 +147675,30 @@
     "is_it": false,
     "role": "other",
     "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 221982,
+    "created_at": "2026-09-18 02:21:21",
+    "source": "arbeitnow",
+    "title": "Senior/Staff Frontend Engineer (React) - Remote Friendly",
+    "company": "Qonto",
+    "location": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/qonto/senior-staff-frontend-engineer-react-remote-friendly-paris-473326",
+    "salary": "",
+    "tags": [
+      "Web"
+    ],
+    "remote": false,
+    "description": "<p><strong><span style=\"font-size: 18px;\">Our mission and customers: </span></strong><span style=\"font-size: 16px;\">We are creating the freedom for SMEs to succeed by delivering Europe's leading finance workspace </span><span style=\"font-size: 16px;\">with banking at its core, augmented by financial tools. We are proud to be </span><a href=\"https://www.trustpilot.com/review/qonto.com\" style=\"font-size: 16px;\"><em><strong>rated 4.8 on Trustpilot</strong></em></a><strong><em><a href=\"https://www.trustpilot.com/review/qonto.com\">,</a></em></strong><strong style=\"font-size: 16px;\"><em>&nbsp;</em></strong><span style=\"font-size: 16px;\">based on 55,000+ reviews. </span><a href=\"https://qonto.com/en/careers/culture\" style=\"font-size: 16px;\"><strong><em>Our culture</em></strong></a><strong style=\"font-size: 16px;\"><em>&nbsp;</em></strong><span style=\"font-size: 16px;\">puts customer satisfaction at the core of what we do, as proven by our Net Promoter Score of 75&nbsp;<em><em>(more about our culture <strong><a href=\"https://medium.com/qonto-way/the-qonto-way-our-culture-is-our-strategy-90defd4895f9\">here</a></strong>).</em></em></span></p>\n<p><strong><span style=\"font-size: 18px;\">Our journey:&nbsp;</span></strong><span style=\"font-size: 16px;\">Founded in 2017 by<strong>&nbsp;</strong></span><a href=\"https://www.linkedin.com/in/aprot/\"><span style=\"font-size: 16px;\"><em><strong>Alexandre</strong></em></span></a><span style=\"font-size: 16px;\"> and </span><a href=\"https://www.linkedin.com/in/steveanavi/\"><span style=\"font-size: 16px;\"><strong><em>Steve</em></strong></span></a><span style=\"font-size: 16px;\"><strong><em>,</em></strong> Qonto has grown to 1,600+ Qontoers serving over 600,000+ customers across 8 European countries. We have been profitable since 2023, and we are just getting started.</span></p>\n<p><strong><span style=\"font-size: 18px;\">Our beliefs: </span></strong><span style=\"font-size: 16px;\">We hire for skills and potential. With 80+ nationalities, 45% women, of ",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "SWE",
+    "industry": "Teknologi",
     "remote_ok": true,
     "id_city": null,
     "job_type": "full",
