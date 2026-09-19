@@ -150212,5 +150212,54 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 227363,
+    "created_at": "2026-09-19 05:30:45",
+    "source": "arbeitnow",
+    "title": "Senior Frontend Engineer (React) - Remote friendly",
+    "company": "Qonto",
+    "location": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/qonto/senior-frontend-engineer-react-remote-friendly-berlin-484204",
+    "salary": "",
+    "tags": [
+      "Web"
+    ],
+    "remote": false,
+    "description": "<div>\n<p><strong><span style=\"font-size: 18px;\">Our mission and customers: </span></strong><span style=\"font-size: 16px;\">We are creating the freedom for SMEs to succeed by delivering Europe's leading finance workspace </span><span style=\"font-size: 16px;\">with banking at its core, augmented by financial tools. We are proud to be </span><a href=\"https://www.trustpilot.com/review/qonto.com\" style=\"font-size: 16px;\"><em><strong>rated 4.8 on Trustpilot</strong></em></a><strong><em><a href=\"https://www.trustpilot.com/review/qonto.com\">,</a></em></strong><strong style=\"font-size: 16px;\"><em>&nbsp;</em></strong><span style=\"font-size: 16px;\">based on 55,000+ reviews. </span><a href=\"https://qonto.com/en/careers/culture\" style=\"font-size: 16px;\"><strong><em>Our culture</em></strong></a><strong style=\"font-size: 16px;\"><em>&nbsp;</em></strong><span style=\"font-size: 16px;\">puts customer satisfaction at the core of what we do, as proven by our Net Promoter Score of 75 <em>(more about our culture <strong><a href=\"https://medium.com/qonto-way/the-qonto-way-our-culture-is-our-strategy-90defd4895f9\">here</a></strong>).</em></span></p>\n<p><strong><span style=\"font-size: 18px;\">Our journey:&nbsp;</span></strong><span style=\"font-size: 16px;\">Founded in 2017 by<strong>&nbsp;</strong></span><a href=\"https://www.linkedin.com/in/aprot/\"><span style=\"font-size: 16px;\"><em><strong>Alexandre</strong></em></span></a><span style=\"font-size: 16px;\"> and </span><a href=\"https://www.linkedin.com/in/steveanavi/\"><span style=\"font-size: 16px;\"><strong><em>Steve</em></strong></span></a><span style=\"font-size: 16px;\"><strong><em>,</em></strong> Qonto has grown to 1,600+ Qontoers serving over 600,000+ customers across 8 European countries. We have been profitable since 2023, and we are just getting started.</span></p>\n<p><strong><span style=\"font-size: 18px;\">Our beliefs: </span></strong><span style=\"font-size: 16px;\">We hire for skills and potential. With 80+ nationalities, 45% women, of which 56",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "SWE",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 227516,
+    "created_at": "2026-09-19 05:30:45",
+    "source": "arbeitnow",
+    "title": "Head of Growth H/F",
+    "company": "N2JSoft",
+    "location": "Poste à distance",
+    "url": "https://www.arbeitnow.fr/jobs/companies/n2jsoft/remote-head-of-growth-h-f-lyon-185904",
+    "salary": "",
+    "tags": [
+      "Marketing",
+      "Remote"
+    ],
+    "remote": true,
+    "description": "<p class=\"Paragraph SCXW235455192 BCX0\" style=\"text-align:justify;\"><strong><span style=\"color:#000000\">Who we are</span></strong><span style=\"color:#000000\">&nbsp;</span></p><p class=\"Paragraph SCXW235455192 BCX0\" style=\"text-align:justify;\"><span style=\"color:#000000\">N2JSoft is a fast-growing B2B SaaS fintech that specialises in digitising financial processes. Through its N2F solution, the company helps over 20,000 clients and 1 million users across 98 countries streamline expense management, corporate card programs, and supplier invoice handling. Driven by a strong innovation culture, N2JSoft has grown from 20 employees in 2021 to&nbsp;nearly 200&nbsp;today, with ambitions to become Europe's leading platform for professional spend and accounts payable management.&nbsp;</span></p><p style=\"min-height: 1.7em;\"></p><p class=\"Paragraph SCXW235455192 BCX0\"><strong><span style=\"color:#000000\">Your&nbsp;mission:</span></strong></p><p class=\"Paragraph SCXW235455192 BCX0\"><span style=\"color:#000000\">Reporting&nbsp;directly&nbsp;to the&nbsp;VP&nbsp;Growth&nbsp;Marketing&nbsp;and&nbsp;working&nbsp;closely&nbsp;with&nbsp;the CMO&nbsp;and Sales leadership,&nbsp;you&nbsp;will&nbsp;be&nbsp;responsible&nbsp;for&nbsp;designing,&nbsp;executing&nbsp;and&nbsp;scaling&nbsp;N2F's&nbsp;growth&nbsp;strategy&nbsp;across&nbsp;Europe.&nbsp;</span></p><p class=\"Paragraph SCXW235455192 BCX0\"><span style=\"color:#000000\">Your&nbsp;mission&nbsp;is&nbsp;not&nbsp;only&nbsp;to&nbsp;generate&nbsp;more leads but to&nbsp;build&nbsp;a&nbsp;predictable&nbsp;and scalable&nbsp;growth&nbsp;engine&nbsp;that&nbsp;drives pipeline&nbsp;creation, revenue&nbsp;growth&nbsp;and&nbsp;market&nbsp;expansion.&nbsp; You&nbsp;will&nbsp;own&nbsp;the acquisition&nbsp;strategy,&nbsp;oversee&nbsp;the&nbsp;execution&nbsp;of all&nbsp;growth&nbsp;initiatives,&nbsp;manage&nbsp;a&nbsp;team&nbsp;of&nbsp;four marketing&nbsp;growth&nbsp;manager, and&nbsp;ensure&nbsp;that&nbsp;projects&nbsp;are&nbsp;delivered&nbsp;with&nbsp;excell",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
