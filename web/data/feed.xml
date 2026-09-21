@@ -5,7 +5,31 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Mon, 21 Sep 2026 19:59:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 20:30:10 +0000</lastBuildDate>
+    <item>
+      <title>Senior Backend Engineer  - Product (Remote)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/finom/senior-backend-engineer-product-remote-germany-257761</link>
+      <guid isPermaLink="false">240631</guid>
+      <pubDate>Mon, 21 Sep 2026 20:30:09 +0000</pubDate>
+      <description>&lt;div&gt;&lt;strong style="font-size: 16px;"&gt;About Finom&lt;/strong&gt;&lt;/div&gt; &lt;div&gt; &lt;/div&gt; &lt;div&gt;Finom is a European tech startup headquartered in Amsterdam, and we’re on a journey towards revolutionizing the financial landscape for entrepreneurs worldwide. Our mission is to develop an all-in-one financial B2B solution that integrates banking functions, accounting, financial management, and invoicing into a sea</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Germany</job:location>
+      <job:company>Finom</job:company>
+    </item>
+    <item>
+      <title>On Holiday Support Agent</title>
+      <link>https://www.arbeitnow.fr/jobs/companies/loveholidays/remote-on-holiday-support-agent-331036</link>
+      <guid isPermaLink="false">240767</guid>
+      <pubDate>Mon, 21 Sep 2026 20:30:09 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;Why loveholidays?&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;At loveholidays - &lt;strong&gt;we trailblaze together&lt;/strong&gt;. We’re on a mission to open the world to everyone, giving our customers’ unlimited choice, unmatched ease and unmissable value for their next getaway. Our team is the driving force behind our role as our customers’ personal holiday expert - the sma</description>
+      <category>Marketing</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>loveholidays</job:company>
+    </item>
     <item>
       <title>Principal Software Engineer, Infrastructure Security</title>
       <link>https://jobicy.com/jobs/153845-principal-software-engineer-infrastructure-security</link>
@@ -581,30 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Databricks</job:company>
-    </item>
-    <item>
-      <title>Enterprise Account Executive - QSR</title>
-      <link>https://jobicy.com/jobs/153809-enterprise-account-executive-qsr</link>
-      <guid isPermaLink="false">239880</guid>
-      <pubDate>Mon, 21 Sep 2026 18:26:09 +0000</pubDate>
-      <description></description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Databricks</job:company>
-    </item>
-    <item>
-      <title>Account Development Representative - France</title>
-      <link>https://jobicy.com/jobs/153811-account-development-representative-france-2</link>
-      <guid isPermaLink="false">239881</guid>
-      <pubDate>Mon, 21 Sep 2026 18:26:09 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Samsara</job:company>
     </item>
   </channel>
 </rss>

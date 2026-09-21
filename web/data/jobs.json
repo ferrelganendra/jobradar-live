@@ -59910,30 +59910,6 @@
     "is_foreign": true
   },
   {
-    "id": 59386,
-    "created_at": "2026-08-23 06:58:56",
-    "source": "arbeitnow",
-    "title": "Senior Backend Engineer  - Product (Remote)",
-    "company": "Finom",
-    "location": "Berlin",
-    "url": "https://www.arbeitnow.com/jobs/companies/finom/senior-backend-engineer-product-remote-berlin-109265",
-    "salary": "",
-    "tags": [
-      "Backend"
-    ],
-    "remote": false,
-    "description": "<div><strong style=\"font-size: 16px;\">About Finom</strong></div>\n<div>&nbsp;</div>\n<div>Finom is a European tech startup headquartered in Amsterdam, and we’re on a journey towards revolutionizing the financial landscape for entrepreneurs worldwide. Our mission is to develop an all-in-one financial B2B solution that integrates banking functions, accounting, financial management, and invoicing into a seamless, mobile-first platform.</div>\n<div>&nbsp;</div>\n<div>We recently closed a <strong>€115 million Series C equity round</strong> (around $133 million), bringing our total funding to approximately $346 million. This significant investment follows a $105 million growth funding round from General Catalyst, a long-term backer since 2021 known for supporting companies like Airbnb, HubSpot, KAYAK, and Stripe.</div>\n<div>&nbsp;</div>\n<div>Finom's platform goes beyond traditional banking, offering invoicing and a growing suite of features, including AI-enabled accounting, aiming to simplify financial management for entrepreneurs. We're actively expanding our reach across key EU markets like Germany, France, the Netherlands, Italy, and Spain.</div>\n<div>&nbsp;</div>\n<div>At Finom, we’re not just redefining the entrepreneurial experience — we’re empowering our employees to make a real difference. Your work matters, and your impact extends far beyond product metrics. We nurture innovation and an inspiring work environment where bold ideas thrive, prioritizing thorough research, swift implementation of solutions, and ensuring that every effort we make benefits our users, employees, partners, and our business as a whole.</div>\n<div>&nbsp;</div>\n<div>Maintaining our start-up spirit, we prioritize thorough research, swift implementation of solutions, and ensuring that every effort we make benefits our users, employees, partners, and, of course, our business.</div><div><br></div><div><span style=\"font-size: 11pt;\">We're looking for a </span><strong style=\"font-size: 11pt;\">Senior B",
-    "requirements": "",
-    "benefits": "",
-    "is_it": true,
-    "role": "SWE",
-    "industry": "Teknologi",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 59567,
     "created_at": "2026-08-23 07:43:50",
     "source": "arbeitnow",
@@ -137358,30 +137334,6 @@
     "is_foreign": true
   },
   {
-    "id": 201723,
-    "created_at": "2026-09-15 15:17:01",
-    "source": "arbeitnow",
-    "title": "On Holiday Support Agent",
-    "company": "loveholidays",
-    "location": "Remote",
-    "url": "https://www.arbeitnow.com/jobs/companies/loveholidays/remote-on-holiday-support-agent-31245",
-    "salary": "",
-    "tags": [
-      "Customer Experience"
-    ],
-    "remote": true,
-    "description": "<p style=\"min-height:1.5em\"><strong>Why loveholidays?</strong></p><p style=\"min-height:1.5em\">At loveholidays - <strong>we trailblaze together</strong>. We’re on a mission to open the world to everyone, giving our customers’ unlimited choice, unmatched ease and unmissable value for their next getaway. Our team is the driving force behind our role as our customers’ personal holiday expert - the smart way to get away.</p><p style=\"min-height:1.5em\">Here, we're doing things differently to open the world to everyone, and our <em>Customer Experience team</em> is at the forefront of <strong>driving cutting-edge innovation</strong>. Join our fast-growing business where your ideas are heard and new thinking shapes how millions book their holidays.</p><p style=\"min-height:1.5em\">You'll <strong>accelerate your growth</strong> in our fast-paced environment, tackling daily challenges and learning from inspiring leaders and teammates. Be <strong>empowered to create impact for our future</strong> by shaping the most-loved package holiday experience for millions. As we pursue <strong>ambitious plans to expand across Europe</strong>, you'll be part of a fun-loving international community achieving great things together.<br /><br /></p><p style=\"min-height:1.5em\"><strong>About the team:</strong></p><p style=\"min-height:1.5em\">The On Holiday Support team helps customers resolve issues that arise while they are away. This can include transfer problems, accommodation concerns, supplier issues, flight disruption and other unexpected situations that may affect a customer’s holiday.</p><p style=\"min-height:1.5em\">Customers may contact us when they are tired, worried, frustrated or unsure what to do next. Our role is to listen, understand what has happened and take ownership of finding the most appropriate resolution.</p><p style=\"min-height:1.5em\">You will be part of the UK On Holiday Support team and report to an On Holiday Support Team Leader. You will also work closely with colleagues ",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
-    "industry": "Marketing",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 201728,
     "created_at": "2026-09-15 15:17:01",
     "source": "arbeitnow",
@@ -157005,6 +156957,54 @@
     "is_it": false,
     "role": "other",
     "industry": "Lainnya",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 240631,
+    "created_at": "2026-09-21 20:30:09",
+    "source": "arbeitnow",
+    "title": "Senior Backend Engineer  - Product (Remote)",
+    "company": "Finom",
+    "location": "Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/finom/senior-backend-engineer-product-remote-germany-257761",
+    "salary": "",
+    "tags": [
+      "Backend"
+    ],
+    "remote": false,
+    "description": "<div><strong style=\"font-size: 16px;\">About Finom</strong></div>\n<div>&nbsp;</div>\n<div>Finom is a European tech startup headquartered in Amsterdam, and we’re on a journey towards revolutionizing the financial landscape for entrepreneurs worldwide. Our mission is to develop an all-in-one financial B2B solution that integrates banking functions, accounting, financial management, and invoicing into a seamless, mobile-first platform.</div>\n<div>&nbsp;</div>\n<div>We recently closed a <strong>€115 million Series C equity round</strong> (around $133 million), bringing our total funding to approximately $346 million. This significant investment follows a $105 million growth funding round from General Catalyst, a long-term backer since 2021 known for supporting companies like Airbnb, HubSpot, KAYAK, and Stripe.</div>\n<div>&nbsp;</div>\n<div>Finom's platform goes beyond traditional banking, offering invoicing and a growing suite of features, including AI-enabled accounting, aiming to simplify financial management for entrepreneurs. We're actively expanding our reach across key EU markets like Germany, France, the Netherlands, Italy, and Spain.</div>\n<div>&nbsp;</div>\n<div>At Finom, we’re not just redefining the entrepreneurial experience — we’re empowering our employees to make a real difference. Your work matters, and your impact extends far beyond product metrics. We nurture innovation and an inspiring work environment where bold ideas thrive, prioritizing thorough research, swift implementation of solutions, and ensuring that every effort we make benefits our users, employees, partners, and our business as a whole.</div>\n<div>&nbsp;</div>\n<div>Maintaining our start-up spirit, we prioritize thorough research, swift implementation of solutions, and ensuring that every effort we make benefits our users, employees, partners, and, of course, our business.</div><div><br></div><div><span style=\"font-size: 11pt;\">We're looking for a </span><strong style=\"font-size: 11pt;\">Senior B",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "SWE",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 240767,
+    "created_at": "2026-09-21 20:30:09",
+    "source": "arbeitnow",
+    "title": "On Holiday Support Agent",
+    "company": "loveholidays",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.fr/jobs/companies/loveholidays/remote-on-holiday-support-agent-331036",
+    "salary": "",
+    "tags": [
+      "Customer Experience"
+    ],
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\"><strong>Why loveholidays?</strong></p><p style=\"min-height:1.5em\">At loveholidays - <strong>we trailblaze together</strong>. We’re on a mission to open the world to everyone, giving our customers’ unlimited choice, unmatched ease and unmissable value for their next getaway. Our team is the driving force behind our role as our customers’ personal holiday expert - the smart way to get away.</p><p style=\"min-height:1.5em\">Here, we're doing things differently to open the world to everyone, and our <em>Customer Experience team</em> is at the forefront of <strong>driving cutting-edge innovation</strong>. Join our fast-growing business where your ideas are heard and new thinking shapes how millions book their holidays.</p><p style=\"min-height:1.5em\">You'll <strong>accelerate your growth</strong> in our fast-paced environment, tackling daily challenges and learning from inspiring leaders and teammates. Be <strong>empowered to create impact for our future</strong> by shaping the most-loved package holiday experience for millions. As we pursue <strong>ambitious plans to expand across Europe</strong>, you'll be part of a fun-loving international community achieving great things together.<br /><br /></p><p style=\"min-height:1.5em\"><strong>About the team:</strong></p><p style=\"min-height:1.5em\">The On Holiday Support team helps customers resolve issues that arise while they are away. This can include transfer problems, accommodation concerns, supplier issues, flight disruption and other unexpected situations that may affect a customer’s holiday.</p><p style=\"min-height:1.5em\">Customers may contact us when they are tired, worried, frustrated or unsure what to do next. Our role is to listen, understand what has happened and take ownership of finding the most appropriate resolution.</p><p style=\"min-height:1.5em\">You will be part of the UK On Holiday Support team and report to an On Holiday Support Team Leader. You will also work closely with colleagues ",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Marketing",
     "remote_ok": true,
     "id_city": null,
     "job_type": "full",
