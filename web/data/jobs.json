@@ -159363,5 +159363,54 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 245468,
+    "created_at": "2026-09-22 17:34:46",
+    "source": "arbeitnow",
+    "title": "Content Marketing Manager (all genders)",
+    "company": "Lumiform",
+    "location": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/lumiform/content-marketing-manager-all-genders-berlin-176252",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Marketing Manager"
+    ],
+    "remote": true,
+    "description": "<p>Lumiform is a specialized software for businesses with frontline teams to run inspections, audits and checklists at scale across distributed operations. Companies like EDEKA, AmRest (Starbucks, KFC, La Tagliatella), Nordsee, Hermes or even big Testing, Inspection and Certification bodies rely on Lumiform to keep standards consistently high across hundreds of locations and shifts.</p>\n<p>We think writing will increasingly be handled by AI. Knowing what to write about will not, and neither will writing something that is actually worth reading. The value moves to the person who can build two kinds of knowledge fast.</p>\n<p>First, the topic. What a HACCP verification actually involves in a restaurant chain, why a bakery fails a hygiene audit, what a fleet manager is dealing with when hundreds of vehicles need daily checks across a country. The problems, the standards, the vocabulary, the things that go wrong. Second, the product. What Lumiform actually does, how logic, scoring, offline capture and workflow automation work, and where the product genuinely solves that specific problem versus where it does not. You build both by reading primary sources, watching customer demos and talking to the people in sales and success who hear these problems every day. The content that wins is written where those two meet.</p>\n<p>On top of that sits original research. This is our biggest growth bet, and it will be yours to own. Benchmark reports that give this category a reference point it currently does not have, shared with industry bodies and journalists. You come up with the angle, find the data and build something worth citing.</p>\n<p>This is a research and expertise role that ends in writing, not a writing role that starts with a prompt. You go deep, get technical, learn faster than seems reasonable, then produce content that reads like a human wrote it.</p>\n<h2>Tasks</h2>\n<p>Your core mandate sits on four priorities.</p>\n<p><strong>1. Topic ownership and expertise</strong></",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 245469,
+    "created_at": "2026-09-22 17:34:46",
+    "source": "arbeitnow",
+    "title": "Technischer Property Manager (m/w/d) Bestandsimmobilien in der Region Sachsen/Sachsen-Anhalt/Brandenburg - 100% Remote - bis 75k € Jahresgehalt inkl. Dienstwagen",
+    "company": "QTalents - Real Estate Recruiting",
+    "location": "Leipzig",
+    "url": "https://www.arbeitnow.com/jobs/companies/qtalents-real-estate-recruiting/technischer-property-manager-bestandsimmobilien-in-der-region-sachsen-sachsen-anhalt-brandenburg-100-remote-bis-75k-eur-jahresgehalt-inkl-249141",
+    "salary": "",
+    "tags": [
+      "Engineering"
+    ],
+    "remote": false,
+    "description": "<p><em>Technisches Property Management | Bestandsverwaltung - Wachstumsmarkt | 100% Remote in der Region Sachsen/Sachsen-Anhalt/Brandenburg | bis 75k € p.a. inkl. Dienstwagen</em></p>\n<p>Sie fühlen sich im <strong>Technischen Property Management</strong> wohl, haben Ihren Wohnsitz <strong>in der Region Sachsen/Sachsen-Anhalt/Brandenburg oder Umland</strong> und möchten Ihrer Tätigkeit aus dem Homeoffice nachgehen und die Objekte in Ihrem Gebiet betreuen?</p>\n<p>Dann haben wir eine ansprechende Position mit <strong>100% mobilen Arbeiten</strong> für Sie im Angebot:</p>\n<p>Für einen unserer Top-Mandanten suchen wir für die Erweiterung des Teams für die <strong>Region Sachsen/Sachsen-Anhalt/Brandenburg</strong> einen (Senior) <strong>Technischen Property Manager (m/w/d)</strong> für die Verwaltung von überwiegend Gewerbeimmobilien <strong>in einem wachstumsstarken Marktsegment.</strong></p>\n<p><strong><em>100% remote mit Dienstwagen - auch zur privaten Nutzung.</em></strong></p>\n<p>Unser Mandant ist ein <strong>renommiertes überregionales Unternehmen</strong>, und verwaltet <strong>Wohn- und Gewerbeimmobilien</strong>, vornehmlich in einem stetig wachsenden Marktsegment. In diesem florierenden Sektor hat die Firma <strong>europaweit eine Vorreiterrolle</strong> inne und fungiert als bedeutender Partner für institutionelle Investoren, die in infrastrukturelle Projekte investieren möchten. <strong>Innerhalb Deutschlands</strong> beschäftigt das Unternehmen mittlerweile rund <strong>100 talentierte Mitarbeiter*innen und ist weiter auf Wachstumskurs.</strong></p>\n<h2>Aufgaben</h2>\n<ul>\n<li>Technische Bewirtschaftung von überwiegend Gewerbeimmobilien in Ihrem Einsatzgebiet</li>\n<li>Verantwortlich für die Planung und Überwachung von kleineren Instandhaltungs-, Modernisierungs- und Umbaumaßnahmen</li>\n<li>Erstellung und Überwachung des Budgets</li>\n<li>Durchführung von Ausschreibungen, Angebotseinholung und -prüfung, Auftragsvergabe und Bauüberwachung und -abnahme</li>\n<li>St",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Marketing",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
