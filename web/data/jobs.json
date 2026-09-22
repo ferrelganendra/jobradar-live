@@ -158813,5 +158813,38 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 244958,
+    "created_at": "2026-09-22 16:01:56",
+    "source": "remoteok",
+    "title": "People Operations Coordinator",
+    "company": "Ashby",
+    "location": "",
+    "url": "https://remoteOK.com/remote-jobs/remote-people-operations-coordinator-ashby-1137412",
+    "salary": "",
+    "tags": [
+      "saas",
+      "recruiter",
+      "coordinator",
+      "customer support",
+      "dev",
+      "exec",
+      "education",
+      "ops",
+      "medical",
+      "digital nomad"
+    ],
+    "remote": true,
+    "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Operations",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]

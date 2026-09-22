@@ -5,7 +5,19 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Tue, 22 Sep 2026 15:30:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 16:01:58 +0000</lastBuildDate>
+    <item>
+      <title>People Operations Coordinator</title>
+      <link>https://remoteOK.com/remote-jobs/remote-people-operations-coordinator-ashby-1137412</link>
+      <guid isPermaLink="false">244958</guid>
+      <pubDate>Tue, 22 Sep 2026 16:01:56 +0000</pubDate>
+      <description></description>
+      <category>Operations</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Ashby</job:company>
+    </item>
     <item>
       <title>Senior Data Scientist</title>
       <link>https://www.arbeitnow.com/jobs/companies/constructor/senior-data-scientist-munich-290576</link>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location>Hybrid/München</job:location>
       <job:company>Pixxio</job:company>
-    </item>
-    <item>
-      <title>Servicetechniker (m/w/d) - Großbatteriespeicher/ EMSR-Technik</title>
-      <link>https://www.arbeitnow.com/jobs/companies/juniz-energy-gmbh/servicetechniker-grossbatteriespeicher-emsr-technik-munich-415137</link>
-      <guid isPermaLink="false">243345</guid>
-      <pubDate>Tue, 22 Sep 2026 12:56:15 +0000</pubDate>
-      <description>&lt;h2&gt;Über uns&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;Ohne Speicher keine Energiewende.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;ju:niz Energy entwickelt und betreibt seit über zehn Jahren netzdienliche Großbatteriespeicher. Unsere Anlagen stabilisieren das Stromnetz und schaffen die Flexibilität, die eine Energieversorgung mit erneuerbaren Energien braucht. Wir investieren selbst in unsere Projekte und behalten die Speicher langfristig im Bestan</description>
-      <category>Operations</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Munich</job:location>
-      <job:company>ju:niz Energy GmbH</job:company>
     </item>
   </channel>
 </rss>
