@@ -5,12 +5,24 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Wed, 23 Sep 2026 09:16:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 09:47:15 +0000</lastBuildDate>
+    <item>
+      <title>Security Research Engineer</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/artemis/remote-security-research-engineer-478343</link>
+      <guid isPermaLink="false">249984</guid>
+      <pubDate>Wed, 23 Sep 2026 09:47:14 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;Artemis is building the future of AI-driven defense - helping companies detect and defend themselves effectively in an era where AI is fighting AI on the cyber battlefield.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;We’re backed by First Round Capital, Brightmind, and a group of the cybersecurity industry’s most prominent Operators.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Our founders, &lt;a t</description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>Artemis</job:company>
+    </item>
     <item>
       <title>Director, Site Reliability Engineering</title>
-      <link>https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-director-site-reliability-engineering-39645</link>
-      <guid isPermaLink="false">249623</guid>
-      <pubDate>Wed, 23 Sep 2026 09:16:16 +0000</pubDate>
+      <link>https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-director-site-reliability-engineering-408362</link>
+      <guid isPermaLink="false">250018</guid>
+      <pubDate>Wed, 23 Sep 2026 09:47:14 +0000</pubDate>
       <description>&lt;h1&gt;&lt;strong&gt;Who We Are &lt;/strong&gt;&lt;/h1&gt;&lt;p style="min-height:1.5em"&gt;Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on on &lt;a target="_blank" rel="noopener noreferrer nofollow" class="ProsemirrorEditor-link" h</description>
       <category>Teknologi</category>
       <job:remote>true</job:remote>
@@ -41,18 +53,6 @@
       <job:salary></job:salary>
       <job:location>Würzburg</job:location>
       <job:company>IT Studio Rech GmbH</job:company>
-    </item>
-    <item>
-      <title>Security Research Engineer</title>
-      <link>https://www.arbeitnow.fr/jobs/companies/artemis/remote-security-research-engineer-50305</link>
-      <guid isPermaLink="false">249789</guid>
-      <pubDate>Wed, 23 Sep 2026 09:16:16 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;Artemis is building the future of AI-driven defense - helping companies detect and defend themselves effectively in an era where AI is fighting AI on the cyber battlefield.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;We’re backed by First Round Capital, Brightmind, and a group of the cybersecurity industry’s most prominent Operators.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Our founders, &lt;a t</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Artemis</job:company>
     </item>
     <item>
       <title>Software Developer Security Analytics</title>
