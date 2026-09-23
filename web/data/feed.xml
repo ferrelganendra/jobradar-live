@@ -5,7 +5,67 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Wed, 23 Sep 2026 17:04:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 17:35:34 +0000</lastBuildDate>
+    <item>
+      <title>AI Product Engineer</title>
+      <link>https://www.arbeitnow.com/jobs/companies/paddy/ai-product-engineer-bielefeld-415380</link>
+      <guid isPermaLink="false">250631</guid>
+      <pubDate>Wed, 23 Sep 2026 17:35:33 +0000</pubDate>
+      <description>&lt;p&gt;Das ist kein gewöhnlicher Job. Wir bauen paddy, das Agentic Operating System für Teaching &amp; Learning, und arbeiten damit an einem der wichtigsten Themen für die Zukunftsfähigkeit unserer Gesellschaft: Bildung.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Unsere Mission ist es, Lehrkräfte zu entlasten, Lernergebnisse zu verbessern und die Unterrichtsqualität zu steigern.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Tausende Lehrkräfte und hunderttausend</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Bielefeld</job:location>
+      <job:company>paddy</job:company>
+    </item>
+    <item>
+      <title>Senior Software Engineer, Kubernetes</title>
+      <link>https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-kubernetes-95767</link>
+      <guid isPermaLink="false">250768</guid>
+      <pubDate>Wed, 23 Sep 2026 17:35:33 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;Camunda is &lt;strong&gt;the enterprise platform for agentic orchestration&lt;/strong&gt;, enabling organizations to coordinate &lt;strong&gt;AI agents, people, and systems &lt;/strong&gt;across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>Camunda</job:company>
+    </item>
+    <item>
+      <title>Senior Site Reliability Engineer</title>
+      <link>https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-site-reliability-engineer-367794</link>
+      <guid isPermaLink="false">250769</guid>
+      <pubDate>Wed, 23 Sep 2026 17:35:33 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;Camunda is &lt;strong&gt;the enterprise platform for agentic orchestration&lt;/strong&gt;, enabling organizations to coordinate &lt;strong&gt;AI agents, people, and systems &lt;/strong&gt;across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>Camunda</job:company>
+    </item>
+    <item>
+      <title>Product Builder</title>
+      <link>https://www.arbeitnow.fr/jobs/companies/camunda/remote-product-builder-112036</link>
+      <guid isPermaLink="false">250770</guid>
+      <pubDate>Wed, 23 Sep 2026 17:35:33 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;Camunda is &lt;strong&gt;the enterprise platform for agentic orchestration&lt;/strong&gt;, enabling organizations to coordinate &lt;strong&gt;AI agents, people, and systems &lt;/strong&gt;across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at</description>
+      <category>Finance</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>Camunda</job:company>
+    </item>
+    <item>
+      <title>Senior Software Engineer, Engineering Operations</title>
+      <link>https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-engineering-operations-474753</link>
+      <guid isPermaLink="false">250771</guid>
+      <pubDate>Wed, 23 Sep 2026 17:35:33 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;Camunda is &lt;strong&gt;the enterprise platform for agentic orchestration&lt;/strong&gt;, enabling organizations to coordinate &lt;strong&gt;AI agents, people, and systems &lt;/strong&gt;across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>Camunda</job:company>
+    </item>
     <item>
       <title>Senior Python Developer (w/m/d) - Remote</title>
       <link>https://www.arbeitnow.com/jobs/companies/nodeenergy/senior-python-developer-remote-frankfurt-am-main-250296</link>
@@ -545,66 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>grafanalabs</job:company>
-    </item>
-    <item>
-      <title>Senior Backend Engineer - Databases - Analytics | UK | Remote</title>
-      <link>https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/senior-backend-engineer-databases-analytics-uk-remote-457392</link>
-      <guid isPermaLink="false">249008</guid>
-      <pubDate>Wed, 23 Sep 2026 07:43:12 +0000</pubDate>
-      <description>&lt;div class="content-intro"&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to A</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>grafanalabs</job:company>
-    </item>
-    <item>
-      <title>Engineering Manager - Observability | UK | Remote</title>
-      <link>https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/engineering-manager-observability-uk-remote-475130</link>
-      <guid isPermaLink="false">249009</guid>
-      <pubDate>Wed, 23 Sep 2026 07:43:12 +0000</pubDate>
-      <description>&lt;div class="content-intro"&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to A</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>grafanalabs</job:company>
-    </item>
-    <item>
-      <title>Strategic Alliances Principal - UK&amp;I</title>
-      <link>https://www.arbeitnow.co.uk/jobs/companies/remotecom/strategic-alliances-principal-uki-269703</link>
-      <guid isPermaLink="false">249011</guid>
-      <pubDate>Wed, 23 Sep 2026 07:43:12 +0000</pubDate>
-      <description>&lt;div class="content-intro"&gt;&lt;h2&gt;&lt;strong&gt;About Remote&lt;/strong&gt;&lt;/h2&gt; &lt;div&gt;&lt;span style="font-size: 12pt; font-family: helvetica, arial, sans-serif;"&gt;Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focus</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>remotecom</job:company>
-    </item>
-    <item>
-      <title>Embedded Linux Field Engineer for Devices/IoT</title>
-      <link>https://jobicy.com/jobs/149535-embedded-linux-field-engineer-for-devices-iot</link>
-      <guid isPermaLink="false">248881</guid>
-      <pubDate>Wed, 23 Sep 2026 07:12:15 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Canonical</job:company>
-    </item>
-    <item>
-      <title>Engineering Manager - Security Standards and Hardening</title>
-      <link>https://jobicy.com/jobs/149536-engineering-manager-security-standards-and-hardening</link>
-      <guid isPermaLink="false">248882</guid>
-      <pubDate>Wed, 23 Sep 2026 07:12:15 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Canonical</job:company>
     </item>
   </channel>
 </rss>
