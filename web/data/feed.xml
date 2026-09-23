@@ -5,7 +5,43 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Wed, 23 Sep 2026 04:05:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 04:36:14 +0000</lastBuildDate>
+    <item>
+      <title>Senior Security Engineer I, Customer Trust EMEA (Remote Eligible in the UK)</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/smartsheet/senior-security-engineer-i-customer-trust-emea-remote-eligible-in-the-uk-72338</link>
+      <guid isPermaLink="false">247548</guid>
+      <pubDate>Wed, 23 Sep 2026 04:36:13 +0000</pubDate>
+      <description>&lt;div class="content-intro"&gt;&lt;p&gt;For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativit</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>-REMOTE</job:location>
+      <job:company>smartsheet</job:company>
+    </item>
+    <item>
+      <title>Product Marketing Manager</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/hyperexponential/product-marketing-manager-london-4837</link>
+      <guid isPermaLink="false">247559</guid>
+      <pubDate>Wed, 23 Sep 2026 04:36:13 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;Hi 👋 I'm Chris. I'm a Lead Product Marketing Manager at hx - I joined over four years ago as a Product Marketing Manager. Outside of work you'll find me playing sport (badly), watching reality TV, or taking my dog Lucky to the park (or the pub!).&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Product Marketing at hx is a highly strategic function. We shape the company's positioning and</description>
+      <category>Marketing</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>London (hybrid)</job:location>
+      <job:company>hyperexponential</job:company>
+    </item>
+    <item>
+      <title>Security Research Engineer</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/artemis/remote-security-research-engineer-478343</link>
+      <guid isPermaLink="false">247564</guid>
+      <pubDate>Wed, 23 Sep 2026 04:36:13 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;Artemis is building the future of AI-driven defense - helping companies detect and defend themselves effectively in an era where AI is fighting AI on the cyber battlefield.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;We’re backed by First Round Capital, Brightmind, and a group of the cybersecurity industry’s most prominent Operators.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Our founders, &lt;a t</description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>Artemis</job:company>
+    </item>
     <item>
       <title>Growth Marketing | Intern / Working Student (d/f/m)</title>
       <link>https://www.arbeitnow.com/jobs/companies/luminovo-gmbh/growth-marketing-intern-working-student-munich-376909</link>
@@ -307,18 +343,6 @@
       <job:company>1St%20Formations</job:company>
     </item>
     <item>
-      <title>Security Research Engineer</title>
-      <link>https://www.arbeitnow.fr/jobs/companies/artemis/remote-security-research-engineer-50305</link>
-      <guid isPermaLink="false">246383</guid>
-      <pubDate>Tue, 22 Sep 2026 20:18:33 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;Artemis is building the future of AI-driven defense - helping companies detect and defend themselves effectively in an era where AI is fighting AI on the cyber battlefield.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;We’re backed by First Round Capital, Brightmind, and a group of the cybersecurity industry’s most prominent Operators.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Our founders, &lt;a t</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Artemis</job:company>
-    </item>
-    <item>
       <title>Comercial de Software B2B | IA y Transformación Digital</title>
       <link>https://www.arbeitnow.fr/jobs/companies/zvoove/comercial-de-software-b2b-ia-y-transformacion-digital-hybrid-314887</link>
       <guid isPermaLink="false">246391</guid>
@@ -581,30 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Tailscale</job:company>
-    </item>
-    <item>
-      <title>Senior Technical Account Manager - Strategic Services (EMEA)</title>
-      <link>https://jobicy.com/jobs/153902-senior-technical-account-manager-strategic-services-emea</link>
-      <guid isPermaLink="false">245924</guid>
-      <pubDate>Tue, 22 Sep 2026 18:05:54 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>ClickUp</job:company>
-    </item>
-    <item>
-      <title>Senior Accountant - IFRS</title>
-      <link>https://jobicy.com/jobs/153894-senior-accountant-ifrs</link>
-      <guid isPermaLink="false">245925</guid>
-      <pubDate>Tue, 22 Sep 2026 18:05:54 +0000</pubDate>
-      <description></description>
-      <category>Finance</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Pleo</job:company>
     </item>
   </channel>
 </rss>
