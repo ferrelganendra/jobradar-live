@@ -5,7 +5,19 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Wed, 23 Sep 2026 07:43:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 08:14:14 +0000</lastBuildDate>
+    <item>
+      <title>Security Research Engineer</title>
+      <link>https://www.arbeitnow.fr/jobs/companies/artemis/remote-security-research-engineer-50305</link>
+      <guid isPermaLink="false">249313</guid>
+      <pubDate>Wed, 23 Sep 2026 08:14:13 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;Artemis is building the future of AI-driven defense - helping companies detect and defend themselves effectively in an era where AI is fighting AI on the cyber battlefield.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;We’re backed by First Round Capital, Brightmind, and a group of the cybersecurity industry’s most prominent Operators.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Our founders, &lt;a t</description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>Artemis</job:company>
+    </item>
     <item>
       <title>(Senior) QA Engineer - AI-Driven Testing (m/f/d)</title>
       <link>https://www.arbeitnow.com/jobs/companies/1komma50/senior-qa-engineer-ai-driven-testing-berlin-43054</link>
@@ -77,18 +89,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>remotecom</job:company>
-    </item>
-    <item>
-      <title>Security Research Engineer</title>
-      <link>https://www.arbeitnow.co.uk/jobs/companies/artemis/remote-security-research-engineer-478343</link>
-      <guid isPermaLink="false">249036</guid>
-      <pubDate>Wed, 23 Sep 2026 07:43:12 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;Artemis is building the future of AI-driven defense - helping companies detect and defend themselves effectively in an era where AI is fighting AI on the cyber battlefield.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;We’re backed by First Round Capital, Brightmind, and a group of the cybersecurity industry’s most prominent Operators.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Our founders, &lt;a t</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Artemis</job:company>
     </item>
     <item>
       <title>Embedded Linux Field Engineer for Devices/IoT</title>
