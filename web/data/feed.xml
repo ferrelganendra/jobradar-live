@@ -5,7 +5,19 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Thu, 24 Sep 2026 19:24:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 19:55:33 +0000</lastBuildDate>
+    <item>
+      <title>Frontend Engineer</title>
+      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410</link>
+      <guid isPermaLink="false">260664</guid>
+      <pubDate>Thu, 24 Sep 2026 19:55:32 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Ireland</job:location>
+      <job:company>Bjak </job:company>
+    </item>
     <item>
       <title>QA Lead</title>
       <link>https://www.arbeitnow.co.uk/jobs/companies/foundation-health/remote-qa-lead-309026</link>
@@ -41,18 +53,6 @@
       <job:salary></job:salary>
       <job:location>Remote</job:location>
       <job:company>Parity</job:company>
-    </item>
-    <item>
-      <title>Frontend Engineer</title>
-      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420</link>
-      <guid isPermaLink="false">260408</guid>
-      <pubDate>Thu, 24 Sep 2026 19:24:32 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Singapore</job:location>
-      <job:company>Bjak </job:company>
     </item>
     <item>
       <title>Contract Staff Front End Engineer (Web Conference/Screen Sharing)</title>
