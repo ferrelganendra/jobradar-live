@@ -5,7 +5,43 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Thu, 24 Sep 2026 00:27:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 01:28:17 +0000</lastBuildDate>
+    <item>
+      <title>Senior Product Engineer</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-senior-product-engineer-164889</link>
+      <guid isPermaLink="false">253130</guid>
+      <pubDate>Thu, 24 Sep 2026 01:19:26 +0000</pubDate>
+      <description>&lt;h2 style="text-align: center;"&gt;&lt;span style="color: rgb(126, 140, 141);"&gt;Se&lt;/span&gt;&lt;span style="color: rgb(0, 0, 0);"&gt;&lt;span style="color: rgb(126, 140, 141);"&gt;nior Software Engineer&lt;/span&gt;&amp;nbsp;&lt;/span&gt;&lt;/h2&gt; &lt;p style="text-align: center;"&gt;&lt;span style="color: rgb(126, 140, 141);"&gt;Engineering&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style="color: rgb(126, 140, 141);"&gt;&lt;em&gt;&amp;nbsp;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt; &lt;p style="text-align: center</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>prolific</job:company>
+    </item>
+    <item>
+      <title>Customer Success Manager (Remote, UK)</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/easygenerator/customer-success-manager-remote-uk-united-kingdom-225334</link>
+      <guid isPermaLink="false">253159</guid>
+      <pubDate>Thu, 24 Sep 2026 01:19:26 +0000</pubDate>
+      <description>&lt;h2&gt;&lt;strong&gt;&lt;u&gt;Join Easygenerator and help customers unlock the full value of e-learning&lt;/u&gt;&lt;/strong&gt;&lt;/h2&gt;&lt;p style="min-height:1.5em"&gt;Step into an exciting role with an innovative e-learning software company in the EdTech space as a Customer Success Manager.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Easygenerator is a fast-growing scale-up revolutionizing e-learning with our award-winning authoring tool. Joi</description>
+      <category>Marketing</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>United Kingdom</job:location>
+      <job:company>Easygenerator</job:company>
+    </item>
+    <item>
+      <title>Frontend Engineer</title>
+      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410</link>
+      <guid isPermaLink="false">253262</guid>
+      <pubDate>Thu, 24 Sep 2026 01:19:26 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Ireland</job:location>
+      <job:company>Bjak </job:company>
+    </item>
     <item>
       <title>Senior Sales Engineer, Enterprise</title>
       <link>https://www.arbeitnow.com/jobs/companies/fivetran/remote-senior-sales-engineer-enterprise-405884</link>
@@ -160,18 +196,6 @@
       <job:remote>true</job:remote>
       <job:salary></job:salary>
       <job:location>Germany</job:location>
-      <job:company>Bjak </job:company>
-    </item>
-    <item>
-      <title>Frontend Engineer</title>
-      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420</link>
-      <guid isPermaLink="false">253023</guid>
-      <pubDate>Thu, 24 Sep 2026 00:27:22 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Singapore</job:location>
       <job:company>Bjak </job:company>
     </item>
     <item>
@@ -581,30 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Serve Robotics</job:company>
-    </item>
-    <item>
-      <title>VP of Product &amp; Design</title>
-      <link>https://jobicy.com/jobs/153957-vp-of-product-design</link>
-      <guid isPermaLink="false">251077</guid>
-      <pubDate>Wed, 23 Sep 2026 18:06:37 +0000</pubDate>
-      <description></description>
-      <category>Design</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Serve Robotics</job:company>
-    </item>
-    <item>
-      <title>Director of Discovery &amp; Framing</title>
-      <link>https://jobicy.com/jobs/153951-director-of-discovery-framing</link>
-      <guid isPermaLink="false">251078</guid>
-      <pubDate>Wed, 23 Sep 2026 18:06:37 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Defense Unicorns</job:company>
     </item>
   </channel>
 </rss>
