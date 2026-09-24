@@ -5,7 +5,19 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Thu, 24 Sep 2026 11:36:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 12:09:00 +0000</lastBuildDate>
+    <item>
+      <title>Frontend Engineer</title>
+      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420</link>
+      <guid isPermaLink="false">256889</guid>
+      <pubDate>Thu, 24 Sep 2026 12:08:59 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Singapore</job:location>
+      <job:company>Bjak </job:company>
+    </item>
     <item>
       <title>Pflichtpraktikum Projektmanagement &amp; Vertrieb / Customer Operations (m/w/d)</title>
       <link>https://www.arbeitnow.com/jobs/companies/let-it-click-gmbh/pflichtpraktikum-projektmanagement-vertrieb-customer-operations-osnabruck-462519</link>
@@ -19,18 +31,6 @@
       <job:company>LET IT CLICK GmbH</job:company>
     </item>
     <item>
-      <title>Testmanager (m/w/d)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/cpu-consulting-software-gmbh/testmanager-munster-486660</link>
-      <guid isPermaLink="false">256449</guid>
-      <pubDate>Thu, 24 Sep 2026 11:36:25 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Deine Rolle&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Als &lt;strong&gt;Testmanager&lt;/strong&gt; (m/w/d) übernimmst du die Verantwortung für die &lt;strong&gt;Qualitätssicherung&lt;/strong&gt; in anspruchsvollen &lt;strong&gt;Projekten im Bankenumfeld&lt;/strong&gt;. Du planst, koordinierst und steuerst alle &lt;strong&gt;Testaktivitäten&lt;/strong&gt; – von der Testkonzeption über die Durchführung bis hin zur Ergebnisbewertung. Dabei behältst du den Überbl</description>
-      <category>HR</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Münster</job:location>
-      <job:company>CPU Consulting &amp; Software GmbH</job:company>
-    </item>
-    <item>
       <title>Senior Clinical Scientist Immunology</title>
       <link>https://www.arbeitnow.fr/jobs/companies/excelya/remote-senior-clinical-scientist-immunology-europe-217428</link>
       <guid isPermaLink="false">256590</guid>
@@ -41,18 +41,6 @@
       <job:salary></job:salary>
       <job:location>Europe, France</job:location>
       <job:company>Excelya</job:company>
-    </item>
-    <item>
-      <title>Frontend Engineer</title>
-      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410</link>
-      <guid isPermaLink="false">256651</guid>
-      <pubDate>Thu, 24 Sep 2026 11:36:25 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Ireland</job:location>
-      <job:company>Bjak </job:company>
     </item>
     <item>
       <title>Erfahrener Software Engineer / ML Engineer (m/w/x) im Bildungsumfeld / Remote</title>
@@ -605,6 +593,18 @@
       <job:salary></job:salary>
       <job:location>Remote</job:location>
       <job:company>Fivetran</job:company>
+    </item>
+    <item>
+      <title>Marketing Manager</title>
+      <link>https://www.arbeitnow.com/jobs/companies/dandy/remote-marketing-manager-279190</link>
+      <guid isPermaLink="false">252815</guid>
+      <pubDate>Thu, 24 Sep 2026 00:27:22 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;Dandy is transforming the massive and antiquated dental industry—an industry worth over $400B. Backed by some of the world’s leading venture capital firms, we’re on an ambitious mission to simplify and modernize every function of the dental practice through technology. As we expand our reach globally, Dandy is building the operating system for dental offices around the </description>
+      <category>Marketing</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Germany - Remote</job:location>
+      <job:company>Dandy</job:company>
     </item>
   </channel>
 </rss>

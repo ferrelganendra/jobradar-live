@@ -163824,31 +163824,6 @@
     "is_foreign": true
   },
   {
-    "id": 256449,
-    "created_at": "2026-09-24 11:36:25",
-    "source": "arbeitnow",
-    "title": "Testmanager (m/w/d)",
-    "company": "CPU Consulting & Software GmbH",
-    "location": "Münster",
-    "url": "https://www.arbeitnow.com/jobs/companies/cpu-consulting-software-gmbh/testmanager-munster-486660",
-    "salary": "",
-    "tags": [
-      "Remote",
-      "Software Development"
-    ],
-    "remote": true,
-    "description": "<p><strong>Deine Rolle</strong></p>\n<p>Als <strong>Testmanager</strong> (m/w/d) übernimmst du die Verantwortung für die <strong>Qualitätssicherung</strong> in anspruchsvollen <strong>Projekten im Bankenumfeld</strong>. Du planst, koordinierst und steuerst alle <strong>Testaktivitäten</strong> – von der Testkonzeption über die Durchführung bis hin zur Ergebnisbewertung. Dabei behältst du den Überblick über Testfortschritt, Risiken und Qualität und trägst maßgeblich dazu bei, dass unsere Lösungen höchsten Ansprüchen genügen.</p>\n<p><strong>Über uns</strong></p>\n<p>Die CPU Consulting &#x26; Software GmbH ist im Bereich Professional Services seit mehr als vier Jahrzehnten als erfolgreicher IT-Dienstleister im Bankenumfeld tätig. Als Tochterunternehmen der CPU Gruppe richten wir unsere Kompetenzen auf die erfolgreiche Umsetzung von Softwareprojekten unserer Kunden vor Ort aus.</p>\n<p>Du bist auf der Suche nach einer <strong>neuen Herausforderung</strong> und das <strong>Testmanagement</strong> ist deine <strong>Leidenschaft</strong>? Die Sicherstellung der steigenden <strong>Qualitätsanforderungen</strong> an <strong>moderne IT-Systeme</strong> stellt für dich keine Problematik dar? Dann bist du bei uns genau richtig!</p>\n<h2>Aufgaben</h2>\n<ul>\n<li><strong>Planung, Steuerung und Überwachung aller Testaktivitäten</strong> inklusive Strategie, Konzept und Plan</li>\n<li><strong>Durchführung</strong> von <strong>Release-, System- und Regressionstests</strong> sowie Bewertung der Testergebnisse</li>\n<li><strong>Abstimmung mit Entwicklung, Fachbereich und Product Owner</strong> sowie Priorisierung und Nachverfolgung von Testthemen</li>\n<li><strong>Monitoring des Testfortschritts, Fehler-Tracking und Reporting</strong> an Projektleitung und Stakeholder</li>\n<li><strong>Pflege von Testfällen, Testdaten und Berichten</strong> im Rahmen eines strukturierten Testmanagements</li>\n<li><strong>Berücksichtigung</strong> von <strong>Vorgaben</strong> und Sicherstellung der <strong>Quali",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
-    "industry": "HR",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 256590,
     "created_at": "2026-09-24 11:36:25",
     "source": "arbeitnow",
@@ -163874,13 +163849,13 @@
     "is_foreign": true
   },
   {
-    "id": 256651,
-    "created_at": "2026-09-24 11:36:25",
+    "id": 256889,
+    "created_at": "2026-09-24 12:08:59",
     "source": "remoteok",
     "title": "Frontend Engineer",
     "company": "Bjak ",
-    "location": "Ireland",
-    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
+    "location": "Singapore",
+    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
     "salary": "",
     "tags": [
       "front end",
