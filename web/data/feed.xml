@@ -5,7 +5,19 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Thu, 24 Sep 2026 09:32:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:03:14 +0000</lastBuildDate>
+    <item>
+      <title>Frontend Engineer</title>
+      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420</link>
+      <guid isPermaLink="false">255933</guid>
+      <pubDate>Thu, 24 Sep 2026 10:03:13 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Singapore</job:location>
+      <job:company>Bjak </job:company>
+    </item>
     <item>
       <title>Team Lead Tutor /Lehrkraft (all genders)</title>
       <link>https://www.arbeitnow.com/jobs/companies/stackfuel/team-lead-tutor-lehrkraft-all-genders-berlin-273795</link>
@@ -173,18 +185,6 @@
       <job:salary></job:salary>
       <job:location>Store München</job:location>
       <job:company>Alemi Zurich</job:company>
-    </item>
-    <item>
-      <title>Frontend Engineer</title>
-      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410</link>
-      <guid isPermaLink="false">255698</guid>
-      <pubDate>Thu, 24 Sep 2026 09:32:18 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Ireland</job:location>
-      <job:company>Bjak </job:company>
     </item>
     <item>
       <title>Backend Engineer</title>
