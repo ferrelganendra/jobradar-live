@@ -5,7 +5,19 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Thu, 24 Sep 2026 10:34:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 11:05:25 +0000</lastBuildDate>
+    <item>
+      <title>Frontend Engineer</title>
+      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420</link>
+      <guid isPermaLink="false">256410</guid>
+      <pubDate>Thu, 24 Sep 2026 11:05:24 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Singapore</job:location>
+      <job:company>Bjak </job:company>
+    </item>
     <item>
       <title>Erfahrener Software Engineer / ML Engineer (m/w/x) im Bildungsumfeld / Remote</title>
       <link>https://www.arbeitnow.com/jobs/companies/gfn-gmbh/erfahrener-software-engineer-ml-engineer-im-bildungsumfeld-remote-heidelberg-77114</link>
@@ -17,18 +29,6 @@
       <job:salary></job:salary>
       <job:location>Heidelberg</job:location>
       <job:company>GFN GmbH</job:company>
-    </item>
-    <item>
-      <title>Testmanager (m/w/d)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/cpu-consulting-software-gmbh/testmanager-munster-486660</link>
-      <guid isPermaLink="false">255968</guid>
-      <pubDate>Thu, 24 Sep 2026 10:34:18 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Deine Rolle&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Als &lt;strong&gt;Testmanager&lt;/strong&gt; (m/w/d) übernimmst du die Verantwortung für die &lt;strong&gt;Qualitätssicherung&lt;/strong&gt; in anspruchsvollen &lt;strong&gt;Projekten im Bankenumfeld&lt;/strong&gt;. Du planst, koordinierst und steuerst alle &lt;strong&gt;Testaktivitäten&lt;/strong&gt; – von der Testkonzeption über die Durchführung bis hin zur Ergebnisbewertung. Dabei behältst du den Überbl</description>
-      <category>HR</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Münster</job:location>
-      <job:company>CPU Consulting &amp; Software GmbH</job:company>
     </item>
     <item>
       <title>Recruiter (m/w/d) - Headhunter (w/m/d) - nur für unser Unternehmen - Remote</title>
@@ -65,18 +65,6 @@
       <job:salary></job:salary>
       <job:location>Hybrid</job:location>
       <job:company>Bridgemaker GmbH</job:company>
-    </item>
-    <item>
-      <title>Frontend Engineer</title>
-      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410</link>
-      <guid isPermaLink="false">256174</guid>
-      <pubDate>Thu, 24 Sep 2026 10:34:18 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Ireland</job:location>
-      <job:company>Bjak </job:company>
     </item>
     <item>
       <title>Team Lead Tutor /Lehrkraft (all genders)</title>
@@ -605,6 +593,18 @@
       <job:salary></job:salary>
       <job:location>Remote</job:location>
       <job:company>Anyone Ai</job:company>
+    </item>
+    <item>
+      <title>Trainee (m/w/d) im Finanzvertrieb - Karriere mit Struktur, Verantwortung und Perspektive (German Speaking)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/kevin-kehr/remote-trainee-im-finanzvertrieb-karriere-mit-struktur-verantwortung-und-perspektive-german-speaking-hamburg-366970</link>
+      <guid isPermaLink="false">252830</guid>
+      <pubDate>Thu, 24 Sep 2026 00:27:22 +0000</pubDate>
+      <description>&lt;p style="text-align:start;"&gt;Du suchst einen Berufseinstieg, der Vertrieb, Beratung und persönliche Entwicklung verbindet?&lt;br&gt;Dann ist dieses Traineeprogramm genau das Richtige für dich.&lt;/p&gt;&lt;p style="text-align:start;"&gt;Wir suchen ambitionierte Persönlichkeiten (m/w/d), die sich im Finanzvertrieb eine langfristige Karriere aufbauen wollen, mit klarem System, praxisnaher Ausbildung und individuellen</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Homeoffice</job:location>
+      <job:company>Kevin Kehr</job:company>
     </item>
   </channel>
 </rss>
