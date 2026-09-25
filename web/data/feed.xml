@@ -5,17 +5,41 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Fri, 25 Sep 2026 13:54:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 14:26:11 +0000</lastBuildDate>
+    <item>
+      <title>(Junior) Campaign Manager (m/w/d)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/insight-gg-gmbh/junior-campaign-manager-augsburg-96302</link>
+      <guid isPermaLink="false">268336</guid>
+      <pubDate>Fri, 25 Sep 2026 14:26:09 +0000</pubDate>
+      <description>&lt;p&gt;INSIGHT ist eine führende Influencer-Agentur im deutschen Raum für Influencer Marketing. Wir arbeiten mit einigen der bekanntesten nationalen &amp; globalen Marken und Agenturen zusammen. Bei INSIGHT stehen immer die Communities und Talente im Zentrum. Nur durch diese Fokussierung schaffen wir Authentizität, Interaktion und die größtmöglichen Reichweiten.&lt;/p&gt; &lt;p&gt;Für unser Team suchen wir Verstärkun</description>
+      <category>Marketing</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Augsburg</job:location>
+      <job:company>INSIGHT GG GmbH</job:company>
+    </item>
+    <item>
+      <title>Projektleiter B2B (m/w/d) in Vollzeit</title>
+      <link>https://www.arbeitnow.com/jobs/companies/flavour-kommunikation-gmbh/projektleiter-b2b-in-vollzeit-munich-122007</link>
+      <guid isPermaLink="false">268340</guid>
+      <pubDate>Fri, 25 Sep 2026 14:26:09 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;This is FLAVOUR!&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Warum kompliziert, wenn es auch einfach geht? Wir verpacken für unsere Kunden schwierige Themen in einfache Worte und bewegende Bilder, die ihre Botschaft klar rüberbringen. Als Agentur für Kommunikation und Werbung machen wir Websites, Kampagnen und Marken, die Menschen erreichen. National und international. Professionell und überzeugend. Und mit dem ri</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Munich</job:location>
+      <job:company>Flavour Kommunikation GmbH</job:company>
+    </item>
     <item>
       <title>Frontend Engineer</title>
-      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410</link>
-      <guid isPermaLink="false">268314</guid>
-      <pubDate>Fri, 25 Sep 2026 13:54:26 +0000</pubDate>
+      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420</link>
+      <guid isPermaLink="false">268564</guid>
+      <pubDate>Fri, 25 Sep 2026 14:26:09 +0000</pubDate>
       <description></description>
       <category>Teknologi</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
-      <job:location>Ireland</job:location>
+      <job:location>Singapore</job:location>
       <job:company>Bjak </job:company>
     </item>
     <item>
@@ -581,30 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Lightspeed Commerce</job:company>
-    </item>
-    <item>
-      <title>Senior Product Manager, Growth</title>
-      <link>https://jobicy.com/jobs/154048-senior-product-manager-growth-2</link>
-      <guid isPermaLink="false">261955</guid>
-      <pubDate>Thu, 24 Sep 2026 22:30:42 +0000</pubDate>
-      <description></description>
-      <category>Marketing</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>hims &amp;#038; hers</job:company>
-    </item>
-    <item>
-      <title>Account Manager (Property)</title>
-      <link>https://jobicy.com/jobs/154049-account-manager-property</link>
-      <guid isPermaLink="false">261956</guid>
-      <pubDate>Thu, 24 Sep 2026 22:30:42 +0000</pubDate>
-      <description></description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>SOCi</job:company>
     </item>
   </channel>
 </rss>
