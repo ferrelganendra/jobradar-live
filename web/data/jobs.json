@@ -166377,13 +166377,37 @@
     "is_foreign": true
   },
   {
-    "id": 262973,
-    "created_at": "2026-09-25 00:57:19",
+    "id": 263089,
+    "created_at": "2026-09-25 01:28:00",
+    "source": "arbeitnow",
+    "title": "Associate Director, Global Dossier and Value Communicates",
+    "company": "Precisionmedicinegroup",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/remote-associate-director-global-dossier-and-value-communicates-409728",
+    "salary": "",
+    "tags": [
+      "Evidence Solutions"
+    ],
+    "remote": false,
+    "description": "&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Remote&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Role type:&lt;/strong&gt; Permanent, full‑time&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Precision AQ &lt;/strong&gt;is seeking an enthusiastic, highly skilled &lt;strong&gt;Associate Director&lt;/strong&gt;, to join our growing &lt;strong&gt;Global Dossier and Value Communication team&lt;/strong&gt;. This role is ideal for an experienced market access or medical writer who is passionate about communicating healthcare innovation and shaping evidence-based value narratives that support patient access to new technologies.&lt;/p&gt;\n&lt;p&gt;As an &lt;strong&gt;Associate Director,&lt;/strong&gt; on the &lt;strong&gt;Global Dossier and Value Communications team&lt;/strong&gt;, you will play a pivotal role across the business—leading the development of high‑quality market access deliverables, guiding project teams, helping to define quality standards, and contributing to the strategic growth of our writing function. You will work closely with colleagues across HEOR and access strategy, health economics, evidence synthesis, and project management, as well as directly with clients, external experts, and partner agencies.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Key Responsibilities&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Leadership &amp;amp; Delivery&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Act as the designated lead writer on projects, delivering evidence-based, fully referenced content to a consistently high standard and within agreed timelines.&lt;/li&gt;\n&lt;li&gt;Manage your own and your team’s workload, plan project deliverables, and ensure smooth execution across multiple concurrent workstreams.&lt;/li&gt;\n&lt;li&gt;Work across a wide range of therapeutic areas and market access deliverables, including:&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;JCA and HTA submissions&lt;/li&gt;\n&lt;li&gt;Global value dossiers&lt;/li&gt;\n&lt;li&gt;AMCP dossiers&lt;/li&gt;\n&lt;li&gt;Value proposition slide deck",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Marketing",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 263231,
+    "created_at": "2026-09-25 01:28:00",
     "source": "remoteok",
     "title": "Frontend Engineer",
     "company": "Bjak ",
-    "location": "Singapore",
-    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
+    "location": "Ireland",
+    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
     "salary": "",
     "tags": [
       "front end",
