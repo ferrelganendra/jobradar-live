@@ -161880,30 +161880,6 @@
     "is_foreign": true
   },
   {
-    "id": 252826,
-    "created_at": "2026-09-24 00:27:22",
-    "source": "arbeitnow",
-    "title": "Data & Operations Specialist",
-    "company": "Anyone Ai",
-    "location": "Remote",
-    "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/remote-data-operations-specialist-336817",
-    "salary": "",
-    "tags": [
-      "Anyone AI Internal Team"
-    ],
-    "remote": true,
-    "description": "<p style=\"min-height:1.5em\"><strong>Our vision: </strong>Mastering machine learning is difficult, time-consuming, and often frustrating. Meanwhile, the AI industry faces its biggest challenge: a global shortage of skilled talent. At Anyone AI, we close this gap by upskilling the best talent from LatAm through an accelerated, hands-on training program designed and led by AI industry experts.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Our mission: </strong>We are building the largest hub of AI developers in the region, investing in tens of thousands of developers over the next decade.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We are founding members of Deep Vision AI, one of the first companies in the computer vision / AI space, which was acquired in early 2020 by DFW Capital Partners. Anyone AI is backed by top global investors like GFC -Global Founders Capital- (investors in Facebook, LinkedIn, Slack, etc), Canvas Ventures (early investor in Coursera), Latitud Fund (the largest community of angel investors for LatAm), Magma Partners, Lotux VC, among others.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Run the race of your life</strong></p><p style=\"min-height:1.5em\">This is an opportunity to transform the AI industry and positively impact thousands of lives in Latin America. This position offers self-motivated, collaborative individuals the chance to make a direct impact on Anyone AI’s products and services. You will have the opportunity to challenge yourself while contributing to the development of a revolutionary accelerated training program. This program is designed to invest in people from LatAm, helping them master ML and AI and secure a job in the space.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>About the Role</strong></p><p style=\"min-height:1.5em\">We are seeking a Data &amp; Operations Specialist who thrives at the intersection of process automation and da",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
-    "industry": "Teknologi",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "intern",
-    "is_foreign": true
-  },
-  {
     "id": 252835,
     "created_at": "2026-09-24 00:27:22",
     "source": "arbeitnow",
@@ -166791,13 +166767,61 @@
     "is_foreign": true
   },
   {
-    "id": 267814,
-    "created_at": "2026-09-25 12:31:58",
+    "id": 267951,
+    "created_at": "2026-09-25 13:22:51",
+    "source": "arbeitnow",
+    "title": "Data & Operations Specialist",
+    "company": "Anyone Ai",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/anyone-ai/remote-data-operations-specialist-310247",
+    "salary": "",
+    "tags": [
+      "Anyone AI Internal Team"
+    ],
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\"><strong>Our vision: </strong>Mastering machine learning is difficult, time-consuming, and often frustrating. Meanwhile, the AI industry faces its biggest challenge: a global shortage of skilled talent. At Anyone AI, we close this gap by upskilling the best talent from LatAm through an accelerated, hands-on training program designed and led by AI industry experts.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Our mission: </strong>We are building the largest hub of AI developers in the region, investing in tens of thousands of developers over the next decade.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We are founding members of Deep Vision AI, one of the first companies in the computer vision / AI space, which was acquired in early 2020 by DFW Capital Partners. Anyone AI is backed by top global investors like GFC -Global Founders Capital- (investors in Facebook, LinkedIn, Slack, etc), Canvas Ventures (early investor in Coursera), Latitud Fund (the largest community of angel investors for LatAm), Magma Partners, Lotux VC, among others.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Run the race of your life</strong></p><p style=\"min-height:1.5em\">This is an opportunity to transform the AI industry and positively impact thousands of lives in Latin America. This position offers self-motivated, collaborative individuals the chance to make a direct impact on Anyone AI’s products and services. You will have the opportunity to challenge yourself while contributing to the development of a revolutionary accelerated training program. This program is designed to invest in people from LatAm, helping them master ML and AI and secure a job in the space.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>About the Role</strong></p><p style=\"min-height:1.5em\">We are seeking a Data &amp; Operations Specialist who thrives at the intersection of process automation and da",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "intern",
+    "is_foreign": true
+  },
+  {
+    "id": 267953,
+    "created_at": "2026-09-25 13:22:51",
+    "source": "arbeitnow",
+    "title": "Software Engineer II - (Ruby)",
+    "company": "Stora",
+    "location": "Belfast, Hybrid",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/stora/software-engineer-ii-ruby-belfast-277321",
+    "salary": "",
+    "tags": [
+      "Engineering"
+    ],
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\">Stora is building the operating platform for modern self-storage businesses.</p><p style=\"min-height:1.5em\">Our software helps operators manage bookings, payments, customers, facilities and day-to-day operations from one place, while automating much of the work that traditionally makes running a self-storage business unnecessarily complicated.</p><p style=\"min-height:1.5em\">In just over four years, we’ve helped more than 300 operators process tens of millions in automated payments. We’re recognised as innovators in our space, and we’re a fast-growing, product-led team focused on making self-storage better for everyone.</p><p style=\"min-height:1.5em\"></p><h2><strong>About the role</strong></h2><p style=\"min-height:1.5em\">We’re hiring a mid-level Software Engineer to join our growing product team.</p><p style=\"min-height:1.5em\">You’ll work alongside experienced engineers to build and improve our Rails-based platform, contributing to customer-facing features, internal tools and the ongoing stability and performance of the product.</p><p style=\"min-height:1.5em\">This role is well suited to someone with solid Ruby on Rails experience who is comfortable working across the stack, including JavaScript and CSS when needed.</p><p style=\"min-height:1.5em\">We work best with self-starting team players: people who take ownership, communicate clearly and enjoy working in small, focused teams. You’ll have support from senior engineers, but you should also be comfortable working independently on well-defined tasks.</p><p style=\"min-height:1.5em\"></p><h2><strong>What you'll be doing</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Build and maintain product features, taking ownership from initial discussion through to deployment.</p></li><li><p style=\"min-height:1.5em\">Collaborate with Product and other stakeholders to define and refine the scope of new features.</p></li><li><p style=\"min-height:1.5em\">Contribute to app maintenance",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "SWE",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 268065,
+    "created_at": "2026-09-25 13:22:51",
     "source": "remoteok",
     "title": "Frontend Engineer",
     "company": "Bjak ",
-    "location": "Ireland",
-    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
+    "location": "Singapore",
+    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
     "salary": "",
     "tags": [
       "front end",

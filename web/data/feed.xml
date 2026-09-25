@@ -5,7 +5,43 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Fri, 25 Sep 2026 12:31:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 13:22:53 +0000</lastBuildDate>
+    <item>
+      <title>Data &amp; Operations Specialist</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/anyone-ai/remote-data-operations-specialist-310247</link>
+      <guid isPermaLink="false">267951</guid>
+      <pubDate>Fri, 25 Sep 2026 13:22:51 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;Our vision: &lt;/strong&gt;Mastering machine learning is difficult, time-consuming, and often frustrating. Meanwhile, the AI industry faces its biggest challenge: a global shortage of skilled talent. At Anyone AI, we close this gap by upskilling the best talent from LatAm through an accelerated, hands-on training program designed and led by AI industry experts.&lt;/p&gt;&lt;p </description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>Anyone Ai</job:company>
+    </item>
+    <item>
+      <title>Software Engineer II - (Ruby)</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/stora/software-engineer-ii-ruby-belfast-277321</link>
+      <guid isPermaLink="false">267953</guid>
+      <pubDate>Fri, 25 Sep 2026 13:22:51 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;Stora is building the operating platform for modern self-storage businesses.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Our software helps operators manage bookings, payments, customers, facilities and day-to-day operations from one place, while automating much of the work that traditionally makes running a self-storage business unnecessarily complicated.&lt;/p&gt;&lt;p style="min-height:1.</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Belfast, Hybrid</job:location>
+      <job:company>Stora</job:company>
+    </item>
+    <item>
+      <title>Frontend Engineer</title>
+      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420</link>
+      <guid isPermaLink="false">268065</guid>
+      <pubDate>Fri, 25 Sep 2026 13:22:51 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Singapore</job:location>
+      <job:company>Bjak </job:company>
+    </item>
     <item>
       <title>Werkstudent (m/w/d) - Finance &amp; Beratung (unternehmerisch, leistungsbasiert)</title>
       <link>https://www.arbeitnow.com/jobs/companies/kevin-kehr/remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-122249</link>
@@ -53,18 +89,6 @@
       <job:salary></job:salary>
       <job:location>Remote/Leipzig</job:location>
       <job:company>Händlerbund Management AG</job:company>
-    </item>
-    <item>
-      <title>Frontend Engineer</title>
-      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410</link>
-      <guid isPermaLink="false">267814</guid>
-      <pubDate>Fri, 25 Sep 2026 12:31:58 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Ireland</job:location>
-      <job:company>Bjak </job:company>
     </item>
     <item>
       <title>Head of Enterprise Sales (m/w/d)</title>
@@ -581,30 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>SOCi</job:company>
-    </item>
-    <item>
-      <title>Account Manager</title>
-      <link>https://jobicy.com/jobs/154046-account-manager-8</link>
-      <guid isPermaLink="false">261957</guid>
-      <pubDate>Thu, 24 Sep 2026 22:30:42 +0000</pubDate>
-      <description></description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>SOCi</job:company>
-    </item>
-    <item>
-      <title>Director, Product Communications (Hers)</title>
-      <link>https://jobicy.com/jobs/154042-director-product-communications-hers</link>
-      <guid isPermaLink="false">261958</guid>
-      <pubDate>Thu, 24 Sep 2026 22:30:42 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>hims &amp;#038; hers</job:company>
     </item>
   </channel>
 </rss>
