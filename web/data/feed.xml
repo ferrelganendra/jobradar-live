@@ -5,17 +5,41 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Fri, 25 Sep 2026 08:11:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 08:42:00 +0000</lastBuildDate>
+    <item>
+      <title>Développeur fullstack confirmé H/F (C#, .Net, Angular)</title>
+      <link>https://www.arbeitnow.fr/jobs/companies/n2jsoft/remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-65580</link>
+      <guid isPermaLink="false">266740</guid>
+      <pubDate>Fri, 25 Sep 2026 08:41:59 +0000</pubDate>
+      <description>&lt;p style="text-align:start;"&gt;&lt;strong&gt;&lt;span style="color:#121317"&gt;À propos de N2JSoft&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p style="text-align:start;min-height: 1.7em;"&gt;&lt;/p&gt;&lt;p style="text-align:start;"&gt;&lt;span style="color:#121317"&gt;N2JSoft est une &lt;/span&gt;&lt;strong&gt;&lt;span style="color:#121317"&gt;Fintech B2B SaaS&lt;/span&gt;&lt;/strong&gt;&lt;span style="color:#121317"&gt; spécialisée dans la gestion des dépenses professionnelles.&lt;/span&gt;&lt;/p</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Poste à distance</job:location>
+      <job:company>N2JSoft</job:company>
+    </item>
+    <item>
+      <title>Développeur confirmé IA - H/F</title>
+      <link>https://www.arbeitnow.fr/jobs/companies/n2jsoft/remote-developpeur-confirme-ia-h-f-lyon-8868</link>
+      <guid isPermaLink="false">266741</guid>
+      <pubDate>Fri, 25 Sep 2026 08:41:59 +0000</pubDate>
+      <description>&lt;p style="text-align:start;"&gt;&lt;strong&gt;&lt;span style="color:#121317"&gt;Qui sommes-nous ?&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p style="text-align:start;"&gt;&lt;span style="color:#121317"&gt;N2JSoft est une fintech B2B SaaS spécialisée dans la digitalisation des processus RH et financiers. Avec plus de 20 000 clients et 1 million d’utilisateurs dans 98 pays, nos solutions N2F et Keeple s’imposent comme des références sur le marc</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Poste à distance</job:location>
+      <job:company>N2JSoft</job:company>
+    </item>
     <item>
       <title>Frontend Engineer</title>
-      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420</link>
-      <guid isPermaLink="false">266557</guid>
-      <pubDate>Fri, 25 Sep 2026 08:10:59 +0000</pubDate>
+      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410</link>
+      <guid isPermaLink="false">266808</guid>
+      <pubDate>Fri, 25 Sep 2026 08:41:59 +0000</pubDate>
       <description></description>
       <category>Teknologi</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
-      <job:location>Singapore</job:location>
+      <job:location>Ireland</job:location>
       <job:company>Bjak </job:company>
     </item>
     <item>
@@ -581,30 +605,6 @@
       <job:salary></job:salary>
       <job:location>UK (Remote)</job:location>
       <job:company>Mast</job:company>
-    </item>
-    <item>
-      <title>Senior Security Engineer - Remote</title>
-      <link>https://www.arbeitnow.co.uk/jobs/companies/parity/senior-security-engineer-remote-30941</link>
-      <guid isPermaLink="false">260323</guid>
-      <pubDate>Thu, 24 Sep 2026 19:24:32 +0000</pubDate>
-      <description>&lt;h2&gt;&lt;strong&gt;About Us &lt;/strong&gt;&lt;/h2&gt;&lt;p style="min-height:1.5em"&gt;Parity is one of the world’s most experienced companies building the core infrastructure behind blockchain — the system that allows information and value to be shared securely without needing an intermediary. We’re laying the foundation for a better web which respects the freedom and data of individuals, and empowers developers to buil</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Parity</job:company>
-    </item>
-    <item>
-      <title>Contract Staff Front End Engineer (Web Conference/Screen Sharing)</title>
-      <link>https://jobicy.com/jobs/154034-contract-staff-front-end-engineer-web-conference-screen-sharing</link>
-      <guid isPermaLink="false">260409</guid>
-      <pubDate>Thu, 24 Sep 2026 19:24:32 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Mozilla</job:company>
     </item>
   </channel>
 </rss>
