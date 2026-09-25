@@ -5,17 +5,29 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Fri, 25 Sep 2026 09:13:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 09:44:02 +0000</lastBuildDate>
+    <item>
+      <title>Trainer / Subject Matter Expert - Digital Business Fundamentals (m/w/d) - 100% remote</title>
+      <link>https://www.arbeitnow.com/jobs/companies/digital-career-institute/trainer-subject-matter-expert-digital-business-fundamentals-100-remote-deutschlandweit-germany-wide-331326</link>
+      <guid isPermaLink="false">267089</guid>
+      <pubDate>Fri, 25 Sep 2026 09:44:01 +0000</pubDate>
+      <description>&lt;br&gt;&lt;strong&gt;Join the Digital Career Institute &amp; Social Impact School&lt;/strong&gt;&lt;p&gt;&lt;strong style="border:0px solid rgb(229,231,235);font-family:Arial, Helvetica, sans-serif, Inter, Arial, Helvetica, sans-serif;font-weight:600;color:rgb(66,66,66);font-size:14px;font-style:normal;text-transform:none;background-color:rgb(255,255,255);"&gt;Das DCI und die Impact School gehören zusammen. &lt;/strong&gt;&lt;span style</description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>deutschlandweit/germany-wide</job:location>
+      <job:company>Digital Career Institute</job:company>
+    </item>
     <item>
       <title>Frontend Engineer</title>
-      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420</link>
-      <guid isPermaLink="false">267057</guid>
-      <pubDate>Fri, 25 Sep 2026 09:13:01 +0000</pubDate>
+      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410</link>
+      <guid isPermaLink="false">267307</guid>
+      <pubDate>Fri, 25 Sep 2026 09:44:01 +0000</pubDate>
       <description></description>
       <category>Teknologi</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
-      <job:location>Singapore</job:location>
+      <job:location>Ireland</job:location>
       <job:company>Bjak </job:company>
     </item>
     <item>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location>United Kingdom - Remote</job:location>
       <job:company>Foundation Health</job:company>
-    </item>
-    <item>
-      <title>Customer Success Specialist</title>
-      <link>https://www.arbeitnow.co.uk/jobs/companies/mast/remote-customer-success-specialist-311965</link>
-      <guid isPermaLink="false">260286</guid>
-      <pubDate>Thu, 24 Sep 2026 19:24:32 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;Mast is on a mission to make complex lending simple. &lt;/strong&gt;The UK's specialist lending market is underserved by technology, with legacy systems that can't handle the nuance of complex income, niche products, or the broker workflows that specialist lenders rely on.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;We're building modern, cloud-native lending technology, purpose-b</description>
-      <category>Support</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>UK (Remote)</job:location>
-      <job:company>Mast</job:company>
     </item>
   </channel>
 </rss>
