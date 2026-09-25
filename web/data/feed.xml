@@ -5,13 +5,13 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Thu, 24 Sep 2026 23:32:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 00:07:38 +0000</lastBuildDate>
     <item>
       <title>Automation Engineer (gn) - 40 Std, (hybrid) (München)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/42watt/automation-engineer-gn-40-std-hybrid-munchen-159484</link>
-      <guid isPermaLink="false">262313</guid>
-      <pubDate>Thu, 24 Sep 2026 23:32:32 +0000</pubDate>
-      <description>&lt;br&gt;&lt;strong&gt;Deine Aufgaben&lt;/strong&gt;&lt;p&gt;&lt;ul&gt;&lt;li&gt;Du &lt;strong&gt;baust und betreibst&lt;/strong&gt; unsere n8n-Automationen und verbindest &lt;strong&gt;CRM, Customer-Support-Tools, E-Mail und Kalender&lt;/strong&gt; zu nahtlosen Workflows – von der &lt;strong&gt;KI-gestützten Ticket-Klassifizierung&lt;/strong&gt; über intelligentes &lt;strong&gt;Eskalations-Routing&lt;/strong&gt; bis hin zu automatischen Benachrichtigungen bei kritischen Ereigni</description>
+      <link>https://www.arbeitnow.com/jobs/companies/42watt/automation-engineer-gn-40-std-hybrid-munchen-216639</link>
+      <guid isPermaLink="false">262569</guid>
+      <pubDate>Fri, 25 Sep 2026 00:07:37 +0000</pubDate>
+      <description>&lt;br&gt;&lt;strong&gt;Deine Aufgaben&lt;/strong&gt;&lt;p&gt;​&lt;span style="font-size:10.5pt;font-family:Arial, Helvetica, sans-serif;color:rgb(0,0,0);background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;"&gt;Wir arbeiten über ein zertifiziertes Netzwerk lokaler Handwerkspartner – ohne eigene Installationskapazitäten. Der Erfolg unseres Geschäftsmodells hängt direkt davon ab, wie gut wir diese</description>
       <category>Teknologi</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
@@ -19,15 +19,27 @@
       <job:company>42Watt</job:company>
     </item>
     <item>
+      <title>MecÃ¡nico Automotriz DiagnÃ³stico y Presupuestos</title>
+      <link>https://remoteOK.com/remote-jobs/remote-mecanico-automotriz-diagnostico-y-presupuestos-workana-1137429</link>
+      <guid isPermaLink="false">262730</guid>
+      <pubDate>Fri, 25 Sep 2026 00:07:37 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Workana</job:company>
+    </item>
+    <item>
       <title>Frontend Engineer</title>
-      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420</link>
-      <guid isPermaLink="false">262474</guid>
-      <pubDate>Thu, 24 Sep 2026 23:32:32 +0000</pubDate>
+      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410</link>
+      <guid isPermaLink="false">262731</guid>
+      <pubDate>Fri, 25 Sep 2026 00:07:37 +0000</pubDate>
       <description></description>
       <category>Teknologi</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
-      <job:location>Singapore</job:location>
+      <job:location>Ireland</job:location>
       <job:company>Bjak </job:company>
     </item>
     <item>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location>Hybrid - Munich</job:location>
       <job:company>Secfix</job:company>
-    </item>
-    <item>
-      <title>Sales Development Representative - DACH (Berlin Hybrid)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/n8n/sales-development-representative-dach-berlin-hybrid-24676</link>
-      <guid isPermaLink="false">259719</guid>
-      <pubDate>Thu, 24 Sep 2026 18:22:32 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;The AI orchestration of your wildest imagination.&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Backed by a fiercely inventive community and 500+ builder-approved i</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Berlin Office</job:location>
-      <job:company>N8N</job:company>
     </item>
   </channel>
 </rss>
