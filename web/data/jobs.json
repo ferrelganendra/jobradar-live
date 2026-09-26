@@ -168665,18 +168665,67 @@
     "is_foreign": true
   },
   {
-    "id": 271916,
-    "created_at": "2026-09-26 15:29:58",
+    "id": 272098,
+    "created_at": "2026-09-26 17:08:53",
+    "source": "arbeitnow",
+    "title": "Remote Softwareentwicklung Gesundheitswesen | Modernes Tech-Stack | Freelancing",
+    "company": "Medconomy GmbH",
+    "location": "Cologne",
+    "url": "https://www.arbeitnow.com/jobs/companies/medconomy-gmbh/remote-softwareentwicklung-gesundheitswesen-modernes-tech-stack-freelancing-cologne-269257",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Software Development"
+    ],
+    "remote": true,
+    "description": "<p>Du suchst eine freiberufliche Tätigkeit, die dir maximale Flexibilität, ein modernes Lernumfeld und gleichzeitig einen attraktiven Stundenlohn bietet? Dann werde Teil unseres Teams! Wir arbeiten vollständig remote und setzen auf eine offene, innovative Unternehmenskultur. Ohne unnötige Bürokratie oder Entwicklungsbarrieren.</p>\n<p>Wer wir sind:</p>\n<p>Die intelligente Plattform von Medconomy macht komplexe Gesundheitsinformationen verständlich und nutzbar. Wir erschließen das enorme Potenzial des Gesundheitssektors für unsere Kunden durch datengetriebene Lösungen, die Transparenz und fundierte Entscheidungen zwischen Medizin und Management ermöglichen. Unser interdisziplinäres Team aus Fachexperten und Software Engineers baut mit modernsten Technologien Produkte, die den Informationsfluss revolutionieren. Visuell, praxisnah und wirkungsvoll. Bist du bereit echten Impact zu schaffen?</p>\n<h2>Aufgaben</h2>\n<ul>\n<li>Unterstützung bei der Entwicklung unseres Angular-Frontends und/oder Nest.js-Backends</li>\n<li>Mitwirkung bei der Integration von Elasticsearch und PostgreSQL</li>\n<li>Eigenverantwortliches Entwickeln von Features – von der Konzeption bis zur Umsetzung</li>\n<li>Erarbeitung von Lösungen für spannende, praxisnahe Herausforderungen</li>\n<li>Zusammenarbeit mit unserem Team, um neue Features und Anwendungen umzusetzen</li>\n</ul>\n<h2>Qualifikation</h2>\n<ul>\n<li>Zweijährige Erfahrung in der Frontend- und/oder Backend-Entwicklung</li>\n<li>Erfahrung in der Nutzung von TypeScript (Pflicht)</li>\n<li>Kenntnisse in Angular und/oder Nest.js (Pflicht)</li>\n<li>Zuverlässigkeit und eigenständiges Arbeiten</li>\n<li>Deutschkenntnisse</li>\n</ul>\n<h2>Benefits</h2>\n<ul>\n<li>Lernumfeld: Wir fördern deine fachliche Weiterentwicklung durch abwechslungsreiche Aufgaben und moderne Technologien.</li>\n<li>Remote Work: arbeite flexibel, wann und wo du möchtest.</li>\n<li>Flexibilität: Arbeite remote, wann und wo du möchtest. Wertschätzung: Bei uns zählt deine Meinung: du gestaltest un",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 272256,
+    "created_at": "2026-09-26 17:08:53",
+    "source": "arbeitnow",
+    "title": "Customer Service Executive",
+    "company": "1St%20Formations",
+    "location": "Covent Garden - Hybrid",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/1st20formations/customer-service-executive-london-394099",
+    "salary": "",
+    "tags": [
+      "Operations"
+    ],
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\"><strong>About 1st Formations</strong></p><p style=\"min-height:1.5em\">At 1st Formations, we empower entrepreneurs to start, run, and grow their businesses with confidence.</p><p style=\"min-height:1.5em\">Running a business shouldn’t be slowed down by company formation, statutory compliance, accounting, or payroll. From day one, these essentials should be seamless, reliable, and intelligently handled — freeing founders to focus on building and scaling.</p><p style=\"min-height:1.5em\">We’re a leading UK provider of company formation and compliance services, building a modern, fully integrated technology platform that supports founders at every stage of their journey. Our platform brings together formation, compliance, accounting, payroll, and ongoing business support in one cohesive experience.</p><p style=\"min-height:1.5em\">No stitched-together services. <br />No legacy workflows disguised as software.</p><p style=\"min-height:1.5em\">Just a single, scalable platform built for ambitious founders who want to move fast, stay compliant, and grow with confidence.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><p style=\"min-height:1.5em\"><strong>Why Join Us Now?</strong></p><p style=\"min-height:1.5em\">You’ll be joining a business with strong momentum, clear direction, and real opportunity for progression.</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">£18m annual revenue, including £9m ARR</p></li><li><p style=\"min-height:1.5em\">Over 1 million companies formed</p></li><li><p style=\"min-height:1.5em\">Certified B Corp and Carbon Neutral Business</p></li><li><p style=\"min-height:1.5em\">Forecast to grow 5x–10x over the next three years</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>The Role</strong></p><p style=\"min-height:1.5em\">The Customer Service Executive is part of our Customer Service Team and reports to the Head of Customer Services. You'll be the voice of 1st Formations fo",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 272293,
+    "created_at": "2026-09-26 17:08:53",
     "source": "arbeitnow",
     "title": "Software Engineer, Infrastructure - Self Managed Experience (SMX)",
     "company": "Camunda",
     "location": "Remote",
-    "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-software-engineer-infrastructure-self-managed-experience-smx-423924",
+    "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-software-engineer-infrastructure-self-managed-experience-smx-123880",
     "salary": "",
     "tags": [
       "Products"
     ],
-    "remote": true,
+    "remote": false,
     "description": "<p style=\"min-height:1.5em\">Camunda is <strong>the enterprise platform for agentic orchestration</strong>, enabling organizations to coordinate <strong>AI agents, people, and systems </strong>across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. <strong>Trusted by over 700 organizations worldwide</strong>, including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences.<br /><br /><strong>Fully remote and global,</strong> we are in the middle of something bigger: <strong>transforming into an AI-first organisation, built on our own platform</strong>. We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team.<br /><br />Named <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.gpbullhound.com/articles/top-100-next-unicorns-the-uk-france-and-germany-lead-with-the-most-promising-technology-companies-in-europe/\"><u>GP Bullhound’s Top 100 Next Unicorn list,</u></a> <strong>2025 Great Place to Work certified.</strong> <em><strong>Visionary</strong></em><strong> </strong>in <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://page.camunda.com/wp-2025-gartner-magic-quadrant-for-boat\"><strong><u>2025 Gartner® Magic Quadrant™</u></strong></a><strong> </strong>for Business Orchestration and Automation Technologies. ranked <strong>3rd in Flexa's 2026 </strong><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://flexa.careers/companies/camunda\"><strong>Most Flexible Companies</strong></a>, We’re growing fast and looking for top talent to join our team. <strong>If you want meaningful work, visible impact and put something genuinely rare on your CV, keep reading.</strong></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>About the role",
     "requirements": "",
     "benefits": "",
@@ -168689,18 +168738,18 @@
     "is_foreign": true
   },
   {
-    "id": 271917,
-    "created_at": "2026-09-26 15:29:58",
+    "id": 272294,
+    "created_at": "2026-09-26 17:08:53",
     "source": "arbeitnow",
     "title": "Enterprise Account Executive III - NA",
     "company": "Camunda",
     "location": "Remote",
-    "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-enterprise-account-executive-iii-na-46735",
+    "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-enterprise-account-executive-iii-na-475200",
     "salary": "",
     "tags": [
       "Sales"
     ],
-    "remote": true,
+    "remote": false,
     "description": "<p style=\"min-height:1.5em\">Camunda is <strong>the enterprise platform for agentic orchestration</strong>, enabling organizations to coordinate <strong>AI agents, people, and systems </strong>across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. <strong>Trusted by over 700 organizations worldwide</strong>, including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences.<br /><br /><strong>Fully remote and global,</strong> we are in the middle of something bigger: <strong>transforming into an AI-first organisation, built on our own platform</strong>. We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team.<br /><br />Named <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.gpbullhound.com/articles/top-100-next-unicorns-the-uk-france-and-germany-lead-with-the-most-promising-technology-companies-in-europe/\"><u>GP Bullhound’s Top 100 Next Unicorn list,</u></a> <strong>2025 Great Place to Work certified.</strong> <em><strong>Visionary</strong></em><strong> </strong>in <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://page.camunda.com/wp-2025-gartner-magic-quadrant-for-boat\"><strong><u>2025 Gartner® Magic Quadrant™</u></strong></a><strong> </strong>for Business Orchestration and Automation Technologies. ranked <strong>3rd in Flexa's 2026 </strong><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://flexa.careers/companies/camunda\"><strong>Most Flexible Companies</strong></a>, We’re growing fast and looking for top talent to join our team. <strong>If you want meaningful work, visible impact and put something genuinely rare on your CV, keep reading.</strong></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>About the Role",
     "requirements": "",
     "benefits": "",
@@ -168713,18 +168762,18 @@
     "is_foreign": true
   },
   {
-    "id": 271918,
-    "created_at": "2026-09-26 15:29:58",
+    "id": 272295,
+    "created_at": "2026-09-26 17:08:53",
     "source": "arbeitnow",
     "title": "Senior Software Engineer, Backend - Distributed Systems",
     "company": "Camunda",
     "location": "Remote",
-    "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-379485",
+    "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-305142",
     "salary": "",
     "tags": [
       "Products"
     ],
-    "remote": true,
+    "remote": false,
     "description": "<p style=\"min-height:1.5em\">Camunda is <strong>the enterprise platform for agentic orchestration</strong>, enabling organizations to coordinate <strong>AI agents, people, and systems </strong>across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. <strong>Trusted by over 700 organizations worldwide</strong>, including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences.<br /><br /><strong>Fully remote and global,</strong> we are in the middle of something bigger: <strong>transforming into an AI-first organisation, built on our own platform</strong>. We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team.<br /><br />Named <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.gpbullhound.com/articles/top-100-next-unicorns-the-uk-france-and-germany-lead-with-the-most-promising-technology-companies-in-europe/\"><u>GP Bullhound’s Top 100 Next Unicorn list,</u></a> <strong>2025 Great Place to Work certified.</strong> <em><strong>Visionary</strong></em><strong> </strong>in <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://page.camunda.com/wp-2025-gartner-magic-quadrant-for-boat\"><strong><u>2025 Gartner® Magic Quadrant™</u></strong></a><strong> </strong>for Business Orchestration and Automation Technologies. ranked <strong>3rd in Flexa's 2026 </strong><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://flexa.careers/companies/camunda\"><strong>Most Flexible Companies</strong></a>, We’re growing fast and looking for top talent to join our team. <strong>If you want meaningful work, visible impact and put something genuinely rare on your CV, keep reading.</strong></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>About the Role",
     "requirements": "",
     "benefits": "",
@@ -168737,13 +168786,13 @@
     "is_foreign": true
   },
   {
-    "id": 272080,
-    "created_at": "2026-09-26 15:29:58",
+    "id": 272331,
+    "created_at": "2026-09-26 17:08:53",
     "source": "remoteok",
     "title": "Frontend Engineer",
     "company": "Bjak ",
-    "location": "Ireland",
-    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
+    "location": "Singapore",
+    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
     "salary": "",
     "tags": [
       "front end",
