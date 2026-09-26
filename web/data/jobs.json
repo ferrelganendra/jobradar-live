@@ -168192,13 +168192,37 @@
     "is_foreign": true
   },
   {
-    "id": 269998,
-    "created_at": "2026-09-26 09:49:27",
+    "id": 270195,
+    "created_at": "2026-09-26 10:20:23",
+    "source": "arbeitnow",
+    "title": "Senior Fullstack Engineer- AI Platform",
+    "company": "SoSafe",
+    "location": "United Kingdom Remote",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/sosafe/remote-senior-fullstack-engineer-ai-platform-399671",
+    "salary": "",
+    "tags": [
+      "Development"
+    ],
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\">SoSafe has the ambition to become the leading human risk management provider in Europe. Our award-winning awareness platform triggers behavioural change by providing effective and engaging training and simulations on cybersecurity and data protection. Cybercrime is costing the world &gt;$10 trillion annually and growing by 15% p.a. - we invite you to be part of the solution!</p><p style=\"min-height:1.5em\"><br /><strong>Location Requirement:</strong><br />This role is open to candidates currently based in and legally authorized to work in the UK, Portugal, or Ireland. We are unable to consider applicants outside these locations.</p><p style=\"min-height:1.5em\"></p><h3>Why Us?</h3><p style=\"min-height:1.5em\">AI is transforming how software is built. At SoSafe, you'll join the team building the AI platform that powers the next generation of AI capabilities across our products.</p><p style=\"min-height:1.5em\">Rather than building individual AI features, you'll create the shared infrastructure, tooling and services that enable every engineering team to build, deploy and operate AI safely and at scale. Working in a small, highly autonomous team, you'll have real ownership, shape technical direction, and build systems that engineers across SoSafe rely on every day.<br /></p><h3>Here's how you'll make a difference</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Build the core capabilities behind SoSafe's Agentic AI Platform, including agent runtimes, model routing, tool registries and shared platform services.</p></li><li><p style=\"min-height:1.5em\">Design and build production-grade platform services and developer tooling using <strong>Node.js, TypeScript, NestJS and React</strong>.</p></li><li><p style=\"min-height:1.5em\">Develop reusable AI infrastructure that enables engineering teams to build, deploy and operate AI agents securely and at scale.</p></li><li><p style=\"min-height:1.5em\">Work hands-on with <strong>LLMs, LangChain/La",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "SWE",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 270290,
+    "created_at": "2026-09-26 10:20:23",
     "source": "arbeitnow",
     "title": "Software Engineer, Infrastructure - Self Managed Experience (SMX)",
     "company": "Camunda",
     "location": "Remote",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-software-engineer-infrastructure-self-managed-experience-smx-330128",
+    "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-software-engineer-infrastructure-self-managed-experience-smx-123880",
     "salary": "",
     "tags": [
       "Products"
@@ -168216,13 +168240,13 @@
     "is_foreign": true
   },
   {
-    "id": 269999,
-    "created_at": "2026-09-26 09:49:27",
+    "id": 270291,
+    "created_at": "2026-09-26 10:20:23",
     "source": "arbeitnow",
     "title": "Enterprise Account Executive III - NA",
     "company": "Camunda",
     "location": "Remote",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-enterprise-account-executive-iii-na-13365",
+    "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-enterprise-account-executive-iii-na-475200",
     "salary": "",
     "tags": [
       "Sales"
@@ -168240,13 +168264,13 @@
     "is_foreign": true
   },
   {
-    "id": 270000,
-    "created_at": "2026-09-26 09:49:27",
+    "id": 270292,
+    "created_at": "2026-09-26 10:20:23",
     "source": "arbeitnow",
     "title": "Senior Software Engineer, Backend - Distributed Systems",
     "company": "Camunda",
     "location": "Remote",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-359884",
+    "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-305142",
     "salary": "",
     "tags": [
       "Products"
@@ -168264,13 +168288,13 @@
     "is_foreign": true
   },
   {
-    "id": 270092,
-    "created_at": "2026-09-26 09:49:27",
+    "id": 270333,
+    "created_at": "2026-09-26 10:20:23",
     "source": "remoteok",
     "title": "Frontend Engineer",
     "company": "Bjak ",
-    "location": "Ireland",
-    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
+    "location": "Singapore",
+    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
     "salary": "",
     "tags": [
       "front end",
