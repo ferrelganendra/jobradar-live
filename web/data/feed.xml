@@ -5,17 +5,77 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Sun, 27 Sep 2026 14:58:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 15:29:27 +0000</lastBuildDate>
+    <item>
+      <title>Business Development Representative</title>
+      <link>https://www.arbeitnow.com/jobs/companies/zip/business-development-representative-munich-77234</link>
+      <guid isPermaLink="false">283563</guid>
+      <pubDate>Sun, 27 Sep 2026 15:29:24 +0000</pubDate>
+      <description>&lt;h1&gt;&lt;strong&gt;About Zip&lt;/strong&gt;&lt;/h1&gt;&lt;p style="min-height:1.5em"&gt;Zip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before.&lt;br /&gt;&lt;br /&gt;The world’s most influential enterprises trust Zip, in</description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote - Germany</job:location>
+      <job:company>Zip</job:company>
+    </item>
+    <item>
+      <title>Data &amp; Operations Specialist</title>
+      <link>https://www.arbeitnow.ch/jobs/companies/anyone-ai/remote-data-operations-specialist-358431</link>
+      <guid isPermaLink="false">283799</guid>
+      <pubDate>Sun, 27 Sep 2026 15:29:24 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;Our vision: &lt;/strong&gt;Mastering machine learning is difficult, time-consuming, and often frustrating. Meanwhile, the AI industry faces its biggest challenge: a global shortage of skilled talent. At Anyone AI, we close this gap by upskilling the best talent from LatAm through an accelerated, hands-on training program designed and led by AI industry experts.&lt;/p&gt;&lt;p </description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>Anyone Ai</job:company>
+    </item>
+    <item>
+      <title>Product Engineer</title>
+      <link>https://www.arbeitnow.ch/jobs/companies/0g/remote-product-engineer-85511</link>
+      <guid isPermaLink="false">283800</guid>
+      <pubDate>Sun, 27 Sep 2026 15:29:24 +0000</pubDate>
+      <description>&lt;h2&gt;About the Role&lt;br /&gt;&lt;/h2&gt;&lt;p style="min-height:1.5em"&gt;We’re looking for a product engineer who takes ownership of outcomes, not just assigned tasks. You’ll work across 4–5 products with different technology stacks, identify high-value problems, and carry solutions through design, implementation, testing, documentation, delivery, and operation.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>0G</job:company>
+    </item>
+    <item>
+      <title>Enterprise Business Development</title>
+      <link>https://www.arbeitnow.ch/jobs/companies/0g/remote-enterprise-business-development-486270</link>
+      <guid isPermaLink="false">283801</guid>
+      <pubDate>Sun, 27 Sep 2026 15:29:24 +0000</pubDate>
+      <description>&lt;h1&gt;Enterprise Business Development, AI Infrastructure – APAC&lt;br /&gt;&lt;/h1&gt;&lt;h2&gt;About 0G&lt;/h2&gt;&lt;p style="min-height:1.5em"&gt;0G is building the infrastructure layer for the next generation of AI applications, combining high-performance compute, storage, and decentralized infrastructure to enable developers and enterprises to build and scale AI systems.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;We are looking for an </description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>0G</job:company>
+    </item>
+    <item>
+      <title>Director, Pharmacometrics</title>
+      <link>https://www.arbeitnow.ch/jobs/companies/allucent/remote-director-pharmacometrics-switzerland-107613</link>
+      <guid isPermaLink="false">283812</guid>
+      <pubDate>Sun, 27 Sep 2026 15:29:24 +0000</pubDate>
+      <description>&lt;p&gt;Step into a role where science meets strategy and your expertise shapes the future of drug development. As a Director, Pharmacometrician, you’ll lead high-impact modeling and simulation efforts within a dynamic Clinical Pharmacology, Modeling and Simulation (CPMS) environment. You’ll guide teams, mentor pharmacometricians, and provide strategic insight to clients at key development milestones. </description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Switzerland</job:location>
+      <job:company>Allucent</job:company>
+    </item>
     <item>
       <title>Frontend Engineer</title>
-      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420</link>
-      <guid isPermaLink="false">283546</guid>
-      <pubDate>Sun, 27 Sep 2026 14:58:42 +0000</pubDate>
+      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410</link>
+      <guid isPermaLink="false">283869</guid>
+      <pubDate>Sun, 27 Sep 2026 15:29:24 +0000</pubDate>
       <description></description>
       <category>Teknologi</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
-      <job:location>Singapore</job:location>
+      <job:location>Ireland</job:location>
       <job:company>Bjak </job:company>
     </item>
     <item>
@@ -541,66 +601,6 @@
       <pubDate>Sun, 27 Sep 2026 03:34:44 +0000</pubDate>
       <description>&lt;p style="min-height:1.5em"&gt;Camunda is &lt;strong&gt;the enterprise platform for agentic orchestration&lt;/strong&gt;, enabling organizations to coordinate &lt;strong&gt;AI agents, people, and systems &lt;/strong&gt;across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at</description>
       <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Camunda</job:company>
-    </item>
-    <item>
-      <title>Lead Employment Counsel</title>
-      <link>https://www.arbeitnow.ch/jobs/companies/camunda/remote-lead-employment-counsel-273744</link>
-      <guid isPermaLink="false">277788</guid>
-      <pubDate>Sun, 27 Sep 2026 03:34:44 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;Camunda is &lt;strong&gt;the enterprise platform for agentic orchestration&lt;/strong&gt;, enabling organizations to coordinate &lt;strong&gt;AI agents, people, and systems &lt;/strong&gt;across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at</description>
-      <category>Finance</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Camunda</job:company>
-    </item>
-    <item>
-      <title>Senior Sales Engineer - North America</title>
-      <link>https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-sales-engineer-north-america-233451</link>
-      <guid isPermaLink="false">277789</guid>
-      <pubDate>Sun, 27 Sep 2026 03:34:44 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;Camunda is &lt;strong&gt;the enterprise platform for agentic orchestration&lt;/strong&gt;, enabling organizations to coordinate &lt;strong&gt;AI agents, people, and systems &lt;/strong&gt;across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Camunda</job:company>
-    </item>
-    <item>
-      <title>Senior Sales Engineer - Life Science - North America</title>
-      <link>https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-sales-engineer-life-science-north-america-164648</link>
-      <guid isPermaLink="false">277790</guid>
-      <pubDate>Sun, 27 Sep 2026 03:34:44 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;Camunda is &lt;strong&gt;the enterprise platform for agentic orchestration&lt;/strong&gt;, enabling organizations to coordinate &lt;strong&gt;AI agents, people, and systems &lt;/strong&gt;across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Camunda</job:company>
-    </item>
-    <item>
-      <title>Senior Sales Engineer - DACH</title>
-      <link>https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-sales-engineer-dach-423357</link>
-      <guid isPermaLink="false">277791</guid>
-      <pubDate>Sun, 27 Sep 2026 03:34:44 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;Camunda is &lt;strong&gt;the enterprise platform for agentic orchestration&lt;/strong&gt;, enabling organizations to coordinate &lt;strong&gt;AI agents, people, and systems &lt;/strong&gt;across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Camunda</job:company>
-    </item>
-    <item>
-      <title>Customer Success Manager - AMER</title>
-      <link>https://www.arbeitnow.ch/jobs/companies/camunda/remote-customer-success-manager-amer-27074</link>
-      <guid isPermaLink="false">277792</guid>
-      <pubDate>Sun, 27 Sep 2026 03:34:44 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;Camunda is &lt;strong&gt;the enterprise platform for agentic orchestration&lt;/strong&gt;, enabling organizations to coordinate &lt;strong&gt;AI agents, people, and systems &lt;/strong&gt;across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at</description>
-      <category>Finance</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
       <job:location>Remote</job:location>
