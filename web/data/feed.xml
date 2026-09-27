@@ -5,17 +5,29 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Sun, 27 Sep 2026 10:16:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 10:47:02 +0000</lastBuildDate>
+    <item>
+      <title>Wellbeing Programs Advisor</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/stanmindsetmomentum/wellbeing-programs-advisor-london-86379</link>
+      <guid isPermaLink="false">281734</guid>
+      <pubDate>Sun, 27 Sep 2026 10:47:00 +0000</pubDate>
+      <description>&lt;p&gt;Are you a wellness professional ready to take your skills in a new direction&lt;/p&gt; &lt;p&gt;If you have been coaching others toward healthier, more balanced lives and now want a role with more freedom, purpose and flexibility, this could be the shift you are looking for. We collaborate with a global personal development company delivering premium online courses and live virtual events. Using structured</description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>London</job:location>
+      <job:company>StanMindsetmomentum</job:company>
+    </item>
     <item>
       <title>Frontend Engineer</title>
-      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420</link>
-      <guid isPermaLink="false">281622</guid>
-      <pubDate>Sun, 27 Sep 2026 10:16:02 +0000</pubDate>
+      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410</link>
+      <guid isPermaLink="false">281931</guid>
+      <pubDate>Sun, 27 Sep 2026 10:47:00 +0000</pubDate>
       <description></description>
       <category>Teknologi</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
-      <job:location>Singapore</job:location>
+      <job:location>Ireland</job:location>
       <job:company>Bjak </job:company>
     </item>
     <item>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location>Leipzig</job:location>
       <job:company>Cuculus Gmbh</job:company>
-    </item>
-    <item>
-      <title>UX/UI Designer | Intch</title>
-      <link>https://www.arbeitnow.ch/jobs/companies/hirehire/remote-ux-ui-designer-intch-6052</link>
-      <guid isPermaLink="false">275922</guid>
-      <pubDate>Sun, 27 Sep 2026 00:21:05 +0000</pubDate>
-      <description>&lt;h2&gt;About Intch&lt;/h2&gt;&lt;p style="min-height:1.5em"&gt;Intch is a professional social network with a marketplace for part time work. You can think of it as a professional network built for senior specialists who take on meaningful contracts alongside their main work. A typical contract lasts from three to six months.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;The product is used in 140 countries and is available in </description>
-      <category>Support</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Hirehire</job:company>
     </item>
   </channel>
 </rss>

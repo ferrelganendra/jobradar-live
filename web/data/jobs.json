@@ -169298,13 +169298,39 @@
     "is_foreign": true
   },
   {
-    "id": 281622,
-    "created_at": "2026-09-27 10:16:02",
+    "id": 281734,
+    "created_at": "2026-09-27 10:47:00",
+    "source": "arbeitnow",
+    "title": "Wellbeing Programs Advisor",
+    "company": "StanMindsetmomentum",
+    "location": "London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/stanmindsetmomentum/wellbeing-programs-advisor-london-86379",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Management",
+      "Team Leader"
+    ],
+    "remote": true,
+    "description": "<p>Are you a wellness professional ready to take your skills in a new direction</p>\n<p>If you have been coaching others toward healthier, more balanced lives and now want a role with more freedom, purpose and flexibility, this could be the shift you are looking for. We collaborate with a global personal development company delivering premium online courses and live virtual events. Using structured digital systems and guided tools, you will introduce people to personal development programmes and support them in achieving meaningful results. The role is performance oriented role with defined targets and outcome based remuneration.</p>\n<h2>Tasks</h2>\n<p>Your contribution</p>\n<p>• Connect with people interested in wellness, personal and professional growth</p>\n<p>• Share structured online learning programmes and resources</p>\n<p>• Use simple digital tools to follow up and track outcomes in the CRM</p>\n<p>• Work independently with onboarding and ongoing support</p>\n<p>• Create consistent results through focus, clarity and purposeful action</p>\n<h2>Requirements</h2>\n<p>Who it suits</p>\n<p>• Backgrounds in wellness coaching, yoga/Pilates, nutrition, fitness, counselling, occupational health, L&#x26;D or client services</p>\n<p>• Clear communicators confident with Zoom/Teams, diary management and CRM</p>\n<p>• Self directed, organised professionals who value meaningful work</p>\n<h2>Benefits</h2>\n<p>What you will gain</p>\n<p>• Remote role with genuine lifestyle flexibility</p>\n<p>• Income aligned to outcomes with clear, simple processes</p>\n<p>• Step by step onboarding, training and resources</p>\n<p>• No cold calling and no high pressure sales</p>\n<p>• Access to global learning content and live events</p>\n<p>Not the right fit if</p>\n<p>• You require visa sponsorship or are studying full time</p>\n<p>• You prefer fixed hourly employment rather than outcome based work</p>\n<p>Engagement and pay</p>\n<p>Remote role with outcome based pay linked to defined results.</p>\n<p>Next steps<",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 281931,
+    "created_at": "2026-09-27 10:47:00",
     "source": "remoteok",
     "title": "Frontend Engineer",
     "company": "Bjak ",
-    "location": "Singapore",
-    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
+    "location": "Ireland",
+    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
     "salary": "",
     "tags": [
       "front end",
