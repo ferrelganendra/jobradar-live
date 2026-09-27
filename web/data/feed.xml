@@ -5,7 +5,19 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Sun, 27 Sep 2026 09:45:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 10:16:03 +0000</lastBuildDate>
+    <item>
+      <title>Frontend Engineer</title>
+      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420</link>
+      <guid isPermaLink="false">281622</guid>
+      <pubDate>Sun, 27 Sep 2026 10:16:02 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Singapore</job:location>
+      <job:company>Bjak </job:company>
+    </item>
     <item>
       <title>Sales Executive - Germany (Remote)</title>
       <link>https://www.arbeitnow.ch/jobs/companies/anyvan/sales-executive-germany-remote-371989</link>
@@ -65,18 +77,6 @@
       <job:salary></job:salary>
       <job:location>Switzerland</job:location>
       <job:company>Omilia Natural Language Solutions Ua Ltd</job:company>
-    </item>
-    <item>
-      <title>Frontend Engineer</title>
-      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410</link>
-      <guid isPermaLink="false">281313</guid>
-      <pubDate>Sun, 27 Sep 2026 09:45:19 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Ireland</job:location>
-      <job:company>Bjak </job:company>
     </item>
     <item>
       <title>Software Engineer, Infrastructure - Self Managed Experience (SMX)</title>
