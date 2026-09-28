@@ -5,29 +5,17 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Mon, 28 Sep 2026 07:49:25 +0000</lastBuildDate>
-    <item>
-      <title>Strategic Account Executive - Manufacturing</title>
-      <link>https://www.arbeitnow.ch/jobs/companies/celonis/remote-strategic-account-executive-manufacturing-437379</link>
-      <guid isPermaLink="false">288848</guid>
-      <pubDate>Mon, 28 Sep 2026 07:49:24 +0000</pubDate>
-      <description>&lt;div class="content-intro"&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis and its global e</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>celonis</job:company>
-    </item>
+    <lastBuildDate>Mon, 28 Sep 2026 08:20:26 +0000</lastBuildDate>
     <item>
       <title>Frontend Engineer</title>
-      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410</link>
-      <guid isPermaLink="false">288900</guid>
-      <pubDate>Mon, 28 Sep 2026 07:49:24 +0000</pubDate>
+      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420</link>
+      <guid isPermaLink="false">289206</guid>
+      <pubDate>Mon, 28 Sep 2026 08:20:25 +0000</pubDate>
       <description></description>
       <category>Teknologi</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
-      <job:location>Ireland</job:location>
+      <job:location>Singapore</job:location>
       <job:company>Bjak </job:company>
     </item>
     <item>
@@ -605,6 +593,18 @@
       <job:salary></job:salary>
       <job:location>SIHO - Columbus, IN</job:location>
       <job:company>SIHO Insurance Services </job:company>
+    </item>
+    <item>
+      <title>Account Executive, Financial Services</title>
+      <link>https://jobicy.com/jobs/154098-account-executive-financial-services</link>
+      <guid isPermaLink="false">284188</guid>
+      <pubDate>Sun, 27 Sep 2026 16:00:50 +0000</pubDate>
+      <description></description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>StackAdapt</job:company>
     </item>
   </channel>
 </rss>
