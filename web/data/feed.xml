@@ -5,17 +5,41 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Mon, 28 Sep 2026 03:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 03:41:27 +0000</lastBuildDate>
+    <item>
+      <title>Operations Manager - Education &amp; Student Services</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/london-school-of-excellence/operations-manager-education-student-services-london-257699</link>
+      <guid isPermaLink="false">286226</guid>
+      <pubDate>Mon, 28 Sep 2026 03:41:26 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;London School of Excellence is looking for a highly organised and proactive Operations Manager to oversee our day-to-day education operations.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The successful candidate will manage staff activity, student communication, application progress, university correspondence, operational reporting and partnership development.&lt;/p&gt; &lt;p&gt;This is a hands-on management role for someone </description>
+      <category>Support</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>London</job:location>
+      <job:company>London School of Excellence</job:company>
+    </item>
+    <item>
+      <title>Strategic Account Executive - Manufacturing</title>
+      <link>https://www.arbeitnow.ch/jobs/companies/celonis/remote-strategic-account-executive-manufacturing-437379</link>
+      <guid isPermaLink="false">286377</guid>
+      <pubDate>Mon, 28 Sep 2026 03:41:26 +0000</pubDate>
+      <description>&lt;div class="content-intro"&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis and its global e</description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>celonis</job:company>
+    </item>
     <item>
       <title>Frontend Engineer</title>
-      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420</link>
-      <guid isPermaLink="false">286118</guid>
-      <pubDate>Mon, 28 Sep 2026 03:10:29 +0000</pubDate>
+      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410</link>
+      <guid isPermaLink="false">286430</guid>
+      <pubDate>Mon, 28 Sep 2026 03:41:26 +0000</pubDate>
       <description></description>
       <category>Teknologi</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
-      <job:location>Singapore</job:location>
+      <job:location>Ireland</job:location>
       <job:company>Bjak </job:company>
     </item>
     <item>
@@ -581,30 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Medely</job:company>
-    </item>
-    <item>
-      <title>Senior Manager, Customer Success - Strategic Accounts</title>
-      <link>https://jobicy.com/jobs/154094-senior-manager-customer-success-strategic-accounts</link>
-      <guid isPermaLink="false">284197</guid>
-      <pubDate>Sun, 27 Sep 2026 16:00:50 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Medely</job:company>
-    </item>
-    <item>
-      <title>Business Development Representative</title>
-      <link>https://www.arbeitnow.com/jobs/companies/zip/business-development-representative-munich-77234</link>
-      <guid isPermaLink="false">283563</guid>
-      <pubDate>Sun, 27 Sep 2026 15:29:24 +0000</pubDate>
-      <description>&lt;h1&gt;&lt;strong&gt;About Zip&lt;/strong&gt;&lt;/h1&gt;&lt;p style="min-height:1.5em"&gt;Zip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before.&lt;br /&gt;&lt;br /&gt;The world’s most influential enterprises trust Zip, in</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote - Germany</job:location>
-      <job:company>Zip</job:company>
     </item>
   </channel>
 </rss>
