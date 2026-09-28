@@ -171709,13 +171709,37 @@
     "is_foreign": true
   },
   {
-    "id": 292834,
-    "created_at": "2026-09-28 17:30:03",
+    "id": 293111,
+    "created_at": "2026-09-28 18:01:03",
+    "source": "arbeitnow",
+    "title": "Strategic Account Executive - Manufacturing",
+    "company": "celonis",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.ch/jobs/companies/celonis/remote-strategic-account-executive-manufacturing-437379",
+    "salary": "",
+    "tags": [
+      "Sales"
+    ],
+    "remote": true,
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI&#39;s operational blind spots into operational clarity. World&#39;s leading companies trust Celonis and its global ecosystem of partners to make their AI agents, people, systems, and processes work together, achieving transformational outcomes. We believe there&#39;s a massive opportunity to unlock global productivity and sustainability by giving AI the context to understand how every business process really works. Join our mission to make processes work for people, companies, and the planet.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Team:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;You will join a high-performing sales team within the DACH sales organization, responsible for driving growth within large global enterprises from the Manufacturing industry. Manufacturing is one of our strategic industries, where we help global leaders optimize their end-to-end processes, increase operational efficiency through our Process Intelligence platform, and provide the contextual layer to industrialize Enterprise AI.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The Role:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Applying a value-driven consultative sales approach, you will create and cultivate strategic relationships to drive sales cycles from deep discovery to value realization. You will be responsible for a selected portfolio of strategic accounts from the Manufacturing industry headquartered in Switzerland, generating new business opportunities with existing customers. Navigating complex organizations up to the C-suite, you will collaborate cross-functionally to understand your accounts&#39; needs and systematically drive the end-to-end sales cycle to a success",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 293127,
+    "created_at": "2026-09-28 18:01:03",
     "source": "remoteok",
     "title": "Frontend Engineer",
     "company": "Bjak ",
-    "location": "Singapore",
-    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
+    "location": "Ireland",
+    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
     "salary": "",
     "tags": [
       "front end",
