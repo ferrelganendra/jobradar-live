@@ -5,7 +5,31 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Mon, 28 Sep 2026 16:28:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 16:59:03 +0000</lastBuildDate>
+    <item>
+      <title>Strategic Account Executive - Manufacturing</title>
+      <link>https://www.arbeitnow.ch/jobs/companies/celonis/remote-strategic-account-executive-manufacturing-437379</link>
+      <guid isPermaLink="false">292525</guid>
+      <pubDate>Mon, 28 Sep 2026 16:59:02 +0000</pubDate>
+      <description>&lt;div class="content-intro"&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis and its global e</description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>celonis</job:company>
+    </item>
+    <item>
+      <title>Frontend Engineer</title>
+      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410</link>
+      <guid isPermaLink="false">292541</guid>
+      <pubDate>Mon, 28 Sep 2026 16:59:02 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Ireland</job:location>
+      <job:company>Bjak </job:company>
+    </item>
     <item>
       <title>Micro Content Creator - Rezepte &amp; Kochen</title>
       <link>https://www.arbeitnow.com/jobs/companies/recime/micro-content-creator-rezepte-kochen-hamburg-125411</link>
@@ -77,18 +101,6 @@
       <job:salary></job:salary>
       <job:location>United Kingdom - Remote</job:location>
       <job:company>Pencil</job:company>
-    </item>
-    <item>
-      <title>Frontend Engineer</title>
-      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420</link>
-      <guid isPermaLink="false">292247</guid>
-      <pubDate>Mon, 28 Sep 2026 16:28:18 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Singapore</job:location>
-      <job:company>Bjak </job:company>
     </item>
     <item>
       <title>Werkstudent Marketing - Content &amp; Video Creation (m/w/d)</title>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Solace</job:company>
-    </item>
-    <item>
-      <title>Senior Data Scientist, Full Stack</title>
-      <link>https://jobicy.com/jobs/154127-senior-data-scientist-full-stack</link>
-      <guid isPermaLink="false">290762</guid>
-      <pubDate>Mon, 28 Sep 2026 12:38:12 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>TRM Labs</job:company>
     </item>
   </channel>
 </rss>
