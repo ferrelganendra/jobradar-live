@@ -5,12 +5,12 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Mon, 28 Sep 2026 20:05:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 20:36:03 +0000</lastBuildDate>
     <item>
       <title>Senior Experience Engineer</title>
-      <link>https://www.arbeitnow.com/jobs/companies/parity/remote-senior-experience-engineer-129490</link>
-      <guid isPermaLink="false">294041</guid>
-      <pubDate>Mon, 28 Sep 2026 20:05:02 +0000</pubDate>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/parity/remote-senior-experience-engineer-802</link>
+      <guid isPermaLink="false">294436</guid>
+      <pubDate>Mon, 28 Sep 2026 20:36:02 +0000</pubDate>
       <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Parity is one of the world’s most experienced companies building the core infrastructure behind blockchain — the system that allows information and value to be shared securely without needing an intermediary. We’re laying the foundation for a better web which respects the freedom and data of individuals, and empow</description>
       <category>Marketing</category>
       <job:remote>true</job:remote>
@@ -19,27 +19,15 @@
       <job:company>Parity</job:company>
     </item>
     <item>
-      <title>Strategic Account Executive - Manufacturing</title>
-      <link>https://www.arbeitnow.ch/jobs/companies/celonis/remote-strategic-account-executive-manufacturing-437379</link>
-      <guid isPermaLink="false">294300</guid>
-      <pubDate>Mon, 28 Sep 2026 20:05:02 +0000</pubDate>
-      <description>&lt;div class="content-intro"&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis and its global e</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>celonis</job:company>
-    </item>
-    <item>
       <title>Frontend Engineer</title>
-      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410</link>
-      <guid isPermaLink="false">294313</guid>
-      <pubDate>Mon, 28 Sep 2026 20:05:02 +0000</pubDate>
+      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420</link>
+      <guid isPermaLink="false">294610</guid>
+      <pubDate>Mon, 28 Sep 2026 20:36:02 +0000</pubDate>
       <description></description>
       <category>Teknologi</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
-      <job:location>Ireland</job:location>
+      <job:location>Singapore</job:location>
       <job:company>Bjak </job:company>
     </item>
     <item>
@@ -605,6 +593,18 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>BetterHelp</job:company>
+    </item>
+    <item>
+      <title>Senior Solutions Consultant, Identity</title>
+      <link>https://jobicy.com/jobs/154134-senior-solutions-consultant-identity</link>
+      <guid isPermaLink="false">290755</guid>
+      <pubDate>Mon, 28 Sep 2026 12:38:12 +0000</pubDate>
+      <description></description>
+      <category>Lainnya</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Feedzai</job:company>
     </item>
   </channel>
 </rss>
