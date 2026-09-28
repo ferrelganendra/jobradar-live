@@ -5,7 +5,31 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Mon, 28 Sep 2026 09:21:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 09:52:46 +0000</lastBuildDate>
+    <item>
+      <title>Strategic Account Executive - Manufacturing</title>
+      <link>https://www.arbeitnow.ch/jobs/companies/celonis/remote-strategic-account-executive-manufacturing-437379</link>
+      <guid isPermaLink="false">290103</guid>
+      <pubDate>Mon, 28 Sep 2026 09:52:45 +0000</pubDate>
+      <description>&lt;div class="content-intro"&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis and its global e</description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>celonis</job:company>
+    </item>
+    <item>
+      <title>Frontend Engineer</title>
+      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410</link>
+      <guid isPermaLink="false">290137</guid>
+      <pubDate>Mon, 28 Sep 2026 09:52:45 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Ireland</job:location>
+      <job:company>Bjak </job:company>
+    </item>
     <item>
       <title>Freelancer - Kundenservice Mobilfunk Inbound - EU, außerhalb Deutschland - 100% Remote</title>
       <link>https://www.arbeitnow.com/jobs/companies/hey-contact-heroes-gmbh/freelancer-kundenservice-mobilfunk-inbound-eu-ausserhalb-deutschland-100-remote-berlin-443971</link>
@@ -41,18 +65,6 @@
       <job:salary></job:salary>
       <job:location>Remote Deutschland</job:location>
       <job:company>Bikeleasing</job:company>
-    </item>
-    <item>
-      <title>Frontend Engineer</title>
-      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420</link>
-      <guid isPermaLink="false">289826</guid>
-      <pubDate>Mon, 28 Sep 2026 09:21:47 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Singapore</job:location>
-      <job:company>Bjak </job:company>
     </item>
     <item>
       <title>Customs Specialist (Europe)</title>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Think Academy US</job:company>
-    </item>
-    <item>
-      <title>CX AI &amp; Automation Lead</title>
-      <link>https://www.arbeitnow.co.uk/jobs/companies/remotecom/cx-ai-automation-lead-350049</link>
-      <guid isPermaLink="false">284310</guid>
-      <pubDate>Sun, 27 Sep 2026 16:32:33 +0000</pubDate>
-      <description>&lt;div class="content-intro"&gt;&lt;h2&gt;&lt;strong&gt;About Remote&lt;/strong&gt;&lt;/h2&gt; &lt;div&gt;&lt;span style="font-size: 12pt; font-family: helvetica, arial, sans-serif;"&gt;Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focus</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>remotecom</job:company>
     </item>
   </channel>
 </rss>
