@@ -173495,42 +173495,18 @@
     "is_foreign": true
   },
   {
-    "id": 303147,
-    "created_at": "2026-09-29 16:29:01",
-    "source": "arbeitnow",
-    "title": "Network Developer",
-    "company": "Share",
-    "location": "Remote",
-    "url": "https://www.arbeitnow.ch/jobs/companies/share/remote-network-developer-269751",
-    "salary": "",
-    "tags": [
-      "Network Engineering"
-    ],
-    "remote": true,
-    "description": "<p style=\"min-height:1.5em\"><strong>Senior Network Developer</strong></p><p style=\"min-height:1.5em\"><strong>About Share</strong></p><p style=\"min-height:1.5em\">Share is the global marketplace for bandwidth. We aggregate telco infrastructure across Africa (fiber routes, subsea capacity, data centers, cloud on-ramps) into a single intelligence layer. That lets ISPs, hyperscalers and AI companies get connectivity where they need it in seconds, not months.</p><p style=\"min-height:1.5em\">Today, bandwidth is bought and sold through slow, private, one-off deals, with almost no price transparency. We're replacing that with one neutral exchange: an API on top of real infrastructure, with prices set by actual supply and demand. It's already live across East Africa, with thousands of kilometers of fiber, 12 infrastructure providers, 10 data centers, and around 8 million people served.</p><p style=\"min-height:1.5em\"><strong>The Role</strong></p><p style=\"min-height:1.5em\">Our network is the foundation of the product. Every route a customer provisions through our API has to exist, perform and stay up on real hardware. We're hiring a Senior Network Developer to design and build that network as software: a distributed, multi-provider fabric that engineers change through code, not by logging into devices.</p><p style=\"min-height:1.5em\">You'll own the network architecture end to end. That covers our BGP edge (transit, peering at KIXP and LINX, private interconnects with hyperscalers), the backbone, and the PoPs and data centers we're adding across the continent. You'll set the standards our network is built to, which partner ISPs connecting to us will inherit. As we grow, you'll also help build the network engineering team.</p><p style=\"min-height:1.5em\"><strong>What you'll do</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Design the backbone and PoP architecture as standard, repeatable building blocks, from edge to data center, so we can add capacity and ",
-    "requirements": "",
-    "benefits": "",
-    "is_it": true,
-    "role": "IT",
-    "industry": "Teknologi",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
-    "id": 303148,
-    "created_at": "2026-09-29 16:29:01",
+    "id": 303336,
+    "created_at": "2026-09-29 17:33:45",
     "source": "arbeitnow",
     "title": "Network Operation Engineer",
     "company": "Share",
     "location": "Remote",
-    "url": "https://www.arbeitnow.ch/jobs/companies/share/remote-network-operation-engineer-411432",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/share/remote-network-operation-engineer-282287",
     "salary": "",
     "tags": [
       "Network Engineering"
     ],
-    "remote": true,
+    "remote": false,
     "description": "<p style=\"min-height:1.5em\">Network Operations Engineer</p><p style=\"min-height:1.5em\">1. About the role</p><p style=\"min-height:1.5em\">Share is the global marketplace for bandwidth. We aggregate telco infrastructure into a single layer and give ISPs, hyperscalers, and AI companies a clean path to deliver connectivity into every home and business across Kenya and the continent. Behind that marketplace is a real network: a BGP edge peering with Tier 1 transit, hyperscalers, and local exchanges, an MPLS backbone, aggregation and access gear, and the systems that watch all of it.</p><p style=\"min-height:1.5em\">For the partners who run on us, the network is the product, and the NOC is where they feel it. A clean shift is a partner who never knew anything happened. That is the bar.</p><p style=\"min-height:1.5em\">We are early and the team is small, so we cannot afford a pair of hands that only knows how to escalate. We need a capable network engineer who can stand a shift, resolve real faults without waking anyone, and then keep building the network while East Africa sleeps: propagation and peering checks, health passes across the estate, config changes through to merge, tickets off the board, automation that takes the next repetitive job off everyone's plate. The watching is the floor of this role, not the ceiling.</p><p style=\"min-height:1.5em\">The NOC you would be joining is not a legacy one. We are building it as an AI assisted operations environment from the ground up. The forwarding plane runs on open source routing and forwarding software, every device configuration lives in Git, and an LLM layer sits on top of the live network state. When something moves, that layer reads the telemetry, correlates it against the topology and the config history, and puts a probable cause and a candidate fix in front of the engineer on shift. The point is not to replace your judgment. It is to collapse the time between an alert firing and you knowing where to look, so mean time to r",
     "requirements": "",
     "benefits": "",
@@ -173543,13 +173519,37 @@
     "is_foreign": true
   },
   {
-    "id": 303218,
-    "created_at": "2026-09-29 16:29:01",
+    "id": 303407,
+    "created_at": "2026-09-29 17:33:45",
+    "source": "arbeitnow",
+    "title": "Network Developer",
+    "company": "Share",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.fr/jobs/companies/share/remote-network-developer-190327",
+    "salary": "",
+    "tags": [
+      "Network Engineering"
+    ],
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\"><strong>Senior Network Developer</strong></p><p style=\"min-height:1.5em\"><strong>About Share</strong></p><p style=\"min-height:1.5em\">Share is the global marketplace for bandwidth. We aggregate telco infrastructure across Africa (fiber routes, subsea capacity, data centers, cloud on-ramps) into a single intelligence layer. That lets ISPs, hyperscalers and AI companies get connectivity where they need it in seconds, not months.</p><p style=\"min-height:1.5em\">Today, bandwidth is bought and sold through slow, private, one-off deals, with almost no price transparency. We're replacing that with one neutral exchange: an API on top of real infrastructure, with prices set by actual supply and demand. It's already live across East Africa, with thousands of kilometers of fiber, 12 infrastructure providers, 10 data centers, and around 8 million people served.</p><p style=\"min-height:1.5em\"><strong>The Role</strong></p><p style=\"min-height:1.5em\">Our network is the foundation of the product. Every route a customer provisions through our API has to exist, perform and stay up on real hardware. We're hiring a Senior Network Developer to design and build that network as software: a distributed, multi-provider fabric that engineers change through code, not by logging into devices.</p><p style=\"min-height:1.5em\">You'll own the network architecture end to end. That covers our BGP edge (transit, peering at KIXP and LINX, private interconnects with hyperscalers), the backbone, and the PoPs and data centers we're adding across the continent. You'll set the standards our network is built to, which partner ISPs connecting to us will inherit. As we grow, you'll also help build the network engineering team.</p><p style=\"min-height:1.5em\"><strong>What you'll do</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Design the backbone and PoP architecture as standard, repeatable building blocks, from edge to data center, so we can add capacity and ",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "IT",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 303516,
+    "created_at": "2026-09-29 17:33:45",
     "source": "remoteok",
     "title": "Frontend Engineer",
     "company": "Bjak ",
-    "location": "Singapore",
-    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
+    "location": "Ireland",
+    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
     "salary": "",
     "tags": [
       "front end",
