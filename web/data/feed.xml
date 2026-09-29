@@ -5,7 +5,31 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Tue, 29 Sep 2026 03:31:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 04:02:36 +0000</lastBuildDate>
+    <item>
+      <title>Senior Experience Engineer</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/parity/remote-senior-experience-engineer-802</link>
+      <guid isPermaLink="false">298114</guid>
+      <pubDate>Tue, 29 Sep 2026 04:02:35 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Parity is one of the world’s most experienced companies building the core infrastructure behind blockchain — the system that allows information and value to be shared securely without needing an intermediary. We’re laying the foundation for a better web which respects the freedom and data of individuals, and empow</description>
+      <category>Marketing</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>Parity</job:company>
+    </item>
+    <item>
+      <title>Frontend Engineer</title>
+      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420</link>
+      <guid isPermaLink="false">298259</guid>
+      <pubDate>Tue, 29 Sep 2026 04:02:35 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Singapore</job:location>
+      <job:company>Bjak </job:company>
+    </item>
     <item>
       <title>Staff Software Engineer - Security Agent</title>
       <link>https://www.arbeitnow.com/jobs/companies/datadog/remote-staff-software-engineer-security-agent-321424</link>
@@ -41,42 +65,6 @@
       <job:salary></job:salary>
       <job:location>Munich, Hybrid</job:location>
       <job:company>TWAICE</job:company>
-    </item>
-    <item>
-      <title>Senior Experience Engineer</title>
-      <link>https://www.arbeitnow.com/jobs/companies/parity/remote-senior-experience-engineer-129490</link>
-      <guid isPermaLink="false">297737</guid>
-      <pubDate>Tue, 29 Sep 2026 03:31:36 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Parity is one of the world’s most experienced companies building the core infrastructure behind blockchain — the system that allows information and value to be shared securely without needing an intermediary. We’re laying the foundation for a better web which respects the freedom and data of individuals, and empow</description>
-      <category>Marketing</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Parity</job:company>
-    </item>
-    <item>
-      <title>Strategic Account Executive - Manufacturing</title>
-      <link>https://www.arbeitnow.ch/jobs/companies/celonis/remote-strategic-account-executive-manufacturing-437379</link>
-      <guid isPermaLink="false">297948</guid>
-      <pubDate>Tue, 29 Sep 2026 03:31:36 +0000</pubDate>
-      <description>&lt;div class="content-intro"&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis and its global e</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>celonis</job:company>
-    </item>
-    <item>
-      <title>Frontend Engineer</title>
-      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410</link>
-      <guid isPermaLink="false">297955</guid>
-      <pubDate>Tue, 29 Sep 2026 03:31:36 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Ireland</job:location>
-      <job:company>Bjak </job:company>
     </item>
     <item>
       <title>Senior Social Media Manager:in (gn)</title>
@@ -605,6 +593,18 @@
       <job:salary></job:salary>
       <job:location>Hamburg</job:location>
       <job:company>ReciMe</job:company>
+    </item>
+    <item>
+      <title>Chief Technology Officer</title>
+      <link>https://www.arbeitnow.com/jobs/companies/worldwide-placement-limited/chief-technology-officer-dortmund-339770</link>
+      <guid isPermaLink="false">291967</guid>
+      <pubDate>Mon, 28 Sep 2026 16:28:18 +0000</pubDate>
+      <description>&lt;ul&gt; &lt;li&gt;Location: Kassel , Germany&lt;/li&gt; &lt;li&gt;Work Policy: Remote-first within Germany; optional office days; not advertised as fully remote internationally&lt;/li&gt; &lt;li&gt;Work Experience: Several years in a CTO/VP Engineering (or similar) role within FinTech or banking&lt;/li&gt; &lt;li&gt;Language Requirement: English C1, German C1&lt;/li&gt; &lt;li&gt;Employment Type: Full-time&lt;/li&gt; &lt;li&gt;Technical Skills Required: Engineering</description>
+      <category>Finance</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Dortmund</job:location>
+      <job:company>Worldwide Placement Limited</job:company>
     </item>
   </channel>
 </rss>
