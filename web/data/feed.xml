@@ -5,7 +5,19 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Tue, 29 Sep 2026 06:37:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 07:08:40 +0000</lastBuildDate>
+    <item>
+      <title>Frontend Engineer</title>
+      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420</link>
+      <guid isPermaLink="false">300106</guid>
+      <pubDate>Tue, 29 Sep 2026 07:08:38 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Singapore</job:location>
+      <job:company>Bjak </job:company>
+    </item>
     <item>
       <title>Sales Development Representative</title>
       <link>https://www.arbeitnow.com/jobs/companies/cosuno/sales-development-representative-berlin-99711</link>
@@ -113,30 +125,6 @@
       <job:salary></job:salary>
       <job:location>Germany (Remote)</job:location>
       <job:company>Xentral</job:company>
-    </item>
-    <item>
-      <title>Strategic Account Executive - Manufacturing</title>
-      <link>https://www.arbeitnow.ch/jobs/companies/celonis/remote-strategic-account-executive-manufacturing-437379</link>
-      <guid isPermaLink="false">299791</guid>
-      <pubDate>Tue, 29 Sep 2026 06:37:34 +0000</pubDate>
-      <description>&lt;div class="content-intro"&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis and its global e</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>celonis</job:company>
-    </item>
-    <item>
-      <title>Frontend Engineer</title>
-      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410</link>
-      <guid isPermaLink="false">299798</guid>
-      <pubDate>Tue, 29 Sep 2026 06:37:34 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Ireland</job:location>
-      <job:company>Bjak </job:company>
     </item>
     <item>
       <title>Founding Sales Development Representative (Europe)</title>
@@ -601,6 +589,18 @@
       <pubDate>Mon, 28 Sep 2026 22:09:02 +0000</pubDate>
       <description></description>
       <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Nextiva</job:company>
+    </item>
+    <item>
+      <title>Inside Sales Representative (Customer Expansion)</title>
+      <link>https://jobicy.com/jobs/154151-inside-sales-representative-customer-expansion</link>
+      <guid isPermaLink="false">295526</guid>
+      <pubDate>Mon, 28 Sep 2026 22:09:02 +0000</pubDate>
+      <description></description>
+      <category>Sales</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
       <job:location></job:location>
