@@ -5,7 +5,55 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Wed, 30 Sep 2026 06:16:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:50:44 +0000</lastBuildDate>
+    <item>
+      <title>Head of Client Operations (m/w/d)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/everfield/head-of-client-operations-krumbach-271026</link>
+      <guid isPermaLink="false">306782</guid>
+      <pubDate>Wed, 30 Sep 2026 06:50:43 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;Head of Client Operations (m/w/d)&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Krumbach, Bayern · Hybrid&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;Über Everfield&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Everfield kauft, baut und entwickelt europäische Anbieter vertikaler Marktsoftware und Speziallösungen weiter und stattet sie mit den Werkzeugen aus, die sie für die näch</description>
+      <category>HR</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Germany - Krumbach | Hybrid</job:location>
+      <job:company>Everfield</job:company>
+    </item>
+    <item>
+      <title>Working Student - Brand &amp; Visual Design</title>
+      <link>https://www.arbeitnow.com/jobs/companies/apheris/remote-working-student-brand-visual-design-153128</link>
+      <guid isPermaLink="false">306798</guid>
+      <pubDate>Wed, 30 Sep 2026 06:50:43 +0000</pubDate>
+      <description>&lt;br&gt;&lt;strong&gt;About Apheris&lt;/strong&gt;&lt;p&gt;&lt;span style="border:0px solid rgb(229,231,235);font-family:Montserrat, sans-serif, Inter, Arial, Helvetica, sans-serif;color:rgb(66,66,66);font-size:14px;font-style:normal;font-weight:400;text-transform:none;background-color:rgb(255,255,255);display:inline;"&gt;At Apheris, we are building the future of how AI is applied in pharmaceutical R&amp;D. We enable leading pha</description>
+      <category>Marketing</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Germany - Remote</job:location>
+      <job:company>Apheris</job:company>
+    </item>
+    <item>
+      <title>Senior Software Engineer, Quality</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-quality-203673</link>
+      <guid isPermaLink="false">306871</guid>
+      <pubDate>Wed, 30 Sep 2026 06:50:43 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;Camunda is &lt;strong&gt;the enterprise platform for agentic orchestration&lt;/strong&gt;, enabling organizations to coordinate &lt;strong&gt;AI agents, people, and systems &lt;/strong&gt;across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>Camunda</job:company>
+    </item>
+    <item>
+      <title>Frontend Engineer</title>
+      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420</link>
+      <guid isPermaLink="false">307062</guid>
+      <pubDate>Wed, 30 Sep 2026 06:50:43 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Singapore</job:location>
+      <job:company>Bjak </job:company>
+    </item>
     <item>
       <title>AI-Native Static Ad Designer</title>
       <link>https://www.arbeitnow.ch/jobs/companies/uplane/remote-ai-native-static-ad-designer-209081</link>
@@ -41,30 +89,6 @@
       <job:salary></job:salary>
       <job:location>remote</job:location>
       <job:company>Uplane</job:company>
-    </item>
-    <item>
-      <title>Senior Software Engineer, Quality</title>
-      <link>https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-quality-4113</link>
-      <guid isPermaLink="false">306694</guid>
-      <pubDate>Wed, 30 Sep 2026 06:16:11 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;Camunda is &lt;strong&gt;the enterprise platform for agentic orchestration&lt;/strong&gt;, enabling organizations to coordinate &lt;strong&gt;AI agents, people, and systems &lt;/strong&gt;across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Camunda</job:company>
-    </item>
-    <item>
-      <title>Frontend Engineer</title>
-      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410</link>
-      <guid isPermaLink="false">306746</guid>
-      <pubDate>Wed, 30 Sep 2026 06:16:11 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Ireland</job:location>
-      <job:company>Bjak </job:company>
     </item>
     <item>
       <title>Werkstudent (m/w/d) Marketing &amp; E-Commerce (Remote)</title>
@@ -581,30 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Quora</job:company>
-    </item>
-    <item>
-      <title>Director Of Space Operations (FedD190)</title>
-      <link>https://jobicy.com/jobs/154208-director-of-space-operations-fedd190</link>
-      <guid isPermaLink="false">304197</guid>
-      <pubDate>Wed, 30 Sep 2026 02:03:15 +0000</pubDate>
-      <description></description>
-      <category>Operations</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Defense Unicorns</job:company>
-    </item>
-    <item>
-      <title>FDE Data Engineer- Space (FedD141/FedD147)</title>
-      <link>https://jobicy.com/jobs/154213-fde-data-engineer-space-fedd141-fedd147</link>
-      <guid isPermaLink="false">304198</guid>
-      <pubDate>Wed, 30 Sep 2026 02:03:15 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Defense Unicorns</job:company>
     </item>
   </channel>
 </rss>
