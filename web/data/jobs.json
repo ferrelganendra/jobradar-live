@@ -183327,18 +183327,18 @@
     "is_foreign": true
   },
   {
-    "id": 319596,
-    "created_at": "2026-10-04 17:46:35",
+    "id": 319855,
+    "created_at": "2026-10-04 18:48:23",
     "source": "arbeitnow",
     "title": "Senior Web Compatibility Engineer",
     "company": "Duck Duck Go",
     "location": "Remote",
-    "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-web-compatibility-engineer-379161",
+    "url": "https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-senior-web-compatibility-engineer-341573",
     "salary": "",
     "tags": [
       "Engineering"
     ],
-    "remote": true,
+    "remote": false,
     "description": "<h1><strong>Who We Are</strong></h1><p style=\"min-height:1.5em\">Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/introducing-duckduckgo-for-mac/\">Mac</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/windows-browser-open-beta/\">Windows</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/duckduckgo-privacy-browser-ios14/\">iOS</a>, and <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/introducing-app-tracking-protection/\">Android</a>, our <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duckduckgo.com/\">search engine</a>, and the latest — <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/meetprivacypro/\">Privacy Pro</a>. Our <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duckduckgo.com/how-we-work\">culture</a> of trust, inclusivity, and empowered project management underpins everything we do, where each team member takes full ownership of their projects, from scoping and execution to postmortem. If you're seeking end-to-end ownership of your work — you've come to the right place!</p><p style=\"min-height:1.5em\"></p><h1><strong>Your Team and Role</strong></h1><p style=\"min-height:1.5em\">Working on the Web Dependability Engineering team, you'll make sure websites just work in DuckDuckGo's browsers across Mac, Windows, iOS, and Android, helping ensure our users have the best-possible experienc",
     "requirements": "",
     "benefits": "",
@@ -183351,18 +183351,18 @@
     "is_foreign": true
   },
   {
-    "id": 319597,
-    "created_at": "2026-10-04 17:46:35",
+    "id": 319856,
+    "created_at": "2026-10-04 18:48:23",
     "source": "arbeitnow",
     "title": "Senior Privacy Engineer",
     "company": "Duck Duck Go",
     "location": "Remote",
-    "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-111342",
+    "url": "https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-366025",
     "salary": "",
     "tags": [
       "Engineering"
     ],
-    "remote": true,
+    "remote": false,
     "description": "<h1><strong>Who We Are</strong></h1><p style=\"min-height:1.5em\">Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on on <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/introducing-duckduckgo-for-mac/\">Mac</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/windows-browser-open-beta/\">Windows</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/duckduckgo-privacy-browser-ios14/\">iOS</a>, and <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/introducing-app-tracking-protection/\">Android</a>, our <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duckduckgo.com/\">search engine</a>, and the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duckduckgo.com/pro\">DuckDuckGo subscription</a>. We also offer private, useful, and optional AI, including <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duck.ai/\">Duck.ai</a>, which lets you chat privately with ChatGPT, Claude, and other AIs, all in one place. Our <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duckduckgo.com/how-we-work\">culture</a> of trust, inclusivity, and empowered project management underpins everything we do, where each team member takes full ownership of their projects, from scoping and execution to postmortem. If you're seeking end-to-end ownership of your work, you've come to the right place!</p><p style=\"min-height:1.5em\"></p><h1><strong>Your Team and",
     "requirements": "",
     "benefits": "",
@@ -183375,13 +183375,13 @@
     "is_foreign": true
   },
   {
-    "id": 319657,
-    "created_at": "2026-10-04 17:46:35",
+    "id": 319954,
+    "created_at": "2026-10-04 18:48:23",
     "source": "remoteok",
     "title": "Frontend Engineer",
     "company": "Bjak ",
-    "location": "Singapore",
-    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
+    "location": "Ireland",
+    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
     "salary": "",
     "tags": [
       "front end",
