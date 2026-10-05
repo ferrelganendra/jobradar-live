@@ -185011,18 +185011,43 @@
     "is_foreign": true
   },
   {
-    "id": 326934,
-    "created_at": "2026-10-05 14:31:37",
+    "id": 327075,
+    "created_at": "2026-10-05 15:02:38",
+    "source": "arbeitnow",
+    "title": "Senior IT Project Manager (m/w/d)",
+    "company": "noris network AG",
+    "location": "Nuremberg",
+    "url": "https://www.arbeitnow.com/jobs/companies/noris-network-ag/senior-it-project-manager-nuremberg-310994",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Project Management"
+    ],
+    "remote": true,
+    "description": "<p>Die noris network AG steht für innovative, sichere und nachhaltige IT-Lösungen. Mit über 600 engagierten Mitarbeitenden entwickeln wir</p>\n<p>leistungsstarke Services in den Bereichen Cloud, Datacenter, Network &#x26; Security sowie Managed Applications – betrieben auf einer hochmodernen, mehrfach zertifizierten IT-Infrastruktur mit eigenen Hochsicherheitsrechenzentren. Seit 1993 sind wir kontinuierlich gewachsen und zählen heute zu den führenden IT-Spezialisten in Deutschland. Unser größtes Kapital? Ein starkes, diverses Team mit einem gemeinsamen Ziel: die digitale Zukunft unserer Kunden aktiv mitzugestalten. Deshalb fördern wir Eigenverantwortung, Weiterentwicklung</p>\n<p>und frische Ideen – in einem Umfeld, das Innovation und Nachhaltigkeit vereint. Möchtest Du Teil unseres Teams an den Standorten <strong>Nürnberg, Aschheim, Berlin und remote (innerhalb Deutschlands)</strong> sein, dann bewirb Dich als:</p>\n<h2>Aufgaben</h2>\n<ul>\n<li>Eigenverantwortliche Leitung komplexer Kunden-, IT-Outsourcing- und Transitionsprojekte – von der initialen Planung über das Risikomanagement bis zum erfolgreichen Abschluss</li>\n<li>Umfassende Projektplanung inklusive aktivem Controlling, Ressourcen-, Meilenstein- und Stakeholder-management sowie Erstellung von realistischen und ganzheitlichen Projektplänen</li>\n<li>Souveräne Kommunikation, transparentes Reporting und Abstimmung auf C-Level, Leitung von Management-Meetings und effektives Eskalationsmanagement, auch in kritischen Projektphasen</li>\n</ul>\n<h2>Qualifikation</h2>\n<ul>\n<li>Abgeschlossenes Studium (z.B. Wirtschaftsinformatik, BWL) oder vergleichbare Qualifikation mit<br>\nrelevanter Berufserfahrung</li>\n<li>Mehrjährige Erfahrung in der Leitung komplexer IT-Projekte und in der fachlichen Führung von Projektteams</li>\n<li>Fundierte Kenntnisse in Projektmanagementmethoden und -standards (Zertifizierung wie PMI PMP oder<br>\nGPM Level C+ von Vorteil), sowie der Analyse von Verträgen</li>\n<li>Sicherer Umgang mit Projektmanag",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "IT",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 327291,
+    "created_at": "2026-10-05 15:02:38",
     "source": "arbeitnow",
     "title": "Content Editor",
     "company": "Higgsfield",
     "location": "Remote",
-    "url": "https://www.arbeitnow.fr/jobs/companies/higgsfield/remote-content-editor-133934",
+    "url": "https://www.arbeitnow.ch/jobs/companies/higgsfield/remote-content-editor-407861",
     "salary": "",
     "tags": [
       "Customer Experience"
     ],
-    "remote": false,
+    "remote": true,
     "description": "<p style=\"min-height:1.5em\"><strong>Why work at Higgsfield AI?</strong></p><p style=\"min-height:1.5em\">Higgsfield AI is the fastest-scaling generative AI company in history, hitting $700M in annual revenue run rate, 30M+ users worldwide, 6M+ generations per day, and powering 390 of Fortune 500 brands.</p><p style=\"min-height:1.5em\">We write a lot, and it's read by millions of people around the world. Our content team is already strong, and now we want to make it stronger. You'll be the native voice of the brand: everything our users read will go through you.</p><p style=\"min-height:1.5em\"><strong>What you will work on</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Reviewing and editing the team's copy across the blog, Help Center, changelog, Creator Hub, case studies, PR and news, newsletters, product updates, and UI text;</p></li><li><p style=\"min-height:1.5em\">Fact-checking every piece before it ships: checking model and feature names against the product;</p></li><li><p style=\"min-height:1.5em\">Keeping facts consistent across every surface, so the same number reads the same in the blog, Help Center, landing pages, and press releases;</p></li><li><p style=\"min-height:1.5em\">Shaping content for AI answers: a direct answer up front, question-based headings, useful FAQs, and internal links;</p></li><li><p style=\"min-height:1.5em\">Keeping the writing alive and human, with no traces of AI or template-speak;</p></li><li><p style=\"min-height:1.5em\">Working on tone, rhythm and clarity, not just fixing grammar;</p></li><li><p style=\"min-height:1.5em\">Writing your own pieces too, including editorial work like our Inside Higgsfield series;</p></li><li><p style=\"min-height:1.5em\">Holding one consistent brand voice across everything we publish.</p></li></ul><p style=\"min-height:1.5em\"><strong>Your must haves</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">English as your native language;</p></li><li><p style=\"min-height:1.5em\">",
     "requirements": "",
     "benefits": "",
@@ -185035,18 +185060,18 @@
     "is_foreign": true
   },
   {
-    "id": 326962,
-    "created_at": "2026-10-05 14:31:37",
+    "id": 327299,
+    "created_at": "2026-10-05 15:02:38",
     "source": "arbeitnow",
     "title": "Senior Web Compatibility Engineer",
     "company": "Duck Duck Go",
     "location": "Remote",
-    "url": "https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-senior-web-compatibility-engineer-341573",
+    "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-web-compatibility-engineer-379161",
     "salary": "",
     "tags": [
       "Engineering"
     ],
-    "remote": false,
+    "remote": true,
     "description": "<h1><strong>Who We Are</strong></h1><p style=\"min-height:1.5em\">Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/introducing-duckduckgo-for-mac/\">Mac</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/windows-browser-open-beta/\">Windows</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/duckduckgo-privacy-browser-ios14/\">iOS</a>, and <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/introducing-app-tracking-protection/\">Android</a>, our <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duckduckgo.com/\">search engine</a>, and the latest — <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/meetprivacypro/\">Privacy Pro</a>. Our <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duckduckgo.com/how-we-work\">culture</a> of trust, inclusivity, and empowered project management underpins everything we do, where each team member takes full ownership of their projects, from scoping and execution to postmortem. If you're seeking end-to-end ownership of your work — you've come to the right place!</p><p style=\"min-height:1.5em\"></p><h1><strong>Your Team and Role</strong></h1><p style=\"min-height:1.5em\">Working on the Web Dependability Engineering team, you'll make sure websites just work in DuckDuckGo's browsers across Mac, Windows, iOS, and Android, helping ensure our users have the best-possible experienc",
     "requirements": "",
     "benefits": "",
@@ -185059,18 +185084,18 @@
     "is_foreign": true
   },
   {
-    "id": 326963,
-    "created_at": "2026-10-05 14:31:37",
+    "id": 327300,
+    "created_at": "2026-10-05 15:02:38",
     "source": "arbeitnow",
     "title": "Senior Privacy Engineer",
     "company": "Duck Duck Go",
     "location": "Remote",
-    "url": "https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-366025",
+    "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-111342",
     "salary": "",
     "tags": [
       "Engineering"
     ],
-    "remote": false,
+    "remote": true,
     "description": "<h1><strong>Who We Are</strong></h1><p style=\"min-height:1.5em\">Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on on <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/introducing-duckduckgo-for-mac/\">Mac</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/windows-browser-open-beta/\">Windows</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/duckduckgo-privacy-browser-ios14/\">iOS</a>, and <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/introducing-app-tracking-protection/\">Android</a>, our <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duckduckgo.com/\">search engine</a>, and the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duckduckgo.com/pro\">DuckDuckGo subscription</a>. We also offer private, useful, and optional AI, including <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duck.ai/\">Duck.ai</a>, which lets you chat privately with ChatGPT, Claude, and other AIs, all in one place. Our <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duckduckgo.com/how-we-work\">culture</a> of trust, inclusivity, and empowered project management underpins everything we do, where each team member takes full ownership of their projects, from scoping and execution to postmortem. If you're seeking end-to-end ownership of your work, you've come to the right place!</p><p style=\"min-height:1.5em\"></p><h1><strong>Your Team and",
     "requirements": "",
     "benefits": "",
@@ -185083,13 +185108,13 @@
     "is_foreign": true
   },
   {
-    "id": 327054,
-    "created_at": "2026-10-05 14:31:37",
+    "id": 327354,
+    "created_at": "2026-10-05 15:02:38",
     "source": "remoteok",
     "title": "Frontend Engineer",
     "company": "Bjak ",
-    "location": "Ireland",
-    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
+    "location": "Singapore",
+    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
     "salary": "",
     "tags": [
       "front end",
