@@ -183656,18 +183656,45 @@
     "is_foreign": true
   },
   {
-    "id": 320774,
-    "created_at": "2026-10-05 02:37:07",
+    "id": 320993,
+    "created_at": "2026-10-05 03:08:06",
+    "source": "arbeitnow",
+    "title": "Security Engineer (Hybrid or Remote)",
+    "company": "Vivid",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.fr/jobs/companies/vivid/security-engineer-hybrid-or-remote-470182",
+    "salary": "",
+    "tags": [
+      "Security",
+      "Security Engineer",
+      "Information Security Engineer",
+      "Information Security"
+    ],
+    "remote": false,
+    "description": "<br><strong>About The Role</strong><p><p>We’re looking for a <strong>Security Engineer</strong> to own and improve the security of our internal environment — the identities, SaaS apps, endpoints, AI tooling, and networks our employees use every day. This is a hands-on senior role: we expect you to design controls, find the gaps, and drive the changes that close them — and to build the automation that makes it scale.</p><p>We’re an EMI-licensed fintech in a fully cloud-native AWS environment, we use AI heavily, and we’re growing fast. We need someone who can lead technical initiatives independently, influence our security architecture, challenge approaches that no longer fit, and explain it clearly to engineers and leadership.</p></p><br><strong>Your Mission</strong><p><strong>Detection &amp; Response (SIEM) — our top priority</strong><ul><li>Own SIEM alerting end-to-end: ship logs from endpoints, IdP, VPN, SaaS, and cloud; write and tune detection rules; cut false positives.</li><li>Act as first responder for security incidents — investigate, contain, drive to closure with clear runbooks — and feed recurring issues back into preventive controls.</li></ul><strong>Identity, Access &amp; SaaS</strong><ul><li>Administer the IdP (SSO via SAML/OIDC, MFA, conditional access) and run access recertification end-to-end across IdP, SaaS, AWS, and internal tools — scope, evidence, follow-through on revocations.</li><li>Hunt down over-permissive and stale access, enforce least privilege and PAM, catch SoD gaps, and make JML and third-party access work in practice.</li><li>Improve SaaS security posture (Google/Microsoft, Slack, GitHub, others) and apply DLP controls to limit data leakage.</li></ul><strong>Endpoint, Email &amp; Phishing Defense</strong><ul><li>Keep the endpoint stack healthy and well-tuned — MDM, XDR/AV, device-compliance checks for VPN/ZTNA — and define posture requirements (disk encryption, EDR present, OS version) with automated remediation.</li><li>Defend agai",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "IT",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 320997,
+    "created_at": "2026-10-05 03:08:06",
     "source": "arbeitnow",
     "title": "Content Editor",
     "company": "Higgsfield",
     "location": "Remote",
-    "url": "https://www.arbeitnow.ch/jobs/companies/higgsfield/remote-content-editor-407861",
+    "url": "https://www.arbeitnow.fr/jobs/companies/higgsfield/remote-content-editor-133934",
     "salary": "",
     "tags": [
       "Customer Experience"
     ],
-    "remote": true,
+    "remote": false,
     "description": "<p style=\"min-height:1.5em\"><strong>Why work at Higgsfield AI?</strong></p><p style=\"min-height:1.5em\">Higgsfield AI is the fastest-scaling generative AI company in history, hitting $700M in annual revenue run rate, 30M+ users worldwide, 6M+ generations per day, and powering 390 of Fortune 500 brands.</p><p style=\"min-height:1.5em\">We write a lot, and it's read by millions of people around the world. Our content team is already strong, and now we want to make it stronger. You'll be the native voice of the brand: everything our users read will go through you.</p><p style=\"min-height:1.5em\"><strong>What you will work on</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Reviewing and editing the team's copy across the blog, Help Center, changelog, Creator Hub, case studies, PR and news, newsletters, product updates, and UI text;</p></li><li><p style=\"min-height:1.5em\">Fact-checking every piece before it ships: checking model and feature names against the product;</p></li><li><p style=\"min-height:1.5em\">Keeping facts consistent across every surface, so the same number reads the same in the blog, Help Center, landing pages, and press releases;</p></li><li><p style=\"min-height:1.5em\">Shaping content for AI answers: a direct answer up front, question-based headings, useful FAQs, and internal links;</p></li><li><p style=\"min-height:1.5em\">Keeping the writing alive and human, with no traces of AI or template-speak;</p></li><li><p style=\"min-height:1.5em\">Working on tone, rhythm and clarity, not just fixing grammar;</p></li><li><p style=\"min-height:1.5em\">Writing your own pieces too, including editorial work like our Inside Higgsfield series;</p></li><li><p style=\"min-height:1.5em\">Holding one consistent brand voice across everything we publish.</p></li></ul><p style=\"min-height:1.5em\"><strong>Your must haves</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">English as your native language;</p></li><li><p style=\"min-height:1.5em\">",
     "requirements": "",
     "benefits": "",
@@ -183680,18 +183707,18 @@
     "is_foreign": true
   },
   {
-    "id": 320782,
-    "created_at": "2026-10-05 02:37:07",
+    "id": 321025,
+    "created_at": "2026-10-05 03:08:06",
     "source": "arbeitnow",
     "title": "Senior Web Compatibility Engineer",
     "company": "Duck Duck Go",
     "location": "Remote",
-    "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-web-compatibility-engineer-379161",
+    "url": "https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-senior-web-compatibility-engineer-341573",
     "salary": "",
     "tags": [
       "Engineering"
     ],
-    "remote": true,
+    "remote": false,
     "description": "<h1><strong>Who We Are</strong></h1><p style=\"min-height:1.5em\">Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/introducing-duckduckgo-for-mac/\">Mac</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/windows-browser-open-beta/\">Windows</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/duckduckgo-privacy-browser-ios14/\">iOS</a>, and <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/introducing-app-tracking-protection/\">Android</a>, our <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duckduckgo.com/\">search engine</a>, and the latest — <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/meetprivacypro/\">Privacy Pro</a>. Our <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duckduckgo.com/how-we-work\">culture</a> of trust, inclusivity, and empowered project management underpins everything we do, where each team member takes full ownership of their projects, from scoping and execution to postmortem. If you're seeking end-to-end ownership of your work — you've come to the right place!</p><p style=\"min-height:1.5em\"></p><h1><strong>Your Team and Role</strong></h1><p style=\"min-height:1.5em\">Working on the Web Dependability Engineering team, you'll make sure websites just work in DuckDuckGo's browsers across Mac, Windows, iOS, and Android, helping ensure our users have the best-possible experienc",
     "requirements": "",
     "benefits": "",
@@ -183704,18 +183731,18 @@
     "is_foreign": true
   },
   {
-    "id": 320783,
-    "created_at": "2026-10-05 02:37:07",
+    "id": 321026,
+    "created_at": "2026-10-05 03:08:06",
     "source": "arbeitnow",
     "title": "Senior Privacy Engineer",
     "company": "Duck Duck Go",
     "location": "Remote",
-    "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-111342",
+    "url": "https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-366025",
     "salary": "",
     "tags": [
       "Engineering"
     ],
-    "remote": true,
+    "remote": false,
     "description": "<h1><strong>Who We Are</strong></h1><p style=\"min-height:1.5em\">Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on on <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/introducing-duckduckgo-for-mac/\">Mac</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/windows-browser-open-beta/\">Windows</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/duckduckgo-privacy-browser-ios14/\">iOS</a>, and <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/introducing-app-tracking-protection/\">Android</a>, our <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duckduckgo.com/\">search engine</a>, and the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duckduckgo.com/pro\">DuckDuckGo subscription</a>. We also offer private, useful, and optional AI, including <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duck.ai/\">Duck.ai</a>, which lets you chat privately with ChatGPT, Claude, and other AIs, all in one place. Our <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duckduckgo.com/how-we-work\">culture</a> of trust, inclusivity, and empowered project management underpins everything we do, where each team member takes full ownership of their projects, from scoping and execution to postmortem. If you're seeking end-to-end ownership of your work, you've come to the right place!</p><p style=\"min-height:1.5em\"></p><h1><strong>Your Team and",
     "requirements": "",
     "benefits": "",
@@ -183728,13 +183755,13 @@
     "is_foreign": true
   },
   {
-    "id": 320839,
-    "created_at": "2026-10-05 02:37:07",
+    "id": 321119,
+    "created_at": "2026-10-05 03:08:06",
     "source": "remoteok",
     "title": "Frontend Engineer",
     "company": "Bjak ",
-    "location": "Singapore",
-    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
+    "location": "Ireland",
+    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
     "salary": "",
     "tags": [
       "front end",

@@ -5,12 +5,24 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Mon, 05 Oct 2026 02:37:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 03:08:07 +0000</lastBuildDate>
+    <item>
+      <title>Security Engineer (Hybrid or Remote)</title>
+      <link>https://www.arbeitnow.fr/jobs/companies/vivid/security-engineer-hybrid-or-remote-470182</link>
+      <guid isPermaLink="false">320993</guid>
+      <pubDate>Mon, 05 Oct 2026 03:08:06 +0000</pubDate>
+      <description>&lt;br&gt;&lt;strong&gt;About The Role&lt;/strong&gt;&lt;p&gt;&lt;p&gt;We’re looking for a &lt;strong&gt;Security Engineer&lt;/strong&gt; to own and improve the security of our internal environment — the identities, SaaS apps, endpoints, AI tooling, and networks our employees use every day. This is a hands-on senior role: we expect you to design controls, find the gaps, and drive the changes that close them — and to build the automation t</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>Vivid</job:company>
+    </item>
     <item>
       <title>Content Editor</title>
-      <link>https://www.arbeitnow.ch/jobs/companies/higgsfield/remote-content-editor-407861</link>
-      <guid isPermaLink="false">320774</guid>
-      <pubDate>Mon, 05 Oct 2026 02:37:07 +0000</pubDate>
+      <link>https://www.arbeitnow.fr/jobs/companies/higgsfield/remote-content-editor-133934</link>
+      <guid isPermaLink="false">320997</guid>
+      <pubDate>Mon, 05 Oct 2026 03:08:06 +0000</pubDate>
       <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;Why work at Higgsfield AI?&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Higgsfield AI is the fastest-scaling generative AI company in history, hitting $700M in annual revenue run rate, 30M+ users worldwide, 6M+ generations per day, and powering 390 of Fortune 500 brands.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;We write a lot, and it's read by millions of people around the wor</description>
       <category>Sales</category>
       <job:remote>true</job:remote>
@@ -20,9 +32,9 @@
     </item>
     <item>
       <title>Senior Web Compatibility Engineer</title>
-      <link>https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-web-compatibility-engineer-379161</link>
-      <guid isPermaLink="false">320782</guid>
-      <pubDate>Mon, 05 Oct 2026 02:37:07 +0000</pubDate>
+      <link>https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-senior-web-compatibility-engineer-341573</link>
+      <guid isPermaLink="false">321025</guid>
+      <pubDate>Mon, 05 Oct 2026 03:08:06 +0000</pubDate>
       <description>&lt;h1&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/h1&gt;&lt;p style="min-height:1.5em"&gt;Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on &lt;a target="_blank" rel="noopener noreferrer nofollow" class="ProsemirrorEditor-link" href=</description>
       <category>Sales</category>
       <job:remote>true</job:remote>
@@ -32,9 +44,9 @@
     </item>
     <item>
       <title>Senior Privacy Engineer</title>
-      <link>https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-111342</link>
-      <guid isPermaLink="false">320783</guid>
-      <pubDate>Mon, 05 Oct 2026 02:37:07 +0000</pubDate>
+      <link>https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-366025</link>
+      <guid isPermaLink="false">321026</guid>
+      <pubDate>Mon, 05 Oct 2026 03:08:06 +0000</pubDate>
       <description>&lt;h1&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/h1&gt;&lt;p style="min-height:1.5em"&gt;Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on on &lt;a target="_blank" rel="noopener noreferrer nofollow" class="ProsemirrorEditor-link" hr</description>
       <category>Sales</category>
       <job:remote>true</job:remote>
@@ -44,14 +56,14 @@
     </item>
     <item>
       <title>Frontend Engineer</title>
-      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420</link>
-      <guid isPermaLink="false">320839</guid>
-      <pubDate>Mon, 05 Oct 2026 02:37:07 +0000</pubDate>
+      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410</link>
+      <guid isPermaLink="false">321119</guid>
+      <pubDate>Mon, 05 Oct 2026 03:08:06 +0000</pubDate>
       <description></description>
       <category>Teknologi</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
-      <job:location>Singapore</job:location>
+      <job:location>Ireland</job:location>
       <job:company>Bjak </job:company>
     </item>
     <item>
@@ -588,18 +600,6 @@
       <guid isPermaLink="false">319039</guid>
       <pubDate>Sun, 04 Oct 2026 17:15:46 +0000</pubDate>
       <description>&lt;br&gt;&lt;strong&gt;Your mission&lt;/strong&gt;&lt;p&gt;&lt;p&gt;&lt;strong&gt;We have challenging tasks for you:&lt;/strong&gt;&lt;br&gt;&lt;br&gt;As a Data Platform Engineer, you will be responsible for building and evolving modern cloud platforms for Data &amp; AI. Together with our team and our clients, you will develop platforms that can be operated in a scalable, secure, and sustainable manner.&lt;/p&gt;&lt;p&gt;In doing so, you will combine cloud infrastr</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Headoffice Onsite/Hybrid Essen</job:location>
-      <job:company>Ruhrdot Gmbh</job:company>
-    </item>
-    <item>
-      <title>(Senior) Consultant Data &amp; AI (f/m/d)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/ruhrdot-gmbh/senior-consultant-data-ai-headoffice-onsite-hybrid-essen-307385</link>
-      <guid isPermaLink="false">319040</guid>
-      <pubDate>Sun, 04 Oct 2026 17:15:46 +0000</pubDate>
-      <description>&lt;br&gt;&lt;strong&gt;Your mission&lt;/strong&gt;&lt;p&gt;&lt;p&gt;&lt;strong&gt;We have challenging tasks for you:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;As a (Senior) Consultant Data &amp; AI, you will guide our clients from the initial question to architecture and the concrete implementation of modern Data &amp; AI solutions. You navigate confidently between consulting, architecture, and technology while taking ownership of key building blocks in our client p</description>
       <category>Teknologi</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
