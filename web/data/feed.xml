@@ -5,7 +5,19 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Tue, 06 Oct 2026 22:57:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 23:28:38 +0000</lastBuildDate>
+    <item>
+      <title>Frontend Engineer</title>
+      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410</link>
+      <guid isPermaLink="false">341363</guid>
+      <pubDate>Tue, 06 Oct 2026 23:28:37 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Ireland</job:location>
+      <job:company>Bjak </job:company>
+    </item>
     <item>
       <title>Data Engineer - Senior Consultant</title>
       <link>https://www.arbeitnow.co.uk/jobs/companies/opencast/data-engineer-senior-consultant-hybrid-newcastle-edinburgh-glasgow-leeds-manchester-birmingham-bristol-london-127299</link>
@@ -17,18 +29,6 @@
       <job:salary></job:salary>
       <job:location>Hybrid - Newcastle, Edinburgh, Glasgow, Leeds, Manchester, Birmingham, Bristol, London</job:location>
       <job:company>Opencast</job:company>
-    </item>
-    <item>
-      <title>Frontend Engineer</title>
-      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420</link>
-      <guid isPermaLink="false">341056</guid>
-      <pubDate>Tue, 06 Oct 2026 22:57:36 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Singapore</job:location>
-      <job:company>Bjak </job:company>
     </item>
     <item>
       <title>Senior Mobile Engineer - Grafana Ops - IRM | Germany | Remote</title>
