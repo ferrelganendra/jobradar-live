@@ -5,17 +5,29 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Tue, 06 Oct 2026 22:26:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 22:57:38 +0000</lastBuildDate>
+    <item>
+      <title>Data Engineer - Senior Consultant</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/opencast/data-engineer-senior-consultant-hybrid-newcastle-edinburgh-glasgow-leeds-manchester-birmingham-bristol-london-127299</link>
+      <guid isPermaLink="false">340894</guid>
+      <pubDate>Tue, 06 Oct 2026 22:57:36 +0000</pubDate>
+      <description>&lt;h2&gt;&lt;span data-ccp-charstyle="Strong"&gt;Ready to build data platforms, not just pipelines?&lt;/span&gt;&lt;/h2&gt; &lt;div&gt; &lt;p&gt;&lt;span data-ccp-props="{"134233117":false,"134233118":false,"201341983":0,"335559738":0,"335559739":0,"335559740":240}"&gt; &lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-contrast="auto"&gt;&lt;span data-ccp-parastyle="Normal (Web)"&gt;At Opencast, we believe great data engineering is about more than moving and transformin</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Hybrid - Newcastle, Edinburgh, Glasgow, Leeds, Manchester, Birmingham, Bristol, London</job:location>
+      <job:company>Opencast</job:company>
+    </item>
     <item>
       <title>Frontend Engineer</title>
-      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410</link>
-      <guid isPermaLink="false">340748</guid>
-      <pubDate>Tue, 06 Oct 2026 22:26:36 +0000</pubDate>
+      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420</link>
+      <guid isPermaLink="false">341056</guid>
+      <pubDate>Tue, 06 Oct 2026 22:57:36 +0000</pubDate>
       <description></description>
       <category>Teknologi</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
-      <job:location>Ireland</job:location>
+      <job:location>Singapore</job:location>
       <job:company>Bjak </job:company>
     </item>
     <item>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>grafanalabs</job:company>
-    </item>
-    <item>
-      <title>Physician - Clinical AI Expert (Remote)</title>
-      <link>https://www.arbeitnow.co.uk/jobs/companies/aptura/physician-clinical-ai-expert-remote-united-kingdom-305025</link>
-      <guid isPermaLink="false">338971</guid>
-      <pubDate>Tue, 06 Oct 2026 19:51:35 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;We are seeking physicians to review, validate and design clinical tasks to help advance frontier AI models across a range of clinical scenarios and formats.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;The project is designed to surface where models perform poorly in clinical scenarios such missed findings, incorrect clinical information, overconfidence or failure to seek context bef</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>United Kingdom</job:location>
-      <job:company>Aptura</job:company>
     </item>
   </channel>
 </rss>

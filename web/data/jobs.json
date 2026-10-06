@@ -35512,30 +35512,6 @@
     "is_foreign": true
   },
   {
-    "id": 29222,
-    "created_at": "2026-08-16 17:07:11",
-    "source": "arbeitnow",
-    "title": "Technical CRM Specialist",
-    "company": "Quantum",
-    "location": "London (hybrid)",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/technical-crm-specialist-london-454053",
-    "salary": "",
-    "tags": [
-      "CRM"
-    ],
-    "remote": false,
-    "description": "<p style=\"min-height:1.5em\"><strong>Our Company<br /></strong>At Quantum, we connect global brands with high-intent consumers. We turn intent into action and complexity into clarity.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Our Mission is clear, to help smarter, faster buying decisions. Our vision, to be the world’s most used digital comparison service, delivering value and simplicity to millions.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We drive growth through data-driven affiliate marketing built for performance from day one. Every campaign is measurable, optimised in real time, and designed to scale.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">With in-house tech, full-stack analytics, and a compliance-first mindset, we give our partners an edge. We drive confident decisions and growth in regulated and high-growth sectors. We’ve helped ambitious brands grow faster, smarter, and globally.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>The Role</strong></p><p style=\"min-height:1.5em\">Our CRM team is growing. We’re looking for a Technical CRM Specialist to join our affiliate marketing business in London.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">This is an opportunity for someone with some experience with either Adobe campaign or SFMC, as well as HTML, SQL queries, and JavaScript, to support the team in delivering a customer-centric, automated experience across email, SMS, and messaging channels.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">In this role, you’ll be supporting the CRM Technical Manager as well as CRM team and its wider ecosystem, using tools such as SparkPost, Email on Acid, Adobe, Salesforce Marketing Cloud, SMS integrations, Adobe Campaign and Rebrandly.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">You’ll work on the end-to-end delivery of CRM initiatives that rely on data and systems so you must have the tec",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
-    "industry": "Teknologi",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 29617,
     "created_at": "2026-08-16 18:10:13",
     "source": "jobicy",
@@ -38917,30 +38893,6 @@
     "benefits": "",
     "is_it": true,
     "role": "SWE",
-    "industry": "Teknologi",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
-    "id": 38420,
-    "created_at": "2026-08-17 23:41:13",
-    "source": "arbeitnow",
-    "title": "Head of Data Engineering",
-    "company": "Quantum",
-    "location": "London (hybrid)",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/head-of-data-engineering-london-441668",
-    "salary": "",
-    "tags": [
-      "Technology"
-    ],
-    "remote": false,
-    "description": "<p style=\"min-height:1.5em\"><strong>Our Company<br /></strong>At Quantum, we connect global brands with high-intent consumers. We turn intent into action and complexity into clarity.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Our Mission is clear, to help smarter, faster buying decisions. Our vision, to be the world’s most used digital comparison service, delivering value and simplicity to millions.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We drive growth through data-driven affiliate marketing built for performance from day one. Every campaign is measurable, optimised in real time, and designed to scale.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">With in-house tech, full-stack analytics, and a compliance-first mindset, we give our partners an edge. We drive confident decisions and growth in regulated and high-growth sectors. We’ve helped ambitious brands grow faster, smarter, and globally.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>The Role</strong></p><p style=\"min-height:1.5em\">Our Data Engineering team is growing! We're looking for a Head of Data Engineering to join our team in London.</p><p style=\"min-height:1.5em\">In this role you will lead the data engineering team that powers the Quantum Platform, own the technical strategy and delivery roadmap for our data infrastructure, and turn business ambition into intelligence that scales.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Key Responsibilities</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Build, lead and develop a high-performing data engineering team, recruiting and retaining engineers who take pride in what they ship and how it performs</p></li><li><p style=\"min-height:1.5em\">Set and own the data engineering technical strategy, so our data infrastructure scales with the business</p></li><li><p style=\"min-height:1.5em\">Lead the delivery roadmap, meeting business obj",
-    "requirements": "",
-    "benefits": "",
-    "is_it": true,
-    "role": "AI",
     "industry": "Teknologi",
     "remote_ok": true,
     "id_city": null,
@@ -189546,13 +189498,37 @@
     "is_foreign": true
   },
   {
-    "id": 340748,
-    "created_at": "2026-10-06 22:26:36",
+    "id": 340894,
+    "created_at": "2026-10-06 22:57:36",
+    "source": "arbeitnow",
+    "title": "Data Engineer - Senior Consultant",
+    "company": "Opencast",
+    "location": "Hybrid - Newcastle, Edinburgh, Glasgow, Leeds, Manchester, Birmingham, Bristol, London",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/opencast/data-engineer-senior-consultant-hybrid-newcastle-edinburgh-glasgow-leeds-manchester-birmingham-bristol-london-127299",
+    "salary": "",
+    "tags": [
+      "Data engineering"
+    ],
+    "remote": false,
+    "description": "<h2><span data-ccp-charstyle=\"Strong\">Ready to build data platforms, not just pipelines?</span></h2>\n<div>\n<p><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}\">&nbsp;</span></p>\n<p><span data-contrast=\"auto\"><span data-ccp-parastyle=\"Normal (Web)\">At Opencast, we believe great data engineering is about more than moving and transforming data.&nbsp;</span><span data-ccp-parastyle=\"Normal (Web)\">It's</span><span data-ccp-parastyle=\"Normal (Web)\">&nbsp;about creating reliable, scalable foundations that help organisations make better decisions and deliver better services.</span></span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}\">&nbsp;</span></p>\n<p>&nbsp;</p>\n<p><span data-contrast=\"auto\"><span data-ccp-parastyle=\"Normal (Web)\">Our consultants tackle complex engineering challenges across integration, migration,&nbsp;</span><span data-ccp-parastyle=\"Normal (Web)\">modelling</span><span data-ccp-parastyle=\"Normal (Web)\">&nbsp;and platform design, working with Microsoft Fabric,&nbsp;</span><span data-ccp-parastyle=\"Normal (Web)\">Azure</span><span data-ccp-parastyle=\"Normal (Web)\">&nbsp;and modern data technologies. We value engineering craft, thoughtful problem-solving and building solutions that are simple,&nbsp;</span><span data-ccp-parastyle=\"Normal (Web)\">robust</span><span data-ccp-parastyle=\"Normal (Web)\">&nbsp;and built to last.</span></span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}\">&nbsp;</span></p>\n<p>&nbsp;</p>\n<p><span data-contrast=\"auto\"><span data-ccp-parastyle=\"Normal (Web)\">As our data engineering capability continues to grow,&nbsp;</span><span data-ccp-parastyle=\"N",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "AI",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 341056,
+    "created_at": "2026-10-06 22:57:36",
     "source": "remoteok",
     "title": "Frontend Engineer",
     "company": "Bjak ",
-    "location": "Ireland",
-    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
+    "location": "Singapore",
+    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
     "salary": "",
     "tags": [
       "front end",
