@@ -5,7 +5,31 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Tue, 06 Oct 2026 04:03:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 04:34:26 +0000</lastBuildDate>
+    <item>
+      <title>Content Editor</title>
+      <link>https://www.arbeitnow.fr/jobs/companies/higgsfield/remote-content-editor-133934</link>
+      <guid isPermaLink="false">331283</guid>
+      <pubDate>Tue, 06 Oct 2026 04:34:26 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;Why work at Higgsfield AI?&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Higgsfield AI is the fastest-scaling generative AI company in history, hitting $700M in annual revenue run rate, 30M+ users worldwide, 6M+ generations per day, and powering 390 of Fortune 500 brands.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;We write a lot, and it's read by millions of people around the wor</description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>Higgsfield</job:company>
+    </item>
+    <item>
+      <title>Frontend Engineer</title>
+      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410</link>
+      <guid isPermaLink="false">331370</guid>
+      <pubDate>Tue, 06 Oct 2026 04:34:26 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Ireland</job:location>
+      <job:company>Bjak </job:company>
+    </item>
     <item>
       <title>Maintainer (m/dw/d)</title>
       <link>https://www.arbeitnow.com/jobs/companies/velptec/remote-maintainer-m-dw-d-342684</link>
@@ -17,30 +41,6 @@
       <job:salary></job:salary>
       <job:location>Remote (Deutschland)</job:location>
       <job:company>Velptec</job:company>
-    </item>
-    <item>
-      <title>Content Editor</title>
-      <link>https://www.arbeitnow.ch/jobs/companies/higgsfield/remote-content-editor-407861</link>
-      <guid isPermaLink="false">331011</guid>
-      <pubDate>Tue, 06 Oct 2026 04:03:26 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;Why work at Higgsfield AI?&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Higgsfield AI is the fastest-scaling generative AI company in history, hitting $700M in annual revenue run rate, 30M+ users worldwide, 6M+ generations per day, and powering 390 of Fortune 500 brands.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;We write a lot, and it's read by millions of people around the wor</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Higgsfield</job:company>
-    </item>
-    <item>
-      <title>Frontend Engineer</title>
-      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420</link>
-      <guid isPermaLink="false">331066</guid>
-      <pubDate>Tue, 06 Oct 2026 04:03:26 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Singapore</job:location>
-      <job:company>Bjak </job:company>
     </item>
     <item>
       <title>Senior Web Compatibility Engineer</title>
