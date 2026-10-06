@@ -141636,31 +141636,6 @@
     "is_foreign": true
   },
   {
-    "id": 224387,
-    "created_at": "2026-09-18 08:42:19",
-    "source": "arbeitnow",
-    "title": "Senior Java Developer - E-Commerce + Accounting & Marketplaces - remote in EU",
-    "company": "pathway solutions gmbh",
-    "location": "Hamburg",
-    "url": "https://www.arbeitnow.com/jobs/companies/pathway-solutions-gmbh/senior-java-developer-e-commerce-accounting-marketplaces-remote-in-eu-hamburg-475855",
-    "salary": "",
-    "tags": [
-      "Remote",
-      "IT"
-    ],
-    "remote": true,
-    "description": "<p>At p<strong>athway Solutions GmbH</strong>, we're on a mission to automate accounting for E-Commerce and SaaS companies. Our goal is to free 10,000 entrepreneurs from the burden of manual bookkeeping so they can focus on what they do best: growing their business.<br>\nWe are a fast-paced, fully remote company experiencing significant customer growth, and we're looking for passionate builders to join us.</p>\n<p><strong>The Opportunity: own the domain of infrastructure</strong></p>\n<p>We are looking for a highly motivated Senior Java Developer to join our team at Pathway. You will be responsible for the development and maintenance of our core application, specifically focusing on our <strong>billing</strong> and <strong>invoice generation systems.</strong> We need someone who is not only a strong coder but also proactive, eager to master new technologies, and capable of solving complex infrastructure and concurrency challenges.</p>\n<h2>Tasks</h2>\n<ul>\n<li><strong>Application Development:</strong> Design, develop, and maintain robust billing applications and features (e.g., invoice generation systems) using Java 25.</li>\n<li><strong>Concurrency &#x26; Performance:</strong> Architect and manage highly concurrent, multi-threaded application logic to ensure memory efficiency and system stability.</li>\n<li><strong>Infrastructure &#x26; DevOps:</strong> Take ownership of infrastructure tasks, ensuring our systems are scalable, reliable, and well-maintained.</li>\n<li><strong>Database Management:</strong> Utilize and optimize both SQL and NoSQL databases (e.g., Bigtable) to handle our evolving data requirements.</li>\n<li><strong>Integrations:</strong> Design and maintain high-quality API integrations, utilizing modern standards like Swagger/OpenAPI.</li>\n<li><strong>Cloud Operations:</strong> Implement and manage solutions within cloud environments (GCP preferred)</li>\n</ul>\n<h2>Requirements</h2>\n<ul>\n<li><strong>5+ years of professional experience</strong> in backend devel",
-    "requirements": "",
-    "benefits": "",
-    "is_it": true,
-    "role": "SWE",
-    "industry": "Teknologi",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 224390,
     "created_at": "2026-09-18 08:42:19",
     "source": "arbeitnow",
@@ -187777,13 +187752,38 @@
     "is_foreign": true
   },
   {
-    "id": 336024,
-    "created_at": "2026-10-06 14:41:37",
+    "id": 336046,
+    "created_at": "2026-10-06 15:12:41",
+    "source": "arbeitnow",
+    "title": "Senior Java Developer - E-Commerce + Accounting & Marketplaces - remote in EU",
+    "company": "pathway solutions gmbh",
+    "location": "Hamburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/pathway-solutions-gmbh/senior-java-developer-e-commerce-accounting-marketplaces-remote-in-eu-hamburg-488375",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "IT"
+    ],
+    "remote": true,
+    "description": "<p>At p<strong>athway Solutions GmbH</strong>, we're on a mission to automate accounting for E-Commerce and SaaS companies. Our goal is to free 10,000 entrepreneurs from the burden of manual bookkeeping so they can focus on what they do best: growing their business.<br>\nWe are a fast-paced, fully remote company experiencing significant customer growth, and we're looking for passionate builders to join us.</p>\n<p><strong>The Opportunity: own the domain of infrastructure</strong></p>\n<p>We are looking for a highly motivated Senior Java Developer to join our team at Pathway. You will be responsible for the development and maintenance of our core application, specifically focusing on our <strong>billing</strong> and <strong>invoice generation systems.</strong> We need someone who is not only a strong coder but also proactive, eager to master new technologies, and capable of solving complex infrastructure and concurrency challenges.</p>\n<h2>Tasks</h2>\n<ul>\n<li><strong>Application Development:</strong> Design, develop, and maintain robust billing applications and features (e.g., invoice generation systems) using Java 25.</li>\n<li><strong>Concurrency &#x26; Performance:</strong> Architect and manage highly concurrent, multi-threaded application logic to ensure memory efficiency and system stability.</li>\n<li><strong>Infrastructure &#x26; DevOps:</strong> Take ownership of infrastructure tasks, ensuring our systems are scalable, reliable, and well-maintained.</li>\n<li><strong>Database Management:</strong> Utilize and optimize both SQL and NoSQL databases (e.g., Bigtable) to handle our evolving data requirements.</li>\n<li><strong>Integrations:</strong> Design and maintain high-quality API integrations, utilizing modern standards like Swagger/OpenAPI.</li>\n<li><strong>Cloud Operations:</strong> Implement and manage solutions within cloud environments (GCP preferred)</li>\n</ul>\n<h2>Requirements</h2>\n<ul>\n<li><strong>5+ years of professional experience</strong> in backend devel",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "SWE",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 336341,
+    "created_at": "2026-10-06 15:12:41",
     "source": "remoteok",
     "title": "Frontend Engineer",
     "company": "Bjak ",
-    "location": "Singapore",
-    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
+    "location": "Ireland",
+    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
     "salary": "",
     "tags": [
       "front end",
