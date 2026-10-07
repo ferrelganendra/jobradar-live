@@ -192066,30 +192066,6 @@
     "is_foreign": true
   },
   {
-    "id": 348279,
-    "created_at": "2026-10-07 16:06:38",
-    "source": "arbeitnow",
-    "title": "Manager, Engineering - Identity",
-    "company": "Camunda",
-    "location": "Remote",
-    "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-manager-engineering-identity-33160",
-    "salary": "",
-    "tags": [
-      "Products"
-    ],
-    "remote": true,
-    "description": "<p style=\"min-height:1.5em\">Camunda is <strong>the enterprise platform for agentic orchestration</strong>, enabling organizations to coordinate <strong>AI agents, people, and systems </strong>across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. <strong>Trusted by over 700 organizations worldwide</strong>, including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences.<br /><br /><strong>Fully remote and global,</strong> we are in the middle of something bigger: <strong>transforming into an AI-first organisation, built on our own platform</strong>. We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team.<br /><br />Named <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.gpbullhound.com/articles/top-100-next-unicorns-the-uk-france-and-germany-lead-with-the-most-promising-technology-companies-in-europe/\"><u>GP Bullhound’s Top 100 Next Unicorn list,</u></a> <strong>2025 Great Place to Work certified.</strong> <em><strong>Visionary</strong></em><strong> </strong>in <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://page.camunda.com/wp-2025-gartner-magic-quadrant-for-boat\"><strong><u>2025 Gartner® Magic Quadrant™</u></strong></a><strong> </strong>for Business Orchestration and Automation Technologies. ranked <strong>3rd in Flexa's 2026 </strong><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://flexa.careers/companies/camunda\"><strong>Most Flexible Companies</strong></a>, We’re growing fast and looking for top talent to join our team. <strong>If you want meaningful work, visible impact and put something genuinely rare on your CV, keep reading.</strong></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>About the Role",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
-    "industry": "Finance",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 348280,
     "created_at": "2026-10-07 16:06:38",
     "source": "arbeitnow",
@@ -192248,31 +192224,6 @@
     "is_foreign": true
   },
   {
-    "id": 348450,
-    "created_at": "2026-10-07 16:06:38",
-    "source": "arbeitnow",
-    "title": "Responsable commercial forêts H/F",
-    "company": "RH Partners",
-    "location": "Poste à distance",
-    "url": "https://www.arbeitnow.fr/jobs/companies/rh-partners/remote-responsable-commercial-forets-h-f-dijon-45452",
-    "salary": "",
-    "tags": [
-      "Commerce et Vente",
-      "Remote"
-    ],
-    "remote": true,
-    "description": "<p>Vous êtes passionné par les produits techniques, le terrain et le développement commercial ? Rejoignez un acteur européen reconnu dans les équipements de protection individuelle dédiés aux professionnels de la forêt, de l'élagage et de la motoculture.</p><p>Chez nous, vous n'êtes pas uniquement commercial : vous êtes l'ambassadeur de la marque sur le marché français et le trait d'union entre les utilisateurs, les distributeurs et les équipes de développement produit.</p><p style=\"min-height: 1.7em;\"></p><p><strong>Vos missions</strong></p><p>Véritable ambassadeur de la marque en France, vous développez les ventes auprès d'un réseau de distributeurs spécialisés et accompagnez les utilisateurs finaux (bûcherons, élagueurs, ONF, écoles forestières...).</p><p>Très présent sur le terrain, vous participez à une douzaine de salons professionnels chaque année, animez des démonstrations, formez les utilisateurs et accompagnez les équipes commerciales lors de rendez-vous stratégiques.</p><p>Au-delà du développement commercial, vous apportez votre expertise technique, réalisez une veille marché afin d'identifier les besoins des clients et les évolutions de la concurrence. Vous travaillez en étroite collaboration avec le siège en Belgique pour contribuer au développement des futurs produits.</p><p style=\"min-height: 1.7em;\"></p> <br> <p><strong>Votre profil</strong></p><p>Vous justifiez d'une première expérience dans les EPI, la motoculture, le matériel forestier, les vêtements techniques ou un secteur proche.</p><p>Curieux, autonome et proche du terrain, vous aimez le contact client et les produits techniques. Vous êtes à l'aise en anglais pour échanger avec le siège et appréciez les déplacements réguliers en France et en Europe.</p><p>Vous intégrerez une entreprise innovante où vous occuperez un poste riche et polyvalent, mêlant développement commercial, expertise technique et participation à l'évolution des produits.</p><p style=\"min-height: 1.7em;\"></p><p><strong>Rémunér",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
-    "industry": "Teknologi",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 348485,
     "created_at": "2026-10-07 16:06:38",
     "source": "arbeitnow",
@@ -192298,13 +192249,62 @@
     "is_foreign": true
   },
   {
-    "id": 348550,
-    "created_at": "2026-10-07 16:06:38",
+    "id": 348754,
+    "created_at": "2026-10-07 16:37:37",
+    "source": "arbeitnow",
+    "title": "Responsable commercial forêts H/F",
+    "company": "RH Partners",
+    "location": "Poste à distance",
+    "url": "https://www.arbeitnow.fr/jobs/companies/rh-partners/remote-responsable-commercial-forets-h-f-bordeaux-175724",
+    "salary": "",
+    "tags": [
+      "Commerce et Vente",
+      "Remote"
+    ],
+    "remote": true,
+    "description": "<p>Vous êtes passionné par les produits techniques, le terrain et le développement commercial ? Rejoignez un acteur européen reconnu dans les équipements de protection individuelle dédiés aux professionnels de la forêt, de l'élagage et de la motoculture.</p><p>Chez nous, vous n'êtes pas uniquement commercial : vous êtes l'ambassadeur de la marque sur le marché français et le trait d'union entre les utilisateurs, les distributeurs et les équipes de développement produit.</p><p style=\"min-height: 1.7em;\"></p><p><strong>Vos missions</strong></p><p>Véritable ambassadeur de la marque en France, vous développez les ventes auprès d'un réseau de distributeurs spécialisés et accompagnez les utilisateurs finaux (bûcherons, élagueurs, ONF, écoles forestières...).</p><p>Très présent sur le terrain, vous participez à une douzaine de salons professionnels chaque année, animez des démonstrations, formez les utilisateurs et accompagnez les équipes commerciales lors de rendez-vous stratégiques.</p><p>Au-delà du développement commercial, vous apportez votre expertise technique, réalisez une veille marché afin d'identifier les besoins des clients et les évolutions de la concurrence. Vous travaillez en étroite collaboration avec le siège en Belgique pour contribuer au développement des futurs produits.</p><p style=\"min-height: 1.7em;\"></p> <br> <p><strong>Votre profil</strong></p><p>Vous justifiez d'une première expérience dans les EPI, la motoculture, le matériel forestier, les vêtements techniques ou un secteur proche.</p><p>Curieux, autonome et proche du terrain, vous aimez le contact client et les produits techniques. Vous êtes à l'aise en anglais pour échanger avec le siège et appréciez les déplacements réguliers en France et en Europe.</p><p>Vous intégrerez une entreprise innovante où vous occuperez un poste riche et polyvalent, mêlant développement commercial, expertise technique et participation à l'évolution des produits.</p><p style=\"min-height: 1.7em;\"></p><p><strong>Rémunér",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 348809,
+    "created_at": "2026-10-07 16:37:37",
+    "source": "arbeitnow",
+    "title": "Manager, Engineering - Identity",
+    "company": "Camunda",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-manager-engineering-identity-140827",
+    "salary": "",
+    "tags": [
+      "Products"
+    ],
+    "remote": true,
+    "description": "<p style=\"min-height:1.5em\">Camunda is <strong>the enterprise platform for agentic orchestration</strong>, enabling organizations to coordinate <strong>AI agents, people, and systems </strong>across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. <strong>Trusted by over 700 organizations worldwide</strong>, including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences.<br /><br /><strong>Fully remote and global,</strong> we are in the middle of something bigger: <strong>transforming into an AI-first organisation, built on our own platform</strong>. We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team.<br /><br />Named <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.gpbullhound.com/articles/top-100-next-unicorns-the-uk-france-and-germany-lead-with-the-most-promising-technology-companies-in-europe/\"><u>GP Bullhound’s Top 100 Next Unicorn list,</u></a> <strong>2025 Great Place to Work certified.</strong> <em><strong>Visionary</strong></em><strong> </strong>in <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://page.camunda.com/wp-2025-gartner-magic-quadrant-for-boat\"><strong><u>2025 Gartner® Magic Quadrant™</u></strong></a><strong> </strong>for Business Orchestration and Automation Technologies. ranked <strong>3rd in Flexa's 2026 </strong><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://flexa.careers/companies/camunda\"><strong>Most Flexible Companies</strong></a>, We’re growing fast and looking for top talent to join our team. <strong>If you want meaningful work, visible impact and put something genuinely rare on your CV, keep reading.</strong></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>About the Role",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Finance",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 348854,
+    "created_at": "2026-10-07 16:37:37",
     "source": "remoteok",
     "title": "Frontend Engineer",
     "company": "Bjak ",
-    "location": "Singapore",
-    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
+    "location": "Ireland",
+    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
     "salary": "",
     "tags": [
       "front end",
