@@ -192120,31 +192120,6 @@
     "is_foreign": true
   },
   {
-    "id": 347833,
-    "created_at": "2026-10-07 15:04:39",
-    "source": "arbeitnow",
-    "title": "Responsable commercial forêts H/F",
-    "company": "RH Partners",
-    "location": "Poste à distance",
-    "url": "https://www.arbeitnow.fr/jobs/companies/rh-partners/remote-responsable-commercial-forets-h-f-dijon-45452",
-    "salary": "",
-    "tags": [
-      "Commerce et Vente",
-      "Remote"
-    ],
-    "remote": true,
-    "description": "<p>Vous êtes passionné par les produits techniques, le terrain et le développement commercial ? Rejoignez un acteur européen reconnu dans les équipements de protection individuelle dédiés aux professionnels de la forêt, de l'élagage et de la motoculture.</p><p>Chez nous, vous n'êtes pas uniquement commercial : vous êtes l'ambassadeur de la marque sur le marché français et le trait d'union entre les utilisateurs, les distributeurs et les équipes de développement produit.</p><p style=\"min-height: 1.7em;\"></p><p><strong>Vos missions</strong></p><p>Véritable ambassadeur de la marque en France, vous développez les ventes auprès d'un réseau de distributeurs spécialisés et accompagnez les utilisateurs finaux (bûcherons, élagueurs, ONF, écoles forestières...).</p><p>Très présent sur le terrain, vous participez à une douzaine de salons professionnels chaque année, animez des démonstrations, formez les utilisateurs et accompagnez les équipes commerciales lors de rendez-vous stratégiques.</p><p>Au-delà du développement commercial, vous apportez votre expertise technique, réalisez une veille marché afin d'identifier les besoins des clients et les évolutions de la concurrence. Vous travaillez en étroite collaboration avec le siège en Belgique pour contribuer au développement des futurs produits.</p><p style=\"min-height: 1.7em;\"></p> <br> <p><strong>Votre profil</strong></p><p>Vous justifiez d'une première expérience dans les EPI, la motoculture, le matériel forestier, les vêtements techniques ou un secteur proche.</p><p>Curieux, autonome et proche du terrain, vous aimez le contact client et les produits techniques. Vous êtes à l'aise en anglais pour échanger avec le siège et appréciez les déplacements réguliers en France et en Europe.</p><p>Vous intégrerez une entreprise innovante où vous occuperez un poste riche et polyvalent, mêlant développement commercial, expertise technique et participation à l'évolution des produits.</p><p style=\"min-height: 1.7em;\"></p><p><strong>Rémunér",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
-    "industry": "Teknologi",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 347887,
     "created_at": "2026-10-07 15:04:39",
     "source": "arbeitnow",
@@ -192193,13 +192168,38 @@
     "is_foreign": true
   },
   {
-    "id": 347934,
-    "created_at": "2026-10-07 15:04:39",
+    "id": 348137,
+    "created_at": "2026-10-07 15:35:38",
+    "source": "arbeitnow",
+    "title": "Responsable commercial forêts H/F",
+    "company": "RH Partners",
+    "location": "Poste à distance",
+    "url": "https://www.arbeitnow.fr/jobs/companies/rh-partners/remote-responsable-commercial-forets-h-f-bordeaux-175724",
+    "salary": "",
+    "tags": [
+      "Commerce et Vente",
+      "Remote"
+    ],
+    "remote": true,
+    "description": "<p>Vous êtes passionné par les produits techniques, le terrain et le développement commercial ? Rejoignez un acteur européen reconnu dans les équipements de protection individuelle dédiés aux professionnels de la forêt, de l'élagage et de la motoculture.</p><p>Chez nous, vous n'êtes pas uniquement commercial : vous êtes l'ambassadeur de la marque sur le marché français et le trait d'union entre les utilisateurs, les distributeurs et les équipes de développement produit.</p><p style=\"min-height: 1.7em;\"></p><p><strong>Vos missions</strong></p><p>Véritable ambassadeur de la marque en France, vous développez les ventes auprès d'un réseau de distributeurs spécialisés et accompagnez les utilisateurs finaux (bûcherons, élagueurs, ONF, écoles forestières...).</p><p>Très présent sur le terrain, vous participez à une douzaine de salons professionnels chaque année, animez des démonstrations, formez les utilisateurs et accompagnez les équipes commerciales lors de rendez-vous stratégiques.</p><p>Au-delà du développement commercial, vous apportez votre expertise technique, réalisez une veille marché afin d'identifier les besoins des clients et les évolutions de la concurrence. Vous travaillez en étroite collaboration avec le siège en Belgique pour contribuer au développement des futurs produits.</p><p style=\"min-height: 1.7em;\"></p> <br> <p><strong>Votre profil</strong></p><p>Vous justifiez d'une première expérience dans les EPI, la motoculture, le matériel forestier, les vêtements techniques ou un secteur proche.</p><p>Curieux, autonome et proche du terrain, vous aimez le contact client et les produits techniques. Vous êtes à l'aise en anglais pour échanger avec le siège et appréciez les déplacements réguliers en France et en Europe.</p><p>Vous intégrerez une entreprise innovante où vous occuperez un poste riche et polyvalent, mêlant développement commercial, expertise technique et participation à l'évolution des produits.</p><p style=\"min-height: 1.7em;\"></p><p><strong>Rémunér",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 348236,
+    "created_at": "2026-10-07 15:35:38",
     "source": "remoteok",
     "title": "Frontend Engineer",
     "company": "Bjak ",
-    "location": "Singapore",
-    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
+    "location": "Ireland",
+    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
     "salary": "",
     "tags": [
       "front end",
