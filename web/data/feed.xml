@@ -5,7 +5,31 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Tue, 06 Oct 2026 23:59:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 01:09:54 +0000</lastBuildDate>
+    <item>
+      <title>Account Executive, Enterprise (Germany)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/purestorage/remote-account-executive-enterprise-germany-89353</link>
+      <guid isPermaLink="false">341699</guid>
+      <pubDate>Wed, 07 Oct 2026 01:09:52 +0000</pubDate>
+      <description>&lt;div class="content-intro"&gt;&lt;p&gt;Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosy</description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>purestorage</job:company>
+    </item>
+    <item>
+      <title>Frontend Engineer</title>
+      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410</link>
+      <guid isPermaLink="false">341984</guid>
+      <pubDate>Wed, 07 Oct 2026 01:09:52 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Ireland</job:location>
+      <job:company>Bjak </job:company>
+    </item>
     <item>
       <title>Analytics Engineer (Contract)</title>
       <link>https://www.arbeitnow.fr/jobs/companies/lemrock/analytics-engineer-contract-paris-474208</link>
@@ -53,18 +77,6 @@
       <job:salary></job:salary>
       <job:location>Hybrid</job:location>
       <job:company>Listan Gmbh</job:company>
-    </item>
-    <item>
-      <title>Frontend Engineer</title>
-      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420</link>
-      <guid isPermaLink="false">341672</guid>
-      <pubDate>Tue, 06 Oct 2026 23:59:36 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Singapore</job:location>
-      <job:company>Bjak </job:company>
     </item>
     <item>
       <title>Data Engineer - Senior Consultant</title>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Udacity</job:company>
-    </item>
-    <item>
-      <title>Account Executive, Product - Issuing &amp; Treasury (Hunter)</title>
-      <link>https://jobicy.com/jobs/154721-account-executive-product-issuing-treasury-hunter</link>
-      <guid isPermaLink="false">340121</guid>
-      <pubDate>Tue, 06 Oct 2026 21:24:37 +0000</pubDate>
-      <description></description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Stripe</job:company>
     </item>
   </channel>
 </rss>

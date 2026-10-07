@@ -189597,13 +189597,37 @@
     "is_foreign": true
   },
   {
-    "id": 341672,
-    "created_at": "2026-10-06 23:59:36",
+    "id": 341699,
+    "created_at": "2026-10-07 01:09:52",
+    "source": "arbeitnow",
+    "title": "Account Executive, Enterprise (Germany)",
+    "company": "purestorage",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/purestorage/remote-account-executive-enterprise-germany-89353",
+    "salary": "",
+    "tags": [
+      "Sales"
+    ],
+    "remote": true,
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem.&lt;/p&gt;\n&lt;p&gt;This type of work—work that changes the world—is what the tech industry was founded on. So, if you&#39;re ready to seize the endless opportunities and leave your mark, come join us.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;THE ROLE&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a senior Account Executive, you&#39;ll be a key player in expanding our market presence and driving new business growth within the Enterprise sector in Germany. You will lead the full sales cycle, from prospecting to close, and be the primary point of contact for our enterprise accounts across financial services, local government and healthcare. This role is a unique opportunity to directly impact our business by building strong relationships with both customers and partners and championing our innovative solutions to solve complex business challenges.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;WHAT YOU&#39;LL DO&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;p&gt;&lt;strong&gt;Lead the full sales cycle&lt;/strong&gt;&amp;nbsp;for our enterprise solutions, directing pursuit teams and executing strategic account plans to secure new customer acquisition and expand existing relationships.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;&lt;strong&gt;Drive revenue growth&lt;/strong&gt;&amp;nbsp;by actively prospecting, building a robust pipeline, and consistently exceeding your sales quotas.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;&lt;strong&gt;Develop and maintain strong relationships&lt;/strong&gt;&amp;nbsp;with key customers, ensuring high satisfaction and positioning Pur",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "IT",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 341984,
+    "created_at": "2026-10-07 01:09:52",
     "source": "remoteok",
     "title": "Frontend Engineer",
     "company": "Bjak ",
-    "location": "Singapore",
-    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
+    "location": "Ireland",
+    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
     "salary": "",
     "tags": [
       "front end",
