@@ -194208,13 +194208,37 @@
     "is_foreign": true
   },
   {
-    "id": 353001,
-    "created_at": "2026-10-08 08:20:10",
+    "id": 353314,
+    "created_at": "2026-10-08 08:51:12",
+    "source": "arbeitnow",
+    "title": "Manager, Engineering - Identity",
+    "company": "Camunda",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-manager-engineering-identity-128358",
+    "salary": "",
+    "tags": [
+      "Products"
+    ],
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\">Camunda is <strong>the enterprise platform for agentic orchestration</strong>, enabling organizations to coordinate <strong>AI agents, people, and systems </strong>across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. <strong>Trusted by over 700 organizations worldwide</strong>, including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences.<br /><br /><strong>Fully remote and global,</strong> we are in the middle of something bigger: <strong>transforming into an AI-first organisation, built on our own platform</strong>. We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team.<br /><br />Named <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.gpbullhound.com/articles/top-100-next-unicorns-the-uk-france-and-germany-lead-with-the-most-promising-technology-companies-in-europe/\"><u>GP Bullhound’s Top 100 Next Unicorn list,</u></a> <strong>2025 Great Place to Work certified.</strong> <em><strong>Visionary</strong></em><strong> </strong>in <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://page.camunda.com/wp-2025-gartner-magic-quadrant-for-boat\"><strong><u>2025 Gartner® Magic Quadrant™</u></strong></a><strong> </strong>for Business Orchestration and Automation Technologies. ranked <strong>3rd in Flexa's 2026 </strong><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://flexa.careers/companies/camunda\"><strong>Most Flexible Companies</strong></a>, We’re growing fast and looking for top talent to join our team. <strong>If you want meaningful work, visible impact and put something genuinely rare on your CV, keep reading.</strong></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>About the Role",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Finance",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 353430,
+    "created_at": "2026-10-08 08:51:12",
     "source": "arbeitnow",
     "title": "iOS Developer (Radiotech)",
     "company": "Gismart",
     "location": "Remote",
-    "url": "https://www.arbeitnow.com/jobs/companies/gismart/remote-ios-developer-radiotech-377202",
+    "url": "https://www.arbeitnow.ch/jobs/companies/gismart/remote-ios-developer-radiotech-406158",
     "salary": "",
     "tags": [
       "Mobile Engineering"
@@ -194232,13 +194256,13 @@
     "is_foreign": true
   },
   {
-    "id": 353002,
-    "created_at": "2026-10-08 08:20:10",
+    "id": 353431,
+    "created_at": "2026-10-08 08:51:12",
     "source": "arbeitnow",
     "title": "Creative Marketing Manager (DanceBit)",
     "company": "Gismart",
     "location": "Remote",
-    "url": "https://www.arbeitnow.com/jobs/companies/gismart/remote-creative-marketing-manager-dancebit-413430",
+    "url": "https://www.arbeitnow.ch/jobs/companies/gismart/remote-creative-marketing-manager-dancebit-43546",
     "salary": "",
     "tags": [
       "DanceBit"
@@ -194256,13 +194280,13 @@
     "is_foreign": true
   },
   {
-    "id": 353003,
-    "created_at": "2026-10-08 08:20:10",
+    "id": 353432,
+    "created_at": "2026-10-08 08:51:12",
     "source": "arbeitnow",
     "title": "Motion Designer (DanceBit)",
     "company": "Gismart",
     "location": "Remote",
-    "url": "https://www.arbeitnow.com/jobs/companies/gismart/remote-motion-designer-dancebit-287210",
+    "url": "https://www.arbeitnow.ch/jobs/companies/gismart/remote-motion-designer-dancebit-169389",
     "salary": "",
     "tags": [
       "DanceBit"
@@ -194280,37 +194304,13 @@
     "is_foreign": true
   },
   {
-    "id": 353168,
-    "created_at": "2026-10-08 08:20:10",
-    "source": "arbeitnow",
-    "title": "Manager, Engineering - Identity",
-    "company": "Camunda",
-    "location": "Remote",
-    "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-manager-engineering-identity-140827",
-    "salary": "",
-    "tags": [
-      "Products"
-    ],
-    "remote": true,
-    "description": "<p style=\"min-height:1.5em\">Camunda is <strong>the enterprise platform for agentic orchestration</strong>, enabling organizations to coordinate <strong>AI agents, people, and systems </strong>across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. <strong>Trusted by over 700 organizations worldwide</strong>, including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences.<br /><br /><strong>Fully remote and global,</strong> we are in the middle of something bigger: <strong>transforming into an AI-first organisation, built on our own platform</strong>. We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team.<br /><br />Named <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.gpbullhound.com/articles/top-100-next-unicorns-the-uk-france-and-germany-lead-with-the-most-promising-technology-companies-in-europe/\"><u>GP Bullhound’s Top 100 Next Unicorn list,</u></a> <strong>2025 Great Place to Work certified.</strong> <em><strong>Visionary</strong></em><strong> </strong>in <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://page.camunda.com/wp-2025-gartner-magic-quadrant-for-boat\"><strong><u>2025 Gartner® Magic Quadrant™</u></strong></a><strong> </strong>for Business Orchestration and Automation Technologies. ranked <strong>3rd in Flexa's 2026 </strong><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://flexa.careers/companies/camunda\"><strong>Most Flexible Companies</strong></a>, We’re growing fast and looking for top talent to join our team. <strong>If you want meaningful work, visible impact and put something genuinely rare on your CV, keep reading.</strong></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>About the Role",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
-    "industry": "Finance",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
-    "id": 353195,
-    "created_at": "2026-10-08 08:20:10",
+    "id": 353494,
+    "created_at": "2026-10-08 08:51:12",
     "source": "remoteok",
     "title": "Frontend Engineer",
     "company": "Bjak ",
-    "location": "Ireland",
-    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
+    "location": "Singapore",
+    "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
     "salary": "",
     "tags": [
       "front end",
@@ -194346,13 +194346,35 @@
     "is_foreign": true
   },
   {
-    "id": 353196,
-    "created_at": "2026-10-08 08:20:10",
+    "id": 353495,
+    "created_at": "2026-10-08 08:51:12",
+    "source": "jobicy",
+    "title": "Head of Design",
+    "company": "Dataiku",
+    "location": "",
+    "url": "https://jobicy.com/jobs/152711-head-of-design",
+    "salary": "",
+    "tags": [],
+    "remote": true,
+    "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Design",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 353496,
+    "created_at": "2026-10-08 08:51:12",
     "source": "jobicy",
     "title": "Customer Success Manager, Corporate",
     "company": "AlphaSense",
     "location": "",
-    "url": "https://jobicy.com/jobs/142765-customer-success-manager-corporate",
+    "url": "https://jobicy.com/jobs/147131-customer-success-manager-corporate-2",
     "salary": "",
     "tags": [],
     "remote": true,
