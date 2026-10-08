@@ -5,7 +5,19 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Thu, 08 Oct 2026 04:12:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 04:43:11 +0000</lastBuildDate>
+    <item>
+      <title>Frontend Engineer</title>
+      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420</link>
+      <guid isPermaLink="false">351056</guid>
+      <pubDate>Thu, 08 Oct 2026 04:43:10 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Singapore</job:location>
+      <job:company>Bjak </job:company>
+    </item>
     <item>
       <title>Werkstudent:in Operational Excellence (m/w/d)</title>
       <link>https://www.arbeitnow.com/jobs/companies/1komma5grad/remote-werkstudentin-operational-excellence-berlin-478364</link>
@@ -41,18 +53,6 @@
       <job:salary></job:salary>
       <job:location>München</job:location>
       <job:company>42Watt</job:company>
-    </item>
-    <item>
-      <title>Frontend Engineer</title>
-      <link>https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410</link>
-      <guid isPermaLink="false">350746</guid>
-      <pubDate>Thu, 08 Oct 2026 04:12:19 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Ireland</job:location>
-      <job:company>Bjak </job:company>
     </item>
     <item>
       <title>iOS Developer (Radiotech)</title>
