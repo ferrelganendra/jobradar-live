@@ -197572,5 +197572,54 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 358607,
+    "created_at": "2026-10-09 06:12:25",
+    "source": "arbeitnow",
+    "title": "Senior GTM Talent Partner  - Paris",
+    "company": "The Rec Hub",
+    "location": "Paris - Hybrid",
+    "url": "https://www.arbeitnow.fr/jobs/companies/the-rec-hub/senior-gtm-talent-partner-paris-134005",
+    "salary": "",
+    "tags": [
+      "Partnerships & Delivery"
+    ],
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\">🚀 <strong>Senior Talent Acquisition Partner - GTM</strong></p><p style=\"min-height:1.5em\"><strong>📄 Fixed Term Contract - 6 months</strong></p><p style=\"min-height:1.5em\">📍 <strong>Hybrid</strong> in <strong>Paris</strong></p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><p style=\"min-height:1.5em\">We’re hiring a Senior Talent Acquisition Partner to support our client, hiring across EMEA.</p><p style=\"min-height:1.5em\">It’s a broad role covering go-to-market and sales roles.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">This is a hybrid role with some office time in Paris (3 days per week).</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">You’ll be a true partner to the business, sourcing top talent, optimising processes, and delivering quality hires fast. Your work will be very visible as part of our delivery team for this client.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">🌟 What You’ll Do:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Own end-to-end hiring across key commercial business areas</p></li><li><p style=\"min-height:1.5em\">Manage the data as we hire, looking for more than just activity - helping managers make better decisions</p></li><li><p style=\"min-height:1.5em\">Build trusted partnerships with hiring managers</p></li><li><p style=\"min-height:1.5em\">Source top talent through creative and strategic methods</p></li><li><p style=\"min-height:1.5em\">Deliver a seamless, high-quality candidate experience</p></li><li><p style=\"min-height:1.5em\">Drive continuous improvement in how we hire</p></li><li><p style=\"min-height:1.5em\">Help build out recruitment strategies that will support hiring over the next 12 months</p><p style=\"min-height:1.5em\"></p></li></ul><p style=\"min-height:1.5em\">🔍 What You Bring:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">5+ years in full-cycle recruitment with a proven track record across GTM/Sales hiri",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 358623,
+    "created_at": "2026-10-09 06:12:25",
+    "source": "arbeitnow",
+    "title": "Software Engineer, Clinical AI Devices",
+    "company": "DeepHealth",
+    "location": "Remote job",
+    "url": "https://www.arbeitnow.fr/jobs/companies/deephealth/remote-software-engineer-clinical-ai-devices-paris-321935",
+    "salary": "",
+    "tags": [
+      "R&D",
+      "Remote"
+    ],
+    "remote": true,
+    "description": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><strong>Job Summary</strong></p><p class=\"MsoNormal\" style=\"text-align:justify;\">In the Clinical AI Devices team, the Software Engineer is primarily responsible for building and maintaining software in the Clinical AI domain, from wrapping deep learning models into containerized medical devices, to integration with other systems. This work spans all of the company's medical devices, across the main radiology modalities: X-Ray, CT, MRI, and Mammography. The focus of the current role is at the interface between product logic and the underlying serving platform, ensuring that requests are correctly validated, routed, and that results are properly assembled and returned.</p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p><p class=\"MsoNormal\" style=\"text-align:justify;\"><strong>Essential Duties and Responsibilities&nbsp;</strong></p><ul><li><p class=\"MsoListParagraphCxSpFirst\" style=\"text-align:justify;\">Participate in the software development process: design, refine, and develop new features, and maintain existing ones.</p></li><li><p class=\"MsoListParagraphCxSpMiddle\" style=\"text-align:justify;\">Write code, review teammates' code, and contribute to the testing framework through automated and manual tests. Work with the team lead and product manager to refine requirements.</p></li><li><p class=\"MsoListParagraphCxSpMiddle\" style=\"text-align:justify;\">Own features and projects end-to-end, from refinement to production. Flag risks and bugs by keeping the radiologist's workflow in mind. Support service and delivery teams with production issues.</p></li><li><p class=\"MsoListParagraphCxSpMiddle\" style=\"text-align:justify;\">Ensure compliance with Quality and Regulatory requirements throughout the development cycle, including technical documentation (e.g. implementation specs), cybersecurity processes, and risk analysis.</p></li><li><p class=\"MsoListParagraphCxSpLast\" style=\"text-align:justify;\">Collaborate with the te",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "SWE",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]

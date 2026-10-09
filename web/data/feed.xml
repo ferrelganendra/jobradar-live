@@ -5,7 +5,31 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Fri, 09 Oct 2026 05:41:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:12:26 +0000</lastBuildDate>
+    <item>
+      <title>Senior GTM Talent Partner  - Paris</title>
+      <link>https://www.arbeitnow.fr/jobs/companies/the-rec-hub/senior-gtm-talent-partner-paris-134005</link>
+      <guid isPermaLink="false">358607</guid>
+      <pubDate>Fri, 09 Oct 2026 06:12:25 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;🚀 &lt;strong&gt;Senior Talent Acquisition Partner - GTM&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;📄 Fixed Term Contract - 6 months&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;📍 &lt;strong&gt;Hybrid&lt;/strong&gt; in &lt;strong&gt;Paris&lt;/strong&gt;&lt;/p&gt;&lt;div style="min-height:1.2em;margin-top:0;margin-bottom:0"&gt; &lt;/div&gt;&lt;p style="min-height:1.5em"&gt;We’re hiring a Senior Talent Acquisition Partner to </description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Paris - Hybrid</job:location>
+      <job:company>The Rec Hub</job:company>
+    </item>
+    <item>
+      <title>Software Engineer, Clinical AI Devices</title>
+      <link>https://www.arbeitnow.fr/jobs/companies/deephealth/remote-software-engineer-clinical-ai-devices-paris-321935</link>
+      <guid isPermaLink="false">358623</guid>
+      <pubDate>Fri, 09 Oct 2026 06:12:25 +0000</pubDate>
+      <description>&lt;p class="MsoNormal" style="text-align:justify;"&gt;&lt;strong&gt;Job Summary&lt;/strong&gt;&lt;/p&gt;&lt;p class="MsoNormal" style="text-align:justify;"&gt;In the Clinical AI Devices team, the Software Engineer is primarily responsible for building and maintaining software in the Clinical AI domain, from wrapping deep learning models into containerized medical devices, to integration with other systems. This work spans all</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote job</job:location>
+      <job:company>DeepHealth</job:company>
+    </item>
     <item>
       <title>Operations Manager</title>
       <link>https://www.arbeitnow.co.uk/jobs/companies/fanvuecom/operations-manager-london-474408</link>
@@ -581,30 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Bloomreach</job:company>
-    </item>
-    <item>
-      <title>Senior Quality Engineer</title>
-      <link>https://jobicy.com/jobs/154871-senior-quality-engineer-3</link>
-      <guid isPermaLink="false">357189</guid>
-      <pubDate>Fri, 09 Oct 2026 03:36:02 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>StackAdapt</job:company>
-    </item>
-    <item>
-      <title>Sr. Engineering Manager, SDET</title>
-      <link>https://jobicy.com/jobs/154877-sr-engineering-manager-sdet</link>
-      <guid isPermaLink="false">357190</guid>
-      <pubDate>Fri, 09 Oct 2026 03:36:02 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Cribl</job:company>
     </item>
   </channel>
 </rss>
