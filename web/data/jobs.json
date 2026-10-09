@@ -199292,31 +199292,6 @@
     "is_foreign": true
   },
   {
-    "id": 364868,
-    "created_at": "2026-10-09 18:49:09",
-    "source": "arbeitnow",
-    "title": "M&A Manager (m/f/d)",
-    "company": "Onepage GmbH",
-    "location": "Berlin",
-    "url": "https://www.arbeitnow.com/jobs/companies/onepage-gmbh/ma-manager-berlin-326308",
-    "salary": "",
-    "tags": [
-      "Remote",
-      "Finance"
-    ],
-    "remote": true,
-    "description": "<h2>Your mission</h2>\n<p>Onepage GmbH is an AI-first SaaS company with 19,000 paying customers and over 250,000 users, making it one of the largest web presence platforms in the German-speaking market. With Onepage AI 2.0, modern, fast, and high-converting websites and landing pages are created via prompts – and remain fully controllable in the visual editor afterward.</p>\n<p>Onepage is founder-led, self-funded, and profitable, and we're starting our next chapter: Onepage is becoming a group. The website builder remains our engine. Around it, we're building a portfolio of software brands that matter to our target audience – small and medium-sized businesses and agencies.</p>\n<p>To do this, we're building a new function within the company – and we're looking for the person who builds it with us. You'll work directly with the CEO and the Finance team, build the pipeline, evaluate deals, and maintain relationships with the owners of potential targets.</p>\n<p>You don't just want to support deals — you want to think, negotiate, and decide alongside us? Join us as M&#x26;A Manager (m/f/d)!</p>\n<h2><strong>Your Responsibilities</strong></h2>\n<ul>\n<li><strong>Market Screening &#x26; Target Identification</strong>: You identify potential acquisition candidates (targets) and evaluate them together with our CEO and Finance team based on strategic criteria.</li>\n<li><strong>Deal Flow &#x26; Pipeline</strong>: You systematically build our deal flow – through direct outreach, brokers, networks, and our ecosystem of customers and agency partners – and keep the pipeline structured and up to date.</li>\n<li><strong>Engagement with Targets</strong>: You stay in direct contact with owners and management of potential target companies and build an initial basis for discussion.</li>\n<li><strong>Deal Analysis &#x26; Valuation</strong>: Together with the Finance team, you prepare company valuations (e.g., DCF, multiples-based methods) and business cases for potential transactions.</li>\n<li>",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
-    "industry": "Marketing",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 365065,
     "created_at": "2026-10-09 18:49:09",
     "source": "arbeitnow",
@@ -199461,18 +199436,43 @@
     "is_foreign": true
   },
   {
-    "id": 365071,
-    "created_at": "2026-10-09 18:49:09",
+    "id": 365162,
+    "created_at": "2026-10-09 19:20:07",
+    "source": "arbeitnow",
+    "title": "M&A Manager (m/f/d)",
+    "company": "Onepage GmbH",
+    "location": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/onepage-gmbh/ma-manager-berlin-141709",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Finance"
+    ],
+    "remote": true,
+    "description": "<h2>Deine Aufgaben</h2>\n<p>Die Onepage GmbH ist ein AI-first-SaaS-Unternehmen mit 19.000 zahlenden Kunden und über 250.000 Usern und zählt damit zu den größten Plattformen im Bereich Web-Präsenz im deutschsprachigen Raum. Mit Onepage AI 2.0 entstehen moderne, schnelle und conversionstarke Webseiten und Landingpages per Prompt – und bleiben danach im visuellen Editor vollständig steuerbar.</p>\n<p>Onepage ist gründergeführt, eigenfinanziert und profitabel, und wir starten gerade das nächste Kapitel: Aus Onepage wird eine Gruppe. Der Website-Builder bleibt unser Motor. Drumherum bauen wir ein Portfolio aus Software-Brands auf, die für unsere Zielgruppe – kleine und mittlere Unternehmen sowie Agenturen – relevant sind.<br>\nDafür bauen wir eine neue Funktion im Unternehmen auf – und suchen die Person, die sie gemeinsam mit uns aufbaut. Du arbeitest direkt mit dem CEO und dem Finance-Team, baust die Pipeline auf, bewertest Deals und pflegst den Kontakt zu Eigentümern potenzieller Targets.</p>\n<p>Du willst nicht nur Deals begleiten, sondern mitdenken, mitverhandeln und mitentscheiden? Komm als M&#x26;A Manager (m/w/d) an Bord!</p>\n<p><strong>Deine Aufgaben</strong></p>\n<ul>\n<li><strong>Marktscreening &#x26; Target Identifikation:</strong> Du identifizierst potenzielle Übernahmekandidaten (Targets) und wertest diese gemeinsam mit unserem CEO und Finance-Team nach strategischen Kriterien aus.</li>\n<li><strong>Deal-Flow &#x26; Pipeline:</strong> Du baust unseren Deal-Flow systematisch auf – über Direktansprache, Broker, Netzwerke und unser Ökosystem aus Kunden und Agenturpartnern – und hältst die Pipeline strukturiert nach.</li>\n<li><strong>Austausch mit Targets:</strong> Du stehst im direkten Austausch mit Eigentümern und Management potenzieller Zielunternehmen und baust eine erste Gesprächsbasis auf.</li>\n<li><strong>Deal-Analyse &#x26; Bewertung:</strong> Du erstellst gemeinsam mit dem Finance-Team Unternehmensbewertungen (u. a. DCF, Multiplikatorverfahren) und Business Ca",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Marketing",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 365304,
+    "created_at": "2026-10-09 19:20:07",
     "source": "arbeitnow",
     "title": "Corporate Account Executive III - NA",
     "company": "Camunda",
     "location": "Remote",
-    "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-corporate-account-executive-iii-na-240221",
+    "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-corporate-account-executive-iii-na-158544",
     "salary": "",
     "tags": [
       "Sales"
     ],
-    "remote": true,
+    "remote": false,
     "description": "<p style=\"min-height:1.5em\">Camunda is <strong>the enterprise platform for agentic orchestration</strong>, enabling organizations to coordinate <strong>AI agents, people, and systems </strong>across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. <strong>Trusted by over 700 organizations worldwide</strong>, including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences.<br /><br /><strong>Fully remote and global,</strong> we are in the middle of something bigger: <strong>transforming into an AI-first organisation, built on our own platform</strong>. We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team.<br /><br />Named <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.gpbullhound.com/articles/top-100-next-unicorns-the-uk-france-and-germany-lead-with-the-most-promising-technology-companies-in-europe/\"><u>GP Bullhound’s Top 100 Next Unicorn list,</u></a> <strong>2025 Great Place to Work certified.</strong> <em><strong>Visionary</strong></em><strong> </strong>in <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://page.camunda.com/wp-2025-gartner-magic-quadrant-for-boat\"><strong><u>2025 Gartner® Magic Quadrant™</u></strong></a><strong> </strong>for Business Orchestration and Automation Technologies. ranked <strong>3rd in Flexa's 2026 </strong><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://flexa.careers/companies/camunda\"><strong>Most Flexible Companies</strong></a>, We’re growing fast and looking for top talent to join our team. <strong>If you want meaningful work, visible impact and put something genuinely rare on your CV, keep reading.</strong></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>About the Role",
     "requirements": "",
     "benefits": "",
@@ -199485,18 +199485,18 @@
     "is_foreign": true
   },
   {
-    "id": 365072,
-    "created_at": "2026-10-09 18:49:09",
+    "id": 365305,
+    "created_at": "2026-10-09 19:20:07",
     "source": "arbeitnow",
     "title": "Enterprise Account Executive III - UAE",
     "company": "Camunda",
     "location": "Remote",
-    "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-enterprise-account-executive-iii-uae-464914",
+    "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-enterprise-account-executive-iii-uae-9718",
     "salary": "",
     "tags": [
       "Sales"
     ],
-    "remote": true,
+    "remote": false,
     "description": "<p style=\"min-height:1.5em\">Camunda is <strong>the enterprise platform for agentic orchestration</strong>, enabling organizations to coordinate <strong>AI agents, people, and systems </strong>across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. <strong>Trusted by over 700 organizations worldwide</strong>, including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences.<br /><br /><strong>Fully remote and global,</strong> we are in the middle of something bigger: <strong>transforming into an AI-first organisation, built on our own platform</strong>. We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team.<br /><br />Named <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.gpbullhound.com/articles/top-100-next-unicorns-the-uk-france-and-germany-lead-with-the-most-promising-technology-companies-in-europe/\"><u>GP Bullhound’s Top 100 Next Unicorn list,</u></a> <strong>2025 Great Place to Work certified.</strong> <em><strong>Visionary</strong></em><strong> </strong>in <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://page.camunda.com/wp-2025-gartner-magic-quadrant-for-boat\"><strong><u>2025 Gartner® Magic Quadrant™</u></strong></a><strong> </strong>for Business Orchestration and Automation Technologies. ranked <strong>3rd in Flexa's 2026 </strong><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://flexa.careers/companies/camunda\"><strong>Most Flexible Companies</strong></a>, We’re growing fast and looking for top talent to join our team. <strong>If you want meaningful work, visible impact and put something genuinely rare on your CV, keep reading.</strong></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>About the Role",
     "requirements": "",
     "benefits": "",
@@ -199509,18 +199509,18 @@
     "is_foreign": true
   },
   {
-    "id": 365073,
-    "created_at": "2026-10-09 18:49:09",
+    "id": 365306,
+    "created_at": "2026-10-09 19:20:07",
     "source": "arbeitnow",
     "title": "Senior Software Engineer, Backend - Distributed Systems",
     "company": "Camunda",
     "location": "Remote",
-    "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-417843",
+    "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-125787",
     "salary": "",
     "tags": [
       "Products"
     ],
-    "remote": true,
+    "remote": false,
     "description": "<p style=\"min-height:1.5em\">Camunda is <strong>the enterprise platform for agentic orchestration</strong>, enabling organizations to coordinate <strong>AI agents, people, and systems </strong>across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. <strong>Trusted by over 700 organizations worldwide</strong>, including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences.<br /><br /><strong>Fully remote and global,</strong> we are in the middle of something bigger: <strong>transforming into an AI-first organisation, built on our own platform</strong>. We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team.<br /><br />Named <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.gpbullhound.com/articles/top-100-next-unicorns-the-uk-france-and-germany-lead-with-the-most-promising-technology-companies-in-europe/\"><u>GP Bullhound’s Top 100 Next Unicorn list,</u></a> <strong>2025 Great Place to Work certified.</strong> <em><strong>Visionary</strong></em><strong> </strong>in <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://page.camunda.com/wp-2025-gartner-magic-quadrant-for-boat\"><strong><u>2025 Gartner® Magic Quadrant™</u></strong></a><strong> </strong>for Business Orchestration and Automation Technologies. ranked <strong>3rd in Flexa's 2026 </strong><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://flexa.careers/companies/camunda\"><strong>Most Flexible Companies</strong></a>, We’re growing fast and looking for top talent to join our team. <strong>If you want meaningful work, visible impact and put something genuinely rare on your CV, keep reading.</strong></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>About the Role",
     "requirements": "",
     "benefits": "",
