@@ -5,7 +5,31 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Fri, 09 Oct 2026 04:38:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 05:09:02 +0000</lastBuildDate>
+    <item>
+      <title>Operations Manager</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/fanvuecom/operations-manager-london-474408</link>
+      <guid isPermaLink="false">357949</guid>
+      <pubDate>Fri, 09 Oct 2026 05:09:01 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;💰 £50,000 to £60,000 depending on experience&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;📍 Salary based on London. Two days a week in the office, the rest remote.&lt;/strong&gt;&lt;/p&gt;&lt;div style="min-height:1.2em;margin-top:0;margin-bottom:0"&gt; &lt;/div&gt;&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;Fanvue is one of the fastest-growing creator monetisation platforms globally. We're</description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary>GBP 50,000</job:salary>
+      <job:location>Hybrid (London)</job:location>
+      <job:company>Fanvue.com</job:company>
+    </item>
+    <item>
+      <title>Head of Customer Operations</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/skin-analytics/head-of-customer-operations-london-194069</link>
+      <guid isPermaLink="false">357952</guid>
+      <pubDate>Fri, 09 Oct 2026 05:09:01 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;&lt;strong&gt;Want to join a team of passionate people who want to build a future where no one dies from skin cancer?&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;👋&lt;strong&gt; About us&lt;/strong&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;Skin Analytics is an award-winning, health tech company that deploys world-leading skin cancer pathways using AI as a medical dev</description>
+      <category>Healthcare</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>London hybrid (3 days in office)</job:location>
+      <job:company>Skin Analytics</job:company>
+    </item>
     <item>
       <title>Senior UICC/eUICC/eSIM Engineer</title>
       <link>https://www.arbeitnow.com/jobs/companies/emnify/remote-senior-uicc-euicc-esim-engineer-489570</link>
@@ -581,30 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Cribl</job:company>
-    </item>
-    <item>
-      <title>Freelance Software Tester With Smart TVs (Remote in Italy)</title>
-      <link>https://jobicy.com/jobs/154880-freelance-software-tester-with-smart-tvs-remote-in-italy</link>
-      <guid isPermaLink="false">357191</guid>
-      <pubDate>Fri, 09 Oct 2026 03:36:02 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Testlio</job:company>
-    </item>
-    <item>
-      <title>QA Engineer (Anywhere in Europe)</title>
-      <link>https://jobicy.com/jobs/154874-qa-engineer-anywhere-in-europe</link>
-      <guid isPermaLink="false">357192</guid>
-      <pubDate>Fri, 09 Oct 2026 03:36:02 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>PadSplit</job:company>
     </item>
   </channel>
 </rss>

@@ -47281,30 +47281,6 @@
     "is_foreign": true
   },
   {
-    "id": 46486,
-    "created_at": "2026-08-20 14:00:34",
-    "source": "arbeitnow",
-    "title": "Operations Manager",
-    "company": "Fanvue.com",
-    "location": "Hybrid (London)",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/fanvuecom/operations-manager-london-473382",
-    "salary": "GBP 50,000",
-    "tags": [
-      "Operations"
-    ],
-    "remote": false,
-    "description": "<p style=\"min-height:1.5em\"><strong>💰 £50,000 to £60,000 depending on experience</strong></p><p style=\"min-height:1.5em\"><strong>📍 Salary based on London. Two days a week in the office, the rest remote.</strong></p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><p style=\"min-height:1.5em\"><strong>Fanvue is one of the fastest-growing creator monetisation platforms globally. We're an AI-powered, creator-first platform helping creators connect, engage, and earn directly from their audiences at scale. Following our recent Series A, Fanvue has surpassed $100M+ in annual recurring revenue, with triple-digit year-on-year growth, supporting hundreds of thousands of creators and millions of fans worldwide.</strong></p><p style=\"min-height:1.5em\">Business Operations keeps money moving correctly, keeps the platform safe, and keeps us on the right side of our banking, payment and regulatory relationships. It covers payments and payout infrastructure, treasury, verification and KYC, fraud and risk, Trust and Safety, compliance, and the data work underneath all of it. Most of that surface is currently held by a small number of very senior people. This role exists to work alongside them across all of it.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><h3><strong>🎯 The Role</strong></h3><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><p style=\"min-height:1.5em\">We're hiring an <strong>Operations Manager</strong> to sit at the centre of Business Operations, reporting to our Chief Business Operations Officer and working closely with our Senior Operations Manager.</p><p style=\"min-height:1.5em\">This is deliberately a broad role, and we want to be straight about what that means. You will not have one fixed remit. You will be pointed at whatever the most important operational problem is that week, and expected to pick it up, work out what is actually going on, and drive it to a conclusion. Some weeks that is building out system ",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
-    "industry": "Sales",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 46533,
     "created_at": "2026-08-20 14:00:34",
     "source": "remoteok",
@@ -49134,30 +49110,6 @@
     "id_city": "jakarta",
     "job_type": "full",
     "is_foreign": false
-  },
-  {
-    "id": 48623,
-    "created_at": "2026-08-20 23:57:37",
-    "source": "arbeitnow",
-    "title": "Head of Customer Operations",
-    "company": "Skin Analytics",
-    "location": "London hybrid",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/skin-analytics/head-of-customer-operations-london-327493",
-    "salary": "",
-    "tags": [
-      "Operations & Finance"
-    ],
-    "remote": false,
-    "description": "<p style=\"min-height:1.5em\"><strong>Want to join a team of passionate people who want to build a future where no one dies from skin cancer?</strong></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">👋<strong> About us</strong></p><p style=\"min-height:1.5em\">Skin Analytics is an award-winning, health tech company that deploys world-leading skin cancer pathways using AI as a medical device, DERM.</p><p style=\"min-height:1.5em\">Following our recent £15M series B funding, regulatory milestones hit, and doubling from 50 to 100 headcount in 2025, we're ready to scale further internationally, making history for AI in healthcare and the future of dermatology.</p><p style=\"min-height:1.5em\">We're proud to epitomise AI for good - with a Class III CE mark, DERM is the only AI as a medical device approved to make clinical decisions autonomously in the cancer space, as well as being the first company to receive a NICE recommendation for use across the NHS.*</p><p style=\"min-height:1.5em\">DERM is deployed at more than 28 NHS organisations where we enable patients to gain significantly quicker access to skin cancer diagnosis. If that's not enough, we also collaborate with some of the largest health insurers to reach patients in their own homes.</p><p style=\"min-height:1.5em\">We are a team of passionate people on a mission to build a future where no one dies from skin cancer.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Overview<br /></strong>You'll own the operational delivery of our transformational services from implementation through to ongoing live operations, ensuring our partners and patients receive a consistently excellent experience. You'll also be the person the business trusts to contain and resolve operational noise like incidents, service disruptions, partner escalations, logistics failures - calmly and methodically. <br /><br />At the core of the role are two customer-facing teams:</p><ul style=\"min-height:1.5em\"><li><p style=\"m",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
-    "industry": "Healthcare",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
   },
   {
     "id": 48682,
@@ -197568,6 +197520,54 @@
     "is_it": false,
     "role": "other",
     "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 357949,
+    "created_at": "2026-10-09 05:09:01",
+    "source": "arbeitnow",
+    "title": "Operations Manager",
+    "company": "Fanvue.com",
+    "location": "Hybrid (London)",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/fanvuecom/operations-manager-london-474408",
+    "salary": "GBP 50,000",
+    "tags": [
+      "Operations"
+    ],
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\"><strong>💰 £50,000 to £60,000 depending on experience</strong></p><p style=\"min-height:1.5em\"><strong>📍 Salary based on London. Two days a week in the office, the rest remote.</strong></p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><p style=\"min-height:1.5em\"><strong>Fanvue is one of the fastest-growing creator monetisation platforms globally. We're an AI-powered, creator-first platform helping creators connect, engage, and earn directly from their audiences at scale. Following our recent Series A, Fanvue has surpassed $100M+ in annual recurring revenue, with triple-digit year-on-year growth, supporting hundreds of thousands of creators and millions of fans worldwide.</strong></p><p style=\"min-height:1.5em\">Business Operations keeps money moving correctly, keeps the platform safe, and keeps us on the right side of our banking, payment and regulatory relationships. It covers payments and payout infrastructure, treasury, verification and KYC, fraud and risk, Trust and Safety, compliance, and the data work underneath all of it. Most of that surface is currently held by a small number of very senior people. This role exists to work alongside them across all of it.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><h3><strong>🎯 The Role</strong></h3><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><p style=\"min-height:1.5em\">We're hiring an <strong>Operations Manager</strong> to sit at the centre of Business Operations, reporting to our Chief Business Operations Officer and working closely with our Senior Operations Manager.</p><p style=\"min-height:1.5em\">This is deliberately a broad role, and we want to be straight about what that means. You will not have one fixed remit. You will be pointed at whatever the most important operational problem is that week, and expected to pick it up, work out what is actually going on, and drive it to a conclusion. Some weeks that is building out system ",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 357952,
+    "created_at": "2026-10-09 05:09:01",
+    "source": "arbeitnow",
+    "title": "Head of Customer Operations",
+    "company": "Skin Analytics",
+    "location": "London hybrid (3 days in office)",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/skin-analytics/head-of-customer-operations-london-194069",
+    "salary": "",
+    "tags": [
+      "Operations & Finance"
+    ],
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\"><strong>Want to join a team of passionate people who want to build a future where no one dies from skin cancer?</strong></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">👋<strong> About us</strong></p><p style=\"min-height:1.5em\">Skin Analytics is an award-winning, health tech company that deploys world-leading skin cancer pathways using AI as a medical device, DERM.</p><p style=\"min-height:1.5em\">Following our recent £15M series B funding, regulatory milestones hit, and doubling from 50 to 100 headcount in 2025, we're ready to scale further internationally, making history for AI in healthcare and the future of dermatology.</p><p style=\"min-height:1.5em\">We're proud to epitomise AI for good - with a Class III CE mark, DERM is the only AI as a medical device approved to make clinical decisions autonomously in the cancer space, as well as being the first company to receive a NICE recommendation for use across the NHS.*</p><p style=\"min-height:1.5em\">DERM is deployed at more than 28 NHS organisations where we enable patients to gain significantly quicker access to skin cancer diagnosis. If that's not enough, we also collaborate with some of the largest health insurers to reach patients in their own homes.</p><p style=\"min-height:1.5em\">We are a team of passionate people on a mission to build a future where no one dies from skin cancer.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Overview<br /></strong>You'll own the operational delivery of our transformational services from implementation through to ongoing live operations, ensuring our partners and patients receive a consistently excellent experience. You'll also be the person the business trusts to contain and resolve operational noise like incidents, service disruptions, partner escalations, logistics failures - calmly and methodically. <br /><br />At the core of the role are two customer-facing teams:</p><ul style=\"min-height:1.5em\"><li><p style=\"m",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Healthcare",
     "remote_ok": true,
     "id_city": null,
     "job_type": "full",
