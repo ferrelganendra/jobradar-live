@@ -201683,18 +201683,42 @@
     "is_foreign": true
   },
   {
-    "id": 372942,
-    "created_at": "2026-10-10 20:38:55",
+    "id": 373149,
+    "created_at": "2026-10-10 21:24:56",
+    "source": "arbeitnow",
+    "title": "Presales System Engineer, Territory - PACA (Remote: Marseille or Aix-based)",
+    "company": "purestorage",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.fr/jobs/companies/purestorage/presales-system-engineer-territory-paca-remote-marseille-or-aix-based-23119",
+    "salary": "",
+    "tags": [
+      "Sales"
+    ],
+    "remote": false,
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem.&lt;/p&gt;\n&lt;p&gt;This type of work—work that changes the world—is what the tech industry was founded on. So, if you&#39;re ready to seize the endless opportunities and leave your mark, come join us.&lt;/p&gt;&lt;/div&gt;&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;THE ROLE&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Everpure, Inc. (formerly Pure Storage) is adding a Systems (Presales) Engineer to our Commercial district in France, covering the PACA region from Marseille or Aix-en-Provence.&lt;/p&gt;\n&lt;p&gt;This is a field presales role for someone with 5+ years of hands-on SE experience who enjoys owning a territory. You will partner with several Account Executives across a mixed portfolio: large regional accounts where you drive the technical agenda, public-sector organizations in health, social services and heavy industry, and a long tail of mid-sized companies where speed and pragmatism win.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;WHAT YOU&#39;LL DO&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own the technical relationship across your territory: discovery, architecture, demos, proofs of concept and technical closure, on Everpure&#39;s Enterprise Data Cloud platform.&lt;/li&gt;\n&lt;li&gt;Take the initiative in large accounts: build activity, find new use cases, and create opportunities rather than wait for them.&lt;/li&gt;\n&lt;li&gt;Sell outcomes, not boxes: position services and consumption models (Evergreen//One, storage-as-a-service) credibly with IT and finance stakeholders.&lt;/li&gt;\n&lt;li&gt;Work day to day with your Account Executives and with channel partn",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 373150,
+    "created_at": "2026-10-10 21:24:56",
     "source": "arbeitnow",
     "title": "Technical Customer Support Specialist",
     "company": "Happyrobot.ai",
     "location": "Remote",
-    "url": "https://www.arbeitnow.ch/jobs/companies/happyrobotai/remote-technical-customer-support-specialist-54073",
+    "url": "https://www.arbeitnow.fr/jobs/companies/happyrobotai/remote-technical-customer-support-specialist-390100",
     "salary": "",
     "tags": [
       "Engineering"
     ],
-    "remote": true,
+    "remote": false,
     "description": "<h2><strong>About HappyRobot</strong></h2><p style=\"min-height:1.5em\">HappyRobot is the infrastructure for enterprises to build and orchestrate AI workforces. Our AI workers don't just communicate through voice and email - they make decisions, take action, and run operations autonomously across entire enterprise systems. Born in Y Combinator (S23) and backed by a16z, Base10, Prysm Capital and Eurazeo with over $200M raised, we power critical operations for global enterprises worldwide.</p><p style=\"min-height:1.5em\">Our platform is battle-tested in the most demanding environments, where AI has real consequences. We started in logistics, built our own voice stack, models, and orchestration layer from the ground up, and are now bringing that infrastructure to every enterprise that runs the real economy. Learn more about our vision in<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.happyrobot.ai/blog/manifesto\"> <u>our manifesto.</u></a></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>About the Role</strong><br />As a <strong>Customer Support Engineer</strong>, youʼll be on the front lines of our customer<br />experience. Youʼll work directly with customers to quickly triage issues, debug<br />problems, and ensure theyʼre getting the most out of HappyRobotʼs AI platform.</p><p style=\"min-height:1.5em\">This role is a hybrid between technical support and customer engineering: youʼll<br />diagnose issues, design and test quick solutions, and collaborate closely with both<br />engineering and product teams to make our platform even stronger.</p><p style=\"min-height:1.5em\">Youʼll also apply <strong>prompt engineering skills</strong> to help customers fine-tune their AI<br />workers, ensuring accuracy, reliability, and speed across real-world logistics<br />workflows.</p><p style=\"min-height:1.5em\">This role is ideal for someone with strong technical fundamentals who wants to<br />grow into a more senior customer engineering or p",
     "requirements": "",
     "benefits": "",
@@ -201707,18 +201731,18 @@
     "is_foreign": true
   },
   {
-    "id": 372951,
-    "created_at": "2026-10-10 20:38:55",
+    "id": 373203,
+    "created_at": "2026-10-10 21:24:56",
     "source": "arbeitnow",
     "title": "Enterprise Sales Lead - Healthcare",
     "company": "ElevenLabs",
     "location": "Remote",
-    "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-enterprise-sales-lead-healthcare-270863",
+    "url": "https://www.arbeitnow.fr/jobs/companies/elevenlabs/remote-enterprise-sales-lead-healthcare-32906",
     "salary": "",
     "tags": [
       "Revenue"
     ],
-    "remote": true,
+    "remote": false,
     "description": "<h2>About ElevenLabs</h2><p style=\"min-height:1.5em\">ElevenLabs is an AI research and product company transforming how we interact with technology.</p><p style=\"min-height:1.5em\">We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.<br /><br />We have expanded from voice into three main platforms:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.</p></li><li><p style=\"min-height:1.5em\">ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.</p></li><li><p style=\"min-height:1.5em\">ElevenAPI gives developers access to our leading AI audio foundational models.</p></li></ul><p style=\"min-height:1.5em\">Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.</p><p style=\"min-height:1.5em\"></p><h2>How we work</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>High-velocity: </strong>Rapid experimentation, lean autonomous teams, and minimal bureaucracy.</p></li><li><p style=\"min-height:1.5em\"><strong>Impact not job titles: </strong>We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you.</p></li><li><p style=\"min-height:1.5em\"><strong>AI first:</strong>",
     "requirements": "",
     "benefits": "",
@@ -201731,18 +201755,18 @@
     "is_foreign": true
   },
   {
-    "id": 372952,
-    "created_at": "2026-10-10 20:38:55",
+    "id": 373204,
+    "created_at": "2026-10-10 21:24:56",
     "source": "arbeitnow",
     "title": "Direct Tax Lead",
     "company": "ElevenLabs",
     "location": "Remote",
-    "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-direct-tax-lead-263237",
+    "url": "https://www.arbeitnow.fr/jobs/companies/elevenlabs/remote-direct-tax-lead-343269",
     "salary": "",
     "tags": [
-      "Operations"
+      "Finance"
     ],
-    "remote": true,
+    "remote": false,
     "description": "<h2>About ElevenLabs</h2><p style=\"min-height:1.5em\">ElevenLabs is an AI research and product company transforming how we interact with technology.</p><p style=\"min-height:1.5em\">We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.<br /><br />We have expanded from voice into three main platforms:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.</p></li><li><p style=\"min-height:1.5em\">ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.</p></li><li><p style=\"min-height:1.5em\">ElevenAPI gives developers access to our leading AI audio foundational models.</p></li></ul><p style=\"min-height:1.5em\">Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.</p><p style=\"min-height:1.5em\"></p><h2>How we work</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>High-velocity: </strong>Rapid experimentation, lean autonomous teams, and minimal bureaucracy.</p></li><li><p style=\"min-height:1.5em\"><strong>Impact not job titles: </strong>We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you.</p></li><li><p style=\"min-height:1.5em\"><strong>AI first:</strong>",
     "requirements": "",
     "benefits": "",
@@ -201755,18 +201779,18 @@
     "is_foreign": true
   },
   {
-    "id": 372953,
-    "created_at": "2026-10-10 20:38:55",
+    "id": 373205,
+    "created_at": "2026-10-10 21:24:56",
     "source": "arbeitnow",
     "title": "Full-stack Engineer - Creative Agents",
     "company": "ElevenLabs",
     "location": "Remote",
-    "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-full-stack-engineer-creative-agents-292788",
+    "url": "https://www.arbeitnow.fr/jobs/companies/elevenlabs/remote-full-stack-engineer-creative-agents-388937",
     "salary": "",
     "tags": [
       "Engineering & Product"
     ],
-    "remote": true,
+    "remote": false,
     "description": "<h2>About ElevenLabs</h2><p style=\"min-height:1.5em\">ElevenLabs is an AI research and product company transforming how we interact with technology.</p><p style=\"min-height:1.5em\">We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.<br /><br />We have expanded from voice into three main platforms:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.</p></li><li><p style=\"min-height:1.5em\">ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.</p></li><li><p style=\"min-height:1.5em\">ElevenAPI gives developers access to our leading AI audio foundational models.</p></li></ul><p style=\"min-height:1.5em\">Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.</p><p style=\"min-height:1.5em\"></p><h2>How we work</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>High-velocity: </strong>Rapid experimentation, lean autonomous teams, and minimal bureaucracy.</p></li><li><p style=\"min-height:1.5em\"><strong>Impact not job titles: </strong>We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you.</p></li><li><p style=\"min-height:1.5em\"><strong>AI first:</strong>",
     "requirements": "",
     "benefits": "",
@@ -201779,18 +201803,18 @@
     "is_foreign": true
   },
   {
-    "id": 372954,
-    "created_at": "2026-10-10 20:38:55",
+    "id": 373206,
+    "created_at": "2026-10-10 21:24:56",
     "source": "arbeitnow",
     "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
     "company": "ElevenLabs",
     "location": "Remote",
-    "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-creative-agents-323217",
+    "url": "https://www.arbeitnow.fr/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-creative-agents-142992",
     "salary": "",
     "tags": [
       "Engineering & Product"
     ],
-    "remote": true,
+    "remote": false,
     "description": "<h2>About ElevenLabs</h2><p style=\"min-height:1.5em\">ElevenLabs is an AI research and product company transforming how we interact with technology.</p><p style=\"min-height:1.5em\">We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.<br /><br />We have expanded from voice into three main platforms:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.</p></li><li><p style=\"min-height:1.5em\">ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.</p></li><li><p style=\"min-height:1.5em\">ElevenAPI gives developers access to our leading AI audio foundational models.</p></li></ul><p style=\"min-height:1.5em\">Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.</p><p style=\"min-height:1.5em\"></p><h2>How we work</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>High-velocity: </strong>Rapid experimentation, lean autonomous teams, and minimal bureaucracy.</p></li><li><p style=\"min-height:1.5em\"><strong>Impact not job titles: </strong>We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you.</p></li><li><p style=\"min-height:1.5em\"><strong>AI first:</strong>",
     "requirements": "",
     "benefits": "",
@@ -201803,18 +201827,18 @@
     "is_foreign": true
   },
   {
-    "id": 372955,
-    "created_at": "2026-10-10 20:38:55",
+    "id": 373207,
+    "created_at": "2026-10-10 21:24:56",
     "source": "arbeitnow",
     "title": "Enterprise Product Manager - ElevenCreative",
     "company": "ElevenLabs",
     "location": "Remote",
-    "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-enterprise-product-manager-elevencreative-286182",
+    "url": "https://www.arbeitnow.fr/jobs/companies/elevenlabs/remote-enterprise-product-manager-elevencreative-267248",
     "salary": "",
     "tags": [
       "Engineering & Product"
     ],
-    "remote": true,
+    "remote": false,
     "description": "<h2>About ElevenLabs</h2><p style=\"min-height:1.5em\">ElevenLabs is an AI research and product company transforming how we interact with technology.</p><p style=\"min-height:1.5em\">We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.<br /><br />We have expanded from voice into three main platforms:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.</p></li><li><p style=\"min-height:1.5em\">ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.</p></li><li><p style=\"min-height:1.5em\">ElevenAPI gives developers access to our leading AI audio foundational models.</p></li></ul><p style=\"min-height:1.5em\">Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.</p><p style=\"min-height:1.5em\"></p><h2>How we work</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>High-velocity: </strong>Rapid experimentation, lean autonomous teams, and minimal bureaucracy.</p></li><li><p style=\"min-height:1.5em\"><strong>Impact not job titles: </strong>We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you.</p></li><li><p style=\"min-height:1.5em\"><strong>AI first:</strong>",
     "requirements": "",
     "benefits": "",
@@ -201827,18 +201851,18 @@
     "is_foreign": true
   },
   {
-    "id": 372956,
-    "created_at": "2026-10-10 20:38:55",
+    "id": 373208,
+    "created_at": "2026-10-10 21:24:56",
     "source": "arbeitnow",
     "title": "Impact Producer",
     "company": "ElevenLabs",
     "location": "Remote",
-    "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-impact-producer-224521",
+    "url": "https://www.arbeitnow.fr/jobs/companies/elevenlabs/remote-impact-producer-21085",
     "salary": "",
     "tags": [
       "Growth"
     ],
-    "remote": true,
+    "remote": false,
     "description": "<h2>About ElevenLabs</h2><p style=\"min-height:1.5em\">ElevenLabs is an AI research and product company transforming how we interact with technology.</p><p style=\"min-height:1.5em\">We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.<br /><br />We have expanded from voice into three main platforms:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.</p></li><li><p style=\"min-height:1.5em\">ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.</p></li><li><p style=\"min-height:1.5em\">ElevenAPI gives developers access to our leading AI audio foundational models.</p></li></ul><p style=\"min-height:1.5em\">Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.</p><p style=\"min-height:1.5em\"></p><h2>How we work</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>High-velocity: </strong>Rapid experimentation, lean autonomous teams, and minimal bureaucracy.</p></li><li><p style=\"min-height:1.5em\"><strong>Impact not job titles: </strong>We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you.</p></li><li><p style=\"min-height:1.5em\"><strong>AI first:</strong>",
     "requirements": "",
     "benefits": "",
@@ -201851,18 +201875,18 @@
     "is_foreign": true
   },
   {
-    "id": 372957,
-    "created_at": "2026-10-10 20:38:55",
+    "id": 373209,
+    "created_at": "2026-10-10 21:24:56",
     "source": "arbeitnow",
     "title": "Mid-Market Sales Lead - East",
     "company": "ElevenLabs",
     "location": "Remote",
-    "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-mid-market-sales-lead-east-103816",
+    "url": "https://www.arbeitnow.fr/jobs/companies/elevenlabs/remote-mid-market-sales-lead-east-54087",
     "salary": "",
     "tags": [
       "Revenue"
     ],
-    "remote": true,
+    "remote": false,
     "description": "<h2>About ElevenLabs</h2><p style=\"min-height:1.5em\">ElevenLabs is an AI research and product company transforming how we interact with technology.</p><p style=\"min-height:1.5em\">We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.<br /><br />We have expanded from voice into three main platforms:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.</p></li><li><p style=\"min-height:1.5em\">ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.</p></li><li><p style=\"min-height:1.5em\">ElevenAPI gives developers access to our leading AI audio foundational models.</p></li></ul><p style=\"min-height:1.5em\">Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.</p><p style=\"min-height:1.5em\"></p><h2>How we work</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>High-velocity: </strong>Rapid experimentation, lean autonomous teams, and minimal bureaucracy.</p></li><li><p style=\"min-height:1.5em\"><strong>Impact not job titles: </strong>We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you.</p></li><li><p style=\"min-height:1.5em\"><strong>AI first:</strong>",
     "requirements": "",
     "benefits": "",
