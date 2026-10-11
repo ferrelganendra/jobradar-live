@@ -185756,31 +185756,6 @@
     "is_foreign": true
   },
   {
-    "id": 345519,
-    "created_at": "2026-10-07 07:52:26",
-    "source": "arbeitnow",
-    "title": "Senior Medical Writer | UK",
-    "company": "TransPerfect",
-    "location": "Remote job",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/remote-senior-medical-writer-uk-london-165353",
-    "salary": "",
-    "tags": [
-      "Medical Writing",
-      "Remote"
-    ],
-    "remote": true,
-    "description": "<p>We’re seeking&nbsp;an organized, motivated, and collaborative individual for our medical writing team.&nbsp;</p><p>The&nbsp;senior&nbsp;medical writer will partner cross-functionally&nbsp;with client teams in&nbsp;Clinical Development, Clinical Operations,&nbsp;Biostatistics,&nbsp;Regulatory, and Program Management in&nbsp;leading the&nbsp;planning and preparation of high-quality clinical regulatory documents. The medical writer may produce&nbsp;protocols, publications, study reports, investigator brochures,&nbsp;narratives,&nbsp;and module documents, according to client&nbsp;and agency guidelines,&nbsp;to support drug development under&nbsp;brisk&nbsp;timelines.&nbsp;</p><p style=\"min-height: 1.7em;\"></p><h4><strong><u>Responsibilities</u></strong>:</h4><ul><li><p>Lead the&nbsp;execution of documents, including&nbsp;project management tasks such as&nbsp;creating,&nbsp;maintaining, and communicating&nbsp;timelines&nbsp;</p></li><li><p>Coordinate cross-functional client contributors and stakeholders as well as internal resources (e.g., quality control [QC], publishing)&nbsp;to ensure&nbsp;timely&nbsp;completion of&nbsp;documents&nbsp;</p></li><li><p>Ensure&nbsp;document development&nbsp;adheres&nbsp;to&nbsp;any&nbsp;relevant&nbsp;client processes, templates, and instructional&nbsp;documents&nbsp;</p></li><li><p>Serve as an expert on client document management system and related tools, templates, and procedures to ensure efficient document&nbsp;development&nbsp;&nbsp;</p></li><li><p>Lead document message development in collaboration with&nbsp;client&nbsp;&nbsp;</p></li><li><p>Interpret data and create shell documents to support&nbsp;authoring&nbsp;</p></li><li><p>Plan and lead kickoff&nbsp;meetings&nbsp;&nbsp;</p></li><li><p>Facilitate resolution of review feedback including planning&nbsp;and leading&nbsp;comment resolution meetings&nbsp;(curate review comments to ensure&nbsp;meetings are&nbsp;efficient)&nbsp;&nbsp;</p></li><li><p>Follow-up with individual team mem",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
-    "industry": "Support",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 345714,
     "created_at": "2026-10-07 07:52:26",
     "source": "jobicy",
@@ -203401,13 +203376,62 @@
     "is_foreign": true
   },
   {
-    "id": 375470,
-    "created_at": "2026-10-11 10:15:36",
+    "id": 375824,
+    "created_at": "2026-10-11 10:46:36",
+    "source": "arbeitnow",
+    "title": "Senior Medical Writer | UK",
+    "company": "TransPerfect",
+    "location": "Remote job",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/remote-senior-medical-writer-uk-london-484922",
+    "salary": "",
+    "tags": [
+      "Medical Writing",
+      "Remote"
+    ],
+    "remote": true,
+    "description": "<p>We’re seeking&nbsp;an organized, motivated, and collaborative individual for our medical writing team.&nbsp;</p><p>The&nbsp;senior&nbsp;medical writer will partner cross-functionally&nbsp;with client teams in&nbsp;Clinical Development, Clinical Operations,&nbsp;Biostatistics,&nbsp;Regulatory, and Program Management in&nbsp;leading the&nbsp;planning and preparation of high-quality clinical regulatory documents. The medical writer may produce&nbsp;protocols, publications, study reports, investigator brochures,&nbsp;narratives,&nbsp;and module documents, according to client&nbsp;and agency guidelines,&nbsp;to support drug development under&nbsp;brisk&nbsp;timelines.&nbsp;</p><p style=\"min-height: 1.7em;\"></p><h4><strong><u>Responsibilities</u></strong>:</h4><ul><li><p>Lead the&nbsp;execution of documents, including&nbsp;project management tasks such as&nbsp;creating,&nbsp;maintaining, and communicating&nbsp;timelines&nbsp;</p></li><li><p>Coordinate cross-functional client contributors and stakeholders as well as internal resources (e.g., quality control [QC], publishing)&nbsp;to ensure&nbsp;timely&nbsp;completion of&nbsp;documents&nbsp;</p></li><li><p>Ensure&nbsp;document development&nbsp;adheres&nbsp;to&nbsp;any&nbsp;relevant&nbsp;client processes, templates, and instructional&nbsp;documents&nbsp;</p></li><li><p>Serve as an expert on client document management system and related tools, templates, and procedures to ensure efficient document&nbsp;development&nbsp;&nbsp;</p></li><li><p>Lead document message development in collaboration with&nbsp;client&nbsp;&nbsp;</p></li><li><p>Interpret data and create shell documents to support&nbsp;authoring&nbsp;</p></li><li><p>Plan and lead kickoff&nbsp;meetings&nbsp;&nbsp;</p></li><li><p>Facilitate resolution of review feedback including planning&nbsp;and leading&nbsp;comment resolution meetings&nbsp;(curate review comments to ensure&nbsp;meetings are&nbsp;efficient)&nbsp;&nbsp;</p></li><li><p>Follow-up with individual team mem",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Support",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 375884,
+    "created_at": "2026-10-11 10:46:36",
+    "source": "arbeitnow",
+    "title": "Senior Data Scientist",
+    "company": "Duck Duck Go",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-senior-data-scientist-9830",
+    "salary": "",
+    "tags": [
+      "Data Science"
+    ],
+    "remote": false,
+    "description": "<h2><strong>Who We Are</strong></h2><p style=\"min-height:1.5em\">Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on on <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/introducing-duckduckgo-for-mac/\">Mac</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/windows-browser-open-beta/\">Windows</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/duckduckgo-privacy-browser-ios14/\">iOS</a>, and <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/introducing-app-tracking-protection/\">Android</a>, our <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duckduckgo.com/\">search engine</a>, and the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duckduckgo.com/pro\">DuckDuckGo subscription</a>. We also offer private, useful, and optional AI, including <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duck.ai/\">Duck.ai</a>, which lets you chat privately with ChatGPT, Claude, and other AIs, all in one place. Our <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duckduckgo.com/how-we-work\">culture</a> of trust, inclusivity, and empowered project management underpins everything we do, where each team member takes full ownership of their projects, from scoping and execution to postmortem. If you're seeking end-to-end ownership of your work, you've come to the right place!</p><p style=\"min-height:1.5em\"></p><h2><strong>Your Team and",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "DS",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 375956,
+    "created_at": "2026-10-11 10:46:36",
     "source": "arbeitnow",
     "title": "Enterprise Account Executive II - DACH",
     "company": "Camunda",
     "location": "Remote",
-    "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-enterprise-account-executive-ii-dach-460928",
+    "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-enterprise-account-executive-ii-dach-180240",
     "salary": "",
     "tags": [
       "Sales"
@@ -203425,13 +203449,13 @@
     "is_foreign": true
   },
   {
-    "id": 375472,
-    "created_at": "2026-10-11 10:15:36",
+    "id": 375957,
+    "created_at": "2026-10-11 10:46:36",
     "source": "arbeitnow",
     "title": "Enterprise Account Executive UKI",
     "company": "Camunda",
     "location": "Remote",
-    "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-enterprise-account-executive-uki-276082",
+    "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-enterprise-account-executive-uki-426314",
     "salary": "",
     "tags": [
       "Sales"
@@ -203449,18 +203473,42 @@
     "is_foreign": true
   },
   {
-    "id": 375599,
-    "created_at": "2026-10-11 10:15:36",
+    "id": 375958,
+    "created_at": "2026-10-11 10:46:36",
+    "source": "arbeitnow",
+    "title": "Senior Sales Engineer - UK",
+    "company": "Camunda",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-sales-engineer-uk-45234",
+    "salary": "",
+    "tags": [
+      "Sales"
+    ],
+    "remote": true,
+    "description": "<p style=\"min-height:1.5em\">Camunda is <strong>the enterprise platform for agentic orchestration</strong>, enabling organizations to coordinate <strong>AI agents, people, and systems </strong>across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. <strong>Trusted by over 700 organizations worldwide</strong>, including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences.<br /><br /><strong>Fully remote and global,</strong> we are in the middle of something bigger: <strong>transforming into an AI-first organisation, built on our own platform</strong>. We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team.<br /><br />Named <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.gpbullhound.com/articles/top-100-next-unicorns-the-uk-france-and-germany-lead-with-the-most-promising-technology-companies-in-europe/\"><u>GP Bullhound’s Top 100 Next Unicorn list,</u></a> <strong>2025 Great Place to Work certified.</strong> <em><strong>Visionary</strong></em><strong> </strong>in <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://page.camunda.com/wp-2025-gartner-magic-quadrant-for-boat\"><strong><u>2025 Gartner® Magic Quadrant™</u></strong></a><strong> </strong>for Business Orchestration and Automation Technologies. ranked <strong>3rd in Flexa's 2026 </strong><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://flexa.careers/companies/camunda\"><strong>Most Flexible Companies</strong></a>, We’re growing fast and looking for top talent to join our team. <strong>If you want meaningful work, visible impact and put something genuinely rare on your CV, keep reading.</strong></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"></p><h2>About the Role",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 375997,
+    "created_at": "2026-10-11 10:46:36",
     "source": "arbeitnow",
     "title": "Technical Customer Support Specialist",
     "company": "Happyrobot.ai",
     "location": "Remote",
-    "url": "https://www.arbeitnow.fr/jobs/companies/happyrobotai/remote-technical-customer-support-specialist-390100",
+    "url": "https://www.arbeitnow.ch/jobs/companies/happyrobotai/remote-technical-customer-support-specialist-54073",
     "salary": "",
     "tags": [
       "Engineering"
     ],
-    "remote": false,
+    "remote": true,
     "description": "<h2><strong>About HappyRobot</strong></h2><p style=\"min-height:1.5em\">HappyRobot is the infrastructure for enterprises to build and orchestrate AI workforces. Our AI workers don't just communicate through voice and email - they make decisions, take action, and run operations autonomously across entire enterprise systems. Born in Y Combinator (S23) and backed by a16z, Base10, Prysm Capital and Eurazeo with over $200M raised, we power critical operations for global enterprises worldwide.</p><p style=\"min-height:1.5em\">Our platform is battle-tested in the most demanding environments, where AI has real consequences. We started in logistics, built our own voice stack, models, and orchestration layer from the ground up, and are now bringing that infrastructure to every enterprise that runs the real economy. Learn more about our vision in<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.happyrobot.ai/blog/manifesto\"> <u>our manifesto.</u></a></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>About the Role</strong><br />As a <strong>Customer Support Engineer</strong>, youʼll be on the front lines of our customer<br />experience. Youʼll work directly with customers to quickly triage issues, debug<br />problems, and ensure theyʼre getting the most out of HappyRobotʼs AI platform.</p><p style=\"min-height:1.5em\">This role is a hybrid between technical support and customer engineering: youʼll<br />diagnose issues, design and test quick solutions, and collaborate closely with both<br />engineering and product teams to make our platform even stronger.</p><p style=\"min-height:1.5em\">Youʼll also apply <strong>prompt engineering skills</strong> to help customers fine-tune their AI<br />workers, ensuring accuracy, reliability, and speed across real-world logistics<br />workflows.</p><p style=\"min-height:1.5em\">This role is ideal for someone with strong technical fundamentals who wants to<br />grow into a more senior customer engineering or p",
     "requirements": "",
     "benefits": "",
@@ -203473,72 +203521,24 @@
     "is_foreign": true
   },
   {
-    "id": 375652,
-    "created_at": "2026-10-11 10:15:36",
+    "id": 376006,
+    "created_at": "2026-10-11 10:46:36",
     "source": "arbeitnow",
     "title": "Enterprise Sales Lead - Healthcare",
     "company": "ElevenLabs",
     "location": "Remote",
-    "url": "https://www.arbeitnow.fr/jobs/companies/elevenlabs/remote-enterprise-sales-lead-healthcare-32906",
+    "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-enterprise-sales-lead-healthcare-270863",
     "salary": "",
     "tags": [
       "Revenue"
     ],
-    "remote": false,
+    "remote": true,
     "description": "<h2>About ElevenLabs</h2><p style=\"min-height:1.5em\">ElevenLabs is an AI research and product company transforming how we interact with technology.</p><p style=\"min-height:1.5em\">We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.<br /><br />We have expanded from voice into three main platforms:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.</p></li><li><p style=\"min-height:1.5em\">ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.</p></li><li><p style=\"min-height:1.5em\">ElevenAPI gives developers access to our leading AI audio foundational models.</p></li></ul><p style=\"min-height:1.5em\">Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.</p><p style=\"min-height:1.5em\"></p><h2>How we work</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>High-velocity: </strong>Rapid experimentation, lean autonomous teams, and minimal bureaucracy.</p></li><li><p style=\"min-height:1.5em\"><strong>Impact not job titles: </strong>We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you.</p></li><li><p style=\"min-height:1.5em\"><strong>AI first:</strong>",
     "requirements": "",
     "benefits": "",
     "is_it": true,
     "role": "IT",
     "industry": "Sales",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
-    "id": 375665,
-    "created_at": "2026-10-11 10:15:36",
-    "source": "arbeitnow",
-    "title": "Senior Sales Engineer - UK",
-    "company": "Camunda",
-    "location": "Remote",
-    "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-sales-engineer-uk-496085",
-    "salary": "",
-    "tags": [
-      "Sales"
-    ],
-    "remote": true,
-    "description": "<p style=\"min-height:1.5em\">Camunda is <strong>the enterprise platform for agentic orchestration</strong>, enabling organizations to coordinate <strong>AI agents, people, and systems </strong>across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. <strong>Trusted by over 700 organizations worldwide</strong>, including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences.<br /><br /><strong>Fully remote and global,</strong> we are in the middle of something bigger: <strong>transforming into an AI-first organisation, built on our own platform</strong>. We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team.<br /><br />Named <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.gpbullhound.com/articles/top-100-next-unicorns-the-uk-france-and-germany-lead-with-the-most-promising-technology-companies-in-europe/\"><u>GP Bullhound’s Top 100 Next Unicorn list,</u></a> <strong>2025 Great Place to Work certified.</strong> <em><strong>Visionary</strong></em><strong> </strong>in <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://page.camunda.com/wp-2025-gartner-magic-quadrant-for-boat\"><strong><u>2025 Gartner® Magic Quadrant™</u></strong></a><strong> </strong>for Business Orchestration and Automation Technologies. ranked <strong>3rd in Flexa's 2026 </strong><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://flexa.careers/companies/camunda\"><strong>Most Flexible Companies</strong></a>, We’re growing fast and looking for top talent to join our team. <strong>If you want meaningful work, visible impact and put something genuinely rare on your CV, keep reading.</strong></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>About the Role",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
-    "industry": "Sales",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
-    "id": 375685,
-    "created_at": "2026-10-11 10:15:36",
-    "source": "arbeitnow",
-    "title": "Senior Data Scientist",
-    "company": "Duck Duck Go",
-    "location": "Remote",
-    "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-data-scientist-340621",
-    "salary": "",
-    "tags": [
-      "Data Science"
-    ],
-    "remote": true,
-    "description": "<h2><strong>Who We Are</strong></h2><p style=\"min-height:1.5em\">Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on on <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/introducing-duckduckgo-for-mac/\">Mac</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/windows-browser-open-beta/\">Windows</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/duckduckgo-privacy-browser-ios14/\">iOS</a>, and <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/introducing-app-tracking-protection/\">Android</a>, our <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duckduckgo.com/\">search engine</a>, and the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duckduckgo.com/pro\">DuckDuckGo subscription</a>. We also offer private, useful, and optional AI, including <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duck.ai/\">Duck.ai</a>, which lets you chat privately with ChatGPT, Claude, and other AIs, all in one place. Our <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duckduckgo.com/how-we-work\">culture</a> of trust, inclusivity, and empowered project management underpins everything we do, where each team member takes full ownership of their projects, from scoping and execution to postmortem. If you're seeking end-to-end ownership of your work, you've come to the right place!</p><p style=\"min-height:1.5em\"></p><h2><strong>Your Team and",
-    "requirements": "",
-    "benefits": "",
-    "is_it": true,
-    "role": "DS",
-    "industry": "Teknologi",
     "remote_ok": true,
     "id_city": null,
     "job_type": "full",
