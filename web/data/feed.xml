@@ -5,12 +5,36 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Wed, 14 Oct 2026 05:21:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 05:52:53 +0000</lastBuildDate>
     <item>
-      <title>Technicien de maintenance Itinérant (F/H)</title>
-      <link>https://www.arbeitnow.fr/jobs/companies/signode/remote-technicien-de-maintenance-itinerant-f-h-nancy-92476</link>
-      <guid isPermaLink="false">389153</guid>
-      <pubDate>Wed, 14 Oct 2026 05:21:54 +0000</pubDate>
+      <title>Working Student &amp; Minijob Retail Store (all genders) // Werkstudium</title>
+      <link>https://www.arbeitnow.com/jobs/companies/armedangels/working-student-minijob-retail-store-all-genders-werkstudium-store-koln-448291</link>
+      <guid isPermaLink="false">389271</guid>
+      <pubDate>Wed, 14 Oct 2026 05:52:52 +0000</pubDate>
+      <description>&lt;br&gt;&lt;strong&gt;Want to make a difference?&lt;/strong&gt;&lt;p&gt;&lt;span style="color:rgb(32,32,32);font-family:Inter, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Open Sans', 'system-ui', '-apple-system', 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';font-size:14px;font-style:normal;font-weight:400;text-transform:none;backgroun</description>
+      <category>Teknologi</category>
+      <job:remote>false</job:remote>
+      <job:salary></job:salary>
+      <job:location>Store Köln</job:location>
+      <job:company>Armedangels</job:company>
+    </item>
+    <item>
+      <title>Head of Accounting (m/f/d) - Frankfurt am Main (hybrid)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/matrix42/head-of-accounting-frankfurt-am-main-hybrid-frankfurt-am-main-hybrid-19138</link>
+      <guid isPermaLink="false">389274</guid>
+      <pubDate>Wed, 14 Oct 2026 05:52:52 +0000</pubDate>
+      <description>&lt;br&gt;&lt;strong&gt;Your mission&lt;/strong&gt;&lt;p&gt;The Head of Accounting is responsible for ensuring accurate and compliant accounting across all Matrix42 entities while leading and developing a team of accounting professionals. The role oversees day-to-day accounting operations, including general and sub-ledger activities, manages the month-end closing process and related analyses, supports the preparation of </description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Frankfurt am Main - Hybrid</job:location>
+      <job:company>Matrix42</job:company>
+    </item>
+    <item>
+      <title>Technicien de maintenance itinérant (F/H)</title>
+      <link>https://www.arbeitnow.fr/jobs/companies/signode/remote-technicien-de-maintenance-itinerant-f-h-beauvais-223554</link>
+      <guid isPermaLink="false">389431</guid>
+      <pubDate>Wed, 14 Oct 2026 05:52:52 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;&lt;span style="color:#5D566C"&gt;Notre entreprise Signode, spécialiste de l'emballage et du conditionnement, est à la recherche de son ou sa futur(e) collaborateur (trice) au poste de Technicien(ne) de maintenance SAV itinérant. Notre entreprise offre un environnement dans lequel vous pourrez développer vos compétences avec des évolutions possibles grâce à notre gamme de machines très complè</description>
       <category>Marketing</category>
       <job:remote>true</job:remote>
@@ -581,30 +605,6 @@
       <job:salary></job:salary>
       <job:location>Remote</job:location>
       <job:company>Haut Ai</job:company>
-    </item>
-    <item>
-      <title>Lead Product Manager, Go-to-Market</title>
-      <link>https://www.arbeitnow.com/jobs/companies/haut-ai/remote-lead-product-manager-go-to-market-472861</link>
-      <guid isPermaLink="false">387922</guid>
-      <pubDate>Wed, 14 Oct 2026 03:18:10 +0000</pubDate>
-      <description>&lt;p style="min-height:1.5em"&gt;&lt;a target="_blank" rel="noopener noreferrer nofollow" href="http://Haut.AI"&gt;&lt;strong&gt;Haut.AI&lt;/strong&gt;&lt;/a&gt; is a pioneering BeautyTech startup at the forefront of personalized skincare solutions. We combine scientific research with artificial intelligence to deliver innovative solutions that actually work. Backed by leading European VCs and founded by AI scientists, we are</description>
-      <category>Marketing</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Haut Ai</job:company>
-    </item>
-    <item>
-      <title>Technical Customer Support Specialist</title>
-      <link>https://www.arbeitnow.com/jobs/companies/happyrobotai/remote-technical-customer-support-specialist-148934</link>
-      <guid isPermaLink="false">387923</guid>
-      <pubDate>Wed, 14 Oct 2026 03:18:10 +0000</pubDate>
-      <description>&lt;h2&gt;&lt;strong&gt;About HappyRobot&lt;/strong&gt;&lt;/h2&gt;&lt;p style="min-height:1.5em"&gt;HappyRobot is the infrastructure for enterprises to build and orchestrate AI workforces. Our AI workers don't just communicate through voice and email - they make decisions, take action, and run operations autonomously across entire enterprise systems. Born in Y Combinator (S23) and backed by a16z, Base10, Prysm Capital and Eura</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>Happyrobot.ai</job:company>
     </item>
   </channel>
 </rss>
