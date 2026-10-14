@@ -61645,30 +61645,6 @@
     "is_foreign": true
   },
   {
-    "id": 73060,
-    "created_at": "2026-08-25 07:56:40",
-    "source": "arbeitnow",
-    "title": "Head of Business Development",
-    "company": "Dualentry",
-    "location": "London, UK (Hybrid)",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/dualentry/head-of-business-development-london-221247",
-    "salary": "",
-    "tags": [
-      "Sales"
-    ],
-    "remote": false,
-    "description": "<h1><strong>About DualEntry</strong></h1><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">DualEntry is building the OS for finance.<br /></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Every business needs a financial system of record, yet the world's largest fintech market ($220B+) still runs on software from the 1990s. DualEntry's AI-native ERP automates accounting from data entry to close, so finance teams move faster, spend less and incur less risk.</p><p style=\"min-height:1.5em\"><br /></p><p style=\"min-height:1.5em\">In just 2 years we've raised $100M+ from Lightspeed, Khosla Ventures, Contrary and Google Ventures and earned the trust of customers from $5M ARR to publicly traded companies.<br /></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We hire <em><strong>outliers</strong></em> - people who have achieved difficult things, in their careers or beyond. You'll find leaders, colleagues who've competed at the highest levels of sport, performed on Broadway, trained with UFC champions and founded the country’s largest Python community.\t</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><div><div style=\"left:0;width:100%;height:0;position:relative;padding-bottom:56.338%\"><iframe src=\"https://embedded-media.ashbyhq.com/embed/90a003a5-39b1-4b2c-b1f7-cd8c1761ad1d/79ad1e94-f2f5-4da3-a3f3-870f2e5beef3\" style=\"top:0;left:0;width:100%;height:100%;position:absolute;border:0\" allowfullscreen scrolling=\"no\" allow=\"encrypted-media *; picture-in-picture *;\" sandbox=\"allow-scripts allow-same-origin allow-presentation\"></iframe></div></div><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><h1><strong>Where You'll Create Impact</strong></h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"> Build!</p></li><li><p style=\"min-height:1.5em\">Recruit, onboard, coach and develop a high-performing UK BDR team</p></li><li><p style=\"min-height:1.5em\">Own the day-to-day performance of the BDR function, ",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
-    "industry": "Sales",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 73063,
     "created_at": "2026-08-25 07:56:40",
     "source": "arbeitnow",
@@ -210933,20 +210909,68 @@
     "is_foreign": true
   },
   {
-    "id": 389707,
-    "created_at": "2026-10-14 06:23:52",
+    "id": 389914,
+    "created_at": "2026-10-14 06:54:55",
+    "source": "arbeitnow",
+    "title": "Head of Business Development",
+    "company": "Dualentry",
+    "location": "London, UK (Hybrid)",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/dualentry/head-of-business-development-london-247036",
+    "salary": "",
+    "tags": [
+      "Sales"
+    ],
+    "remote": false,
+    "description": "<h1><strong>About DualEntry</strong></h1><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">DualEntry is building the OS for finance.<br /></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Every business needs a financial system of record, yet the world's largest fintech market ($220B+) still runs on software from the 1990s. DualEntry's AI-native ERP automates accounting from data entry to close, so finance teams move faster, spend less and incur less risk.</p><p style=\"min-height:1.5em\"><br /></p><p style=\"min-height:1.5em\">In just 2 years we've raised $100M+ from Lightspeed, Khosla Ventures, Contrary and Google Ventures and earned the trust of customers from $5M ARR to publicly traded companies.<br /></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We hire <em><strong>outliers</strong></em> - people who have achieved difficult things, in their careers or beyond. You'll find leaders, colleagues who've competed at the highest levels of sport, performed on Broadway, trained with UFC champions and founded the country’s largest Python community.\t</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><div><div style=\"left:0;width:100%;height:0;position:relative;padding-bottom:56.338%\"><iframe src=\"https://embedded-media.ashbyhq.com/embed/90a003a5-39b1-4b2c-b1f7-cd8c1761ad1d/79ad1e94-f2f5-4da3-a3f3-870f2e5beef3\" style=\"top:0;left:0;width:100%;height:100%;position:absolute;border:0\" allowfullscreen scrolling=\"no\" allow=\"encrypted-media *; picture-in-picture *;\" sandbox=\"allow-scripts allow-same-origin allow-presentation\"></iframe></div></div><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><h1><strong>Where You'll Create Impact</strong></h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"> Build!</p></li><li><p style=\"min-height:1.5em\">Recruit, onboard, coach and develop a high-performing UK BDR team</p></li><li><p style=\"min-height:1.5em\">Own the day-to-day performance of the BDR function, ",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 389916,
+    "created_at": "2026-10-14 06:54:55",
+    "source": "arbeitnow",
+    "title": "Regional Sales Director - United Kingdom",
+    "company": "Harmonic Security Inc",
+    "location": "United Kingdom 100% Remote",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/harmonic-security-inc/remote-regional-sales-director-united-kingdom-36971",
+    "salary": "",
+    "tags": [
+      "Go to Market"
+    ],
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\">AI doesn't run in one place anymore. It runs in the browser tab, the desktop app, the agent your engineers kicked off, and the copilot embedded in the tools you already pay for. Harmonic Security governs all of it.</p><p style=\"min-height:1.5em\">Our AI Governance and Control (AIGC) platform sits on the device, inside the interaction, at the moment of action, reading what AI is actually doing (not just the traffic around it) and acting in under 200ms. Security teams get full visibility and control across every AI surface, including the agentic and MCP layer that traditional tools can't see. Their people get to innovate without guardrails slowing them down.</p><p style=\"min-height:1.5em\">We're gaining serious traction at the intersection of AI and cybersecurity, and backed by investors who know the space: N47, Ten Eleven Ventures, and In-Q-Tel. As AI adoption inside the enterprise accelerates, the ability to safely observe, control, and enforce policy in real time isn't a nice-to-have. It's mission-critical infrastructure. That's what we build.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><h2><strong>How We Work: AI-First by Design</strong></h2><p style=\"min-height:1.5em\">Harmonic exists to help enterprises adopt AI safely and at scale. We hold ourselves to that same standard. Everyone here actively uses AI tools to do their best work, from research and writing to building automated workflows. We expect every new hire to bring genuine curiosity for AI and a commitment to working smarter and faster with it.</p><p style=\"min-height:1.5em\">For some, this means staying open to new tools. For others, it means architecting new systems with AI at the core. We're transparent about expectations for every role, and we give you the tools and support to thrive.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><h2><strong>About the Team</strong></h2><p style=\"min-height:1.5em\">Our Sales team is in the early st",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 389986,
+    "created_at": "2026-10-14 06:54:55",
     "source": "arbeitnow",
     "title": "Technicien de maintenance Itinérant (F/H)",
     "company": "Signode",
     "location": "Remote job",
-    "url": "https://www.arbeitnow.fr/jobs/companies/signode/remote-technicien-de-maintenance-itinerant-f-h-nancy-92476",
+    "url": "https://www.arbeitnow.fr/jobs/companies/signode/remote-technicien-de-maintenance-itinerant-f-h-nantes-155044",
     "salary": "",
     "tags": [
       "Field Service APT EMEA",
       "Remote"
     ],
     "remote": true,
-    "description": "<p><strong><span style=\"color:#5D566C\">Notre entreprise Signode, spécialiste de l'emballage et du conditionnement, est à la recherche de son ou sa futur(e) collaborateur (trice) au poste de Technicien(ne) de maintenance SAV itinérant. Notre entreprise offre un environnement dans lequel vous pourrez développer vos compétences avec des évolutions possibles grâce à notre gamme de machines très complète.</span></strong></p><p style=\"text-align:start;\"><strong><span style=\"color:#5D566C\">Si vous êtes un passionné de maintenance et aimez travailler dans un environnement varié, n'hésitez pas à postuler.</span></strong></p><p style=\"text-align:start;\"><strong><span style=\"color:#5D566C\">Secteur d'intervention :</span></strong></p><p><span style=\"color:#5D566C\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Le 1/4 Grand Est de la France principalement, et France</span></p><p><span style=\"color:#5D566C\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prévoir des découchages 3 à 4 nuits / semaine</span></p><p style=\"text-align:start;\"><strong><span style=\"color:#5D566C\">Objectifs principaux</span></strong></p><p><span style=\"color:#5D566C\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Réparations, installations de machines et gestion des pièces détachées</span></p><p><span style=\"color:#5D566C\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mise en route d’équipement simple et/ou complexe</span></p><p><span style=\"color:#5D566C\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gestion des moyens liés au poste (véhicule, outillage…)</span></p><p><span style=\"color:#5D566C\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Etablissement des comptes rendus d’interventions</span></p><p style=\"text-align:start;\"><strong><span style=\"color:#5D566C\">Missions principales</span></strong></p><p><span style=\"color:#5D566C\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interventions de dépannage / maintenance / mise en route…</span></p><p><span style=\"color:#5D566C\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prendre connaissance du planning établi par le serv",
+    "description": "<p><strong><span style=\"color:#5D566C\">Notre entreprise Signode, spécialiste de l'emballage et du conditionnement, est à la recherche de son ou sa futur(e) collaborateur (trice) au poste de Technicien(ne) de maintenance SAV itinérant. Notre entreprise offre un environnement dans lequel vous pourrez développer vos compétences avec des évolutions possibles grâce à notre gamme de machines très complète.</span></strong></p><p style=\"text-align:start;\"><strong><span style=\"color:#5D566C\">Si vous êtes un passionné de maintenance et aimez travailler dans un environnement varié, n'hésitez pas à postuler.</span></strong></p><p style=\"text-align:start;\"><strong><span style=\"color:#5D566C\">Secteur d'intervention :</span></strong></p><p><span style=\"color:#5D566C\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Le 1/4 Grand Ouest / Nord de la France principalement, et France</span></p><p><span style=\"color:#5D566C\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prévoir des découchages 3 à 4 nuits / semaine</span></p><p style=\"text-align:start;\"><strong><span style=\"color:#5D566C\">Objectifs principaux</span></strong></p><p><span style=\"color:#5D566C\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Réparations, installations de machines et gestion des pièces détachées</span></p><p><span style=\"color:#5D566C\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mise en route d’équipement simple et/ou complexe</span></p><p><span style=\"color:#5D566C\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gestion des moyens liés au poste (véhicule, outillage…)</span></p><p><span style=\"color:#5D566C\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Etablissement des comptes rendus d’interventions</span></p><p style=\"text-align:start;\"><strong><span style=\"color:#5D566C\">Missions principales</span></strong></p><p><span style=\"color:#5D566C\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interventions de dépannage / maintenance / mise en route…</span></p><p><span style=\"color:#5D566C\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prendre connaissance du planning établi pa",
     "requirements": "",
     "benefits": "",
     "is_it": false,
