@@ -5,7 +5,19 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Thu, 15 Oct 2026 15:59:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 16:42:54 +0000</lastBuildDate>
+    <item>
+      <title>Payment Operations Specialist</title>
+      <link>https://remoteOK.com/remote-jobs/remote-payment-operations-specialist-utopia-1137514</link>
+      <guid isPermaLink="false">398167</guid>
+      <pubDate>Thu, 15 Oct 2026 16:42:52 +0000</pubDate>
+      <description></description>
+      <category>Operations</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Utopia</job:company>
+    </item>
     <item>
       <title>Junior Operations Assistant (m/w/d) - HealthTech</title>
       <link>https://www.arbeitnow.com/jobs/companies/veni-solutions/junior-operations-assistant-healthtech-berlin-77476</link>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location>Remote job</job:location>
       <job:company>Rewire</job:company>
-    </item>
-    <item>
-      <title>Senior Medical Writer | Germany</title>
-      <link>https://www.arbeitnow.com/jobs/companies/transperfect/remote-senior-medical-writer-germany-berlin-333952</link>
-      <guid isPermaLink="false">392773</guid>
-      <pubDate>Thu, 15 Oct 2026 07:12:27 +0000</pubDate>
-      <description>&lt;p&gt;We’re seeking an organized, motivated, and collaborative individual for our medical writing team. &lt;/p&gt;&lt;p&gt;The senior medical writer will partner cross-functionally with client teams in Clinical Development, Clinical Operations, Biostatistics, Regulatory, and Program Management in leading the planning and preparation of high-quality clinical regulatory documents. The medical writer may produce pr</description>
-      <category>Support</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote job</job:location>
-      <job:company>TransPerfect</job:company>
     </item>
   </channel>
 </rss>
