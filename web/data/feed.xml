@@ -5,17 +5,29 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Thu, 15 Oct 2026 10:18:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 10:49:28 +0000</lastBuildDate>
+    <item>
+      <title>SEO/SEA Werkstudent (m/w/d) mit Fokus auf Sichtbarkeit in KI-Suchen (Remote oder Würzburg)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/mainwebsolutions/seo-sea-werkstudent-mit-fokus-auf-sichtbarkeit-in-ki-suchen-remote-oder-wurzburg-166962</link>
+      <guid isPermaLink="false">394769</guid>
+      <pubDate>Thu, 15 Oct 2026 10:49:26 +0000</pubDate>
+      <description>&lt;p&gt;Du studierst, hast erste Erfahrungen in SEO oder SEA gesammelt und suchst eine Werkstudentenstelle, bei der du an echten Kundenprojekten mitarbeitest? Du willst dein Wissen im Google-Universum vertiefen, mit modernen KI- und LLM-Tools im Marketing arbeiten und verstehen, wie Marken nicht mehr nur in Google, sondern auch in ChatGPT, Perplexity und Google AI Overviews sichtbar werden? Dann bewirb</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Würzburg</job:location>
+      <job:company>Mainwebsolutions</job:company>
+    </item>
     <item>
       <title>Palantir Foundry Engineer (Relocation to Abu Dhabi, UAE)</title>
-      <link>https://www.arbeitnow.ch/jobs/companies/unit8/remote-palantir-foundry-engineer-relocation-to-abu-dhabi-uae-zurich-350581</link>
-      <guid isPermaLink="false">394688</guid>
-      <pubDate>Thu, 15 Oct 2026 10:18:30 +0000</pubDate>
+      <link>https://www.arbeitnow.ch/jobs/companies/unit8/remote-palantir-foundry-engineer-relocation-to-abu-dhabi-uae-lausanne-52118</link>
+      <guid isPermaLink="false">394978</guid>
+      <pubDate>Thu, 15 Oct 2026 10:49:26 +0000</pubDate>
       <description>&lt;h3&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;Founded in 2017, Unit8 is a Swiss data and AI consulting company helping organisations in traditional industries solve complex challenges in areas such as operations, finance, manufacturing and R&amp;D. We work at the intersection of technology and business, delivering data and AI solutions that create practical value for our clients.&lt;/p&gt;&lt;p&gt;Our teams have deliver</description>
       <category>Marketing</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
-      <job:location>Zürich, Switzerland</job:location>
+      <job:location>Lausanne, Switzerland</job:location>
       <job:company>Unit8</job:company>
     </item>
     <item>
@@ -171,7 +183,7 @@
       <category>Marketing</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
-      <job:location>Bielefeld</job:location>
+      <job:location>Berlin</job:location>
       <job:company>SEOMATIK GmbH</job:company>
     </item>
     <item>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Morning Brew</job:company>
-    </item>
-    <item>
-      <title>Technical Support Specialist, AU</title>
-      <link>https://jobicy.com/jobs/155304-technical-support-specialist-au</link>
-      <guid isPermaLink="false">392681</guid>
-      <pubDate>Wed, 14 Oct 2026 17:56:11 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Nash</job:company>
     </item>
   </channel>
 </rss>

@@ -212679,7 +212679,7 @@
     "source": "arbeitnow",
     "title": "Praktikum im Online-Marketing / Marketing / Projektmanagement",
     "company": "SEOMATIK GmbH",
-    "location": "Bielefeld",
+    "location": "Berlin",
     "url": "https://www.arbeitnow.com/jobs/companies/seomatik-gmbh/praktikum-im-online-marketing-marketing-projektmanagement-bielefeld-311115",
     "salary": "",
     "tags": [
@@ -213591,13 +213591,38 @@
     "is_foreign": true
   },
   {
-    "id": 394688,
-    "created_at": "2026-10-15 10:18:30",
+    "id": 394769,
+    "created_at": "2026-10-15 10:49:26",
+    "source": "arbeitnow",
+    "title": "SEO/SEA Werkstudent (m/w/d) mit Fokus auf Sichtbarkeit in KI-Suchen (Remote oder Würzburg)",
+    "company": "Mainwebsolutions",
+    "location": "Würzburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/mainwebsolutions/seo-sea-werkstudent-mit-fokus-auf-sichtbarkeit-in-ki-suchen-remote-oder-wurzburg-166962",
+    "salary": "",
+    "tags": [
+      "Marketing and pr",
+      "high school coursework"
+    ],
+    "remote": false,
+    "description": "<p>Du studierst, hast erste Erfahrungen in SEO oder SEA gesammelt und suchst eine Werkstudentenstelle, bei der du an echten Kundenprojekten mitarbeitest? Du willst dein Wissen im Google-Universum vertiefen, mit modernen KI- und LLM-Tools im Marketing arbeiten und verstehen, wie Marken nicht mehr nur in Google, sondern auch in ChatGPT, Perplexity und Google AI Overviews sichtbar werden? Dann bewirb dich bei Mainwebsolutions. Bei uns lernst du klassisches SEO/SEA von Grund auf und steigst direkt in den Bereich KI-Sichtbarkeit (GEO) ein, in dem wir aktuell echte Pionierarbeit leisten.</p><p><br /></p><p><strong>Was erwartet dich bei uns?</strong></p><p>Willkommen bei Mainwebsolutions, der Agentur, die Softwareentwicklung und Onlinemarketing unter einem Dach vereint. Unser Team aus Marketern und Entwicklern startet jeden Tag mit einer Portion Humor und einem morgendlichen Team-Meeting, in dem wir uns über aktuelle Themen und Fortschritte abstimmen. Anschließend tauchen wir in die Projekte ein und arbeiten gemeinsam daran, den Erfolg unserer Kunden weiter zu steigern. Zudem entwickeln wir laufend eigene Produkte und KI-Tools, bei denen du mit deinen Ideen mitwirken kannst. Doch bei uns geht es nicht nur um Arbeit. Wir feiern unsere Erfolge regelmäßig mit coolen Teamevents, von Grillpartys auf der Dachterrasse über Yoga und gemeinsames Kochen bis zu geselligen Weinfesten. Du arbeitest remote? Kein Problem. Transfer- und Übernachtungskosten für Office-Besuche und Teamevents übernehmen wir selbstverständlich. Eines ist sicher: Bei uns steht das Team an erster Stelle. Erlebe den Spirit von Mainwebsolutions! #workatmws</p><p><br /></p><p><strong>Dein Aufgabenbereich?</strong></p><p>Als Werkstudent im SEO/SEA-Team unterstützt du uns dabei, die digitale Sichtbarkeit unserer Kunden zu steigern, sowohl bei Google als auch in KI-Suchen wie ChatGPT, Perplexity und Google AI Overviews. Du arbeitest eng mit dem Team zusammen und übernimmst schrittweise eigene Aufgaben in Kundenprojek",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 394978,
+    "created_at": "2026-10-15 10:49:26",
     "source": "arbeitnow",
     "title": "Palantir Foundry Engineer (Relocation to Abu Dhabi, UAE)",
     "company": "Unit8",
-    "location": "Zürich, Switzerland",
-    "url": "https://www.arbeitnow.ch/jobs/companies/unit8/remote-palantir-foundry-engineer-relocation-to-abu-dhabi-uae-zurich-350581",
+    "location": "Lausanne, Switzerland",
+    "url": "https://www.arbeitnow.ch/jobs/companies/unit8/remote-palantir-foundry-engineer-relocation-to-abu-dhabi-uae-lausanne-52118",
     "salary": "",
     "tags": [
       "Engineering",
