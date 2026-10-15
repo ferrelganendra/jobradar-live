@@ -213966,5 +213966,80 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 397063,
+    "created_at": "2026-10-15 14:57:27",
+    "source": "arbeitnow",
+    "title": "Senior Fullstack Engineer (w/m/d)",
+    "company": "Protofy GmbH & Co. KG",
+    "location": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/protofy-gmbh-co-kg/senior-fullstack-engineer-berlin-242271",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Web Development"
+    ],
+    "remote": true,
+    "description": "<h2>Aktuell suchen wir einen erfahrenen Senior Fullstack Engineer (w/m/d). Du bringst 5+ Jahre Erfahrung in der Backend- und Web-Entwicklung mit und hast Lust auf spannende Aufgaben und Herausforderungen? Let’s talk!</h2><h2>Deine Rolle</h2><p>Du baust robuste Services und APIs in Kotlin, Java oder TypeScript und bringst sie in unsere Web-Apps, gern auch bis in die Infrastruktur.</p><p>Du konzipierst, entwickelst und testest neue Backend-Services und Features im engen Austausch mit Deinen Kolleg*innen aus Frontend und Backend. Dabei gestaltest Du Datenmodelle, Schnittstellen und Integrationen mit Drittsystemen.</p><p>Du sorgst für Performance, Skalierbarkeit und Sicherheit unserer Web-Plattformen und Services. Mit unseren Kunden arbeitest Du direkt an der technischen und inhaltlichen Ausgestaltung.</p><h2>Deine typische Woche</h2><ul><li><p>Du konzipierst, entwickelst und testest neue Features, von der API bis zur Oberfläche</p></li><li><p>Du programmierst im Backend in Kotlin, Java oder TypeScript (Node.js) und im Frontend in TypeScript (React)</p></li><li><p>Du designst Datenmodelle, Schnittstellen und Integrationen mit Drittsystemen und verbindest sie sauber mit dem Frontend</p></li><li><p>Du löst Bugs und verbesserst Performance, Skalierbarkeit und Sicherheit unserer Web-Anwendungen und Services</p></li><li><p>Je nach Projekt wirkst Du an Cloud-Infrastruktur, CI/CD-Pipelines und Deployment mit</p></li><li><p>Du setzt in Deiner täglichen Arbeit Agentic-Engineering-Tools wie Cursor oder Claude Code ein</p></li><li><p>Du arbeitest direkt mit unseren Kunden zusammen, in der Regel remote</p></li><li><p>Du unterstützt Deine Teamkolleg*innen und teilst Learnings und Best Practices Protofy-weit</p></li><li><p>Du beteiligst Dich aktiv an der fachlichen Weiterentwicklung der Organisation</p></li><li><p>Du verfolgst neue Trends in Backend, Web und App und diskutierst ihren Einsatz</p></li></ul><h2>Dein Profil</h2><ul><li><p>Du hast 5+ Jahre Erfahrung in der Softwareentwick",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "SWE",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 397066,
+    "created_at": "2026-10-15 14:57:27",
+    "source": "arbeitnow",
+    "title": "Platform Engineer - GitLab & Automation (m/w/d)",
+    "company": "CPU Consulting & Software GmbH",
+    "location": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/cpu-consulting-software-gmbh/platform-engineer-gitlab-automation-berlin-178094",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Software Development"
+    ],
+    "remote": true,
+    "description": "<h2><strong>Deine Rolle:</strong></h2><p><strong>Gestalte und betreibe eine zentrale GitLab-Plattform, auf die zahlreiche Entwicklungsteams täglich vertrauen.</strong></p><p>Für unseren Kunden, einen führenden IT-Dienstleister im Bankenumfeld, suchen wir einen erfahrenen <strong>Platform Engineer (m/w/d)</strong> mit Schwerpunkt auf dem Betrieb und der Weiterentwicklung einer unternehmenskritischen GitLab-Umgebung.</p><p>In dieser Rolle sorgst du dafür, dass eine zentrale Entwicklungsplattform stabil, sicher und leistungsfähig betrieben wird. Du automatisierst Betriebsprozesse, entwickelst bestehende Plattformservices weiter und unterstützt Entwicklungsteams dabei, ihre Software effizient und zuverlässig bereitzustellen.</p><p>Dabei kombinierst du deine Expertise im <strong>GitLab-Betrieb, in der Automatisierung und im DevOps-Umfeld</strong> mit der Möglichkeit, moderne Plattformlösungen aktiv mitzugestalten.</p><h2>Deine Aufgaben</h2><ul><li><p><strong>GitLab-Plattform betreiben:</strong> Du verantwortest die Administration, den sicheren Betrieb und die kontinuierliche Weiterentwicklung einer zentralen GitLab-Instanz (Self-Managed / On-Premises).</p></li><li><p><strong>Stabilität und Sicherheit gewährleisten:</strong> Du planst und implementierst Updates, Patches und Sicherheitsmaßnahmen und bewertest Release Notes sowie mögliche Breaking Changes.</p></li><li><p><strong>Betriebsprozesse automatisieren:</strong> Du automatisierst Installations-, Konfigurations- und Betriebsabläufe mit Ansible/AWX, Python und Infrastructure-as-Code-Werkzeugen.</p></li><li><p><strong>Plattformservices weiterentwickeln:</strong> Du integrierst zentrale Plattformkomponenten in bestehende Systemlandschaften und entwickelst ein internes Self-Service-Portal kontinuierlich weiter.</p></li><li><p><strong>CI/CD-Prozesse optimieren:</strong> Du unterstützt die Weiterentwicklung automatisierter Build-, Test- und Deployment-Prozesse mit GitLab CI/CD und modernen Containertechnologien.</p></li><l",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 397324,
+    "created_at": "2026-10-15 14:57:27",
+    "source": "remoteok",
+    "title": "AI Trainer",
+    "company": "iMerit Technology",
+    "location": "US, UK, Canada, Australia + 35 other countries",
+    "url": "https://remoteOK.com/remote-jobs/remote-ai-trainer-imerit-technology-1137513",
+    "salary": "",
+    "tags": [
+      "data annotation",
+      "ai training"
+    ],
+    "remote": true,
+    "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
