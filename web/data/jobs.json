@@ -213444,13 +213444,38 @@
     "is_foreign": true
   },
   {
-    "id": 393813,
-    "created_at": "2026-10-15 08:45:29",
+    "id": 393891,
+    "created_at": "2026-10-15 09:16:28",
+    "source": "arbeitnow",
+    "title": "SEO Manager (m/w/d) in Teilzeit",
+    "company": "SEO Galaxy GmbH",
+    "location": "Ulmen",
+    "url": "https://www.arbeitnow.com/jobs/companies/seo-galaxy-gmbh/seo-manager-in-teilzeit-ulmen-338142",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Online Marketing"
+    ],
+    "remote": true,
+    "description": "<h2>Über GetMentioned</h2><p>GetMentioned.com ist die SEO-Plattform für Sichtbarkeit in Google und KI-Suchen. Agenturen, Inhouse-SEOs und Marketing-Teams erreichen mit uns Top-Rankings für ihre wichtigsten Suchbegriffe und werden in ChatGPT, Perplexity & Co. genannt. Dafür kombinieren wir unsere eigene Content Engine TextRocket mit einem Online-PR-Marktplatz mit über 100.000 Publishern. </p><h2>Deine Rolle</h2><p>Du verantwortest das SEO und die KI-Sichtbarkeit von getmentioned.com. Du entscheidest, welche Themen wir besetzen, welche Seiten wir bauen oder verbessern und was als Nächstes passiert. Daneben betreuen wir noch einige wenige SEO-Kunden, denen du bei Fragen und in der strategischen Beratung zur Seite stehst; der Aufwand dafür hält sich in Grenzen.</p><h2>Dein Impact</h2><p>Wir verkaufen Sichtbarkeit in Google und KI-Suchen. Jede Seite, die du nach vorn bringst, bringt Besucher und Anfragen. Und wenn ChatGPT nach dem besten Anbieter für Linkaufbau gefragt wird, soll die Antwort GetMentioned lauten.</p><h2>Deine Aufgaben</h2><ul><li><p>Du legst fest, welche Suchbegriffe und Fragen wir besetzen, in Google und in KI-Suchen.</p></li><li><p>Du planst die Themen, schreibst Briefings und eigene Texte und überarbeitest bestehende Seiten, mit unserer Content Engine TextRocket und KI. Wo es sinnvoll ist, steuerst du Freelancer.</p></li><li><p>Du kümmerst dich um Onpage und Technik: interne Verlinkung, Seitenstruktur, Meta-Daten, strukturierte Daten, Indexierung und Ladezeit, gemeinsam mit unserem Entwicklungsteam.</p></li><li><p>Du sorgst dafür, dass ChatGPT, Perplexity, Gemini und die AI Overviews GetMentioned nennen, wenn es um Backlinks, Brand Mentions und Digital PR geht.</p></li><li><p>Du planst Links, Erwähnungen und Digital PR für die eigene Marke über unseren Marktplatz.</p></li><li><p>Du beobachtest Search Console, Rankings und KI-Erwähnungen und weißt jede Woche, was sich bewegt hat und warum.</p></li><li><p>Du beantwortest Fragen unserer wenigen SEO-Kunden",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Marketing",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 394103,
+    "created_at": "2026-10-15 09:16:28",
     "source": "arbeitnow",
     "title": "Palantir Foundry Engineer (Relocation to Abu Dhabi, UAE)",
     "company": "Unit8",
-    "location": "Lausanne, Switzerland",
-    "url": "https://www.arbeitnow.ch/jobs/companies/unit8/remote-palantir-foundry-engineer-relocation-to-abu-dhabi-uae-lausanne-52118",
+    "location": "Zürich, Switzerland",
+    "url": "https://www.arbeitnow.ch/jobs/companies/unit8/remote-palantir-foundry-engineer-relocation-to-abu-dhabi-uae-zurich-350581",
     "salary": "",
     "tags": [
       "Engineering",
