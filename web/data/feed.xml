@@ -5,7 +5,31 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Sun, 18 Oct 2026 16:11:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 16:42:36 +0000</lastBuildDate>
+    <item>
+      <title>Veeam Kasten, Director SE - EMEA &amp; APJ</title>
+      <link>https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-veeam-kasten-director-se-emea-apj-476768</link>
+      <guid isPermaLink="false">404205</guid>
+      <pubDate>Sun, 18 Oct 2026 16:42:34 +0000</pubDate>
+      <description>&lt;div class="content-intro"&gt;&lt;div class="elementToProof"&gt; &lt;p&gt;Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security</description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>veeamsoftware</job:company>
+    </item>
+    <item>
+      <title>Staff Solutions Architect, AI Subject Matter Expert</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-staff-solutions-architect-ai-subject-matter-expert-398918</link>
+      <guid isPermaLink="false">404332</guid>
+      <pubDate>Sun, 18 Oct 2026 16:42:34 +0000</pubDate>
+      <description>&lt;div class="content-intro"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote</job:location>
+      <job:company>gitlab</job:company>
+    </item>
     <item>
       <title>Project Manager - Software Implementation (m/f/x)</title>
       <link>https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-project-manager-software-implementation-berlin-117239</link>
@@ -29,18 +53,6 @@
       <job:salary></job:salary>
       <job:location>Remote job</job:location>
       <job:company>Makersite GmbH</job:company>
-    </item>
-    <item>
-      <title>Veeam Kasten, Director SE - EMEA &amp; APJ</title>
-      <link>https://www.arbeitnow.co.uk/jobs/companies/veeamsoftware/remote-veeam-kasten-director-se-emea-apj-311092</link>
-      <guid isPermaLink="false">403988</guid>
-      <pubDate>Sun, 18 Oct 2026 16:11:50 +0000</pubDate>
-      <description>&lt;div class="content-intro"&gt;&lt;div class="elementToProof"&gt; &lt;p&gt;Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>veeamsoftware</job:company>
     </item>
     <item>
       <title>Responsable de Vente France SUD</title>
@@ -173,18 +185,6 @@
       <job:salary></job:salary>
       <job:location>Remote job</job:location>
       <job:company>Intero Integrity Services</job:company>
-    </item>
-    <item>
-      <title>Staff Solutions Architect, AI Subject Matter Expert</title>
-      <link>https://www.arbeitnow.nl/jobs/companies/gitlab/remote-staff-solutions-architect-ai-subject-matter-expert-67927</link>
-      <guid isPermaLink="false">404130</guid>
-      <pubDate>Sun, 18 Oct 2026 16:11:50 +0000</pubDate>
-      <description>&lt;div class="content-intro"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote</job:location>
-      <job:company>gitlab</job:company>
     </item>
     <item>
       <title>Senior Software Engineer, Data Pipeline</title>
