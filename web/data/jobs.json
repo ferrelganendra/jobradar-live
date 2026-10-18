@@ -221089,30 +221089,6 @@
     "is_foreign": true
   },
   {
-    "id": 405203,
-    "created_at": "2026-10-18 18:15:32",
-    "source": "arbeitnow",
-    "title": "Veeam Kasten, Director SE - EMEA & APJ",
-    "company": "veeamsoftware",
-    "location": "Remote",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/veeamsoftware/remote-veeam-kasten-director-se-emea-apj-311092",
-    "salary": "",
-    "tags": [
-      "Kasten Sales 1009429"
-    ],
-    "remote": false,
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;elementToProof&quot;&gt;\n&lt;p&gt;Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security, and AI risk. Headquartered in Seattle with offices in more than 30 countries, Veeam protects over 550,000 customers worldwide, who trust Veeam to keep their businesses running. Join us as we go fearlessly forward together, growing, learning, and making a real impact for some of the world’s biggest brands.&lt;/p&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;h4&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;&lt;strong&gt;Veeam Kasten &lt;em&gt;for Kubernetes&lt;/em&gt;&lt;/strong&gt; is Veeam&#39;s Kubernetes-native data protection platform, purpose-built for modern cloud-native applications and AI-driven workloads. As enterprises accelerate Kubernetes adoption through container-based application modernization and modern virtualization, Kasten is positioned to be the data resilience standard for cloud-native infrastructure.&lt;/p&gt;\n&lt;p&gt;Reporting to the leader of Worldwide Kasten Solution Sales, you will partner with regional Kasten and field sales leadership to build territory strategy, raise technical win rates, and scale Kasten expertise across the broader Veeam field organization. You will also own the field-to-product feedback loop, working directly with Kasten Product Management and engineering to represent customer requirements. While Kasten is the primary focus, this leader will also support Veeam Data Platform opportunities where Kubernetes and virtualization workloads converge.&lt;/p&gt;\n&lt;p&gt;This is a hands-on leadership role. You will inherit an established team of senior specialists, and your mandate is to m",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
-    "industry": "Sales",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 405256,
     "created_at": "2026-10-18 18:15:32",
     "source": "arbeitnow",
@@ -221213,13 +221189,37 @@
     "is_foreign": true
   },
   {
-    "id": 405343,
-    "created_at": "2026-10-18 18:15:32",
+    "id": 405413,
+    "created_at": "2026-10-18 18:46:32",
+    "source": "arbeitnow",
+    "title": "Veeam Kasten, Director SE - EMEA & APJ",
+    "company": "veeamsoftware",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-veeam-kasten-director-se-emea-apj-476768",
+    "salary": "",
+    "tags": [
+      "Kasten Sales 1009429"
+    ],
+    "remote": true,
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;elementToProof&quot;&gt;\n&lt;p&gt;Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security, and AI risk. Headquartered in Seattle with offices in more than 30 countries, Veeam protects over 550,000 customers worldwide, who trust Veeam to keep their businesses running. Join us as we go fearlessly forward together, growing, learning, and making a real impact for some of the world’s biggest brands.&lt;/p&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;h4&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;&lt;strong&gt;Veeam Kasten &lt;em&gt;for Kubernetes&lt;/em&gt;&lt;/strong&gt; is Veeam&#39;s Kubernetes-native data protection platform, purpose-built for modern cloud-native applications and AI-driven workloads. As enterprises accelerate Kubernetes adoption through container-based application modernization and modern virtualization, Kasten is positioned to be the data resilience standard for cloud-native infrastructure.&lt;/p&gt;\n&lt;p&gt;Reporting to the leader of Worldwide Kasten Solution Sales, you will partner with regional Kasten and field sales leadership to build territory strategy, raise technical win rates, and scale Kasten expertise across the broader Veeam field organization. You will also own the field-to-product feedback loop, working directly with Kasten Product Management and engineering to represent customer requirements. While Kasten is the primary focus, this leader will also support Veeam Data Platform opportunities where Kubernetes and virtualization workloads converge.&lt;/p&gt;\n&lt;p&gt;This is a hands-on leadership role. You will inherit an established team of senior specialists, and your mandate is to m",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 405464,
+    "created_at": "2026-10-18 18:46:32",
     "source": "arbeitnow",
     "title": "Staff Solutions Architect, AI Subject Matter Expert",
     "company": "gitlab",
     "location": "Remote",
-    "url": "https://www.arbeitnow.nl/jobs/companies/gitlab/remote-staff-solutions-architect-ai-subject-matter-expert-67927",
+    "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-staff-solutions-architect-ai-subject-matter-expert-456239",
     "salary": "",
     "tags": [
       "SA"
@@ -221231,6 +221231,55 @@
     "is_it": false,
     "role": "other",
     "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 405600,
+    "created_at": "2026-10-18 18:46:32",
+    "source": "arbeitnow",
+    "title": "ICT System Engineer",
+    "company": "Tacture",
+    "location": "Solothurn",
+    "url": "https://www.arbeitnow.ch/jobs/companies/tacture/ict-system-engineer-solothurn-475464",
+    "salary": "",
+    "tags": [
+      "System and Network Administration"
+    ],
+    "remote": false,
+    "description": "<p>Wir bei Tacture überlassen nichts dem Zufall. Als spezialisierte IT-Recruiter wissen wir, dass der Markt voll von Experten ist - aber nicht alle passen zusammen. Unsere Mission? IT-Talente und Unternehmen zu finden, die eine echte Synergie bilden. </p>\n<p>Wir suchen für unseren Kunden, einen Schweizer ICT-Dienstleister mit Standorten in Solothurn und Regensdorf (ZH) einen ICT System & Cloud Engineer 80–100%, der hybride Infrastruktur mitgestaltet statt sie nur zu betreiben. Du arbeitest nicht an einer einzigen Umgebung, sondern siehst über verschiedene Kundenprojekte hinweg, welche Architekturen im Betrieb tatsächlich tragen. Start per sofort oder nach Vereinbarung.</p>\n<h2>Aufgaben</h2>\n<ul>\n<li>Planung und Umsetzung von ICT-Infrastrukturprojekten, von der Aufnahme der Anforderungen bis zum Go-live</li>\n<li>Aufbau und Administration hybrider Umgebungen: Windows Server, Active Directory und Microsoft Azure</li>\n<li>Betrieb und Weiterentwicklung der On-Premise-Basis: Virtualisierung, Backup und Storage </li>\n<li>Evaluation und Einführung neuer Infrastruktur-Technologien inklusive Testing und Empfehlung</li>\n<li>Technische Beratung und Unterstützung der Kunden bei komplexen Problemstellungen</li>\n<li>Dokumentation von Projekten, Architekturen und Betriebslösungen</li>\n<li>Einsätze beim Kunden vor Ort</li>\n</ul>\n<h2>Qualifikation</h2>\n<ul>\n<li>Informatiker EFZ (Plattformentwicklung) oder eine vergleichbare Weiterbildung in der Informatik, dazu 2–5 Jahre Berufserfahrung</li>\n<li>Mehrjährige Erfahrung im Windows Server Umfeld inklusive Active Directory</li>\n<li>Fachkenntnisse in Microsoft Azure und Cloud Computing</li>\n<li>Solide Kenntnisse in Netzwerk und Security</li>\n<li>Fliessende Deutschkenntnisse, denn Du berätst Kunden direkt und übersetzt technische Sachverhalte verständlich</li>\n<li>Führerausweis Kategorie B</li>\n</ul>\n<p>Von Vorteil </p>\n<ul>\n<li>Erfahrung mit Swisscom Cloud Services</li>\n<li>Zertifizierungen wie Microsoft AZ-104, Veeam oder VMware</li>\n<li>",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "HR",
+    "remote_ok": false,
+    "id_city": "solo",
+    "job_type": "full",
+    "is_foreign": false
+  },
+  {
+    "id": 405603,
+    "created_at": "2026-10-18 18:46:32",
+    "source": "arbeitnow",
+    "title": "Chief Marketing Officer (m/f/d)",
+    "company": "CareerTeam Group",
+    "location": "Horw",
+    "url": "https://www.arbeitnow.ch/jobs/companies/careerteam-group/chief-marketing-officer-horw-428418",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Marketing and Communication"
+    ],
+    "remote": true,
+    "description": "<p>For our partner Pawy Fresh Pet Food Sàrl – a Swiss e-commerce company specialising in fresh, natural food for dogs and cats – we are looking for a Chief Marketing Officer (m/f/d). With your strong track record in growth marketing, your ability to build and scale high-performing marketing functions and your data-driven approach to customer acquisition, retention and brand development, you will play a key role in shaping Pawy’s next phase of growth. Are you ready to take ownership of a high-impact CMO role and build the marketing engine behind one of Switzerland’s fast-growing DTC pet food brands?</p>\n<h2>Tasks</h2>\n<ul>\n<li>Definition and leadership of Pawy’s growth and marketing strategy, translating business objectives into scalable initiatives for acquisition, revenue growth and brand development</li>\n<li>Development of creator and customer communities, including the “Pawy Fam”, to strengthen engagement around the brand</li>\n<li>Development and optimisation of the full growth funnel, from awareness and acquisition to conversion, retention and customer lifetime value</li>\n<li>Ownership of performance marketing and growth initiatives, with data-driven optimisation of CAC, ROAS, conversion rates, AOV and retention</li>\n<li>Leadership of the marketing team and external partners across creative, content, copywriting, media buying and other growth functions, as well as close collaboration with founders and cross-functional teams </li>\n<li>Establishment of a testing and experimentation culture, using analytics and AI-driven solutions to improve campaigns and customer journeys</li>\n<li>Strengthening of brand positioning and customer engagement across all touchpoints</li>\n<li>Development of scalable marketing processes and performance frameworks, including reporting, attribution and campaign measurement</li>\n</ul>\n<h2>Requirements</h2>\n<ul>\n<li>Min. 5 years of professional experience as a e-commerce Chief Marketing Officer, VP Marketing or in a comparable Senior Marketi",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
     "remote_ok": true,
     "id_city": null,
     "job_type": "full",
