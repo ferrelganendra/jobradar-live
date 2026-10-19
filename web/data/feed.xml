@@ -5,17 +5,41 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Mon, 19 Oct 2026 03:25:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 03:56:50 +0000</lastBuildDate>
+    <item>
+      <title>Business Development (BDR) | DACH  Remote (d/f/m)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/luminovo-gmbh/business-development-bdr-dach-remote-250782</link>
+      <guid isPermaLink="false">408912</guid>
+      <pubDate>Mon, 19 Oct 2026 03:56:49 +0000</pubDate>
+      <description>&lt;h1&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h1&gt;&lt;p style="min-height:1.5em"&gt;Luminovo builds software that powers the electronics supply chain — and we're growing our OEM segment across the DACH market. As a BDR based in Germany, you'll own the top of the funnel: turning cold outreach into qualified pipeline for our Account Executives.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;This is a high-impact role for someone w</description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>🇪🇺 Germany (remote)</job:location>
+      <job:company>Luminovo GmbH</job:company>
+    </item>
+    <item>
+      <title>Head of Growth (m/w/d)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/nara-gmbh/head-of-growth-berlin-309647</link>
+      <guid isPermaLink="false">408913</guid>
+      <pubDate>Mon, 19 Oct 2026 03:56:49 +0000</pubDate>
+      <description>&lt;h2&gt;Über nara&lt;/h2&gt;&lt;p&gt;nara erledigt die Arbeit, die in IT-Abteilungen jeden Tag anfällt. Mitarbeitende schreiben nara in Microsoft Teams oder rufen an. nara findet die Ursache und löst das Problem direkt in den Systemen, auf Servern und Geräten, vom Drucker, der nicht mehr druckt, bis zum Onboarding mit Konten, Zugängen und Software. Jedes Unternehmen legt selbst fest, was nara allein erledigt und </description>
+      <category>Marketing</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Berlin</job:location>
+      <job:company>nara GmbH</job:company>
+    </item>
     <item>
       <title>Senior iOS Developer (Remote)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/finom/senior-ios-developer-remote-germany-380963</link>
-      <guid isPermaLink="false">408636</guid>
-      <pubDate>Mon, 19 Oct 2026 03:25:48 +0000</pubDate>
+      <link>https://www.arbeitnow.nl/jobs/companies/finom/senior-ios-developer-remote-netherlands-311296</link>
+      <guid isPermaLink="false">409155</guid>
+      <pubDate>Mon, 19 Oct 2026 03:56:49 +0000</pubDate>
       <description>&lt;div&gt;&lt;strong style="font-size: 16px;"&gt;About Finom&lt;/strong&gt;&lt;/div&gt; &lt;div&gt; &lt;/div&gt; &lt;div&gt;Finom is a European tech startup headquartered in Amsterdam, and we’re on a journey towards revolutionizing the financial landscape for entrepreneurs worldwide. Our mission is to develop an all-in-one financial B2B solution that integrates banking functions, accounting, financial management, and invoicing into a sea</description>
       <category>Teknologi</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
-      <job:location>Germany</job:location>
+      <job:location>Netherlands</job:location>
       <job:company>Finom</job:company>
     </item>
     <item>
@@ -581,30 +605,6 @@
       <job:salary></job:salary>
       <job:location>Lausanne</job:location>
       <job:company>Coopers Group AG</job:company>
-    </item>
-    <item>
-      <title>Remote Job resp. Home Office Job als Mitarbeiter/in Social Media, Sales und Admin</title>
-      <link>https://www.arbeitnow.ch/jobs/companies/homeofficeclubch/remote-job-resp-home-office-job-als-mitarbeiter-in-social-media-sales-und-admin-zurich-11300</link>
-      <guid isPermaLink="false">406219</guid>
-      <pubDate>Sun, 18 Oct 2026 19:48:30 +0000</pubDate>
-      <description>&lt;p&gt;Der Home Office Club bietet ein Jobabo mit einer Übersicht über Remote Jobs / Homeoffice Jobs in der Schweiz aus den Bereich Admin / Sekretariat, Kundenberatung / Verkauf und Marketing / Kommunikation. Wir durchsuchen während vielen Stunden Job Websites und filtern seriöse Remote Jobs von Firmen aus der Schweiz aus dem riesigen Job Angebot.&lt;/p&gt; &lt;p&gt;Für die Promotion unseres Jobabos, das Menschen</description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Zürich</job:location>
-      <job:company>HomeOfficeClub.ch</job:company>
-    </item>
-    <item>
-      <title>Systemadministrator:in</title>
-      <link>https://www.arbeitnow.ch/jobs/companies/tacture/systemadministratorin-solothurn-464129</link>
-      <guid isPermaLink="false">406226</guid>
-      <pubDate>Sun, 18 Oct 2026 19:48:30 +0000</pubDate>
-      <description>&lt;p&gt;Wir bei Tacture überlassen nichts dem Zufall. Als spezialisierte IT-Recruiter wissen wir, dass der Markt voll von Experten ist - aber nicht alle passen zusammen. Unsere Mission? IT-Talente und Unternehmen zu finden, die eine echte Synergie bilden. &lt;/p&gt; &lt;p&gt;Wir suchen für unseren Kunden, ein international tätiges Schweizer Industrieunternehmen für Zutrittslösungen in Solothurn, eine:n Systemadmin</description>
-      <category>HR</category>
-      <job:remote>false</job:remote>
-      <job:salary></job:salary>
-      <job:location>Solothurn</job:location>
-      <job:company>Tacture</job:company>
     </item>
   </channel>
 </rss>
