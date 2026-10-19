@@ -224449,5 +224449,55 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 414563,
+    "created_at": "2026-10-19 17:49:30",
+    "source": "arbeitnow",
+    "title": "Freelance Grant Writer & Fundraising Consultant",
+    "company": "Startupistan Impact Ventures gUG",
+    "location": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/startupistan-impact-ventures-gug/freelance-grant-writer-fundraising-consultant-berlin-64738",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Business Consulting"
+    ],
+    "remote": true,
+    "description": "<p>Help us unlock funding for education, employment, and social impact initiatives.</p><p>At Startupistan Impact Ventures gUG, we develop and scale initiatives that connect education, digital skills, and employment opportunities, particularly for underserved communities.</p><p>Our work spans digital education, AI skills, workforce development, and international talent pathways. We collaborate with businesses, educational institutions, and international organizations to turn innovative ideas into measurable social impact.</p><p>We're looking for an experienced Freelance Grant Writer & Fundraising Consultant to help us identify funding opportunities, develop compelling proposals, and secure grants to expand our impact.</p><h2>What you'll do</h2><ul><li>Funding research: Identify relevant grant opportunities from foundations, corporate CSR programs, public funding institutions, and international donors.</li><li>Grant writing: Develop high-quality funding proposals, concept notes, expressions of interest, and grant applications.</li><li>Fundraising strategy: Build and maintain a pipeline of funding opportunities aligned with our mission and projects.</li><li>Proposal development: Translate project ideas into compelling narratives, budgets, logical frameworks, and measurable impact indicators.</li><li>Donor engagement: Support outreach, partnership development, and communication with prospective funders.</li><li>Application management: Coordinate submission requirements, deadlines, supporting documentation, and follow-ups.</li></ul><h2>What we're looking for</h2><ul><li>Proven experience in grant writing, institutional fundraising, or proposal development, ideally with a track record of successful applications.</li><li>Familiarity with European and international funding ecosystems, including foundations, corporate philanthropy, EU funding, and development cooperation.</li><li>Excellent written English; German is a strong advantage.</li><li>Experience in education, employ",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "HR",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "contract",
+    "is_foreign": true
+  },
+  {
+    "id": 414689,
+    "created_at": "2026-10-19 17:49:30",
+    "source": "arbeitnow",
+    "title": "Full-stack Developer",
+    "company": "ADOMIK",
+    "location": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/adomik/full-stack-developer-paris-258791",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Development"
+    ],
+    "remote": true,
+    "description": "<p>As a leading ad tech company, we help publishers thrive in an increasingly challenging and complex digital world dominated by GAFAs.</p><p>Our unique AI-based SaaS platform offers a range of products that help publishers optimize their revenue and operational efficiency.</p><p>Over 100 prestigious customers in 20 countries, including industry leaders such as Microsoft, Dotdash Meredith, and Tripadvisor, use our solutions daily.</p><h2>Tasks</h2><p>Are you a full-stack developer who loves delivering features from end to end?</p><p>Would you like to work in a start-up environment for the leader in Adtech analytics, using cutting-edge tools like Claude Code to accelerate your workflow?</p><p>If you enjoy working on problems involving large amounts of data, are curious, passionate, and care about delivering quality user experiences, join our team of talented developers.</p><p>As part of the BUILD team, you'll be responsible for developing features across our products' full stack — from API design to user interface — with complete autonomy.</p><p>No more silos: you own your features from start to finish.</p><p>You will participate in technical design workshops, propose improvements, and work closely with the Product team daily, as well as with our data engineers and data scientists.</p><p><strong>Mission</strong></p><ul><li><p>Deliver end-to-end features, from API design (Ruby on Rails) to user interface implementation (React), ensuring a seamless user experience.</p></li><li><p>Collaborate closely with the Product team to understand requirements, propose solutions, and iterate on feedback.</p></li><li><p>Optimize existing application code to improve performance and maintainability.</p></li><li><p>Take the initiative to improve our architecture, design, and development workflows.</p></li></ul><p><strong>Our stack</strong></p><ul><li><p>200+ AWS instances (EC2, S3, SQS, Cognito)</p></li><li><p>10 TB+ of data ingested every day</p></li><li><p>Backend: Ruby on Rails, Gra",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
