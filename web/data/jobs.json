@@ -224499,5 +224499,35 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 415098,
+    "created_at": "2026-10-19 18:20:33",
+    "source": "remoteok",
+    "title": "Senior Backend Engineer",
+    "company": "Rain",
+    "location": "",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
+    "salary": "",
+    "tags": [
+      "golang",
+      "finance",
+      "mobile",
+      "senior",
+      "medical",
+      "engineer",
+      "backend"
+    ],
+    "remote": true,
+    "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "SWE",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
