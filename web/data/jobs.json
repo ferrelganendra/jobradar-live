@@ -224094,5 +224094,30 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 414001,
+    "created_at": "2026-10-19 16:47:42",
+    "source": "arbeitnow",
+    "title": "Controller (m/w/d) mit Perspektive Head of Finance - Teilzeit möglich",
+    "company": "Cellagon GmbH",
+    "location": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/cellagon-gmbh/controller-mit-perspektive-head-of-finance-teilzeit-moglich-berlin-387902",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Controlling"
+    ],
+    "remote": true,
+    "description": "<h2>Über Cellagon</h2><p>Du hast in einem Startup oder bei einer wachsenden Marke gelernt, wie aus Ware Zahlen werden, und willst jetzt nicht nur berichten, sondern ein Unternehmen mitgestalten?</p><p>Cellagon ist 40 Jahre alt und tickt wie ein Startup. Seit 1986 machen wir Mikronährstoffkonzentrate, entwickelt und hergestellt in Deutschland. Unser Herz sind mehr als 15.000 begeisterte Partnerinnen und Partner in Deutschland, Österreich und der Schweiz, die unsere Produkte persönlich weiterempfehlen.</p><p>So arbeiten wir: ein Team aus rund 35 Leuten, kurze Wege, schnelle Entscheidungen und KI-Werkzeuge überall dort, wo sie uns die Arbeit leichter machen.</p><p>Was dazu noch fehlt: jemand, der unsere Zahlen in die Hand nimmt. Wir suchen dich als Controller mit Perspektive Head of Finance, in Teilzeit ab 30 Stunden oder in Vollzeit, remote mit regelmäßigen Treffen im Raum Düsseldorf.</p><p>Bevor du weiterliest, solltest du zwei Dinge wissen. Bei uns ist noch nicht alles fertig: Vieles steckt in gewachsenen Excel-Dateien, und genau dort kannst du vom ersten Tag an etwas bewegen. Außerdem ist unser Firmensitz in Altenholz bei Kiel. Du arbeitest remote. Wir treffen uns regelmäßig persönlich im Raum Düsseldorf, deshalb solltest du in NRW wohnen, idealerweise in der Nähe von Düsseldorf.</p><h2>Deine Aufgaben</h2><ul><li><p>Du bewertest jeden Monat unsere Bestände an mehreren Lagerorten und gleichst sie mit unserem ERP-System ab.</p></li><li><p>Du übernimmst das Einkaufscontrolling: Einstandspreise, Preisüberwachung und Kalkulation je Produkt.</p></li><li><p>Du übersetzt unsere Einkaufs- und Produktionsplanung in Zahlungen und pflegst damit die Liquiditätsplanung.</p></li><li><p>Du bereitest den Monatsabschluss gemeinsam mit unserem Buchhaltungsteam (DATEV) vor und steuerst ihn.</p></li><li><p>Du erstellst unseren monatlichen Management-Report mit Deckungsbeitragsrechnung und Kennzahlen.</p></li><li><p>Du ersetzt Handarbeit durch Automatisierung und KI, wo es sinnvoll ist.",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
