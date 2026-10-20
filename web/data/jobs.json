@@ -227854,5 +227854,55 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 419136,
+    "created_at": "2026-10-20 14:56:09",
+    "source": "arbeitnow",
+    "title": "Senior Technical Product Manager (m/w/d)",
+    "company": "Digital Loop GmbH",
+    "location": "Munich",
+    "url": "https://www.arbeitnow.com/jobs/companies/digital-loop-gmbh/senior-technical-product-manager-munich-271301",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Product Management"
+    ],
+    "remote": true,
+    "description": "<h2>Über Digital Loop</h2><p>Digital Loop ist ein in Deutschland ansässiges Beratungs- und Lösungsunternehmen. Wir unterstützen Geschäftskunden bei der Identifizierung und Bewältigung von Herausforderungen in den Bereichen Marketingtechnologie, KI, SEO und Business Intelligence.</p><p>Wir sind davon überzeugt, dass die Schnittstelle zwischen Marketing und Technologie der Schlüssel ist, um in einem sich ständig verändernden Geschäftsumfeld innovativ zu sein und herausragende Leistungen zu erbringen.</p><p>Wir entwickeln maßgeschneiderte, datengesteuerte Produkte, die unmittelbare Bedürfnisse unserer Kunden adressieren und gleichzeitig zukünftige Herausforderungen antizipieren. So können sich unsere Kunden nahtlos an jede Situation anpassen und nachhaltig erfolgreich sein.</p><h2>Ihre Aufgaben</h2><p>IAls Senior Technical Product Manager:in (m/w/d) übernimmst du Verantwortung für die Umsetzung unserer bestehenden Digital-Product-Roadmap und stellst die erfolgreiche Bereitstellung wirkungsvoller digitaler Produkte sicher.</p><p>Darüber hinaus treibst du in der nächsten Phase der Produktentwicklung die kontinuierliche Weiterentwicklung des Produkts voran. Du identifizierst Verbesserungspotenziale, gestaltest zukünftige Roadmap-Prioritäten und entwickelst das digitale Produkt im Einklang mit Kundenbedürfnissen, technischen Möglichkeiten und Geschäftszielen weiter. </p><p>Als strategischer und technischer Ansprechpartner für Kunden und interne Teams übersetzt du komplexe geschäftliche Anforderungen in praktische, wertvolle und skalierbare Lösungen. Du verbindest ausgeprägtes Produktverantwortungsbewusstsein mit der erforderlichen technischen Fachkompetenz, um eng mit den Engineering-, KI- und Datenteams zusammenzuarbeiten. Gleichzeitig übernimmst du die Verantwortung für die Budgetkalkulation und -überwachung über den gesamten Produktlebenszyklus.</p><p>Diese Rolle befindet sich an der Schnittstelle zwischen Produktmanagement und der Bereitstellung von Kundenlösungen. Sie",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "IT",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 419253,
+    "created_at": "2026-10-20 14:56:09",
+    "source": "arbeitnow",
+    "title": "Apporteur d’affaires indépendant",
+    "company": "PropertyOS",
+    "location": "Paris",
+    "url": "https://www.arbeitnow.fr/jobs/companies/propertyos/apporteur-daffaires-independant-paris-277424",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Business Development"
+    ],
+    "remote": true,
+    "description": "<p>🚀 Apporteur d’affaires indépendant — Développez votre réseau avec PropertyOS</p><p><strong>100 % à distance · Organisation libre · Commission sur les ventes issues de vos recommandations</strong></p><p>Vous aimez créer des contacts, repérer des opportunités et mettre les bonnes personnes en relation ?</p><p>Avec PropertyOS, vous identifiez des propriétaires, bailleurs ou petites agences intéressés par une gestion immobilière plus simple. <strong>Vous organisez le rendez-vous : le fondateur assure la démonstration et le closing.</strong></p><h2>🏡 PropertyOS, c’est quoi ?</h2><p>PropertyOS est une plateforme SaaS qui centralise les biens immobiliers, les locataires, les finances, les documents et les tâches dans un même espace.</p><p>Notre ambition : permettre aux propriétaires et gestionnaires de gagner du temps et de garder une vision claire de leur activité immobilière.</p><p>La plateforme est accessible directement en ligne. Nous développons également un réseau de partenaires indépendants pour la faire découvrir à de nouveaux clients grâce à une approche plus personnelle.</p><h2>🎯 Votre mission : créer des opportunités qualifiées</h2><p>Votre rôle consiste à :</p><ul><li><p>Identifier des propriétaires bailleurs, investisseurs et petites agences susceptibles d’être intéressés.</p></li><li><p>Entrer en contact avec eux et comprendre leur organisation actuelle.</p></li><li><p>Présenter simplement PropertyOS et son intérêt.</p></li><li><p>Vérifier leur intérêt pour une démonstration et pour le budget proposé.</p></li><li><p>Organiser un rendez-vous avec le fondateur.</p></li><li><p>Enregistrer les informations utiles dans PropertyOS Advisor pour préparer l’échange.</p></li></ul><p><strong>Vous vous concentrez sur la prospection et la mise en relation.</strong> Le fondateur prend ensuite le relais pour la démonstration détaillée, les questions commerciales, la négociation et la conclusion de l’abonnement.</p><p>Vous ne négociez pas les conditions et ne signez pas d",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
