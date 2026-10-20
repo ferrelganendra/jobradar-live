@@ -228155,5 +228155,55 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 420317,
+    "created_at": "2026-10-20 17:00:01",
+    "source": "arbeitnow",
+    "title": "HR and Recruitment Professional - Remote",
+    "company": "RiseBeyond.Today",
+    "location": "Danehill",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/risebeyondtoday/hr-and-recruitment-professional-remote-danehill-207662",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Recruitment and Selection"
+    ],
+    "remote": true,
+    "description": "<h2><strong>You've Spent Years Developing Other People's Potential. What About Your Own?</strong></h2><p><strong>Your experience. Your ambition. Your next chapter.</strong></p><p>Your career has been built around people, recognising potential, developing talent, building relationships and helping organisations succeed.</p><p><strong>But what if your next chapter took you in a completely different direction?</strong></p><p>We’re looking to connect with you as an ambitious, independent-minded Recruitment, HR or Talent Acquisition professional, ready to explore something beyond the conventional corporate career path.</p><p><strong>More autonomy. Greater flexibility. Continued personal growth.</strong></p><p><strong>If you’re someone who enjoys a challenge, thinks independently and believes there’s always another level to reach, we’d love to hear from you.</strong></p><p><strong>About Us</strong></p><p>We operate within the global personal development and leadership education sector, working with established programmes, structured digital systems and an international and intentional community of growth-minded professionals.</p><p>Our focus is on empowering individuals to develop their potential while creating an environment that encourages independence, leadership and continuous growth.</p><p><strong>Your Role</strong></p><p><strong>Connect & Engage</strong> by building relationships with professionals interested in personal growth, leadership and exploring new possibilities.</p><p><strong>Recognise Potential</strong> and use your people skills to identify individuals who may be aligned with our programmes and professional development pathways.</p><p><strong>Expand Your Reach</strong> by applying established digital marketing strategies to connect with a wider audience.</p><p><strong>Lead & Inspire</strong> others - taking your leadership ambitions to develop and support others as part of a growing international network.</p><p><strong>Keep Growing</strong> by engaging i",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Marketing",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 420411,
+    "created_at": "2026-10-20 17:00:01",
+    "source": "arbeitnow",
+    "title": "Full Stack Blockchain Engineer for RWA market",
+    "company": "Blockvora",
+    "location": "Zug",
+    "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/full-stack-blockchain-engineer-for-rwa-market-zug-393337",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Software Development"
+    ],
+    "remote": true,
+    "description": "<h2>About Blockvora</h2><p>Blockvora is scaling its engineering capacity with 5 new Full Stack Blockchain Engineer positions for the real-world asset (RWA) market. Operating as a fully remote team across the globe, we build infrastructure that bridges traditional finance and decentralized ledgers.</p><h2>Your responsibilities</h2><p>You will design, develop, and maintain decentralized applications and smart contracts that power our RWA marketplace.</p><ul><li><p>Write secure, gas-optimized smart contracts for asset tokenization.</p></li><li><p>Build responsive front-end interfaces using modern web frameworks.</p></li><li><p>Integrate blockchain networks with backend services and APIs.</p></li><li><p>Audit and test codebase security to protect user assets and transactions.</p></li><li><p>Collaborate with product and design teams to ship new protocol features.</p></li></ul><h2>Requirements</h2><ul><li><p>Proven professional experience in full stack software development and blockchain engineering.</p></li><li><p>Strong proficiency in Solidity and JavaScript or TypeScript.</p></li><li><p>Deep understanding of token standards, DeFi protocols, and Web3 libraries.</p></li><li><p>Experience with modern front-end frameworks like React or Next.js.</p></li><li><p>Familiarity with secure smart contract development practices and automated testing tools.</p></li></ul><h2>Your first months at Blockvora</h2><p>In your first months, you will have taken on core smart contract development tasks, integrated critical front-end components for the RWA platform, and shipped your first protocol upgrades. You will have built a deep familiarity with our codebase and collaborated with distributed team members across international time zones.</p><h2>Compensation</h2><p>This is a 12-month freelance contract offering USD 80–140 per hour for 30 hours per week.</p><h2>Join us</h2><p>If your background matches most of these requirements, we encourage you to apply. Help us shape the infrastructure fo",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "SWE",
+    "industry": "Finance",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
