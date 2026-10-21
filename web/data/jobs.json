@@ -230485,5 +230485,29 @@
     "id_city": null,
     "job_type": "intern",
     "is_foreign": true
+  },
+  {
+    "id": 423377,
+    "created_at": "2026-10-21 05:07:22",
+    "source": "arbeitnow",
+    "title": "Junior Marketplace Manager (E-Commerce) (m/w/d)| Flexible Remote-Option",
+    "company": "Nordmut GmbH",
+    "location": "Hamburg",
+    "url": "https://www.arbeitnow.com/jobs/companies/nordmut-gmbh/junior-marketplace-manager-e-commerce-flexible-remote-option-hamburg-52362",
+    "salary": "",
+    "tags": [
+      "Online Marketing"
+    ],
+    "remote": false,
+    "description": "<p><strong>Moin, wir sind Nordmut – die Outdoor Brand mit Herz und Vision.</strong></p><p>Wir entwickeln hochwertiges Outdoor-Equipment für Abenteurer, Camper und Freiheitsliebende. Du hast Bock auf <strong>E-Commerce, digitale Marktplätze und nachhaltiges Wachstum? Du denkst unternehmerisch, liebst es, Performance zu analysieren und möchtest unsere Marke auf Plattformen wie Amazon & Co. auf das nächste Level bringen?</strong> Wir nämlich auch!</p><p>Unser Ziel: <strong>bis 2030 die führende deutsche Outdoor D2C-Marke zu werden</strong> – mit einem skalierbaren, internationalen Geschäftsmodell. Dafür brauchen wir nicht nur starke Produkte und eine klare Vision, sondern auch einen <strong>Marketplace Manager, der unsere Marktplatzstrategie aktiv gestaltet, neue Wachstumspotenziale erschließt und unsere internationalen Vertriebskanäle profitabel skaliert.</strong></p><p>Wir sind ein junges, ambitioniertes Team aus dem Herzen Hamburgs, das seine Mission lebt: <strong>Wir inspirieren Menschen, durch die Natur zu sich selbst zu finden und mit hochwertiger Ausrüstung, starker Gemeinschaft und unvergesslichen Abenteuern über sich hinauszuwachsen.</strong></p><p><strong>Du möchtest Verantwortung übernehmen, eigene Ideen umsetzen und den internationalen Marketplace-Erfolg einer aufstrebenden Outdoor-Marke maßgeblich mitgestalten?</strong></p><p><strong>Dann brauchen wir genau dich!</strong></p><h2>Aufgaben</h2><p><strong>Dein Verantwortungsbereich</strong></p><ul><li><p><strong>Marketplace Management:</strong> Du übernimmst die operative und strategische Betreuung unserer Marktplätze wie Amazon, OTTO, Kaufland & Co. und entwickelst diese kontinuierlich weiter.</p></li><li><p><strong>Wachstum & Skalierung:</strong> Du identifizierst neue Umsatzpotenziale, entwickelst Wachstumsstrategien und hilfst uns dabei, unsere Marktplätze national und international erfolgreich zu skalieren.</p></li><li><p><strong>Performance Marketing:</strong> Du planst, steuerst und optimierst unsere W",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Marketing",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
