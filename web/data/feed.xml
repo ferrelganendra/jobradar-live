@@ -5,7 +5,31 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Wed, 21 Oct 2026 06:40:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 07:11:24 +0000</lastBuildDate>
+    <item>
+      <title>Automation Engineer (m/w/d) 100% Remote - n8n &amp; KI</title>
+      <link>https://www.arbeitnow.com/jobs/companies/martic-solutions/automation-engineer-100-remote-n8n-ki-berlin-291379</link>
+      <guid isPermaLink="false">424477</guid>
+      <pubDate>Wed, 21 Oct 2026 07:11:23 +0000</pubDate>
+      <description>&lt;h2&gt;Automatisierungen mit n8n und KI&lt;/h2&gt;&lt;p&gt;Martic Solutions entwickelt intelligente Automatisierungen für Unternehmen, die sich direkt an bestehende Systeme anpassen und Arbeitsabläufe vereinfachen. Wir suchen eine engagierte Person, die n8n und KI-Technologien einsetzt, um maßgeschneiderte Workflows aufzubauen und bestehende Prozesse zu optimieren.&lt;/p&gt;&lt;h2&gt;Ihre Aufgaben&lt;/h2&gt;&lt;p&gt;Sie konzipieren und</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Berlin</job:location>
+      <job:company>Martic Solutions</job:company>
+    </item>
+    <item>
+      <title>Global Event Producer</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/pmmalliance/global-event-producer-london-103049</link>
+      <guid isPermaLink="false">424554</guid>
+      <pubDate>Wed, 21 Oct 2026 07:11:23 +0000</pubDate>
+      <description>&lt;p style="min-height:1.5em"&gt;When it comes to digital communities, The Alliance is leading the way. Product marketing, sales enablement, product-led growth, AI, customer success, CMOs, you name it, we’re home to thriving communities for them all.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;With 160,000+ professionals across our communities and a constant stream of events, members</description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Hybrid</job:location>
+      <job:company>Pmmalliance</job:company>
+    </item>
     <item>
       <title>Client Success Manager, Pharma</title>
       <link>https://jobicy.com/jobs/153696-client-success-manager-pharma</link>
@@ -581,30 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>BetterHelp</job:company>
-    </item>
-    <item>
-      <title>Senior Manager, Enterprise Sales</title>
-      <link>https://jobicy.com/jobs/156052-senior-manager-enterprise-sales</link>
-      <guid isPermaLink="false">422535</guid>
-      <pubDate>Wed, 21 Oct 2026 03:03:27 +0000</pubDate>
-      <description></description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>BetterHelp</job:company>
-    </item>
-    <item>
-      <title>Client Partner, Ecosystem</title>
-      <link>https://jobicy.com/jobs/156051-client-partner-ecosystem</link>
-      <guid isPermaLink="false">422536</guid>
-      <pubDate>Wed, 21 Oct 2026 03:03:27 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Datavant</job:company>
     </item>
   </channel>
 </rss>

@@ -26989,30 +26989,6 @@
     "is_foreign": true
   },
   {
-    "id": 13245,
-    "created_at": "2026-08-14 05:50:22",
-    "source": "arbeitnow",
-    "title": "Global Event Producer",
-    "company": "Pmmalliance",
-    "location": "Hybrid",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/pmmalliance/global-event-producer-london-279856",
-    "salary": "",
-    "tags": [
-      "*Event Production"
-    ],
-    "remote": false,
-    "description": "<p style=\"min-height:1.5em\">When it comes to digital communities, The Alliance is leading the way. Product marketing, sales enablement, product-led growth, AI, customer success, CMOs, you name it, we’re home to thriving communities for them all.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">With 70,000+ professionals across our communities and a constant stream of events, memberships, and learning products, we help individuals and teams grow faster in their careers. We work with some of the world’s most recognisable companies and pride ourselves on being a high-impact learning partner, not just another events business.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We’re ambitious, we move quickly, and we’re still early in the journey. That means real ownership, a steep learning curve, and plenty of opportunity to shape what comes next.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>The Role</strong></p><p style=\"min-height:1.5em\">Our pioneering<strong> conference production team</strong> deliver market-dominating events across the tech, marketing and finance industry. They bring together leading minds to share the latest trends, challenges and opportunities facing companies, the tactics and tools needed to drive results, and a forum to make meaningful connections.</p><p style=\"min-height:1.5em\">Join them and you’ll develop your research skills, flex your commercial acumen and nail project management.  If you’re craving hands-on business experience within a high-growth B2B start-up, there’s no better place. </p><p style=\"min-height:1.5em\">Oh, and did we mention the opportunity to travel internationally?</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>What you’ll do:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Carry out research, and engage with our community to understand the challenges and opportunities facing professionals in that space.</p></li><li><p styl",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
-    "industry": "Sales",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 13247,
     "created_at": "2026-08-14 05:50:22",
     "source": "arbeitnow",
@@ -222395,30 +222371,6 @@
     "is_foreign": true
   },
   {
-    "id": 413207,
-    "created_at": "2026-10-19 15:14:42",
-    "source": "arbeitnow",
-    "title": "Werkstudent (m/w/d) - Finance & Beratung (unternehmerisch, leistungsbasiert)",
-    "company": "Kevin Kehr",
-    "location": "Homeoffice",
-    "url": "https://www.arbeitnow.com/jobs/companies/kevin-kehr/remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-171872",
-    "salary": "",
-    "tags": [
-      "Remote"
-    ],
-    "remote": true,
-    "description": "<p><span style=\"color:#000000\">Du studierst und willst mehr als einen „Nebenjob“? Du willst Verantwortung, klare Ziele und ein Umfeld, in dem Leistung zählt? Dann ist diese Werkstudentenrolle dein Einstieg in die Finanzberatung, mit strukturiertem Onboarding, Coaching und einem klaren Weg in ein Trainee-Programm.</span></p><p><span style=\"color:#000000\">Diese Rolle ist unternehmerisch geprägt und bietet dir die Möglichkeit, dich aktiv einzubringen, Verantwortung zu übernehmen und dich fachlich wie persönlich weiterzuentwickeln. Leistung und Eigeninitiative spielen dabei eine zentrale Rolle, gleichzeitig wirst du durch strukturiertes Onboarding, Coaching und ein erfahrenes Team unterstützt.</span></p><p><span style=\"color:#000000\">Sehr gute Deutschkenntnisse (C1+) sind erforderlich, da die Ausbildung, die Kommunikation im Team sowie die Perspektive Richtung IHK vollständig auf Deutsch stattfinden.</span></p><p style=\"min-height: 1.7em;\"></p><h3 style=\"text-align:start;\"><strong>Dein Aufgabenbereich</strong></h3><p><span style=\"color:#000000\">Startphase (erste Wochen):</span></p><ul><li><p><strong>Terminaufbau:</strong> Du vereinbarst Kundentermine (Telefon, Netzwerk, Leads) und baust eine saubere Pipeline auf.</p></li><li><p><strong>Prozesslernen:</strong> Du lernst Gesprächsleitfäden, Bedarfsermittlung, Nachbereitung und Dokumentationsstandards.</p></li><li><p><strong>Performance-Optimierung:</strong> Du arbeitest mit KPIs, bekommst Feedback und verbesserst systematisch deine Ergebnisse. </p></li></ul><p style=\"min-height: 1.7em;\"></p><p>Im weiteren Verlauf: </p><ul><li><p><strong>Analyse &amp; Vorbereitung:</strong> Du unterstützt bei der Analyse von Kundensituationen und bereitest Beratungsunterlagen strukturiert vor.</p></li></ul><ul><li><p><strong>Kundenkontakt:</strong><span style=\"color:#000000\"> Du begleitest Gespräche (je nach Stand), übernimmst Follow-ups und sorgst für klare nächste Schritte.</span></p></li><li><p><strong>Dokumentation &amp; Organisation:<",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
-    "industry": "Finance",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 413389,
     "created_at": "2026-10-19 15:14:42",
     "source": "jobicy",
@@ -230544,6 +230496,55 @@
     "tags": [],
     "remote": true,
     "description": "",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 424477,
+    "created_at": "2026-10-21 07:11:23",
+    "source": "arbeitnow",
+    "title": "Automation Engineer (m/w/d) 100% Remote - n8n & KI",
+    "company": "Martic Solutions",
+    "location": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/martic-solutions/automation-engineer-100-remote-n8n-ki-berlin-291379",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Automation Engineering"
+    ],
+    "remote": true,
+    "description": "<h2>Automatisierungen mit n8n und KI</h2><p>Martic Solutions entwickelt intelligente Automatisierungen für Unternehmen, die sich direkt an bestehende Systeme anpassen und Arbeitsabläufe vereinfachen. Wir suchen eine engagierte Person, die n8n und KI-Technologien einsetzt, um maßgeschneiderte Workflows aufzubauen und bestehende Prozesse zu optimieren.</p><h2>Ihre Aufgaben</h2><p>Sie konzipieren und implementieren automatisierte Prozesse mit n8n und verschiedenen KI-Schnittstellen. Dabei analysieren Sie die Anforderungen der Kunden, verbinden unterschiedliche Software-Systeme miteinander und sorgen für eine reibungslose Datenübertragung. Sie testen die erstellten Workflows gründlich, beheben Fehler und passen die Lösungen kontinuierlich an neue Anforderungen an.</p><h2>Was Sie mitbringen</h2><p>Sie bringen fundierte praktische Erfahrung im Bereich der Prozessautomatisierung und im Umgang mit n8n mit. Der Einsatz von KI-Modellen und deren Anbindung via API ist Ihnen vertraut. Sie arbeiten eigenverantwortlich, denken analytisch und finden pragmatische Lösungen für komplexe technische Fragestellungen.</p><h2>Ihr Start bei Martic Solutions</h2><p>In Ihren ersten Monaten werden Sie bestehende Kundenprojekte analysieren, neue Automatisierungsstrecken mit n8n und KI aufbauen und direkt an der Weiterentwicklung unserer Systeme arbeiten. Wenn Sie nicht alle Anforderungen zu hundert Prozent erfüllen, freuen wir uns dennoch auf Ihre Bewerbung.</p><h2>Das wird geboten</h2><ul><li><p>Flexible Arbeitszeiten</p></li><li><p>Zusätzliche Urlaubstage</p></li><li><p>Remote arbeiten</p></li><li><p>Mentoring</p></li><li><p>Lockere Kleiderordnung</p></li></ul><p></p><p>Find <a href=\"https://www.arbeitnow.com\">Jobs in Germany</a> on Arbeitnow</a>",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 424554,
+    "created_at": "2026-10-21 07:11:23",
+    "source": "arbeitnow",
+    "title": "Global Event Producer",
+    "company": "Pmmalliance",
+    "location": "Hybrid",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/pmmalliance/global-event-producer-london-103049",
+    "salary": "",
+    "tags": [
+      "*Event Production"
+    ],
+    "remote": false,
+    "description": "<p style=\"min-height:1.5em\">When it comes to digital communities, The Alliance is leading the way. Product marketing, sales enablement, product-led growth, AI, customer success, CMOs, you name it, we’re home to thriving communities for them all.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">With 160,000+ professionals across our communities and a constant stream of events, memberships, and learning products, we help individuals and teams grow faster in their careers. We work with some of the world’s most recognisable companies and pride ourselves on being a high-impact learning partner, not just another events business.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We’re ambitious, we move quickly, and we’re still early in the journey. That means real ownership, a steep learning curve, and plenty of opportunity to shape what comes next.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>The Role</strong></p><p style=\"min-height:1.5em\">Our pioneering<strong> conference production team</strong> deliver market-dominating events across the tech, marketing and finance industry. They bring together leading minds to share the latest trends, challenges and opportunities facing companies, the tactics and tools needed to drive results, and a forum to make meaningful connections.</p><p style=\"min-height:1.5em\">Join them and you’ll develop your research skills, flex your commercial acumen and nail project management.  If you’re craving hands-on business experience within a high-growth B2B start-up, there’s no better place. </p><p style=\"min-height:1.5em\">Oh, and did we mention the opportunity to travel internationally?</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>What you’ll do:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Carry out research, and engage with our community to understand the challenges and opportunities facing professionals in that space.</p></li><li><p sty",
     "requirements": "",
     "benefits": "",
     "is_it": false,
