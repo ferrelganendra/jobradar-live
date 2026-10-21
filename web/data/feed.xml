@@ -5,7 +5,43 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Wed, 21 Oct 2026 16:28:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 16:59:42 +0000</lastBuildDate>
+    <item>
+      <title>Senior Fullstack Engineer (all identities)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/caspar-health/senior-fullstack-engineer-all-identities-berlin-358239</link>
+      <guid isPermaLink="false">429055</guid>
+      <pubDate>Wed, 21 Oct 2026 16:59:40 +0000</pubDate>
+      <description>&lt;h2&gt;Das erwartet Dich&lt;/h2&gt; &lt;p&gt;Caspar Health builds digital rehabilitation products that enable patients to continue their therapy beyond the clinic and help therapists support them more efficiently.&lt;/p&gt; &lt;p&gt;As a Senior Fullstack Engineer in our Healthcare Professionals Squad, you will build and improve the interface therapists use to manage their daily work. Working across our Ruby on Rails backend</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary>EUR 76,000</job:salary>
+      <job:location>Berlin</job:location>
+      <job:company>Caspar Health</job:company>
+    </item>
+    <item>
+      <title>Senior SAP PP Consultant - S/4HANA Rollout (Freelance)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-pp-consultant-s-4hana-rollout-freelance-bonn-456878</link>
+      <guid isPermaLink="false">429057</guid>
+      <pubDate>Wed, 21 Oct 2026 16:59:40 +0000</pubDate>
+      <description>&lt;p&gt;Für ein SAP-S/4HANA-Transformations- und Rollout-Projekt bei einem Unternehmen aus dem technischen Handel mit eigenen Fertigungsprozessen suchen wir einen erfahrenen SAP PP Consultant (m/w/d) auf freiberuflicher Basis.&lt;/p&gt;&lt;p&gt;Im Mittelpunkt steht die Harmonisierung und Weiterentwicklung der Fertigungsprozesse innerhalb einer einheitlichen SAP-S/4HANA-Systemlandschaft. Ein wesentlicher Bestandtei</description>
+      <category>HR</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Bonn</job:location>
+      <job:company>Sidekick Network GmbH &amp; Co. KG</job:company>
+    </item>
+    <item>
+      <title>Signalling Security Specialist</title>
+      <link>https://www.arbeitnow.fr/jobs/companies/p1-security/signalling-security-specialist-paris-142621</link>
+      <guid isPermaLink="false">429179</guid>
+      <pubDate>Wed, 21 Oct 2026 16:59:40 +0000</pubDate>
+      <description>&lt;p&gt;About the Role&lt;/p&gt; &lt;p&gt;As a &lt;strong&gt;Telecom Signalling Security Analyst&lt;/strong&gt;, you will combine customer-facing delivery with hands-on technical execution in sensitive telecom environments.&lt;/p&gt; &lt;p&gt;You will:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Support and operate P1 Security solutions in production contexts (notably &lt;strong&gt;PTM&lt;/strong&gt; and &lt;strong&gt;VKB&lt;/strong&gt;).&lt;/li&gt; &lt;li&gt;Conduct &lt;strong&gt;signalling security audits&lt;/</description>
+      <category>Finance</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Paris</job:location>
+      <job:company>P1 Security</job:company>
+    </item>
     <item>
       <title>(Senior) Talent Agent (all genders)</title>
       <link>https://www.arbeitnow.com/jobs/companies/representing-artists-gmbh/senior-talent-agent-all-genders-berlin-151891</link>
@@ -569,42 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Mozilla</job:company>
-    </item>
-    <item>
-      <title>Senior User Acquisition Manager, Paid Social Ads</title>
-      <link>https://jobicy.com/jobs/156150-senior-user-acquisition-manager-paid-social-ads</link>
-      <guid isPermaLink="false">427302</guid>
-      <pubDate>Wed, 21 Oct 2026 13:22:42 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Ruby Labs</job:company>
-    </item>
-    <item>
-      <title>Director, Text-to-Speech Synthesis Research</title>
-      <link>https://jobicy.com/jobs/156157-director-text-to-speech-synthesis-research</link>
-      <guid isPermaLink="false">427303</guid>
-      <pubDate>Wed, 21 Oct 2026 13:22:42 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Deepgram</job:company>
-    </item>
-    <item>
-      <title>Commercial Account Executive, DACH</title>
-      <link>https://jobicy.com/jobs/156154-commercial-account-executive-dach</link>
-      <guid isPermaLink="false">427304</guid>
-      <pubDate>Wed, 21 Oct 2026 13:22:42 +0000</pubDate>
-      <description></description>
-      <category>Sales</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Algolia</job:company>
     </item>
   </channel>
 </rss>
