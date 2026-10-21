@@ -230906,5 +230906,31 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 425587,
+    "created_at": "2026-10-21 09:15:22",
+    "source": "arbeitnow",
+    "title": "IT-Leitung (m/w/d) für unsere Klinikkunden",
+    "company": "Actura Partners GmbH",
+    "location": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/actura-partners-gmbh/it-leitung-fur-unsere-klinikkunden-berlin-324854",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Management",
+      "Team Leader"
+    ],
+    "remote": true,
+    "description": "<p>Du übernimmst die IT-Leitung bei einem unserer Klinikkunden und gestaltest sie langfristig. Vom ersten Tag an, mit voller Verantwortung.</p><p>Actura übernimmt operative Führungsfunktionen in Krankenhäusern und Reha-Kliniken. Unser Anspruch: Umsetzung statt Beratung. Dafür suchen wir erfahrene IT-Führungskräfte, die bei unseren Kunden die IT-Leitung übernehmen und dauerhaft Teil der Klinik werden.</p><p>Der Einstieg erfolgt oft in einer besonderen Lage: eine unbesetzte IT-Leitung, die Neuaufstellung nach einem Cyberangriff, die Vorbereitung auf NIS2- und KRITIS-Prüfungen, ein KIS-Wechsel oder die Integration nach einem Trägerwechsel. Du schaffst Klarheit, führst das Team und baust eine IT auf, die dauerhaft trägt.</p><h2>Dein Job: Führen, wo es zählt.</h2><ul><li><p>Du übernimmst als IT-Leitung die Verantwortung für IT-Betrieb, Team, Budget und Dienstleister beim Kunden</p></li><li><p>Du verschaffst Dir in den ersten Wochen ein klares Lagebild und entwickelst mit der Geschäftsführung eine IT-Strategie mit belastbarem Maßnahmenplan</p></li><li><p>Du führst und entwickelst das interne IT-Team, steuerst externe Partner und ordnest Verträge und Leistungen neu, wo es nötig ist</p></li><li><p>Du verantwortest Informationssicherheit und Compliance: ISMS, NIS2, KRITIS und B3S, Meldewesen, Datenschutz und Prüfungen</p></li><li><p>Du treibst die großen Themen: KIS-Wechsel, Rechenzentrums- und Cloudmigration, Telematikinfrastruktur, Digitalisierung und KHZG</p></li><li><p>Du berichtest an Geschäftsführung und Gremien und arbeitest eng mit Betriebsrat, Datenschutz und den klinischen Bereichen zusammen</p></li><li><p>Du baust Strukturen, Prozesse und Dokumentation so auf, dass die IT dauerhaft stabil und prüfungssicher läuft</p></li></ul><h2>Dein Profil: Erfahrung, Haltung, Führung.</h2><ul><li><p>Du hast mehrjährige Führungserfahrung als IT-Leiter oder in vergleichbarer Verantwortung, idealerweise im Krankenhaus oder Gesundheitswesen</p></li><li><p>Du bringst breites IT-Fach",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
