@@ -232859,5 +232859,55 @@
     "id_city": null,
     "job_type": "contract",
     "is_foreign": true
+  },
+  {
+    "id": 427932,
+    "created_at": "2026-10-21 14:55:39",
+    "source": "arbeitnow",
+    "title": "Werkstudent:in (m/w/d) Chat-Beratung | Abends + Samstag | 100% Remote | Tierversicherung-Startup",
+    "company": "LWB Group",
+    "location": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/lwb-group/werkstudentin-chat-beratung-abends-samstag-100-remote-tierversicherung-startup-berlin-263644",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Customer Service"
+    ],
+    "remote": true,
+    "description": "<p>Du hast Bock, ein Startup in der spannenden Welt der <strong>digitalen Tierversicherungen</strong> mit aufzubauen? Du <strong>tippst schneller, als andere denken</strong>, hast <strong>selbst ein Tier</strong> und willst neben dem Studium <strong>abends und am Samstag</strong> fest mitarbeiten? Dann bist du bei uns richtig!</p><p>Wir sind ein junges Unternehmen mit der Mission, den Tierversicherungsmarkt neu zu denken. Gegründet von Digital-Nerds und Marketing-Pros, kombinieren wir <strong>Technologie, Kreativität und Herz für Tiere</strong> – und suchen Werkstudent:innen, die unseren Chat am Abend und am Wochenende verlässlich in der Hand haben.</p><ul><li><p><strong>Wann: ab sofort</strong></p></li><li><p><strong>Wo: 100% remote im Home Office</strong></p></li><li><p><strong>Wie viel: 20 Stunden pro Woche an 4 oder 5 Tagen</strong></p></li><li><p><strong>Wann genau: Montag bis Freitag abends zwischen 17 und 22 Uhr – und jeden Samstag 7 Stunden (zwischen 7 und 22 Uhr, Beginn nach Absprache)</strong></p></li></ul><p>Zum Beispiel: Samstag 7 h + 3 Abende (1 × 17–22 Uhr, 2 × 18–22 Uhr) – oder Samstag 7 h + 4 kürzere Abende.</p><h2>Aufgaben</h2><ul><li><p><strong>Beratung zu Tierversicherungen im Chat</strong> – per WhatsApp und Live-Chat, mit unserer Unterstützung und der unserer hauseigenen KI. Keine Kaltakquise – du schreibst mit Menschen, die bereits Interesse an einer Versicherung für ihr Tier haben, und beantwortest ihre Fragen zu unseren Tarifen.</p></li><li><p><strong>Viele Gespräche parallel</strong> – du hältst mehrere Chats gleichzeitig am Laufen und sorgst dafür, dass niemand lange auf eine Antwort wartet.</p></li><li><p><strong>HubSpot im Griff</strong> – du wirst zum Profi in unserem CRM- und Sales-Tool und nutzt es, um Kundendaten, Anfragen und Deals effizient zu managen.</p></li><li><p><strong>Kundenbeziehungen pflegen</strong> – Freundlichkeit und Verlässlichkeit stehen bei uns an erster Stelle. Du begleitest Interessenten und Kunden auf Augenhöhe un",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 428054,
+    "created_at": "2026-10-21 14:55:39",
+    "source": "arbeitnow",
+    "title": "1186 | Senior Data Architect (French-speaking)",
+    "company": "Intetics 2",
+    "location": "France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/intetics-2/remote-1186-senior-data-architect-french-speaking-france-176800",
+    "salary": "",
+    "tags": [
+      "Information Technology and Services",
+      "Remote"
+    ],
+    "remote": true,
+    "description": "<p>Intetics Inc., a leading American technology company specializing in custom software application development, distributed professional teams creation, software product quality assessment, and “all-things-digital” solutions, is on the lookout for a&nbsp;<strong>Senior Data Architect (French-speaking) </strong>to join our team and provide exceptional customer support.</p><p><strong>Responsibilities</strong></p><ul><li>Conduct the initial assessment of the current data architecture and define a scalable target-state architecture.</li><li>Design an architecture that supports the integration of new subsidiaries as the business expands.</li><li>Develop architectural solutions to eliminate the existing single point of failure.</li><li>Establish and improve data quality standards and data modeling practices.</li><li>Evaluate cloud, on-premises, and hybrid approaches and recommend an appropriate architecture.</li><li>Design data warehousing and data platform solutions within Microsoft SQL Server-based environments.</li><li>Support data governance initiatives from an architectural perspective.</li><li>Define and support REST API-based integrations.</li><li>Support implementation and testing during the delivery phase.</li></ul><p><strong>Requirements</strong></p><ul><li>Senior-level experience in Data Architecture.</li><li>Proven ability to assess existing environments and define scalable target-state architectures.</li><li>Strong background in Data Warehousing and Data Platform Design.</li><li>Hands-on experience with Microsoft SQL Server.</li><li>Experience designing and integrating REST APIs.</li><li>Experience assessing and designing cloud, on-premises, and hybrid architectures.</li><li>Deep knowledge of Data Quality management and Data Modeling.</li><li>Solid understanding of Data Governance foundations.</li><li>Experience supporting architecture implementation and testing.</li><li>French level: C1 (Advanced) or higher.</li><li>English level: B1 (Intermediate) or highe",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
