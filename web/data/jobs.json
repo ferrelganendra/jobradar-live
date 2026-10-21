@@ -144163,30 +144163,6 @@
     "is_foreign": true
   },
   {
-    "id": 237021,
-    "created_at": "2026-09-21 12:45:31",
-    "source": "arbeitnow",
-    "title": "Senior Google Ads Specialist | E-commerce | London Hybrid (1 Day/Week) | ASAP",
-    "company": "EnnovationHUB",
-    "location": "London, Greater London, United Kingdom",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/ennovationhub/senior-google-ads-specialist-e-commerce-london-hybrid-1-day-week-asap-250057",
-    "salary": "",
-    "tags": [
-      "Marketing"
-    ],
-    "remote": false,
-    "description": "<p style=\"text-align:justify;\"><span style=\"color:#000000\">ennovationHUB is a fast-growing international e-commerce group operating in the home &amp; living category, with a strong focus on furniture. From our hubs in Belgrade, Barcelona, and London, we serve customers across the UK, North America, EU, and APAC.</span></p><p style=\"min-height: 1.7em;\"></p><p style=\"text-align:justify;\"><span style=\"color:#000000\">As we scale toward €160m+ annual revenue by 2027, we are looking for a Senior Google Ads Specialist to join us ASAP and take ownership of the Google Ads performance of one of our brands within our portfolio, with direct accountability for growth, efficiency, and profitability.</span></p><p style=\"text-align:justify;min-height: 1.7em;\"></p><p style=\"text-align:justify;\"><span style=\"color:#000000\">This is not a typical agency PPC role focused on managing a handful of campaigns. You will be working inside a multi-brand international e-commerce group with significant advertising budgets, multiple markets, and direct visibility into how your work impacts revenue and profitability.</span></p><p style=\"text-align:justify;min-height: 1.7em;\"></p><p style=\"text-align:justify;\"><span style=\"color:#000000\">Google Ads is a core part of our growth strategy. We operate across multiple countries and brands, creating both complexity and opportunity. We are looking for people who enjoy working with large datasets, finding performance opportunities, and continuously </span><span style=\"color:#121317\">improving results through testing, analysis, and execution.</span></p><p style=\"min-height: 1.7em;\"></p><p><span style=\"color:#121317\">You will work closely with our Head of Performance Marketing, creative team, and data specialists to ensure campaigns are not only performing well today but continue to scale efficiently as the business grows. You will take hands-on responsibility for Google Ads across international markets, managing £250,000+ in monthly spend.</span></p><p styl",
-    "requirements": "",
-    "benefits": "",
-    "is_it": true,
-    "role": "IT",
-    "industry": "Sales",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 237147,
     "created_at": "2026-09-21 12:45:31",
     "source": "remoteok",
@@ -230410,6 +230386,104 @@
     "remote_ok": true,
     "id_city": null,
     "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 422831,
+    "created_at": "2026-10-21 04:05:24",
+    "source": "arbeitnow",
+    "title": "Senior Talent Acquisition Manager - Commercial (f/m/d)",
+    "company": "Cosuno",
+    "location": "Berlin/Remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-talent-acquisition-manager-commercial-berlin-216740",
+    "salary": "",
+    "tags": [
+      "Talent Acquisition"
+    ],
+    "remote": false,
+    "description": "<h2><strong>About Cosuno</strong></h2><p style=\"min-height:1.5em\">Construction is a €14 trillion industry that still runs on email, spreadsheets and scanned PDFs. Cosuno is replacing that with AI. General contractors tender their projects on our platform to more than 250,000 subcontractors, and our agentic AI matches the right firms, flags anomalies in bids and benchmarks every price against 6.5 million data points from over €136 billion in processed bid volume. Every tender makes the AI smarter. The results are measurable: general contractors cut costs by around 6 %, subcontractors win 22 % more volume, and every new general contractor customer this year has chosen our AI product. Founded in Berlin in 2019 and backed by Cherry Ventures and Spark Capital with over €40 million raised, we are now scaling Sales, Customer Success and Marketing with that capital. That is where you come in.<br /></p><h2><strong>Your mission</strong></h2><p style=\"min-height:1.5em\">As our Senior Talent Acquisition Manager – Commercial, you make sure every seat in Sales, Customer Success and Marketing goes to someone exceptional. You report to Fritz Cramer, Co-CEO, and work closely with our VP Sales, Head of SC Sales, Head of Customer Success and Marketing Lead. That means real ownership: you shape <em>how</em> Cosuno hires, not just <em>who</em>.<br /></p><h2><strong>What you will achieve in your first 12 months</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">You hire 25 people across Account Executives, Customer Success and Inside Sales Managers, owning every process from intake to signed contract.</p></li><li><p style=\"min-height:1.5em\">You build warm pipelines before roles open, so we hire through sourcing and referrals instead of agencies.</p></li><li><p style=\"min-height:1.5em\">You turn every role into a clear scorecard and give hiring managers structured interviews they actually use.</p></li><li><p style=\"min-height:1.5em\">You relaunch our referral programme",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 422832,
+    "created_at": "2026-10-21 04:05:24",
+    "source": "arbeitnow",
+    "title": "Platform Engineer (f/m/d)",
+    "company": "Spread Group",
+    "location": "Remote job",
+    "url": "https://www.arbeitnow.com/jobs/companies/spread-group/remote-platform-engineer-berlin-8213",
+    "salary": "",
+    "tags": [
+      "Tech",
+      "Remote"
+    ],
+    "remote": true,
+    "description": "<h3><strong>Who We Are</strong></h3><p>Spread Group is a renowned global provider of customized apparel and lifestyle products, distinguished by our commitment to made-to-order technology. Our core business model revolves around producing precisely what our customers desire, precisely when they desire it. As pioneers in this space, we combine sustainability with on-demand personalization, enabling individuals and businesses to express their unique identities through bespoke creations. Join us to be part of a global leader in the exciting world of personalized apparel and lifestyle products!</p><p>As we continue to expand our business, we are seeking a curious and passionate individual to join our team as the&nbsp;<span style=\"color:#172B4D\">Platform Engineer </span>(f/m/d)&nbsp;and drive our business forward.&nbsp;</p><p style=\"min-height: 1.7em;\"></p><h3><strong>What Will Your Role Be</strong></h3><p class=\"MsoNormal\">In the Platform Engineering team, you will build the next generation of the internal developer platform behind Spread Group's core services - a cloud-native platform on AWS, designed from the ground up. We see our platform as a product and our developers as our customers.</p><p class=\"MsoNormal\">This is a greenfield build with real design freedom: you shape the architecture, the golden paths and the self-service capabilities - not just keep existing systems running. Your platform will serve roughly 175 services from 13 product teams in our European and North American regions. Today they run on more than a dozen Kubernetes clusters with around 280 nodes and 4,000 running pods - migrating them step by step onto the new platform while everything keeps running is a core part of the mission.</p><p style=\"min-height: 1.7em;\"></p><h3><strong>What You´ll Do&nbsp;</strong></h3><ul><li><p class=\"MsoListParagraph\">Build the next-generation cloud-native platform on AWS - you own the architecture and design decisions from day one</p></li><li><p class=\"MsoListParag",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Teknologi",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 422923,
+    "created_at": "2026-10-21 04:05:24",
+    "source": "arbeitnow",
+    "title": "Senior Google Ads Specialist | E-commerce | London Hybrid (1 Day/Week) | ASAP",
+    "company": "EnnovationHUB",
+    "location": "London, Greater London, United Kingdom",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/ennovationhub/senior-google-ads-specialist-e-commerce-london-hybrid-1-day-week-asap-134438",
+    "salary": "",
+    "tags": [
+      "Marketing"
+    ],
+    "remote": false,
+    "description": "<p><span style=\"color:#121317\">ennovationHUB is an international e-commerce group growing rapidly within the home &amp; living sector, specialising in furniture. Operating from hubs in Belgrade, Barcelona, and London, we reach customers across the UK, North America, the EU, and APAC.</span></p><p style=\"min-height: 1.7em;\"></p><p><span style=\"color:#121317\">With our sights set on €160m+ in annual revenue by 2027, we are hiring a Senior Google Ads Specialist to lead Google Ads performance for one of our portfolio brands. You will be directly accountable for driving growth, improving advertising efficiency, and increasing profitability.</span></p><p style=\"min-height: 1.7em;\"></p><p><span style=\"color:#121317\">We are looking to fill this position urgently, with an immediate start available. This London-based role offers a hybrid arrangement, with one day each week at our office near High Street Kensington tube station and the rest of the week working remotely.</span></p><p style=\"min-height: 1.7em;\"></p><p><span style=\"color:#121317\">About the Role:</span></p><p><span style=\"color:#121317\">You will become part of an international e-commerce group managing multiple brands, where Google Ads is an established driver of growth. Working with substantial budgets across several markets, you will see a direct connection between your decisions, revenue, and business performance.</span></p><p style=\"min-height: 1.7em;\"></p><p><span style=\"color:#121317\">Your contribution will extend beyond managing campaigns. You will explore large datasets, understand the factors behind performance, and identify opportunities that you can put into practice through testing, optimisation, and hands-on execution.</span></p><p style=\"min-height: 1.7em;\"></p><p><span style=\"color:#121317\">In collaboration with our Head of Performance Marketing, creative team, and data specialists, you will oversee £250,000+ in monthly advertising spend across international markets. Your goal will be to achieve stro",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "IT",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 423048,
+    "created_at": "2026-10-21 04:05:24",
+    "source": "arbeitnow",
+    "title": "Senior Google Ads Specialist | International E-commerce | Remote ASAP",
+    "company": "EnnovationHUB",
+    "location": "Remote job",
+    "url": "https://www.arbeitnow.nl/jobs/companies/ennovationhub/senior-google-ads-specialist-international-e-commerce-remote-asap-290385",
+    "salary": "",
+    "tags": [
+      "Marketing",
+      "Remote"
+    ],
+    "remote": true,
+    "description": "<p><span style=\"color:#121317\">ennovationHUB is a rapidly growing international e-commerce group operating in the home &amp; living category, with a strong focus on furniture. From our hubs in Belgrade, Barcelona, and London, we serve customers across the UK, North America, EU, and APAC.</span></p><p style=\"min-height: 1.7em;\"></p><p><span style=\"color:#121317\">As we work toward €160m+ annual revenue by 2027, we are looking for a Senior Google Ads Specialist to join us ASAP and take ownership of Google Ads performance for one of our portfolio brands, with direct accountability for growth, efficiency, and profitability.</span></p><p style=\"min-height: 1.7em;\"></p><p><span style=\"color:#121317\">This is not a typical agency PPC role focused on managing a handful of campaigns. You will join a multi-brand international e-commerce group with significant advertising budgets, multiple markets, and a clear view of how your work influences revenue and profitability.</span></p><p style=\"min-height: 1.7em;\"></p><p><span style=\"color:#121317\">Google Ads is central to our growth strategy. Working across multiple countries and brands brings both complexity and opportunity. We are looking for people who enjoy working with large datasets, identifying performance opportunities, and consistently improving results through testing, analysis, and execution.</span></p><p style=\"min-height: 1.7em;\"></p><p><span style=\"color:#121317\">You will collaborate closely with our Head of Performance Marketing, creative team, and data specialists to ensure campaigns perform well today and continue to scale efficiently as the business grows.</span></p><p style=\"min-height: 1.7em;\"></p><ul><li><p><span style=\"color:#121317\">Take ownership of Google Ads performance for one e-commerce brand across multiple international markets</span></p></li><li><p><span style=\"color:#121317\">Manage and optimise Google Ads campaigns across Search, Shopping, Performance Max, and other relevant campaign types</span></p></",
+    "requirements": "",
+    "benefits": "",
+    "is_it": true,
+    "role": "IT",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "intern",
     "is_foreign": true
   }
 ]
