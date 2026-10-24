@@ -239773,31 +239773,6 @@
     "is_foreign": true
   },
   {
-    "id": 433715,
-    "created_at": "2026-10-24 03:53:49",
-    "source": "arbeitnow",
-    "title": "SEO & Digital Marketing Specialist",
-    "company": "Pavago",
-    "location": "Netherlands",
-    "url": "https://www.arbeitnow.nl/jobs/companies/pavago/remote-seo-digital-marketing-specialist-netherlands-5151",
-    "salary": "",
-    "tags": [
-      "Staffing and Recruiting",
-      "Remote"
-    ],
-    "remote": true,
-    "description": "<h2><strong>SEO &amp; Digital Marketing Specialist – Technical SEO, Google Ads &amp; Lead Generation | Remote</strong></h2><p><strong>Position Type:</strong> Full-Time, Remote<br> <strong>Working Hours:</strong> U.S. Business Hours<br> <strong>Experience Level:</strong> Mid-Level to Senior<br> <strong>Department:</strong> Digital Marketing / Growth Marketing</p><h2><strong>About the Role</strong></h2><p>At Pavago, one of our clients is hiring an experienced <strong>SEO &amp; Digital Marketing Specialist</strong> to develop, execute, and optimize digital marketing strategies that increase organic traffic, improve search rankings, generate qualified leads, and drive measurable business growth.</p><p>The ideal candidate has strong expertise in <strong>technical SEO, Google Ads, paid social advertising, content optimization, marketing analytics, and automation</strong>. This is a hands-on role requiring someone who can independently manage campaigns, identify growth opportunities, and turn marketing data into actionable strategies.</p><p>You’ll take ownership of organic search performance, paid advertising, website optimization, and lead generation while exploring emerging opportunities in <strong>AI-powered search optimization (AEO/GEO)</strong>.</p><h2><strong>Key Responsibilities</strong></h2><h3><strong>SEO Strategy &amp; Optimization</strong></h3><ul><li>Develop and execute SEO strategies to improve organic visibility, keyword rankings, and website traffic.</li><li>Conduct keyword research, competitor analysis, and search intent analysis.</li><li>Perform technical SEO audits, addressing indexing, crawling, site architecture, page speed, and mobile performance.</li><li>Optimize meta titles, descriptions, headings, internal linking, URLs, and structured data.</li><li>Execute ethical link-building strategies and monitor search algorithm updates.</li><li>Optimize content for traditional search engines and AI-powered search experiences (AEO/GEO).</li></ul><h3><strong>Pa",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
-    "industry": "Marketing",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 433752,
     "created_at": "2026-10-24 03:53:49",
     "source": "remoteok",
@@ -240017,6 +239992,31 @@
     "is_it": false,
     "role": "other",
     "industry": "Lainnya",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 433953,
+    "created_at": "2026-10-24 04:25:04",
+    "source": "arbeitnow",
+    "title": "SEO & Digital Marketing Specialist",
+    "company": "Pavago",
+    "location": "France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/pavago/remote-seo-digital-marketing-specialist-france-101137",
+    "salary": "",
+    "tags": [
+      "Staffing and Recruiting",
+      "Remote"
+    ],
+    "remote": true,
+    "description": "<h2><strong>SEO &amp; Digital Marketing Specialist – Technical SEO, Google Ads &amp; Lead Generation | Remote</strong></h2><p><strong>Position Type:</strong> Full-Time, Remote<br> <strong>Working Hours:</strong> U.S. Business Hours<br> <strong>Experience Level:</strong> Mid-Level to Senior<br> <strong>Department:</strong> Digital Marketing / Growth Marketing</p><h2><strong>About the Role</strong></h2><p>At Pavago, one of our clients is hiring an experienced <strong>SEO &amp; Digital Marketing Specialist</strong> to develop, execute, and optimize digital marketing strategies that increase organic traffic, improve search rankings, generate qualified leads, and drive measurable business growth.</p><p>The ideal candidate has strong expertise in <strong>technical SEO, Google Ads, paid social advertising, content optimization, marketing analytics, and automation</strong>. This is a hands-on role requiring someone who can independently manage campaigns, identify growth opportunities, and turn marketing data into actionable strategies.</p><p>You’ll take ownership of organic search performance, paid advertising, website optimization, and lead generation while exploring emerging opportunities in <strong>AI-powered search optimization (AEO/GEO)</strong>.</p><h2><strong>Key Responsibilities</strong></h2><h3><strong>SEO Strategy &amp; Optimization</strong></h3><ul><li>Develop and execute SEO strategies to improve organic visibility, keyword rankings, and website traffic.</li><li>Conduct keyword research, competitor analysis, and search intent analysis.</li><li>Perform technical SEO audits, addressing indexing, crawling, site architecture, page speed, and mobile performance.</li><li>Optimize meta titles, descriptions, headings, internal linking, URLs, and structured data.</li><li>Execute ethical link-building strategies and monitor search algorithm updates.</li><li>Optimize content for traditional search engines and AI-powered search experiences (AEO/GEO).</li></ul><h3><strong>Pa",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Marketing",
     "remote_ok": true,
     "id_city": null,
     "job_type": "full",
