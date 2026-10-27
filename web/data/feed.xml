@@ -5,12 +5,36 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Tue, 27 Oct 2026 14:25:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 14:56:05 +0000</lastBuildDate>
+    <item>
+      <title>Werkstudent/in UX/UI Design (15-20 Std./Woche - 100% Remote)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/blicksolutions-gmbh/werkstudent-in-ux-ui-design-15-20-std-woche-100-remote-berlin-243797</link>
+      <guid isPermaLink="false">448515</guid>
+      <pubDate>Tue, 27 Oct 2026 14:56:04 +0000</pubDate>
+      <description>&lt;p&gt;Du hast schon mehr als ein paar Figma-Tutorials hinter dir, kommunizierst klar und nutzt KI selbstverständlich in deinem Designalltag? Dann steig ein bei BlickSolutions, einer Shopify-Agentur, die E-Commerce neu denkt. Wir gestalten nicht einfach Interfaces, wir kreieren. Und wir suchen dich, um spannende Shopify- und App-Projekte auf das nächste Level zu bringen.&lt;/p&gt;&lt;h2&gt;Deine Aufgaben&lt;/h2&gt;&lt;ul&gt;</description>
+      <category>HR</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Berlin</job:location>
+      <job:company>BlickSolutions GmbH</job:company>
+    </item>
+    <item>
+      <title>VP Sales (f/md/)</title>
+      <link>https://www.arbeitnow.com/jobs/companies/clariness-gmbh/vp-sales-f-md-berlin-68736</link>
+      <guid isPermaLink="false">448519</guid>
+      <pubDate>Tue, 27 Oct 2026 14:56:04 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Clariness is looking for a VP Sales (f/md/) based in US.&lt;br&gt;- Full-time; unlimited -&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;About the role:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Clariness helps patients access clinical trials faster through our ClinLife® platform, active in 50+ countries. In this role, you will turn expertise into real-world impact, connecting patients with studies and accelerating medical breakthroughs. Mak</description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Berlin</job:location>
+      <job:company>Clariness GmbH</job:company>
+    </item>
     <item>
       <title>Account Executive Enterprise</title>
-      <link>https://www.arbeitnow.fr/jobs/companies/livestorm/remote-account-executive-enterprise-paris-141352</link>
-      <guid isPermaLink="false">448373</guid>
-      <pubDate>Tue, 27 Oct 2026 14:25:04 +0000</pubDate>
+      <link>https://www.arbeitnow.fr/jobs/companies/livestorm/remote-account-executive-enterprise-paris-179157</link>
+      <guid isPermaLink="false">448662</guid>
+      <pubDate>Tue, 27 Oct 2026 14:56:04 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;ABOUT LIVESTORM&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Livestorm is the world's leading end-to-end video engagement platform. Founded in 2016, Livestorm allows companies to organize powerful online meetings, webinars and virtual events from end-to-end. Our web-browser platform provides teams with all the workflows around video engagement to promote, host and analyze online events. Livestorm is built with ease </description>
       <category>Sales</category>
       <job:remote>true</job:remote>
@@ -20,21 +44,21 @@
     </item>
     <item>
       <title>Analyst, Investor Relations &amp; Marketing</title>
-      <link>https://www.arbeitnow.ch/jobs/companies/re7-capital/remote-analyst-investor-relations-marketing-switzerland-434020</link>
-      <guid isPermaLink="false">448408</guid>
-      <pubDate>Tue, 27 Oct 2026 14:25:04 +0000</pubDate>
+      <link>https://www.arbeitnow.fr/jobs/companies/re7-capital/remote-analyst-investor-relations-marketing-france-365338</link>
+      <guid isPermaLink="false">448670</guid>
+      <pubDate>Tue, 27 Oct 2026 14:56:04 +0000</pubDate>
       <description>&lt;p&gt;Remote-First | Working hours: UK or CET time zone | Full-time&lt;/p&gt;&lt;h3&gt;The role&lt;/h3&gt;&lt;p&gt;Reporting directly to the Head of Investor Relations, you will support how Re7 is positioned with institutional allocators and the wider market. This includes helping to prepare and maintain investor materials and marketing content, and contributing to the firm’s media presence. The role offers broad exposure t</description>
       <category>Sales</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
-      <job:location>Switzerland</job:location>
+      <job:location>France</job:location>
       <job:company>Re7 Capital</job:company>
     </item>
     <item>
       <title>Senior Android Developer (Remote)</title>
-      <link>https://www.arbeitnow.nl/jobs/companies/finom/senior-android-developer-remote-netherlands-427639</link>
-      <guid isPermaLink="false">448477</guid>
-      <pubDate>Tue, 27 Oct 2026 14:25:04 +0000</pubDate>
+      <link>https://www.arbeitnow.nl/jobs/companies/finom/senior-android-developer-remote-netherlands-66785</link>
+      <guid isPermaLink="false">448768</guid>
+      <pubDate>Tue, 27 Oct 2026 14:56:04 +0000</pubDate>
       <description>&lt;div&gt;&lt;strong style="font-size: 16px;"&gt;About Finom&lt;/strong&gt;&lt;/div&gt; &lt;div&gt; &lt;/div&gt; &lt;div&gt;Finom is a European tech startup headquartered in Amsterdam, and we’re on a journey towards revolutionizing the financial landscape for entrepreneurs worldwide. Our mission is to develop an all-in-one financial B2B solution that integrates banking functions, accounting, financial management, and invoicing into a sea</description>
       <category>Teknologi</category>
       <job:remote>true</job:remote>
@@ -581,30 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Mozilla</job:company>
-    </item>
-    <item>
-      <title>Senior Performance Marketer (Full Remote - UK)</title>
-      <link>https://jobicy.com/jobs/157332-senior-performance-marketer-full-remote-uk-2</link>
-      <guid isPermaLink="false">447926</guid>
-      <pubDate>Tue, 27 Oct 2026 13:23:03 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>EverAI</job:company>
-    </item>
-    <item>
-      <title>Senior Affiliate Manager (Full Remote - Netherlands)</title>
-      <link>https://jobicy.com/jobs/157331-senior-affiliate-manager-full-remote-netherlands</link>
-      <guid isPermaLink="false">447927</guid>
-      <pubDate>Tue, 27 Oct 2026 13:23:03 +0000</pubDate>
-      <description></description>
-      <category>Lainnya</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>EverAI</job:company>
     </item>
   </channel>
 </rss>
