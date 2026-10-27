@@ -5,18 +5,30 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Tue, 27 Oct 2026 22:41:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 23:37:40 +0000</lastBuildDate>
     <item>
-      <title>SEO Specialist</title>
-      <link>https://www.arbeitnow.com/jobs/companies/transperfect/remote-seo-specialist-berlin-428615</link>
-      <guid isPermaLink="false">452191</guid>
-      <pubDate>Tue, 27 Oct 2026 22:41:16 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt; Ready to turn SEO into measurable business growth?&lt;/strong&gt;&lt;/p&gt;&lt;p style="text-align:start;min-height: 1.7em;"&gt;&lt;/p&gt;&lt;p style="text-align:start;"&gt;TransPerfect are looking for a strategic, data-driven SEO Specialist to support their digital department to help global brands expand into the German market. &lt;/p&gt; &lt;br&gt; &lt;p&gt;We're looking for a freelance expert to support businesses expanding into </description>
-      <category>Marketing</category>
+      <title>Manager: Compliance Advisory (and Data Protection)</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/griffin/manager-compliance-advisory-and-data-protection-london-435717</link>
+      <guid isPermaLink="false">452517</guid>
+      <pubDate>Tue, 27 Oct 2026 23:37:38 +0000</pubDate>
+      <description>&lt;h2&gt;&lt;strong&gt;About Griffin&lt;/strong&gt;&lt;/h2&gt;&lt;p style="min-height:1.5em"&gt;Hi, we’re Griffin. We’re a fully regulated UK bank that powers the accounts and payments offerings of product-led fintechs and platforms like Uber, Yonder, Prosper, and Sidekick. By doing the heavy lifting behind the scenes, our customers can focus on what they do best - delivering amazing customer experiences.&lt;/p&gt;&lt;p style="min-hei</description>
+      <category>Teknologi</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
-      <job:location>Remote job</job:location>
-      <job:company>TransPerfect</job:company>
+      <job:location>London or remote within the UK</job:location>
+      <job:company>Griffin</job:company>
+    </item>
+    <item>
+      <title>B2B Sponsorship Sales Executive</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/pmmalliance/remote-b2b-sponsorship-sales-executive-242742</link>
+      <guid isPermaLink="false">452529</guid>
+      <pubDate>Tue, 27 Oct 2026 23:37:38 +0000</pubDate>
+      <description>&lt;h2&gt;&lt;strong&gt;About The Alliance&lt;/strong&gt;&lt;/h2&gt;&lt;p style="min-height:1.5em"&gt;When it comes to building world-class professional communities, &lt;strong&gt;The Alliance&lt;/strong&gt; is leading the way. From Product Marketing and Sales Enablement to Product-Led Growth, AI, Customer Success, and CMOs, we're home to some of the most engaged and influential communities in the industry.&lt;/p&gt;&lt;p style="min-height:1.5em"&gt;</description>
+      <category>Sales</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Hybrid, or Fully Remote within the UK</job:location>
+      <job:company>Pmmalliance</job:company>
     </item>
     <item>
       <title>Senior Product Manager, Data Products</title>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Grafana Labs</job:company>
-    </item>
-    <item>
-      <title>Senior Machine Learning Manager, Borrowing</title>
-      <link>https://jobicy.com/jobs/157407-senior-machine-learning-manager-borrowing</link>
-      <guid isPermaLink="false">450185</guid>
-      <pubDate>Tue, 27 Oct 2026 17:31:01 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Monzo</job:company>
     </item>
   </channel>
 </rss>
