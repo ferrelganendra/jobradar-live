@@ -5,12 +5,24 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Tue, 27 Oct 2026 08:40:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 09:11:03 +0000</lastBuildDate>
+    <item>
+      <title>SAP Concur Consultant - Module Security</title>
+      <link>https://www.arbeitnow.com/jobs/companies/market-cloud/sap-concur-consultant-module-security-berlin-72072</link>
+      <guid isPermaLink="false">446808</guid>
+      <pubDate>Tue, 27 Oct 2026 09:11:02 +0000</pubDate>
+      <description>&lt;h2&gt;Your role at Market Cloud&lt;/h2&gt;&lt;p&gt;Market Cloud delivers IT services and consulting across the European Economic Area, supporting clients with specialized enterprise software expertise. This fixed-term contract role focuses entirely on SAP Concur Module Security, where you will manage, configure, and secure Concur environments for clients on a remote basis.&lt;/p&gt;&lt;h2&gt;What you will do&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;p</description>
+      <category>Finance</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Berlin</job:location>
+      <job:company>Market Cloud</job:company>
+    </item>
     <item>
       <title>Account Executive Enterprise</title>
-      <link>https://www.arbeitnow.fr/jobs/companies/livestorm/remote-account-executive-enterprise-paris-141352</link>
-      <guid isPermaLink="false">446651</guid>
-      <pubDate>Tue, 27 Oct 2026 08:40:04 +0000</pubDate>
+      <link>https://www.arbeitnow.fr/jobs/companies/livestorm/remote-account-executive-enterprise-paris-179157</link>
+      <guid isPermaLink="false">446932</guid>
+      <pubDate>Tue, 27 Oct 2026 09:11:02 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;ABOUT LIVESTORM&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Livestorm is the world's leading end-to-end video engagement platform. Founded in 2016, Livestorm allows companies to organize powerful online meetings, webinars and virtual events from end-to-end. Our web-browser platform provides teams with all the workflows around video engagement to promote, host and analyze online events. Livestorm is built with ease </description>
       <category>Sales</category>
       <job:remote>true</job:remote>
@@ -20,21 +32,21 @@
     </item>
     <item>
       <title>Analyst, Investor Relations &amp; Marketing</title>
-      <link>https://www.arbeitnow.ch/jobs/companies/re7-capital/remote-analyst-investor-relations-marketing-switzerland-434020</link>
-      <guid isPermaLink="false">446702</guid>
-      <pubDate>Tue, 27 Oct 2026 08:40:04 +0000</pubDate>
+      <link>https://www.arbeitnow.fr/jobs/companies/re7-capital/remote-analyst-investor-relations-marketing-france-365338</link>
+      <guid isPermaLink="false">446940</guid>
+      <pubDate>Tue, 27 Oct 2026 09:11:02 +0000</pubDate>
       <description>&lt;p&gt;Remote-First | Working hours: UK or CET time zone | Full-time&lt;/p&gt;&lt;h3&gt;The role&lt;/h3&gt;&lt;p&gt;Reporting directly to the Head of Investor Relations, you will support how Re7 is positioned with institutional allocators and the wider market. This includes helping to prepare and maintain investor materials and marketing content, and contributing to the firm’s media presence. The role offers broad exposure t</description>
       <category>Sales</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
-      <job:location>Switzerland</job:location>
+      <job:location>France</job:location>
       <job:company>Re7 Capital</job:company>
     </item>
     <item>
       <title>Senior Android Developer (Remote)</title>
-      <link>https://www.arbeitnow.nl/jobs/companies/finom/senior-android-developer-remote-netherlands-427639</link>
-      <guid isPermaLink="false">446772</guid>
-      <pubDate>Tue, 27 Oct 2026 08:40:04 +0000</pubDate>
+      <link>https://www.arbeitnow.nl/jobs/companies/finom/senior-android-developer-remote-netherlands-66785</link>
+      <guid isPermaLink="false">447053</guid>
+      <pubDate>Tue, 27 Oct 2026 09:11:02 +0000</pubDate>
       <description>&lt;div&gt;&lt;strong style="font-size: 16px;"&gt;About Finom&lt;/strong&gt;&lt;/div&gt; &lt;div&gt; &lt;/div&gt; &lt;div&gt;Finom is a European tech startup headquartered in Amsterdam, and we’re on a journey towards revolutionizing the financial landscape for entrepreneurs worldwide. Our mission is to develop an all-in-one financial B2B solution that integrates banking functions, accounting, financial management, and invoicing into a sea</description>
       <category>Teknologi</category>
       <job:remote>true</job:remote>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location>Remote</job:location>
       <job:company>Constructor</job:company>
-    </item>
-    <item>
-      <title>Senior Backend Engineer</title>
-      <link>https://www.arbeitnow.fr/jobs/companies/payflows/remote-senior-backend-engineer-paris-287438</link>
-      <guid isPermaLink="false">443516</guid>
-      <pubDate>Tue, 27 Oct 2026 02:59:57 +0000</pubDate>
-      <description>&lt;h4&gt;&lt;strong&gt;&lt;span style="color:#000000"&gt;About Payflows&lt;/span&gt;&lt;/strong&gt;&lt;/h4&gt;&lt;p&gt;&lt;span style="color:#000000"&gt;At Payflows, we build software that helps large companies manage and automate their payment workflows. It’s not the flashiest part of a business, but it’s one of the most critical: invoices, approvals, payments, and controls. When these things slow down, the whole company feels it.&lt;/span&gt;&lt;/p&gt;&lt;</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Remote job</job:location>
-      <job:company>Payflows</job:company>
     </item>
   </channel>
 </rss>
