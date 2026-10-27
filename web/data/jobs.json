@@ -251043,5 +251043,56 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 451607,
+    "created_at": "2026-10-27 20:55:23",
+    "source": "arbeitnow",
+    "title": "Marketing Lead - B2B Demand Generation & Growth (m/w/d) - Remote",
+    "company": "ZEP GmbH",
+    "location": "Berlin",
+    "url": "https://www.arbeitnow.com/jobs/companies/zep-gmbh/marketing-lead-b2b-demand-generation-growth-remote-berlin-88167",
+    "salary": "",
+    "tags": [
+      "Remote",
+      "Management",
+      "Team Leader"
+    ],
+    "remote": true,
+    "description": "<h2>Über uns</h2><p>ZEP ist eine cloudbasierte Software für Projektcontrolling – von der Projektzeiterfassung über Abwesenheitsverwaltung bis zur Abrechnung. Mehr als 3.000 Unternehmen, vor allem projektorientierte Dienstleister wie Beratungen, IT- und Engineering-Unternehmen, arbeiten bereits mit ZEP.</p><p>Seit unserer Gründung im Jahr 2000 sind wir inhabergeführt und kontinuierlich gewachsen. Jetzt wollen wir den nächsten Schritt gehen und noch mehr Unternehmen von ZEP überzeugen. Als Marketing Lead entwickelst du die passenden Ideen und Maßnahmen, um neue Kunden zu gewinnen und unser Wachstum aktiv voranzutreiben.</p><p>Du willst Marketing nicht nur umsetzen, sondern verantworten – mit klaren Pipeline-Zielen, eigenem Budget und einem Team, das du weiterentwickelst?</p><p>Als Marketing Lead bei ZEP übernimmst du die Ergebnisverantwortung für unser Marketing und die daraus entstehende Pipeline. Du führst das Marketingteam sowie unsere Agenturen und Dienstleister, steuerst das Marketingbudget und greifst aktiv ein, wenn Zahlen vom Plan abweichen.</p><p>Dabei arbeitest du eng mit Sales und der Geschäftsführung zusammen. Du verbindest strategisches Denken mit einer Hands-on-Mentalität dort, wo es darauf ankommt.</p><h2>Deine Aufgaben</h2><ul><li><p>Du verantwortest unsere Pipeline-Ziele und das Marketingbudget und steuerst aktiv gegen, wenn Zahlen abweichen.</p></li><li><p>Du entwickelst die Marketingstrategie gemeinsam mit der Geschäftsführung, schärfst Positionierung und Messaging für unsere B2B-Zielgruppen und leitest daraus Ziele und Prioritäten ab.</p></li><li><p>Du führst das Marketingteam, setzt Prioritäten und entwickelst die Teammitglieder fachlich und persönlich weiter.</p></li><li><p>Du steuerst und forderst unsere Agenturen und Dienstleister – insbesondere im Paid-Bereich (z. B. Google Ads, Paid Social) – mit klaren Zielen und Briefings und misst sie an ihren Ergebnissen.</p></li><li><p>Du baust Demand Generation über mehrere Kanäle auf, nicht nur über Pa",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 451637,
+    "created_at": "2026-10-27 20:55:23",
+    "source": "arbeitnow",
+    "title": "SEO Specialist",
+    "company": "TransPerfect",
+    "location": "Remote job",
+    "url": "https://www.arbeitnow.com/jobs/companies/transperfect/remote-seo-specialist-berlin-428615",
+    "salary": "",
+    "tags": [
+      "Project Management",
+      "Remote"
+    ],
+    "remote": true,
+    "description": "<p><strong>&nbsp;Ready to turn SEO into measurable business growth?</strong></p><p style=\"text-align:start;min-height: 1.7em;\"></p><p style=\"text-align:start;\">TransPerfect are looking for a strategic, data-driven SEO Specialist to support their digital department to help global brands expand into the German market. </p> <br> <p>We're looking for a freelance expert to support businesses expanding into German markets. You'll work on a range of SEO and digital visibility projects, helping brands improve their performance across both traditional search engines and emerging AI-powered platforms.</p><p style=\"min-height: 1.7em;\"></p><p><strong>Project types include:</strong></p><ul><li><p>Technical SEO Audits</p></li><li><p>LLM Visibility Audits</p></li><li><p>Core Web Vitals, Hreflang &amp; Canonical Reviews</p></li><li><p>Content Strategy &amp; Optimisation</p></li><li><p>Technical SEO Consulting</p></li><li><p>AI Prompt Development</p></li><li><p>Website Crawls &amp; SEO Analysis</p></li><li><p>Keyword research and optimisation</p></li></ul><p><strong>Ideal experience:</strong></p><ul><li><p>Native proficiency of German, fluent English</p></li><li><p>Strong technical and onpage SEO knowledge</p></li><li><p>Experience with international SEO and localisation</p></li><li><p>Familiarity with AI search, LLMs, and prompt engineering</p></li><li><p>Proficiency with SEO tools such as Screaming Frog, Google Search Console, Ahrefs, Semrush, or similar</p></li></ul><p style=\"min-height: 1.7em;\"></p><p>This is a flexible freelance opportunity with project-based assignments.</p><p style=\"min-height: 1.7em;\"></p><p>To apply, answer the required questions and give us an overview of how your experience matches what we are looking for as well as attaching your resume. Thank you, we can’t wait to find out more.</p><p style=\"min-height: 1.7em;\"></p><p>By applying, I confirm that I have read and accepted TransPerfect’s privacy policy: <a rel=\"noopener\" target=\"_blank\" href=\"https://www.t",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Marketing",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
