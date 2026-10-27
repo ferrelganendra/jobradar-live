@@ -5,30 +5,42 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Tue, 27 Oct 2026 06:05:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:36:08 +0000</lastBuildDate>
     <item>
       <title>Analyst, Investor Relations &amp; Marketing</title>
-      <link>https://www.arbeitnow.fr/jobs/companies/re7-capital/remote-analyst-investor-relations-marketing-france-365338</link>
-      <guid isPermaLink="false">445250</guid>
-      <pubDate>Tue, 27 Oct 2026 06:05:04 +0000</pubDate>
+      <link>https://www.arbeitnow.ch/jobs/companies/re7-capital/remote-analyst-investor-relations-marketing-switzerland-434020</link>
+      <guid isPermaLink="false">445574</guid>
+      <pubDate>Tue, 27 Oct 2026 06:36:06 +0000</pubDate>
       <description>&lt;p&gt;Remote-First | Working hours: UK or CET time zone | Full-time&lt;/p&gt;&lt;h3&gt;The role&lt;/h3&gt;&lt;p&gt;Reporting directly to the Head of Investor Relations, you will support how Re7 is positioned with institutional allocators and the wider market. This includes helping to prepare and maintain investor materials and marketing content, and contributing to the firm’s media presence. The role offers broad exposure t</description>
       <category>Sales</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
-      <job:location>France</job:location>
+      <job:location>Switzerland</job:location>
       <job:company>Re7 Capital</job:company>
     </item>
     <item>
       <title>Senior Android Developer (Remote)</title>
-      <link>https://www.arbeitnow.nl/jobs/companies/finom/senior-android-developer-remote-netherlands-66785</link>
-      <guid isPermaLink="false">445359</guid>
-      <pubDate>Tue, 27 Oct 2026 06:05:04 +0000</pubDate>
+      <link>https://www.arbeitnow.nl/jobs/companies/finom/senior-android-developer-remote-netherlands-427639</link>
+      <guid isPermaLink="false">445638</guid>
+      <pubDate>Tue, 27 Oct 2026 06:36:06 +0000</pubDate>
       <description>&lt;div&gt;&lt;strong style="font-size: 16px;"&gt;About Finom&lt;/strong&gt;&lt;/div&gt; &lt;div&gt; &lt;/div&gt; &lt;div&gt;Finom is a European tech startup headquartered in Amsterdam, and we’re on a journey towards revolutionizing the financial landscape for entrepreneurs worldwide. Our mission is to develop an all-in-one financial B2B solution that integrates banking functions, accounting, financial management, and invoicing into a sea</description>
       <category>Teknologi</category>
       <job:remote>true</job:remote>
       <job:salary></job:salary>
       <job:location>Netherlands</job:location>
       <job:company>Finom</job:company>
+    </item>
+    <item>
+      <title>Instructor, AI/Machine Learning, Simplilearn (Part time)</title>
+      <link>https://jobicy.com/jobs/151581-instructor-ai-machine-learning-simplilearn-part-time</link>
+      <guid isPermaLink="false">445659</guid>
+      <pubDate>Tue, 27 Oct 2026 06:36:06 +0000</pubDate>
+      <description></description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location></job:location>
+      <job:company>Fullstack Academy</job:company>
     </item>
     <item>
       <title>Customs AI Integration &amp; Automation Engineer (France)</title>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>DuckDuckGo</job:company>
-    </item>
-    <item>
-      <title>Staff Software Engineer (Android)</title>
-      <link>https://jobicy.com/jobs/157231-staff-software-engineer-android</link>
-      <guid isPermaLink="false">443678</guid>
-      <pubDate>Tue, 27 Oct 2026 02:59:57 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>TeamSnap</job:company>
     </item>
   </channel>
 </rss>
