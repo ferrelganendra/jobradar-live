@@ -5,7 +5,19 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Tue, 27 Oct 2026 21:37:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 22:41:18 +0000</lastBuildDate>
+    <item>
+      <title>SEO Specialist</title>
+      <link>https://www.arbeitnow.com/jobs/companies/transperfect/remote-seo-specialist-berlin-428615</link>
+      <guid isPermaLink="false">452191</guid>
+      <pubDate>Tue, 27 Oct 2026 22:41:16 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt; Ready to turn SEO into measurable business growth?&lt;/strong&gt;&lt;/p&gt;&lt;p style="text-align:start;min-height: 1.7em;"&gt;&lt;/p&gt;&lt;p style="text-align:start;"&gt;TransPerfect are looking for a strategic, data-driven SEO Specialist to support their digital department to help global brands expand into the German market. &lt;/p&gt; &lt;br&gt; &lt;p&gt;We're looking for a freelance expert to support businesses expanding into </description>
+      <category>Marketing</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote job</job:location>
+      <job:company>TransPerfect</job:company>
+    </item>
     <item>
       <title>Senior Product Manager, Data Products</title>
       <link>https://jobicy.com/jobs/157445-senior-product-manager-data-products</link>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Monzo</job:company>
-    </item>
-    <item>
-      <title>Senior Security GRC Engineer</title>
-      <link>https://jobicy.com/jobs/157406-senior-security-grc-engineer</link>
-      <guid isPermaLink="false">450186</guid>
-      <pubDate>Tue, 27 Oct 2026 17:31:01 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Mozilla</job:company>
     </item>
   </channel>
 </rss>
