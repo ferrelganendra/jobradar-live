@@ -245668,33 +245668,6 @@
     "is_foreign": true
   },
   {
-    "id": 443565,
-    "created_at": "2026-10-27 02:59:57",
-    "source": "arbeitnow",
-    "title": "Analyst, Investor Relations & Marketing",
-    "company": "Re7 Capital",
-    "location": "Switzerland",
-    "url": "https://www.arbeitnow.ch/jobs/companies/re7-capital/remote-analyst-investor-relations-marketing-switzerland-434020",
-    "salary": "",
-    "tags": [
-      "Marketing",
-      "Information Technology and Services",
-      "Capital",
-      "Remote"
-    ],
-    "remote": true,
-    "description": "<p>Remote-First | Working hours: UK or CET time zone | Full-time</p><h3>The role</h3><p>Reporting directly to the Head of Investor Relations, you will support how Re7 is positioned with institutional allocators and the wider market. This includes helping to prepare and maintain investor materials and marketing content, and contributing to the firm’s media presence. The role offers broad exposure to investor relations and marketing at an institutional DeFi investment firm.</p><h3>What you'll do</h3><p><strong>BD &amp; IR Support</strong></p><ul><li>Build and maintain targeted investor and partner lists for outreach</li><li>Keep the CRM and the data room up to date</li><li>Maintain fund performance, AUM and factsheets across hedge fund databases</li><li>Support preparation of DDQs, and maintain a library of standard responses</li></ul><p><strong>Marketing &amp; PR</strong></p><ul><li>Build and maintain relationships with crypto, financial and fund industry media for Re7 Capital and Re7 Labs</li><li>Track speaking opportunities, podcasts and award submissions on a rolling calendar</li><li>Log media coverage and appearances, and keep the website up to date</li><li>Contribute ideas to campaign and content planning</li><li>Schedule social media posts and track performance across X, LinkedIn and Telegram</li><li>Create branded visuals in Canva and lay out research papers and marketing materials</li><li>Support the production of newsletters, press releases and other written content</li><li>Shortlist venues, request quotes and coordinate logistics and branding for events</li></ul><p><strong>Requirements</strong></p><ul><li>At least 1 year of experience in a finance-related role (e.g. investment management, real estate, private markets, fintech or crypto)</li><li>A genuine interest in DeFi and digital asset markets</li><li>Excellent written English</li><li>Highly organised, with strong attention to detail and the ability to manage multiple deadlines</li><li>Good working knowl",
-    "requirements": "",
-    "benefits": "",
-    "is_it": false,
-    "role": "other",
-    "industry": "Sales",
-    "remote_ok": true,
-    "id_city": null,
-    "job_type": "full",
-    "is_foreign": true
-  },
-  {
     "id": 443613,
     "created_at": "2026-10-27 02:59:57",
     "source": "arbeitnow",
@@ -246873,13 +246846,40 @@
     "is_foreign": true
   },
   {
-    "id": 443950,
-    "created_at": "2026-10-27 03:30:23",
+    "id": 444125,
+    "created_at": "2026-10-27 04:01:11",
+    "source": "arbeitnow",
+    "title": "Analyst, Investor Relations & Marketing",
+    "company": "Re7 Capital",
+    "location": "France",
+    "url": "https://www.arbeitnow.fr/jobs/companies/re7-capital/remote-analyst-investor-relations-marketing-france-365338",
+    "salary": "",
+    "tags": [
+      "Marketing",
+      "Information Technology and Services",
+      "Capital",
+      "Remote"
+    ],
+    "remote": true,
+    "description": "<p>Remote-First | Working hours: UK or CET time zone | Full-time</p><h3>The role</h3><p>Reporting directly to the Head of Investor Relations, you will support how Re7 is positioned with institutional allocators and the wider market. This includes helping to prepare and maintain investor materials and marketing content, and contributing to the firm’s media presence. The role offers broad exposure to investor relations and marketing at an institutional DeFi investment firm.</p><h3>What you'll do</h3><p><strong>BD &amp; IR Support</strong></p><ul><li>Build and maintain targeted investor and partner lists for outreach</li><li>Keep the CRM and the data room up to date</li><li>Maintain fund performance, AUM and factsheets across hedge fund databases</li><li>Support preparation of DDQs, and maintain a library of standard responses</li></ul><p><strong>Marketing &amp; PR</strong></p><ul><li>Build and maintain relationships with crypto, financial and fund industry media for Re7 Capital and Re7 Labs</li><li>Track speaking opportunities, podcasts and award submissions on a rolling calendar</li><li>Log media coverage and appearances, and keep the website up to date</li><li>Contribute ideas to campaign and content planning</li><li>Schedule social media posts and track performance across X, LinkedIn and Telegram</li><li>Create branded visuals in Canva and lay out research papers and marketing materials</li><li>Support the production of newsletters, press releases and other written content</li><li>Shortlist venues, request quotes and coordinate logistics and branding for events</li></ul><p><strong>Requirements</strong></p><ul><li>At least 1 year of experience in a finance-related role (e.g. investment management, real estate, private markets, fintech or crypto)</li><li>A genuine interest in DeFi and digital asset markets</li><li>Excellent written English</li><li>Highly organised, with strong attention to detail and the ability to manage multiple deadlines</li><li>Good working knowl",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 444229,
+    "created_at": "2026-10-27 04:01:11",
     "source": "arbeitnow",
     "title": "Senior Android Developer (Remote)",
     "company": "Finom",
     "location": "Netherlands",
-    "url": "https://www.arbeitnow.nl/jobs/companies/finom/senior-android-developer-remote-netherlands-427639",
+    "url": "https://www.arbeitnow.nl/jobs/companies/finom/senior-android-developer-remote-netherlands-66785",
     "salary": "",
     "tags": [
       "Android"
