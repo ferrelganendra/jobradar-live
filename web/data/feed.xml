@@ -5,7 +5,19 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Tue, 27 Oct 2026 02:59:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 03:30:24 +0000</lastBuildDate>
+    <item>
+      <title>Senior Android Developer (Remote)</title>
+      <link>https://www.arbeitnow.nl/jobs/companies/finom/senior-android-developer-remote-netherlands-427639</link>
+      <guid isPermaLink="false">443950</guid>
+      <pubDate>Tue, 27 Oct 2026 03:30:23 +0000</pubDate>
+      <description>&lt;div&gt;&lt;strong style="font-size: 16px;"&gt;About Finom&lt;/strong&gt;&lt;/div&gt; &lt;div&gt; &lt;/div&gt; &lt;div&gt;Finom is a European tech startup headquartered in Amsterdam, and we’re on a journey towards revolutionizing the financial landscape for entrepreneurs worldwide. Our mission is to develop an all-in-one financial B2B solution that integrates banking functions, accounting, financial management, and invoicing into a sea</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Netherlands</job:location>
+      <job:company>Finom</job:company>
+    </item>
     <item>
       <title>Technical Product Manager</title>
       <link>https://www.arbeitnow.com/jobs/companies/swarmaero/remote-technical-product-manager-132288</link>
@@ -281,18 +293,6 @@
       <job:salary></job:salary>
       <job:location>The Hague - hybrid</job:location>
       <job:company>Eye Security</job:company>
-    </item>
-    <item>
-      <title>Senior Android Developer (Remote)</title>
-      <link>https://www.arbeitnow.nl/jobs/companies/finom/senior-android-developer-remote-netherlands-66785</link>
-      <guid isPermaLink="false">443620</guid>
-      <pubDate>Tue, 27 Oct 2026 02:59:57 +0000</pubDate>
-      <description>&lt;div&gt;&lt;strong style="font-size: 16px;"&gt;About Finom&lt;/strong&gt;&lt;/div&gt; &lt;div&gt; &lt;/div&gt; &lt;div&gt;Finom is a European tech startup headquartered in Amsterdam, and we’re on a journey towards revolutionizing the financial landscape for entrepreneurs worldwide. Our mission is to develop an all-in-one financial B2B solution that integrates banking functions, accounting, financial management, and invoicing into a sea</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Netherlands</job:location>
-      <job:company>Finom</job:company>
     </item>
     <item>
       <title>Senior Software Engineer</title>
