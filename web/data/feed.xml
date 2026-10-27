@@ -5,7 +5,31 @@
     <link>https://jobradar.pages.dev/</link>
     <description>Loker Indonesia + remote terbaru dari JobRadar</description>
     <language>id</language>
-    <lastBuildDate>Tue, 27 Oct 2026 19:03:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 19:34:56 +0000</lastBuildDate>
+    <item>
+      <title>SEO Specialist</title>
+      <link>https://www.arbeitnow.com/jobs/companies/transperfect/remote-seo-specialist-berlin-428615</link>
+      <guid isPermaLink="false">451067</guid>
+      <pubDate>Tue, 27 Oct 2026 19:34:55 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt; Ready to turn SEO into measurable business growth?&lt;/strong&gt;&lt;/p&gt;&lt;p style="text-align:start;min-height: 1.7em;"&gt;&lt;/p&gt;&lt;p style="text-align:start;"&gt;TransPerfect are looking for a strategic, data-driven SEO Specialist to support their digital department to help global brands expand into the German market. &lt;/p&gt; &lt;br&gt; &lt;p&gt;We're looking for a freelance expert to support businesses expanding into </description>
+      <category>Marketing</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Remote job</job:location>
+      <job:company>TransPerfect</job:company>
+    </item>
+    <item>
+      <title>Senior Android Developer (Remote)</title>
+      <link>https://www.arbeitnow.nl/jobs/companies/finom/senior-android-developer-remote-netherlands-427639</link>
+      <guid isPermaLink="false">451311</guid>
+      <pubDate>Tue, 27 Oct 2026 19:34:55 +0000</pubDate>
+      <description>&lt;div&gt;&lt;strong style="font-size: 16px;"&gt;About Finom&lt;/strong&gt;&lt;/div&gt; &lt;div&gt; &lt;/div&gt; &lt;div&gt;Finom is a European tech startup headquartered in Amsterdam, and we’re on a journey towards revolutionizing the financial landscape for entrepreneurs worldwide. Our mission is to develop an all-in-one financial B2B solution that integrates banking functions, accounting, financial management, and invoicing into a sea</description>
+      <category>Teknologi</category>
+      <job:remote>true</job:remote>
+      <job:salary></job:salary>
+      <job:location>Netherlands</job:location>
+      <job:company>Finom</job:company>
+    </item>
     <item>
       <title>Freelancer Senior Mobile Engineer (React Native, Expo, TypeScript) m/w/d</title>
       <link>https://www.arbeitnow.com/jobs/companies/easybill-gmbh/freelancer-senior-mobile-engineer-react-native-expo-typescript-berlin-359332</link>
@@ -29,18 +53,6 @@
       <job:salary></job:salary>
       <job:location>Berlin</job:location>
       <job:company>Kizuna Personalberatung GmbH</job:company>
-    </item>
-    <item>
-      <title>Senior Android Developer (Remote)</title>
-      <link>https://www.arbeitnow.nl/jobs/companies/finom/senior-android-developer-remote-netherlands-66785</link>
-      <guid isPermaLink="false">451027</guid>
-      <pubDate>Tue, 27 Oct 2026 19:03:57 +0000</pubDate>
-      <description>&lt;div&gt;&lt;strong style="font-size: 16px;"&gt;About Finom&lt;/strong&gt;&lt;/div&gt; &lt;div&gt; &lt;/div&gt; &lt;div&gt;Finom is a European tech startup headquartered in Amsterdam, and we’re on a journey towards revolutionizing the financial landscape for entrepreneurs worldwide. Our mission is to develop an all-in-one financial B2B solution that integrates banking functions, accounting, financial management, and invoicing into a sea</description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location>Netherlands</job:location>
-      <job:company>Finom</job:company>
     </item>
     <item>
       <title>Senior ML Engineer (AI Research)</title>
@@ -593,18 +605,6 @@
       <job:salary></job:salary>
       <job:location></job:location>
       <job:company>Socket</job:company>
-    </item>
-    <item>
-      <title>Enterprise Solutions Engineer</title>
-      <link>https://jobicy.com/jobs/157390-enterprise-solutions-engineer-2</link>
-      <guid isPermaLink="false">449882</guid>
-      <pubDate>Tue, 27 Oct 2026 16:59:58 +0000</pubDate>
-      <description></description>
-      <category>Teknologi</category>
-      <job:remote>true</job:remote>
-      <job:salary></job:salary>
-      <job:location></job:location>
-      <job:company>Cresta</job:company>
     </item>
   </channel>
 </rss>
