@@ -251315,5 +251315,30 @@
     "id_city": null,
     "job_type": "full",
     "is_foreign": true
+  },
+  {
+    "id": 452755,
+    "created_at": "2026-10-28 01:12:22",
+    "source": "arbeitnow",
+    "title": "SEO Specialist",
+    "company": "TransPerfect",
+    "location": "Remote job",
+    "url": "https://www.arbeitnow.com/jobs/companies/transperfect/remote-seo-specialist-berlin-428615",
+    "salary": "",
+    "tags": [
+      "Project Management",
+      "Remote"
+    ],
+    "remote": true,
+    "description": "<p><strong>&nbsp;Ready to turn SEO into measurable business growth?</strong></p><p style=\"text-align:start;min-height: 1.7em;\"></p><p style=\"text-align:start;\">TransPerfect are looking for a strategic, data-driven SEO Specialist to support their digital department to help global brands expand into the German market. </p> <br> <p>We're looking for a freelance expert to support businesses expanding into German markets. You'll work on a range of SEO and digital visibility projects, helping brands improve their performance across both traditional search engines and emerging AI-powered platforms.</p><p style=\"min-height: 1.7em;\"></p><p><strong>Project types include:</strong></p><ul><li><p>Technical SEO Audits</p></li><li><p>LLM Visibility Audits</p></li><li><p>Core Web Vitals, Hreflang &amp; Canonical Reviews</p></li><li><p>Content Strategy &amp; Optimisation</p></li><li><p>Technical SEO Consulting</p></li><li><p>AI Prompt Development</p></li><li><p>Website Crawls &amp; SEO Analysis</p></li><li><p>Keyword research and optimisation</p></li></ul><p><strong>Ideal experience:</strong></p><ul><li><p>Native proficiency of German, fluent English</p></li><li><p>Strong technical and onpage SEO knowledge</p></li><li><p>Experience with international SEO and localisation</p></li><li><p>Familiarity with AI search, LLMs, and prompt engineering</p></li><li><p>Proficiency with SEO tools such as Screaming Frog, Google Search Console, Ahrefs, Semrush, or similar</p></li></ul><p style=\"min-height: 1.7em;\"></p><p>This is a flexible freelance opportunity with project-based assignments.</p><p style=\"min-height: 1.7em;\"></p><p>To apply, answer the required questions and give us an overview of how your experience matches what we are looking for as well as attaching your resume. Thank you, we can’t wait to find out more.</p><p style=\"min-height: 1.7em;\"></p><p>By applying, I confirm that I have read and accepted TransPerfect’s privacy policy: <a rel=\"noopener\" target=\"_blank\" href=\"https://www.t",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Marketing",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
   }
 ]
