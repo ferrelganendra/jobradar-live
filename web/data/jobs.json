@@ -251696,13 +251696,37 @@
     "is_foreign": true
   },
   {
-    "id": 457579,
-    "created_at": "2026-10-28 10:26:53",
+    "id": 457814,
+    "created_at": "2026-10-28 13:38:27",
+    "source": "arbeitnow",
+    "title": "Staff Product Designer - Design Core",
+    "company": "Hirehire",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-staff-product-designer-design-core-235393",
+    "salary": "",
+    "tags": [
+      "Product Design"
+    ],
+    "remote": true,
+    "description": "<p style=\"min-height:1.5em\"><strong>Role:</strong> Staff Product Designer, Core Platform<br /><strong>Company:</strong> Deel<br /><strong>Location:</strong> Remote<br /><strong>Job type:</strong> Full-time</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><h3>About Deel</h3><p style=\"min-height:1.5em\">Deel is the all-in-one payroll and HR platform for global teams, about 7,000 people, fully remote and pre-IPO. It is very AI-forward and moves at \"Deel speed\": ship fast, fix fast, keep iterating.</p><p style=\"min-height:1.5em\">Deel combines HRIS, payroll, compliance, benefits, performance and equipment management in one platform and supports every worker type in 150+ countries. The team spans more than 100 countries and speaks 74 languages.</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><h3>About the role</h3><p style=\"min-height:1.5em\">Core sits in Foundation, Deel's top design priority for the coming year. You will work on Home, which spans the whole platform, and on a new, broad initiative. You will set direction and work across the company.</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><h3>What you are expected to do</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Own design for Home and the new platform-wide initiative.</p></li><li><p style=\"min-height:1.5em\">Set direction rather than wait for it; move between Core areas as priorities change.</p></li><li><p style=\"min-height:1.5em\">Work with people across the org, from US sales to risk and compliance.</p></li><li><p style=\"min-height:1.5em\">Act as a key partner to PM and Engineering leads in defining the roadmap: what gets built, why and when.</p></li><li><p style=\"min-height:1.5em\">Connect multiple domains and keep the product experience coherent and consistent.</p></li><li><p style=\"min-height:1.5em\">Mentor Senior Designers and help with hiring: recruit from your network, interview and raise the bar.</p></li><li><p styl",
+    "requirements": "",
+    "benefits": "",
+    "is_it": false,
+    "role": "other",
+    "industry": "Sales",
+    "remote_ok": true,
+    "id_city": null,
+    "job_type": "full",
+    "is_foreign": true
+  },
+  {
+    "id": 457987,
+    "created_at": "2026-10-28 13:38:27",
     "source": "arbeitnow",
     "title": "Director, Product-Led Growth",
     "company": "remotewoman",
-    "location": "Remote • UK, Spain or France",
-    "url": "https://www.arbeitnow.com/jobs/companies/remotewoman/remote-director-product-led-growth-59513",
+    "location": "Remote • UK, Germany",
+    "url": "https://www.arbeitnow.fr/jobs/companies/remotewoman/remote-director-product-led-growth-345793",
     "salary": "",
     "tags": [
       "Marketing"
